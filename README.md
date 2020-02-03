@@ -1,4 +1,4 @@
-# intel-microprocessors
+# intel-processors
 
 **Datasets for All Manufactured Intel Processors**
 
