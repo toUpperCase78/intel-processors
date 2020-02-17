@@ -6,7 +6,7 @@
 
 Being enthusiast for data analysis, here's my another dataset project which is about **Intel processors**. Thanks to that, one can realize how processors have evolved within the last few decades, in terms of many criterions!
 
-This repository begins with the dataset that involves all processors from **Core** series Intel has ever manufactured until **January 2020**. I know this is not limited to just Core processors; thus, in the future, other types of processor families will be added here as individual datasets (such as Pentium, Xeon, Celeron).
+This repository contains the datasets that involve all processors from **Core**, **Pentium**, and **Celeron** series Intel has ever manufactured until **January 2020**. I know this is not limited to just these type of processors; thus, in the future, other types of processor families will be added here as individual datasets (such as Xeon, Itanium, Atom).
 
 _Hopefully, I'm going to perform data analysis over these processors and present them here._
 
