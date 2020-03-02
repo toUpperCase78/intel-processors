@@ -6,7 +6,7 @@
 
 Being enthusiast for data analysis, here's my another dataset project which is about **Intel processors**. Thanks to that, one can realize how processors have evolved within the last few decades, in terms of many criterions!
 
-This repository contains the datasets that involve all processors from **Core**, **Pentium**, **Celeron** and **Xeon** series Intel has ever manufactured until **January 2020**. I know this is not limited to just these type of processors; thus, in the future, other types of processor families will be added here as individual datasets (such as Itanium, Atom).
+This repository contains the datasets that involve all processors from **Core**, **Pentium**, **Celeron**, **Xeon** and **Itanium** series Intel has ever manufactured until **January 2020**. I know this is not limited to just these type of processors; thus, in the future, other types of processor families will be added here as individual datasets (such as Atom, Quark SoC).
 
 _Hopefully, I'm going to perform data analysis over these processors and present them here._
 
@@ -25,5 +25,7 @@ The 1st version of the dataset contains these features below:
 - `Cache (MB)`: The total cache capacity of the processor (in MB)
 - `Cache Info`: Additional info about the cache
 - `Integrated Graphics`: Shows the integrated graphic component used by the processor if exists
+
+### Future Plans
 
 **I'm aware that some other necessary features are missing in the dataset!** That's why in the next version (marked as v2), I'm going to include more features in order to make better analysis and get these processors more distinguishable from each other (e.g. # of threads, architecture name, litography, socket type, TDP)...
