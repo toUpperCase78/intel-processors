@@ -1,0 +1,38 @@
+Product,Status,Release Date,Cores,Max. Turbo Freq.(GHz),Base Freq.(GHz),Cache(MB),Cache Info,Integrated Graphics
+Itanium 9720,Launched,Q2'17,4,N/A,1.73,20,N/A,N/A
+Itanium 9740,Launched,Q2'17,8,N/A,2.13,24,N/A,N/A
+Itanium 9750,Launched,Q2'17,4,N/A,2.53,32,N/A,N/A
+Itanium 9760,Launched,Q2'17,8,N/A,2.66,32,N/A,N/A
+Itanium 9560,Launched,Q4'12,8,N/A,2.53,32,N/A,N/A
+Itanium 9550,Launched,Q4'12,4,N/A,2.40,32,N/A,N/A
+Itanium 9540,Launched,Q4'12,8,N/A,2.13,24,N/A,N/A
+Itanium 9520,Launched,Q4'12,4,N/A,1.73,20,N/A,N/A
+Itanium 9350,Discontinued,Q1'10,4,1.87,1.73,24,L3 Cache,N/A
+Itanium 9340,Discontinued,Q1'10,4,1.73,1.60,20,L3 Cache,N/A
+Itanium 9330,Discontinued,Q1'10,4,1.60,1.46,20,L3 Cache,N/A
+Itanium 9320,Discontinued,Q1'10,4,1.47,1.33,16,L3 Cache,N/A
+Itanium 9310,Discontinued,Q1'10,2,N/A,1.60,10,L3 Cache,N/A
+Itanium 9152M,Discontinued,Q4'07,2,N/A,1.66,24,L3 Cache,N/A
+Itanium 9150N,Discontinued,Q4'07,2,N/A,1.60,24,L3 Cache,N/A
+Itanium 9150M,Discontinued,Q4'07,2,N/A,1.66,24,L3 Cache,N/A
+Itanium 9140N,Discontinued,Q4'07,2,N/A,1.60,18,L3 Cache,N/A
+Itanium 9140M,Discontinued,Q4'07,2,N/A,1.66,18,L3 Cache,N/A
+Itanium 9130M,Discontinued,Q4'07,2,N/A,1.66,8,L3 Cache,N/A
+Itanium 9120N,Discontinued,Q4'07,2,N/A,1.42,12,L3 Cache,N/A
+Itanium 9110N,Discontinued,Q4'07,1,N/A,1.60,12,L3 Cache,N/A
+Itanium 9050,Discontinued,N/A,2,N/A,1.60,24,L2 Cache,N/A
+Itanium 9040,Discontinued,N/A,2,N/A,1.60,18,L2 Cache,N/A
+Itanium 9030,Discontinued,N/A,2,N/A,1.60,8,L2 Cache,N/A
+Itanium 9020,Discontinued,N/A,2,N/A,1.42,12,L2 Cache,N/A
+Itanium 9015,Discontinued,Q1'07,2,N/A,1.40,12,L2 Cache,N/A
+Itanium 9010,Discontinued,N/A,2,N/A,1.60,6,L2 Cache,N/A
+"Itanium 1.50 GHz, 6M Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,1.50,6,L2 Cache,N/A
+"Itanium 1.50 GHz, 4M Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,1.50,4,L2 Cache,N/A
+"Itanium 1.40 GHz, 4M Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,1.40,4,L2 Cache,N/A
+"Itanium 1.30 GHz, 3M Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,1.30,3,L2 Cache,N/A
+"Itanium 1.00 GHz, 3M Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,1.00,3,L2 Cache,N/A
+"Itanium 900 MHz, 1.5M Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,0.90,1.5,L2 Cache,N/A
+"Itanium 1.60 GHz, 9M Cache, 533 MHz FSB",Discontinued,N/A,1,N/A,1.60,9,L2 Cache,N/A
+"Itanium 1.60 GHz, 6M Cache, 533 MHz FSB",Discontinued,N/A,1,N/A,1.60,6,L2 Cache,N/A
+"Itanium 1.66 GHz, 9M Cache, 667 MHz FSB",Discontinued,N/A,1,N/A,1.66,9,L2 Cache,N/A
+"Itanium 1.66 GHz, 6M Cache, 667 MHz FSB",Discontinued,N/A,1,N/A,1.66,6,L2 Cache,N/A
