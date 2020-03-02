@@ -6,7 +6,7 @@
 
 Being enthusiast for data analysis, here's my another dataset project which is about **Intel processors**. Thanks to that, one can realize how processors have evolved within the last few decades, in terms of many criterions!
 
-This repository contains the datasets that involve all processors from **Core**, **Pentium**, and **Celeron** series Intel has ever manufactured until **January 2020**. I know this is not limited to just these type of processors; thus, in the future, other types of processor families will be added here as individual datasets (such as Xeon, Itanium, Atom).
+This repository contains the datasets that involve all processors from **Core**, **Pentium**, **Celeron** and **Xeon** series Intel has ever manufactured until **January 2020**. I know this is not limited to just these type of processors; thus, in the future, other types of processor families will be added here as individual datasets (such as Itanium, Atom).
 
 _Hopefully, I'm going to perform data analysis over these processors and present them here._
 
@@ -19,6 +19,7 @@ The 1st version of the dataset contains these features below:
 - `Product`: Name of the manufactured processor
 - `Status`: Indicates the current status of the processor
 - `Release Date`: Shows when the processor has been released to PC manufacturers or individual users
+- `Cores`: The number of cores the processor has
 - `Max. Turbo Freq. (GHz)`: The maximum clock speed the processor can reach, especially while on full load (in GHz)
 - `Base. Freq. (GHz)`: The base clock speed of the processor (in GHz)
 - `Cache (MB)`: The total cache capacity of the processor (in MB)
