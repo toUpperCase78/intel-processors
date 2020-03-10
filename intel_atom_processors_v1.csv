@@ -1,0 +1,147 @@
+Product,Status,Release Date,Cores,Max. Turbo Freq.(GHz),Base Freq.(GHz),Cache(MB),Cache Info,Integrated Graphics
+Atom C3308,Launched,Q3'17,2,2.10,1.60,4,N/A,N/A
+Atom C3336,Launched,Q3'18,2,N/A,1.50,4,N/A,N/A
+Atom C3338,Launched,Q1'17,2,2.20,1.50,4,N/A,N/A
+Atom C3508,Launched,Q3'17,4,1.60,1.60,8,N/A,N/A
+Atom C3538,Launched,Q3'17,4,2.10,2.10,8,N/A,N/A
+Atom C3558,Launched,Q3'17,4,2.20,2.20,8,N/A,N/A
+Atom C3708,Launched,Q3'17,8,1.70,1.70,16,N/A,N/A
+Atom C3750,Launched,Q3'17,8,2.40,2.20,16,N/A,N/A
+Atom C3758,Launched,Q3'17,8,2.20,2.20,16,N/A,N/A
+Atom C3808,Launched,Q3'17,12,2.00,2.00,12,N/A,N/A
+Atom C3850,Launched,Q3'17,12,2.40,2.10,12,N/A,N/A
+Atom C3858,Launched,Q3'17,12,2.00,2.00,12,N/A,N/A
+Atom C3830,Launched,Q3'17,12,2.30,1.90,12,N/A,N/A
+Atom C3950,Launched,Q3'17,16,2.20,1.70,16,N/A,N/A
+Atom C3955,Launched,Q3'17,16,2.40,2.10,16,N/A,N/A
+Atom C3958,Launched,Q3'17,16,2.00,2.00,16,N/A,N/A
+Atom C2758,Launched,Q3'13,8,N/A,2.40,4,N/A,N/A
+Atom C2738,Launched,Q3'13,8,N/A,2.40,4,N/A,N/A
+Atom C2718,Launched,Q3'13,8,N/A,2.00,4,N/A,N/A
+Atom C2558,Launched,Q3'13,4,N/A,2.40,2,N/A,N/A
+Atom C2538,Launched,Q3'13,4,N/A,2.40,2,N/A,N/A
+Atom C2518,Launched,Q3'13,4,N/A,1.70,2,N/A,N/A
+Atom C2508,Launched,Q2'14,4,N/A,1.25,2,N/A,N/A
+Atom C2358,Launched,Q3'13,2,2.00,1.70,1,N/A,N/A
+Atom C2338,Launched,Q3'13,2,2.00,1.70,1,N/A,N/A
+Atom C2308,Launched,Q2'14,2,N/A,1.25,1,N/A,N/A
+Atom C2750,Launched,Q3'13,8,2.60,2.40,4,N/A,N/A
+Atom C2730,Launched,Q3'13,8,2.40,1.70,4,N/A,N/A
+Atom C2550,Launched,Q3'13,4,2.60,2.40,2,N/A,N/A
+Atom C2530,Launched,Q3'13,4,2.40,1.70,2,N/A,N/A
+Atom C2516,Launched,Q3'17,4,N/A,1.40,2,N/A,N/A
+Atom C2350,Launched,Q3'13,2,2.00,1.70,1,N/A,N/A
+Atom C2316,Launched,Q3'17,2,N/A,1.50,1,N/A,N/A
+Atom D2700,Discontinued,Q3'11,2,N/A,2.13,1,L2 Cache,N/A
+Atom D2550,Discontinued,Q1'12,2,N/A,1.86,1,L2 Cache,N/A
+Atom D2500,Discontinued,Q3'11,2,N/A,1.86,1,L2 Cache,N/A
+Atom E3845,Launched,Q4'13,4,N/A,1.91,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom E3827,Launched,Q4'13,2,N/A,1.75,1,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom E3826,Launched,Q4'13,2,N/A,1.46,1,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom E3825,Launched,Q4'13,2,N/A,1.33,1,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom E3815,Launched,Q4'13,1,N/A,1.46,0.5,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom E3805,Launched,Q4'14,2,N/A,1.33,1,L2 Cache,N/A
+Atom N2800,Launched,Q4'11,2,N/A,1.86,1,L2 Cache,N/A
+Atom N2600,Launched,Q4'11,2,N/A,1.60,1,L2 Cache,N/A
+Atom P5962B,Launched,Q1'20,24,N/A,2.20,27,L2 Cache,N/A
+Atom P5942B,Launched,Q1'20,16,N/A,2.20,18,L2 Cache,N/A
+Atom P5931B,Launched,Q1'20,12,N/A,2.20,13.5,L2 Cache,N/A
+Atom P5921B,Launched,Q1'20,8,N/A,2.20,9,L2 Cache,N/A
+Atom S1289,Launched,Q2'13,2,N/A,2.00,1,N/A,N/A
+Atom S1279,Launched,Q2'13,2,N/A,1.60,1,N/A,N/A
+Atom S1269,Launched,Q2'13,2,N/A,1.60,1,N/A,N/A
+Atom S1260,Discontinued,Q4'12,2,N/A,2.00,1,N/A,N/A
+Atom S1240,Discontinued,Q4'12,2,N/A,1.60,1,N/A,N/A
+Atom S1220,Discontinued,Q4'12,2,N/A,1.60,1,N/A,N/A
+Atom x7-Z8750,Launched,Q1'16,4,N/A,1.60,2,N/A,N/A
+Atom x7-Z8700,Launched,Q1'15,4,N/A,1.60,2,N/A,N/A
+Atom x7-E3950,Launched,Q4'16,4,N/A,1.60,2,L2 Cache,Intel HD 505 Graphics
+Atom x5-E3940,Launched,Q4'16,4,N/A,1.60,2,L2 Cache,Intel HD 500 Graphics
+Atom x5-E3930,Launched,Q4'16,2,N/A,1.30,2,L2 Cache,Intel HD 500 Graphics
+Atom x5-Z8550,Launched,Q1'16,4,N/A,1.44,2,N/A,N/A
+Atom x5-Z8500,Launched,Q1'15,4,N/A,1.44,2,N/A,N/A
+Atom x5-Z8350,Launched,Q1'16,4,N/A,1.44,2,N/A,N/A
+Atom x5-Z8330,Launched,Q1'16,4,N/A,1.44,2,L2 Cache,N/A
+Atom x5-Z8300,Launched,Q2'15,4,N/A,1.44,2,N/A,N/A
+Atom x5-E8000,Launched,Q1'16,4,N/A,1.04,2,N/A,Intel HD Graphics for Intel Celeron N3000 Processor Series
+Atom x3-C3445,Announced,Q1'15,4,N/A,1.20,1,N/A,N/A
+Atom x3-C3405,Announced,Q1'15,4,N/A,1.20,1,N/A,N/A
+Atom x3-C3265RK,Launched,Q4'16,4,N/A,N/A,1,L2 Cache,N/A
+Atom x3-C3295RK,Launched,Q4'16,4,N/A,N/A,1,L2 Cache,N/A
+Atom x3-C3235RK,Launched,Q4'15,4,N/A,N/A,1,N/A,N/A
+Atom x3-C3230RK,Launched,Q1'15,4,N/A,N/A,1,N/A,N/A
+Atom x3-C3205RK,Launched,Q4'16,4,N/A,N/A,1,N/A,N/A
+Atom x3-C3200RK,Launched,Q1'15,4,N/A,N/A,1,N/A,N/A
+Atom Z3795,Launched,Q1'14,4,N/A,1.59,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3785,Launched,Q2'14,4,N/A,1.49,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3775D,Launched,Q1'14,4,N/A,1.49,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3775,Launched,Q1'14,4,N/A,1.46,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3770D,Discontinued,Q3'13,4,N/A,1.50,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3770,Discontinued,Q3'13,4,N/A,1.46,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3745D,Launched,Q1'14,4,N/A,1.33,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3745,Launched,Q1'14,4,N/A,1.33,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3740D,Discontinued,Q3'13,4,N/A,1.33,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3740,Discontinued,Q3'13,4,N/A,1.33,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3736G,Launched,Q2'14,4,N/A,1.33,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3736F,Launched,Q2'14,4,N/A,1.33,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3735G,Launched,Q1'14,4,N/A,1.33,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3735F,Launched,Q1'14,4,N/A,1.33,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3735E,Launched,Q1'14,4,N/A,1.33,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3735D,Launched,Q1'14,4,N/A,1.33,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Atom Z3590,Launched,Q3'15,4,N/A,N/A,2,N/A,N/A
+Atom Z3580,Launched,Q2'14,4,N/A,N/A,2,N/A,N/A
+Atom Z3570,Launched,Q3'14,4,N/A,N/A,2,N/A,N/A
+Atom Z3560,Launched,Q2'14,4,N/A,N/A,2,N/A,N/A
+Atom Z3530,Launched,Q2'14,4,N/A,N/A,2,N/A,N/A
+Atom Z3480,Launched,Q1'14,2,N/A,N/A,1,Intel Smart Cache,N/A
+Atom Z3460,Launched,Q1'14,2,N/A,N/A,1,Intel Smart Cache,N/A
+Atom Z2760,Discontinued,Q3'12,2,N/A,1.80,1,L2 Cache,N/A
+Atom Z2580,Discontinued,Q2'13,2,N/A,N/A,1,Intel Smart Cache,N/A
+Atom Z2560,Discontinued,Q2'13,2,N/A,N/A,1,Intel Smart Cache,N/A
+Atom Z2520,Discontinued,Q2'13,2,N/A,1.20,1,Intel Smart Cache,N/A
+Atom Z2480,Discontinued,Q3'12,1,N/A,N/A,0.5,Intel Smart Cache,N/A
+Atom Z2460,Discontinued,Q2'12,1,N/A,N/A,0.5,Intel Smart Cache,N/A
+Atom Z2420,Discontinued,Q1'13,1,N/A,N/A,0.5,Intel Smart Cache,N/A
+Atom D525,Discontinued,Q2'10,2,N/A,1.80,1,L2 Cache,N/A
+Atom D510,Discontinued,Q1'10,2,N/A,1.66,1,L2 Cache,N/A
+Atom D425,Discontinued,Q2'10,1,N/A,1.80,0.5,L2 Cache,N/A
+Atom D410,Discontinued,Q1'10,1,N/A,1.66,0.5,L2 Cache,N/A
+Atom E680T,Launched,Q3'10,1,N/A,1.60,0.5,L2 Cache,N/A
+Atom E680,Launched,Q3'10,1,N/A,1.60,0.5,L2 Cache,N/A
+Atom E660T,Launched,Q3'10,1,N/A,1.30,0.5,L2 Cache,N/A
+Atom E665CT,Discontinued,Q4'10,1,N/A,1.30,0.5,L2 Cache,N/A
+Atom E665C,Discontinued,Q4'10,1,N/A,1.30,0.5,L2 Cache,N/A
+Atom E660,Launched,Q3'10,1,N/A,1.30,0.5,L2 Cache,N/A
+Atom E645CT,Discontinued,Q4'10,1,N/A,1.00,0.5,L2 Cache,N/A
+Atom E645C,Discontinued,Q4'10,1,N/A,1.00,0.5,L2 Cache,N/A
+Atom E640T,Launched,Q3'10,1,N/A,1.00,0.5,L2 Cache,N/A
+Atom E640,Launched,Q3'10,1,N/A,1.00,0.5,L2 Cache,N/A
+Atom E620T,Launched,Q3'10,1,N/A,0.60,0.5,L2 Cache,N/A
+Atom E620,Launched,Q3'10,1,N/A,0.60,0.5,L2 Cache,N/A
+Atom N570,Discontinued,Q1'11,2,N/A,1.66,1,L2 Cache,N/A
+Atom N550,Discontinued,Q3'10,2,N/A,1.50,1,L2 Cache,N/A
+Atom N475,Discontinued,Q2'10,1,N/A,1.83,0.5,L2 Cache,N/A
+Atom N470,Discontinued,Q1'10,1,N/A,1.83,0.5,L2 Cache,N/A
+Atom N455,Discontinued,Q2'10,1,N/A,1.66,0.5,L2 Cache,N/A
+Atom N450,Discontinued,Q1'10,1,N/A,1.66,0.5,L2 Cache,N/A
+Atom N280,Discontinued,Q1'09,1,N/A,1.66,0.5,L2 Cache,N/A
+Atom N270,Discontinued,Q2'08,1,N/A,1.60,0.5,L2 Cache,N/A
+Atom Z670,Discontinued,Q2'11,1,N/A,1.50,0.5,N/A,N/A
+Atom Z650,Discontinued,Q2'11,1,N/A,1.20,0.5,L2 Cache,N/A
+Atom Z625,Discontinued,Q2'10,1,N/A,1.90,0.5,Intel Smart Cache,N/A
+Atom Z615,Discontinued,Q2'10,1,N/A,1.60,0.5,Intel Smart Cache,N/A
+Atom Z600,Discontinued,Q2'10,1,N/A,1.20,0.5,Intel Smart Cache,N/A
+Atom Z560,Discontinued,Q2'10,1,N/A,2.13,0.5,L2 Cache,N/A
+Atom Z550,Discontinued,Q2'09,1,N/A,2.00,0.5,L2 Cache,N/A
+Atom Z540,Discontinued,Q2'08,1,N/A,1.86,0.5,L2 Cache,N/A
+Atom Z530P,Discontinued,Q2'08,1,N/A,1.60,0.5,L2 Cache,N/A
+Atom Z530,Discontinued,Q2'08,1,N/A,1.60,0.5,L2 Cache,N/A
+Atom Z520PT,Discontinued,Q2'08,1,N/A,1.33,0.5,L2 Cache,N/A
+Atom Z520,Discontinued,Q2'08,1,N/A,1.33,0.5,L2 Cache,N/A
+Atom Z515,Discontinued,Q2'09,1,N/A,1.20,0.5,L2 Cache,N/A
+Atom Z510PT,Discontinued,Q2'08,1,N/A,1.10,0.5,L2 Cache,N/A
+Atom Z510P,Discontinued,Q2'08,1,N/A,1.10,0.5,L2 Cache,N/A
+Atom Z510,Discontinued,Q2'08,1,N/A,1.10,0.5,L2 Cache,N/A
+Atom Z500,Discontinued,Q2'08,1,N/A,0.80,0.5,L2 Cache,N/A
+Atom 330,Discontinued,Q3'08,2,N/A,1.60,1,L2 Cache,N/A
+Atom 230,Discontinued,Q2'08,1,N/A,1.60,0.5,L2 Cache,N/A
