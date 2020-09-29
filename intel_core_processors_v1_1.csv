@@ -1,0 +1,886 @@
+Product,Status,Release Date,Cores,Max. Turbo Freq.(GHz),Base Freq.(GHz),Cache(MB),Cache Info,Integrated Graphics
+Core i9-10980XE Extreme Edition,Launched,Q4'19,18,4.60,3.00,24.75,Intel Smart Cache,N/A
+Core i9-10940X X Series,Launched,Q4'19,14,4.60,3.30,19.25,Intel Smart Cache,N/A
+Core i9-10920X X Series,Launched,Q4'19,12,4.60,3.50,19.25,Intel Smart Cache,N/A
+Core i9-10900X X Series,Launched,Q4'19,10,4.50,3.70,19.25,Intel Smart Cache,N/A
+Core i9-9980XE Extreme Edition,Launched,Q4'18,18,4.40,3.00,24.75,Intel Smart Cache,N/A
+Core i9-9960X X Series,Launched,Q4'18,16,4.40,3.10,22,Intel Smart Cache,N/A
+Core i9-9940X X Series,Launched,Q4'18,14,4.40,3.30,19.25,Intel Smart Cache,N/A
+Core i9-9920X X Series,Launched,Q4'18,12,4.40,3.50,19.25,Intel Smart Cache,N/A
+Core i9-9900X X Series,Launched,Q4'18,10,4.40,3.50,19.25,Intel Smart Cache,N/A
+Core i9-9820X X Series,Launched,Q4'18,10,4.10,3.30,16.5,Intel Smart Cache,N/A
+Core i7-9800X X Series,Launched,Q4'18,8,4.40,3.80,16.5,Intel Smart Cache,N/A
+Core i9-7980XE Extreme Edition,Discontinued,Q3'17,18,4.20,2.60,24.75,N/A,N/A
+Core i9-7960X X Series,Discontinued,Q3'17,16,4.20,2.80,22,N/A,N/A
+Core i9-7940X X Series,Discontinued,Q3'17,14,4.30,3.10,19.25,N/A,N/A
+Core i9-7920X X Series,Discontinued,Q3'17,12,4.30,2.90,16.5,L3 Cache,N/A
+Core i9-7900X X Series,Discontinued,Q2'17,10,4.30,3.30,13.75,L3 Cache,N/A
+Core i7-7820X X Series,Discontinued,Q2'17,8,4.30,3.60,11,L3 Cache,N/A
+Core i7-7800X X Series,Discontinued,Q2'17,6,4.00,3.50,8.25,L3 Cache,N/A
+Core i7-7740X X Series,Discontinued,Q2'17,4,4.50,4.30,8,N/A,N/A
+Core i5-7640X X Series,Discontinued,Q2'17,4,4.20,4.00,6,N/A,N/A
+Core i7-6950X Extreme Edition,Discontinued,Q2'16,10,3.50,3.00,25,N/A,N/A
+Core i7-6900K,Discontinued,Q2'16,8,3.70,3.20,20,N/A,N/A
+Core i7-6850K,Discontinued,Q2'16,6,3.60,3.40,15,Intel Smart Cache,N/A
+Core i7-6800K,Discontinued,Q2'16,6,3.60,3.40,15,Intel Smart Cache,N/A
+Core i7-5960X Extreme Edition,Discontinued,Q3'14,8,3.50,3.00,20,Intel Smart Cache,N/A
+Core i7-5930K,Discontinued,Q3'14,6,3.70,3.50,15,Intel Smart Cache,N/A
+Core i7-5820K,Discontinued,Q3'14,6,3.60,3.30,15,Intel Smart Cache,N/A
+Core i7-4960X Extreme Edition,Discontinued,Q3'13,6,4.00,3.60,15,Intel Smart Cache,N/A
+Core i7-4940MX Extreme Edition,Discontinued,Q1'14,4,4.00,3.10,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4930K,Discontinued,Q3'13,6,3.90,3.40,12,Intel Smart Cache,N/A
+Core i7-4930MX Extreme Edition,Launched,Q2'13,4,3.90,3.00,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4820K,Discontinued,Q3'13,4,3.90,3.70,10,Intel Smart Cache,N/A
+Core i7-3970X Extreme Edition,Discontinued,Q4'12,6,4.00,3.50,15,Intel Smart Cache,N/A
+Core i7-3960X Extreme Edition,Discontinued,Q4'11,6,3.90,3.30,15,Intel Smart Cache,N/A
+Core i7-3940XM Extreme Edition,Launched,Q3'12,4,3.90,3.00,8,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3930K,Discontinued,Q4'11,6,3.80,3.20,12,Intel Smart Cache,N/A
+Core i7-3920XM Extreme Edition,Discontinued,Q2'12,4,3.80,2.90,8,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3820,Discontinued,Q1'12,4,3.80,3.60,10,Intel Smart Cache,N/A
+Core i5-L16G7,Launched,Q2'20,5,3.00,1.40,4,N/A,UHD Intel
+Core i3-L13G4,Launched,Q2'20,5,2.80,0.80,4,N/A,UHD Intel
+Core i9-10885H,Launched,Q2'20,8,5.30,2.40,16,Intel Smart Cache,Intel UHD Graphics
+Core i9-10980HK,Launched,Q2'20,8,5.30,2.40,16,Intel Smart Cache,Intel UHD Graphics
+Core i9-10900TE,Launched,Q2'20,10,4.50,1.80,20,Intel Smart Cache,Intel UHD 630 Graphics
+Core i9-10900T,Launched,Q2'20,10,4.60,1.90,20,Intel Smart Cache,Intel UHD 630 Graphics
+Core i9-10900KF,Launched,Q2'20,10,5.30,3.70,20,Intel Smart Cache,N/A
+Core i9-10900K,Launched,Q2'20,10,5.30,3.70,20,Intel Smart Cache,Intel UHD 630 Graphics
+Core i9-10900F,Launched,Q2'20,10,5.20,2.80,20,Intel Smart Cache,N/A
+Core i9-10900E,Launched,Q2'20,10,4.70,2.80,20,Intel Smart Cache,Intel UHD 630 Graphics
+Core i9-10900,Launched,Q2'20,10,5.20,2.80,20,Intel Smart Cache,Intel UHD 630 Graphics
+Core i9-10850K,Launched,Q3'20,10,5.20,3.60,20,Intel Smart Cache,Intel UHD 630 Graphics
+Core i9-9980HK,Launched,Q2'19,8,5.00,2.40,16,Intel Smart Cache,Intel UHD 630 Graphics
+Core i9-9880H,Launched,Q2'19,8,4.80,2.30,16,Intel Smart Cache,Intel UHD 630 Graphics
+Core i9-9900T,Launched,Q2'19,8,4.40,2.10,16,Intel Smart Cache,Intel UHD 630 Graphics
+Core i9-9900KS,Launched,Q4'19,8,5.00,4.00,16,Intel Smart Cache,Intel UHD 630 Graphics
+Core i9-9900KF,Launched,Q1'19,8,5.00,3.60,16,Intel Smart Cache,N/A
+Core i9-9900K,Launched,Q4'18,8,5.00,3.60,16,Intel Smart Cache,Intel UHD 630 Graphics
+Core i9-9900,Launched,Q2'19,8,5.00,3.10,16,Intel Smart Cache, Intel UHD 630 Graphics
+Core i9-8950HK,Launched,Q2'18,6,4.80,2.90,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-1185GRE,Launched,Q3'20,4,4.40,1.80,12,Intel Smart Cache,Intel Iris Xe Graphics
+Core i7-1185G7E,Launched,Q3'20,4,4.40,1.80,12,Intel Smart Cache,Intel Iris Xe Graphics
+Core i7-1185G7,Launched,Q3'20,4,4.80,N/A,12,Intel Smart Cache,Intel Iris Xe Graphics
+Core i7-1165G7,Launched,Q3'20,4,4.70,N/A,12,Intel Smart Cache,Intel Iris Xe Graphics
+Core i7-1160G7,Announced,Q3'20,4,4.40,N/A,12,Intel Smart Cache,Intel Iris Xe Graphics
+Core i7-10875H,Launched,Q2'20,8,5.10,2.30,16,Intel Smart Cache,Intel UHD Graphics
+Core i7-10870H,Launched,Q3'20,8,5.00,2.20,16,Intel Smart Cache,Intel UHD Graphics
+Core i7-10850H,Launched,Q2'20,6,5.10,2.70,12,Intel Smart Cache,Intel UHD Graphics
+Core i7-10810U,Launched,Q2'20,6,4.90,1.10,12,Intel Smart Cache,Intel UHD Graphics
+Core i7-10750H,Launched,Q2'20,6,5.00,2.60,12,Intel Smart Cache,Intel UHD Graphics
+Core i7-10710U,Launched,Q3'19,6,4.70,1.10,12,Intel Smart Cache,Intel UHD Graphics
+Core i7-10700TE,Launched,Q2'20,8,4.40,2.00,16,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-10700T,Launched,Q2'20,8,4.50,2.00,16,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-10700KF,Launched,Q2'20,8,5.10,3.80,16,Intel Smart Cache,N/A
+Core i7-10700K,Launched,Q2'20,8,5.10,3.80,16,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-10700F,Launched,Q2'20,8,4.80,2.90,16,Intel Smart Cache,N/A
+Core i7-10700E,Launched,Q2'20,8,4.50,2.90,16,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-10700,Launched,Q2'20,8,4.80,2.90,16,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-1065G7,Launched,Q3'19,4,3.90,1.30,8,Intel Smart Cache,Intel Iris Plus Graphics
+Core i7-10610U,Launched,Q2'20,4,4.90,1.80,8,Intel Smart Cache,Intel UHD Graphics
+Core i7-1060G7,Launched,Q3'19,4,3.80,1.00,8,Intel Smart Cache,Intel Iris Plus Graphics
+Core i7-1068NG7,Launched,Q2'20,4,4.10,2.30,8,Intel Smart Cache,Intel Iris Plus Graphics
+Core i7-10510U,Launched,Q3'19,4,4.90,1.80,8,Intel Smart Cache,Intel UHD Graphics
+Core i7-10510Y,Launched,Q3'19,4,4.50,1.20,8,Intel Smart Cache,Intel UHD Graphics
+Core i7-9850HL,Launched,Q2'19,6,4.10,1.90,9,N/A,Intel UHD 630 Graphics
+Core i7-9850HE,Launched,Q2'19,6,4.40,2.70,9,N/A,Intel UHD 630 Graphics
+Core i7-9850H,Launched,Q2'19,6,4.60,2.60,12,N/A,Intel UHD 630 Graphics
+Core i7-9750HF,Launched,Q2'19,6,4.50,2.60,12,Intel Smart Cache,N/A
+Core i7-9750H,Launched,Q2'19,6,4.50,2.60,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-9700TE,Launched,Q2'19,8,3.80,1.80,12,N/A,Intel UHD 630 Graphics
+Core i7-9700T,Launched,Q2'19,8,4.30,2.00,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-9700KF,Launched,Q1'19,8,4.90,3.60,12,Intel Smart Cache,N/A
+Core i7-9700K,Launched,Q4'18,8,4.90,3.60,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-9700F,Launched,Q2'19,8,4.70,3.00,12,Intel Smart Cache,N/A
+Core i7-9700E,Launched,Q2'19,8,4.40,2.60,12,N/A,Intel UHD 630 Graphics
+Core i7-9700,Launched,Q2'19,8,4.70,3.00,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-8665UE,Launched,Q2'19,4,4.40,1.70,8,N/A,Intel UHD 620 Graphics
+Core i7-8665U,Launched,Q2'19,4,4.80,1.90,8,Intel Smart Cache,Intel UHD 620 Graphics
+Core i7-8557U,Launched,Q3'19,4,4.50,1.70,8,Intel Smart Cache,Intel Iris Plus Graphics 645
+Core i7-8850H,Launched,Q2'18,6,4.30,2.60,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-8809G with Radeon RX Vega M GH Graphics,Announced,Q1'18,4,4.20,3.10,8,N/A,Intel HD 630 Graphics
+Core i7-8750H,Launched,Q2'18,6,4.10,2.20,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-8709G with Radeon RX Vega M GH Graphics,Announced,Q1'18,4,4.10,3.10,8,N/A,Intel HD 630 Graphics
+Core i7-8706G with Radeon RX Vega M GL Graphics,Launched,Q1'18,4,4.10,3.10,8,N/A,Intel HD 630 Graphics
+Core i7-8706G with Radeon Pro WX Vega M GL Graphics,Launched,Q3'18,4,4.10,3.10,8,N/A,Intel HD 630 Graphics
+Core i7-8705G with Radeon RX Vega M GL Graphics,Announced,Q1'18,4,4.10,3.10,8,N/A,Intel HD 630 Graphics
+Core i7-8700T,Launched,Q2'18,6,4.00,2.40,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-8700K,Launched,Q4'17,6,4.70,3.70,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-8700B,Launched,Q2'18,6,4.60,3.20,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-8700,Launched,Q4'17,6,4.60,3.20,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7+8700 with Intel Optane Memory,Launched,Q2'18,6,4.60,3.20,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-8569U,Launched,Q2'19,4,4.70,2.80,8,Intel Smart Cache,Intel Iris Plus Graphics 655
+Core i7-8650U,Launched,Q3'17,4,4.20,1.90,8,Intel Smart Cache,Intel UHD 620 Graphics
+Core i7-8565U,Launched,Q3'18,4,4.60,1.80,8,Intel Smart Cache,Intel UHD 620 Graphics
+Core i7-8559U,Launched,Q2'18,4,4.50,2.70,8,Intel Smart Cache,Intel Iris Plus Graphics 655
+Core i7-8550U,Launched,Q3'17,4,4.00,1.80,8,Intel Smart Cache,Intel UHD 620 Graphics
+Core i7-8500Y,Launched,Q1'19,2,4.20,1.50,4,Intel Smart Cache,Intel UHD 615 Graphics
+Core i7-8086K,Launched,Q2'18,6,5.00,4.00,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i7-7920HQ,Launched,Q1'17,4,4.10,3.10,8,N/A,Intel HD 630 Graphics
+Core i7-7820HQ,Launched,Q1'17,4,3.90,2.90,8,N/A,Intel HD 630 Graphics
+Core i7-7820HK,Launched,Q1'17,4,3.90,2.90,8,N/A,Intel HD 630 Graphics
+Core i7-7820EQ,Launched,Q1'17,4,3.70,3.00,8,N/A,Intel HD 630 Graphics
+Core i7-7700HQ,Launched,Q1'17,4,3.80,2.80,6,N/A,Intel HD 630 Graphics
+Core i7-7700,Launched,Q1'17,4,4.20,3.60,8,Intel Smart Cache,Intel HD 630 Graphics
+Core i7-7700K,Discontinued,Q1'17,4,4.50,4.20,8,Intel Smart Cache,Intel HD 630 Graphics
+Core i7-7700T,Launched,Q1'17,4,3.80,2.90,8,Intel Smart Cache,Intel HD 630 Graphics
+Core i7-7660U,Launched,Q1'17,2,4.00,2.50,4,N/A,Intel Iris Plus 640 Graphics
+Core i7-7600U,Launched,Q1'17,2,3.90,2.80,4,Intel Smart Cache,Intel HD 620 Graphics
+Core i7-7567U,Launched,Q1'17,2,4.00,3.50,4,N/A,Intel Iris Plus 650 Graphics
+Core i7-7560U,Launched,Q1'17,2,3.80,2.40,4,N/A,Intel Iris Plus 640 Graphics
+Core i7-7500U,Launched,Q3'16,2,3.50,2.70,4,Intel Smart Cache,Intel HD 620 Graphics
+Core i7-7Y75,Launched,Q3'16,2,3.60,1.30,4,Intel Smart Cache,Intel HD 615 Graphics
+Core i7-6970HQ,Launched,Q1'16,4,3.70,2.80,8,Intel Smart Cache,Intel Iris Pro 580 Graphics
+Core i7-6920HQ,Launched,Q3'15,4,3.80,2.90,8,Intel Smart Cache,Intel HD 530 Graphics
+Core i7-6870HQ,Launched,Q1'16,4,3.60,2.70,8,Intel Smart Cache,Intel Iris Pro 580 Graphics
+Core i7-6822EQ,Launched,Q4'15,4,2.80,2.00,8,Intel Smart Cache,Intel HD 530 Graphics
+Core i7-6820HQ,Launched,Q3'15,4,3.60,2.70,8,Intel Smart Cache,Intel HD 530 Graphics
+Core i7-6820HK,Launched,Q3'15,4,3.60,2.70,8,Intel Smart Cache,Intel HD 530 Graphics
+Core i7-6820EQ,Launched,Q4'15,4,3.50,2.80,8,Intel Smart Cache,Intel HD 530 Graphics
+Core i7-6785R,Discontinued,Q2'16,4,3.90,3.30,8,N/A,Intel Iris Pro 580 Graphics
+Core i7-6700K,Discontinued,Q3'15,4,4.20,4.00,8,Intel Smart Cache,Intel HD 530 Graphics
+Core i7-6700T,Launched,Q3'15,4,3.60,2.80,8,Intel Smart Cache,Intel HD 530 Graphics
+Core i7-6700TE,Launched,Q4'15,4,3.40,2.40,8,Intel Smart Cache,Intel HD 530 Graphics
+Core i7-6700,Launched,Q3'15,4,4.00,3.40,8,Intel Smart Cache,Intel HD 530 Graphics
+Core i7-6770HQ,Launched,Q1'16,4,3.50,2.60,6,Intel Smart Cache,Intel Iris Pro 580 Graphics
+Core i7-6700HQ,Launched,Q3'15,4,3.50,2.60,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i7-6660U,Launched,Q1'16,2,3.40,2.40,4,Intel Smart Cache,Intel Iris 540 Graphics
+Core i7-6650U,Launched,Q3'15,2,3.40,2.20,4,Intel Smart Cache,Intel Iris 540 Graphics
+Core i7-6600U,Launched,Q3'15,2,3.40,2.60,4,Intel Smart Cache,Intel HD 520 Graphics
+Core i7-6567U,Launched,Q3'15,2,3.60,3.30,4,Intel Smart Cache,Intel Iris 550 Graphics
+Core i7-6560U,Launched,Q3'15,2,3.20,2.20,4,Intel Smart Cache,Intel Iris 540 Graphics
+Core i7-6500U,Launched,Q3'15,2,3.10,2.50,4,Intel Smart Cache,Intel HD 520 Graphics
+Core i7-5950HQ,Launched,Q2'15,4,3.80,2.90,6,N/A,Intel Iris Pro 6200 Graphics
+Core i7-5850HQ,Launched,Q2'15,4,3.60,2.70,6,N/A,Intel Iris Pro 6200 Graphics
+Core i7-5850EQ,Launched,Q2'15,4,3.40,2.70,6,Intel Smart Cache,Intel Iris Pro 6200 Graphics
+Core i7-5750HQ,Launched,Q2'15,4,3.40,2.50,6,N/A,Intel Iris Pro 6200 Graphics
+Core i7-5700EQ,Launched,Q2'15,4,3.40,2.60,6,Intel Smart Cache,N/A
+Core i7-5700HQ,Launched,Q2'15,4,3.50,2.70,6,N/A,N/A
+Core i7-5775R,Discontinued,Q2'15,4,3.80,3.30,6,N/A,Intel Iris Pro 6200 Graphics
+Core i7-5775C,Launched,Q2'15,4,3.70,3.30,6,N/A,Intel Iris Pro 6200 Graphics
+Core i7-5650U,Launched,Q1'15,2,3.10,2.20,4,N/A,Intel HD 6000 Graphics
+Core i7-5600U,Launched,Q1'15,2,3.20,2.60,4,N/A,Intel HD 5500 Graphics
+Core i7-5557U,Launched,Q1'15,2,3.40,3.10,4,N/A,Intel Iris 6100 Graphics
+Core i7-5550U,Launched,Q1'15,2,3.00,2.00,4,Intel Smart Cache,Intel HD 6000 Graphics
+Core i7-5500U,Launched,Q1'15,2,3.00,2.40,4,N/A,Intel HD 5500 Graphics
+Core i7-4900MQ,Launched,Q2'13,4,3.80,2.80,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4910MQ,Launched,Q1'14,4,3.90,2.90,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4950HQ,Launched,Q3'13,4,3.60,2.40,6,Intel Smart Cache,Intel Iris Pro 5200 Graphics
+Core i7-4960HQ,Launched,Q4'13,4,3.80,2.60,6,Intel Smart Cache,Intel Iris Pro 5200 Graphics
+Core i7-4980HQ,Launched,Q3'14,4,4.00,2.80,6,N/A,Intel Iris Pro 5200 Graphics
+Core i7-4800MQ,Launched,Q2'13,4,3.70,2.70,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4810MQ,Launched,Q1'14,4,3.80,2.80,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4850HQ,Launched,Q3'13,4,3.50,2.30,6,Intel Smart Cache,Intel Iris Pro 5200 Graphics
+Core i7-4860HQ,Launched,Q1'14,4,3.60,2.40,6,Intel Smart Cache,Intel Iris Pro 5200 Graphics
+Core i7-4870HQ,Launched,Q3'14,4,3.70,2.50,6,N/A,Intel Iris Pro 5200 Graphics
+Core i7-4700EC,Launched,Q1'14,4,N/A,2.70,8,Intel Smart Cache,N/A
+Core i7-4700EQ,Launched,Q2'13,4,3.40,2.40,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4700HQ,Launched,Q2'13,4,3.40,2.40,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4700MQ,Launched,Q2'13,4,3.40,2.40,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4702EC,Launched,Q1'14,4,N/A,2.00,8,Intel Smart Cache,N/A
+Core i7-4702HQ,Launched,Q2'13,4,3.20,2.20,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4702MQ,Launched,Q2'13,4,3.20,2.20,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4710HQ,Launched,Q2'14,4,3.50,2.50,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4710MQ,Launched,Q2'14,4,3.50,2.50,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4712HQ,Launched,Q2'14,4,3.30,2.30,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4712MQ,Launched,Q2'14,4,3.30,2.30,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4720HQ,Launched,Q1'15,4,3.60,2.60,6,N/A,Intel HD 4600 Graphics
+Core i7-4722HQ,Launched,Q1'15,4,3.40,2.40,6,N/A,Intel HD 4600 Graphics
+Core i7-4750HQ,Launched,Q3'13,4,3.20,2.00,6,Intel Smart Cache,Intel Iris Pro 5200 Graphics
+Core i7-4760HQ,Launched,Q2'14,4,3.30,2.10,6,Intel Smart Cache,Intel Iris Pro 5200 Graphics
+Core i7-4770HQ,Launched,Q3'14,4,3.40,2.20,6,N/A,Intel Iris Pro 5200 Graphics
+Core i7-4790K,Discontinued,Q2'14,4,4.40,4.00,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4770K,Discontinued,Q2'13,4,3.90,3.50,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4765T,Discontinued,Q2'13,4,3.00,2.00,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4770,Discontinued,Q2'13,4,3.90,3.40,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4770R,Discontinued,Q2'13,4,3.90,3.20,6,Intel Smart Cache,Intel Iris Pro 5200 Graphics
+Core i7-4770S,Launched,Q2'13,4,3.90,3.10,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4770T,Discontinued,Q2'13,4,3.70,2.50,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4770TE,Launched,Q2'13,4,3.30,2.30,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4771,Discontinued,Q3'13,4,3.90,3.50,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4785T,Discontinued,Q2'14,4,3.20,2.20,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4790,Discontinued,Q2'14,4,4.00,3.60,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4790S,Launched,Q2'14,4,4.00,3.20,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4790T,Discontinued,Q2'14,4,3.90,2.70,8,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4600M,Launched,Q4'13,2,3.60,2.90,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4600U,Launched,Q3'13,2,3.30,2.10,4,Intel Smart Cache,Intel HD 4400 Graphics
+Core i7-4610M,Launched,Q1'14,2,3.70,3.00,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i7-4610Y,Launched,Q3'13,2,2.90,1.70,4,Intel Smart Cache,Intel HD 4200 Graphics
+Core i7-4650U,Launched,Q3'13,2,3.30,1.70,4,Intel Smart Cache,Intel HD 5000 Graphics
+Core i7-4500U,Launched,Q3'13,2,3.00,1.80,4,Intel Smart Cache,Intel HD 4400 Graphics
+Core i7-4510U,Launched,Q2'14,2,3.10,2.00,4,Intel Smart Cache,Intel HD 4400 Graphics
+Core i7-4550U,Launched,Q3'13,2,3.00,1.50,4,Intel Smart Cache,Intel HD 5000 Graphics
+Core i7-4558U,Launched,Q3'13,2,3.30,2.80,4,Intel Smart Cache,Intel Iris 5100 Graphics
+Core i7-4578U,Launched,Q3'14,2,2.50,3.00,4,N/A,Intel Iris 5100 Graphics
+Core i5-1145GRE,Launched,Q3'20,4,4.10,1.50,8,Intel Smart Cache,Intel Iris Xe Graphics
+Core i5-1145G7E,Launched,Q3'20,4,4.10,1.50,8,Intel Smart Cache,Intel Iris Xe Graphics
+Core i5-1135G7,Launched,Q3'20,4,4.20,N/A,8,Intel Smart Cache,Intel Iris Xe Graphics
+Core i5-1130G7,Announced,Q3'20,4,4.00,N/A,8,Intel Smart Cache,Intel Iris Xe Graphics
+Core i5-10600T,Launched,Q2'20,6,4.00,2.40,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-10600KF,Launched,Q2'20,6,4.80,4.10,12,Intel Smart Cache,N/A
+Core i5-10600K,Launched,Q2'20,6,4.80,4.10,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-10600,Launched,Q2'20,6,4.80,3.30,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-10500TE,Launched,Q2'20,6,3.70,2.30,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-10500T,Launched,Q2'20,6,3.80,2.30,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-10500E,Launched,Q2'20,6,4.20,3.10,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-10500,Launched,Q2'20,6,4.50,3.10,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-10400T,Launched,Q2'20,6,3.60,2.00,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-10400H,Launched,Q2'20,4,4.60,2.60,8,Intel Smart Cache,Intel UHD Graphics
+Core i5-10400F,Launched,Q2'20,6,4.30,2.90,12,Intel Smart Cache,N/A
+Core i5-10400,Launched,Q2'20,6,4.30,2.90,12,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-1035G7,Launched,Q3'19,4,3.70,1.20,6,Intel Smart Cache,Intel Iris Plus Graphics
+Core i5-1038NG7,Launched,Q2'20,4,3.80,2.00,6,Intel Smart Cache,Intel Iris Plus Graphics
+Core i5-1035G4,Launched,Q3'19,4,3.70,1.10,6,Intel Smart Cache,Intel Iris Plus Graphics
+Core i5-1035G1,Launched,Q3'19,4,3.60,1.00,6,Intel Smart Cache,Intel UHD Graphics
+Core i5-10310Y,Launched,Q3'19,4,4.10,1.10,6,Intel Smart Cache,Intel UHD Graphics
+Core i5-10310U,Launched,Q2'20,4,4.40,1.70,6,Intel Smart Cache,Intel UHD Graphics
+Core i5-1030G7,Launched,Q3'19,4,3.50,0.80,6,Intel Smart Cache,Intel Iris Plus Graphics
+Core i5-1030G4,Launched,Q3'19,4,3.50,0.70,6,Intel Smart Cache,Intel Iris Plus Graphics
+Core i5-10300H,Launched,Q2'20,4,4.50,2.50,8,Intel Smart Cache,Intel UHD Graphics
+Core i5-10210U,Launched,Q3'19,4,4.20,1.60,6,Intel Smart Cache,Intel UHD Graphics
+Core i5-10210Y,Launched,Q3'19,4,4.00,1.00,6,Intel Smart Cache,Intel UHD Graphics
+Core i5-10200H,Launched,Q3'20,4,4.10,2.40,8,Intel Smart Cache,Intel UHD Graphics
+Core i5-9600T,Launched,Q2'19,6,3.90,2.30,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-9600K,Launched,Q4'18,6,4.60,3.70,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-9600KF,Launched,Q1'19,6,4.60,3.70,9,Intel Smart Cache,N/A
+Core i5-9600,Launched,Q2'19,6,4.60,3.10,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-9500TE,Launched,Q2'19,6,3.60,2.20,9,N/A,Intel UHD 630 Graphics
+Core i5-9500T,Launched,Q2'19,6,3.70,2.20,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-9500F,Launched,Q2'19,6,4.40,3.00,9,Intel Smart Cache,N/A
+Core i5-9500E,Launched,Q2'19,6,4.20,3.00,9,N/A,Intel UHD 630 Graphics
+Core i5-9500,Launched,Q2'19,6,4.40,3.00,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-9400F,Launched,Q1'19,6,4.10,2.90,9,Intel Smart Cache,N/A
+Core i5-9400T,Launched,Q2'19,6,3.40,1.80,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-9400H,Launched,Q2'19,4,4.30,2.50,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-9400,Launched,Q1'19,6,4.10,2.90,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-9300HF,Launched,Q2'19,4,4.10,2.40,8,Intel Smart Cache,N/A
+Core i5-9300H,Launched,Q2'19,4,4.10,2.40,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-8600T,Launched,Q2'18,6,3.70,2.30,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-8600K,Launched,Q4'17,6,4.30,3.60,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-8600,Launched,Q2'18,6,4.30,3.10,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-8500T,Launched,Q2'18,6,3.50,2.10,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-8500B,Launched,Q2'18,6,4.10,3.00,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-8500,Launched,Q2'18,6,4.10,3.00,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5+8500 with Intel Optane Memory,Launched,Q2'18,6,4.10,3.00,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-8400T,Launched,Q2'18,6,3.30,1.70,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-8400H,Launched,Q2'18,4,4.20,2.50,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-8400B,Launched,Q2'18,6,4.00,2.80,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-8400,Launched,Q4'17,6,4.00,2.80,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5+8400 with Intel Optane Memory,Launched,Q2'18,6,4.00,2.80,9,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-8365UE,Launched,Q2'19,4,4.10,1.60,6,N/A,Intel UHD 620 Graphics
+Core i5-8365U,Launched,Q2'19,4,4.10,1.60,6,Intel Smart Cache,Intel UHD 620 Graphics
+Core i5-8350U,Launched,Q3'17,4,3.60,1.70,6,Intel Smart Cache,Intel UHD 620 Graphics
+Core i5-8310Y,Launched,Q1'19,2,3.90,1.60,4,Intel Smart Cache,Intel UHD 617 Graphics
+Core i5-8305G with Radeon RX Vega M GL Graphics,Announced,Q1'18,4,3.80,2.80,6,N/A,Intel HD 630 Graphics
+Core i5-8305G with Radeon Pro WX Vega M GL Graphics,Launched,Q3'18,4,3.80,2.80,6,N/A,Intel HD 630 Graphics
+Core i5-8300H,Launched,Q2'18,4,4.00,2.30,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i5-8279U,Launched,Q2'19,4,4.10,2.40,6,Intel Smart Cache,Intel Iris Plus Graphics 655
+Core i5-8269U,Launched,Q2'18,4,4.20,2.60,6,Intel Smart Cache,Intel Iris Plus Graphics 655
+Core i5-8265U,Launched,Q3'18,4,3.90,1.60,6,Intel Smart Cache,Intel UHD Graphics for 8th Gen Intel Processors
+Core i5-8260U,Launched,Q4'19,4,3.90,1.60,6,Intel Smart Cache,Intel UHD 620 Graphics
+Core i5-8259U,Launched,Q2'18,4,3.80,2.30,6,Intel Smart Cache,Intel Iris Plus Graphics 655
+Core i5-8257U,Launched,Q3'19,4,3.90,1.40,6,Intel Smart Cache,Intel Iris Plus Graphics 645
+Core i5-8250U,Launched,Q3'17,4,3.40,1.60,6,Intel Smart Cache,Intel UHD 620 Graphics
+Core i5-8210Y,Launched,Q1'19,2,3.60,1.60,4,Intel Smart Cache,Intel UHD 617 Graphics
+Core i5-8200Y,Launched,Q3'18,2,3.90,1.30,4,Intel Smart Cache,Intel UHD 615 Graphics
+Core i5-7600K,Discontinued,Q1'17,4,4.20,3.80,6,Intel Smart Cache,Intel HD 630 Graphics
+Core i5-7600T,Discontinued,Q1'17,4,3.70,2.80,6,Intel Smart Cache,Intel HD 630 Graphics
+Core i5-7600,Discontinued,Q1'17,4,4.10,3.50,6,Intel Smart Cache,Intel HD 630 Graphics
+Core i5-7500,Launched,Q1'17,4,3.80,3.40,6,Intel Smart Cache,Intel HD 630 Graphics
+Core i5-7500T,Launched,Q1'17,4,3.30,2.70,6,Intel Smart Cache,Intel HD 630 Graphics
+Core i5-7442EQ,Launched,Q1'17,4,2.90,2.10,6,N/A,Intel HD 630 Graphics
+Core i5-7440HQ,Launched,Q1'17,4,3.80,2.80,6,N/A,Intel HD 630 Graphics
+Core i5-7440EQ,Launched,Q1'17,4,3.60,2.90,6,N/A,Intel HD 630 Graphics
+Core i5-7400T,Discontinued,Q1'17,4,3.00,2.40,6,Intel Smart Cache,Intel HD 630 Graphics
+Core i5-7400,Discontinued,Q1'17,4,3.50,3.00,6,Intel Smart Cache,Intel HD 630 Graphics
+Core i5-7360U,Launched,Q1'17,2,3.60,2.30,4,N/A,Intel Iris Plus 640 Graphics
+Core i5-7300U,Launched,Q1'17,2,3.50,2.60,3,Intel Smart Cache,Intel HD 620 Graphics
+Core i5-7300HQ,Launched,Q1'17,4,3.50,2.50,6,N/A,Intel HD 630 Graphics
+Core i5-7287U,Launched,Q1'17,2,3.70,3.30,4,N/A,Intel Iris Plus 650 Graphics
+Core i5-7267U,Launched,Q1'17,2,3.50,3.10,4,N/A,Intel Iris Plus 650 Graphics
+Core i5-7260U,Launched,Q1'17,2,3.40,2.20,4,N/A,Intel Iris Plus 640 Graphics
+Core i5-7200U,Launched,Q3'16,2,3.10,2.50,3,Intel Smart Cache,Intel HD 620 Graphics
+Core i5-7Y54,Launched,Q3'16,2,3.20,1.20,4,Intel Smart Cache,Intel HD 615 Graphics
+Core i5-7Y57,Launched,Q1'17,2,3.30,1.20,4,Intel Smart Cache,Intel HD 615 Graphics
+Core i5-6600,Discontinued,Q3'15,4,3.90,3.30,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i5-6685R,Discontinued,Q2'16,4,3.80,3.20,6,N/A,Intel Iris Pro 580 Graphics
+Core i5-6600K,Discontinued,Q3'15,4,3.90,3.50,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i5-6600T,Discontinued,Q3'15,4,3.50,2.70,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i5-6585R,Discontinued,Q2'16,4,3.60,2.80,6,N/A,Intel Iris Pro 580 Graphics
+Core i5-6500,Launched,Q3'15,4,3.60,3.20,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i5-6500T,Discontinued,Q3'15,4,3.10,2.50,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i5-6500TE,Launched,Q4'15,4,3.30,2.30,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i5-6402P,Discontinued,Q4'15,4,3.40,2.80,6,N/A,Intel HD 510 Graphics
+Core i5-6400,Discontinued,Q3'15,4,3.30,2.70,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i5-6400T,Discontinued,Q3'15,4,2.80,2.20,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i5-6440EQ,Launched,Q4'15,4,3.40,2.70,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i5-6440HQ,Launched,Q3'15,4,3.50,2.60,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i5-6442EQ,Launched,Q4'15,4,2.70,1.90,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i5-6360U,Launched,Q3'15,2,3.10,2.00,4,Intel Smart Cache,Intel Iris 540 Graphics
+Core i5-6350HQ,Launched,Q1'16,4,3.20,2.30,6,Intel Smart Cache,Intel Iris Pro 580 Graphics
+Core i5-6300HQ,Launched,Q3'15,4,3.20,2.30,6,Intel Smart Cache,Intel HD 530 Graphics
+Core i5-6300U,Launched,Q3'15,2,3.00,2.40,3,Intel Smart Cache,Intel HD 520 Graphics
+Core i5-6200U,Launched,Q3'15,2,2.80,2.30,3,Intel Smart Cache,Intel HD 520 Graphics
+Core i5-6260U,Launched,Q3'15,2,2.90,1.80,4,Intel Smart Cache,Intel Iris 540 Graphics
+Core i5-6267U,Launched,Q3'15,2,3.30,2.90,4,Intel Smart Cache,Intel Iris 550 Graphics
+Core i5-6287U,Launched,Q3'15,2,3.50,3.10,4,Intel Smart Cache,Intel Iris 550 Graphics
+Core i5-5675R,Discontinued,Q2'15,4,3.60,3.10,4,N/A,Intel Iris Pro 6200 Graphics
+Core i5-5675C,Launched,Q2'15,4,3.60,3.10,4,N/A,Intel Iris Pro 6200 Graphics
+Core i5-5575R,Discontinued,Q2'15,4,3.30,2.80,4,N/A,Intel Iris Pro 6200 Graphics
+Core i5-5350U,Launched,Q1'15,2,2.90,1.80,3,N/A,Intel HD 6000 Graphics
+Core i5-5350H,Launched,Q2'15,2,3.50,3.10,4,N/A,Intel Iris Pro 6200 Graphics
+Core i5-5300U,Launched,Q1'15,2,2.90,2.30,3,N/A,Intel HD 5500 Graphics
+Core i5-5287U,Launched,Q1'15,2,3.30,2.90,3,N/A,Intel Iris 6100 Graphics
+Core i5-5257U,Launched,Q1'15,2,3.10,2.70,3,N/A,Intel Iris 6100 Graphics
+Core i5-5250U,Launched,Q1'15,2,2.70,1.60,3,N/A,Intel HD 6000 Graphics
+Core i5-5200U,Launched,Q1'15,2,2.70,2.20,3,N/A,Intel HD 5500 Graphics
+Core i5-4670,Discontinued,Q2'13,4,3.80,3.40,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4670K,Discontinued,Q2'13,4,3.80,3.40,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4670R,Discontinued,Q2'13,4,3.70,3.00,4,Intel Smart Cache,Intel Iris Pro 5200 Graphics
+Core i5-4670S,Discontinued,Q2'13,4,3.80,3.10,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4670T,Discontinued,Q2'13,4,3.30,2.30,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4690,Discontinued,Q2'14,4,3.90,3.50,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4690K,Discontinued,Q2'14,4,3.90,3.50,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4690S,Discontinued,Q2'14,4,3.90,3.20,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4690T,Discontinued,Q2'14,4,3.50,2.50,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4570,Discontinued,Q2'13,4,3.60,3.20,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4570R,Discontinued,Q2'13,4,3.20,2.70,4,Intel Smart Cache,Intel Iris Pro 5200 Graphics
+Core i5-4570S,Launched,Q2'13,4,3.60,2.90,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4570T,Discontinued,Q2'13,2,3.60,2.90,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4570TE,Launched,Q2'13,2,3.30,2.70,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4590,Discontinued,Q2'14,4,3.70,3.30,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4590S,Launched,Q2'14,4,3.70,3.00,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4590T,Launched,Q2'14,4,3.00,2.00,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4422E,Launched,Q2'14,2,2.90,1.80,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4410E,Launched,Q2'14,2,N/A,2.90,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4402EC,Launched,Q1'14,2,N/A,2.50,4,Intel Smart Cache,N/A
+Core i5-4402E,Launched,Q3'13,2,2.70,1.60,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4400E,Launched,Q3'13,2,3.30,2.70,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4460T,Discontinued,Q2'14,4,2.70,1.90,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4460S,Discontinued,Q2'14,4,3.40,2.90,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4460,Discontinued,Q2'14,4,3.40,3.20,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4440S,Discontinued,Q3'13,4,3.30,2.80,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4440,Discontinued,Q3'13,4,3.30,3.10,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4430S,Discontinued,Q2'13,4,3.20,2.70,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4430,Discontinued,Q2'13,4,3.20,3.00,6,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4300M,Launched,Q4'13,2,3.30,2.60,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4300U,Launched,Q3'13,2,2.90,1.90,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i5-4300Y,Launched,Q3'13,2,2.30,1.60,3,Intel Smart Cache,Intel HD 4200 Graphics
+Core i5-4302Y,Launched,Q3'13,2,2.30,1.60,3,Intel Smart Cache,Intel HD 4200 Graphics
+Core i5-4308U,Launched,Q3'14,2,3.30,2.80,3,N/A,Intel Iris 5100 Graphics
+Core i5-4310M,Launched,Q1'14,2,3.40,2.70,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4310U,Launched,Q1'14,2,3.00,2.00,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i5-4330M,Launched,Q4'13,2,3.50,2.80,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4340M,Launched,Q1'14,2,3.60,2.90,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4350U,Launched,Q3'13,2,2.90,1.40,3,Intel Smart Cache,Intel HD 5000 Graphics
+Core i5-4360U,Launched,Q1'14,2,3.00,1.50,3,Intel Smart Cache,Intel HD 5000 Graphics
+Core i5-4200H,Launched,Q4'13,2,3.40,2.80,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4200M,Launched,Q4'13,2,3.10,2.50,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4200U,Launched,Q3'13,2,2.60,1.60,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i5-4200Y,Launched,Q3'13,2,1.90,1.40,3,Intel Smart Cache,Intel HD 4200 Graphics
+Core i5-4202Y,Launched,Q3'13,2,2.00,1.60,3,Intel Smart Cache,Intel HD 4200 Graphics
+Core i5-4210H,Launched,Q3'14,2,3.50,2.90,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4210M,Launched,Q2'14,2,3.20,2.60,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i5-4210U,Launched,Q2'14,2,2.70,1.70,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i5-4210Y,Launched,Q3'13,2,1.90,1.50,3,Intel Smart Cache,Intel HD 4200 Graphics
+Core i5-4220Y,Launched,Q2'14,2,2.00,1.60,3,N/A,Intel HD 4200 Graphics
+Core i5-4250U,Launched,Q3'13,2,2.60,1.30,3,Intel Smart Cache,Intel HD 5000 Graphics
+Core i5-4258U,Launched,Q3'13,2,2.90,2.40,3,Intel Smart Cache,Intel Iris 5100 Graphics
+Core i5-4260U,Discontinued,Q2'14,2,2.70,1.40,3,Intel Smart Cache,Intel HD 5000 Graphics
+Core i5-4278U,Launched,Q3'14,2,3.10,2.60,3,N/A,Intel Iris 5100 Graphics
+Core i5-4288U,Launched,Q3'13,2,3.10,2.60,3,Intel Smart Cache,Intel Iris 5100 Graphics
+Core i3-1125G4,Announced,Q3'20,4,3.70,N/A,8,Intel Smart Cache,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-1120G4,Announced,Q3'20,4,3.50,N/A,8,Intel Smart Cache,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-1115GRE,Launched,Q3'20,2,3.90,2.20,6,Intel Smart Cache,Intel UHD Graphics
+Core i3-1115G4E,Launched,Q3'20,2,3.90,2.20,6,Intel Smart Cache,Intel UHD Graphics
+Core i3-1115G4,Launched,Q3'20,2,4.10,N/A,6,Intel Smart Cache,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-1110G4,Announced,Q3'20,2,3.90,N/A,6,Intel Smart Cache,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-10320,Launched,Q2'20,4,4.60,3.80,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-10300T,Launched,Q2'20,4,3.90,3.00,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-10300,Launched,Q2'20,4,4.40,3.70,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-10110U,Launched,Q3'19,2,4.10,2.10,4,Intel Smart Cache,Intel UHD Graphics
+Core i3-10110Y,Launched,Q3'19,2,4.00,1.00,4,Intel Smart Cache,Intel UHD Graphics
+Core i3-10100TE,Launched,Q2'20,4,3.60,2.30,6,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-10100T,Launched,Q2'20,4,3.80,3.00,6,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-10100F,Launched,Q4'20,4,4.30,3.60,6,Intel Smart Cache,N/A
+Core i3-10100E,Launched,Q2'20,4,3.80,3.20,6,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-10100,Launched,Q2'20,4,4.30,3.60,6,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-1000G4,Launched,Q3'19,2,3.20,1.10,4,Intel Smart Cache,Intel Iris Plus Graphics
+Core i3-1000G1,Launched,Q3'19,2,3.20,1.10,4,Intel Smart Cache,Intel UHD Graphics
+Core i3-1005G1,Launched,Q3'19,2,3.40,1.20,4,Intel Smart Cache,Intel UHD Graphics
+Core i3-9350KF,Launched,Q1'19,4,4.60,4.00,8,Intel Smart Cache,N/A
+Core i3-9350K,Launched,Q2'19,4,4.60,4.00,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-9320,Launched,Q2'19,4,4.40,3.70,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-9300T,Launched,Q2'19,4,3.80,3.20,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-9300,Launched,Q2'19,4,4.30,3.70,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-9100TE,Launched,Q2'19,4,3.20,2.20,6,N/A,Intel UHD 630 Graphics
+Core i3-9100T,Launched,Q2'19,4,3.70,3.10,6,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-9100HL,Launched,Q2'19,4,2.90,1.60,6,N/A,Intel UHD 630 Graphics
+Core i3-9100F,Launched,Q2'19,4,4.20,3.60,6,Intel Smart Cache,N/A
+Core i3-9100E,Launched,Q2'19,4,3.70,3.10,6,N/A,Intel UHD 630 Graphics
+Core i3-9100,Launched,Q2'19,4,4.20,3.60,6,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-8350,Launched,Q4'17,4,N/A,4.00,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-8300,Launched,Q2'18,4,N/A,3.70,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-8300T,Launched,Q2'18,4,N/A,3.20,8,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-8145UE,Launched,Q2'19,2,3.90,2.20,4,N/A,Intel UHD 620 Graphics
+Core i3-8145U,Launched,Q3'18,2,3.90,2.10,4,Intel Smart Cache,Intel UHD Graphics for 8th Gen Intel Processors
+Core i3-8140U,Launched,Q4'19,2,3.90,2.10,4,Intel Smart Cache,Intel UHD 620 Graphics
+Core i3-8130U,Launched,Q1'18,2,3.40,2.20,4,Intel Smart Cache,Intel UHD 620 Graphics
+Core i3-8109U,Launched,Q2'18,2,3.60,3.00,4,Intel Smart Cache,Intel Iris Plus Graphics 655
+Core i3-8100H,Launched,Q3'18,4,N/A,3.00,6,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-8100B,Launched,Q3'18,4,N/A,3.60,6,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-8100,Launched,Q4'17,4,N/A,3.60,6,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-8100T,Launched,Q2'18,4,N/A,3.10,6,Intel Smart Cache,Intel UHD 630 Graphics
+Core i3-7350K,Discontinued,Q1'17,2,N/A,4.20,4,Intel Smart Cache,Intel HD 630 Graphics
+Core i3-7320,Discontinued,Q1'17,2,N/A,4.10,4,Intel Smart Cache,Intel HD 630 Graphics
+Core i3-7300,Discontinued,Q1'17,2,N/A,4.00,4,Intel Smart Cache,Intel HD 630 Graphics
+Core i3-7300T,Discontinued,Q1'17,2,N/A,3.50,4,Intel Smart Cache,Intel HD 630 Graphics
+Core i3-7130U,Launched,Q2'17,2,N/A,2.70,3,Intel Smart Cache,Intel HD 620 Graphics
+Core i3-7102E,Launched,Q1'17,2,N/A,2.10,3,N/A,Intel HD 630 Graphics
+Core i3-7101E,Launched,Q1'17,2,N/A,3.90,3,Intel Smart Cache,Intel HD 630 Graphics
+Core i3-7101TE,Launched,Q1'17,2,N/A,3.40,3,Intel Smart Cache,Intel HD 630 Graphics
+Core i3-7100T,Discontinued,Q1'17,2,N/A,3.40,3,Intel Smart Cache,Intel HD 630 Graphics
+Core i3-7100E,Launched,Q1'17,2,N/A,2.90,3,N/A,Intel HD 630 Graphics
+Core i3-7100,Discontinued,Q1'17,2,N/A,3.90,3,Intel Smart Cache,Intel HD 630 Graphics
+Core i3-7167U,Launched,Q1'17,2,N/A,2.80,3,N/A,Intel Iris Plus 650 Graphics
+Core i3-7100U,Launched,Q3'16,2,N/A,2.40,3,Intel Smart Cache,Intel HD 620 Graphics
+Core i3-7100H,Launched,Q1'17,2,N/A,3.00,3,N/A,Intel HD 630 Graphics
+Core i3-7020U,Launched,Q2'18,2,N/A,2.30,3,Intel Smart Cache,Intel HD 620 Graphics
+Core i3-6300,Discontinued,Q3'15,2,N/A,3.80,4,Intel Smart Cache,Intel HD 530 Graphics
+Core i3-6300T,Discontinued,Q3'15,2,N/A,3.30,4,Intel Smart Cache,Intel HD 530 Graphics
+Core i3-6320,Discontinued,Q3'15,2,N/A,3.90,4,Intel Smart Cache,Intel HD 530 Graphics
+Core i3-6100E,Launched,Q4'15,2,N/A,2.70,3,Intel Smart Cache,Intel HD 530 Graphics
+Core i3-6100H,Launched,Q3'15,2,N/A,2.70,3,Intel Smart Cache,Intel HD 530 Graphics
+Core i3-6100U,Launched,Q3'15,2,N/A,2.30,3,Intel Smart Cache,Intel HD 520 Graphics
+Core i3-6102E,Launched,Q4'15,2,N/A,1.90,3,Intel Smart Cache,Intel HD 530 Graphics
+Core i3-6157U,Launched,Q3'16,2,N/A,2.40,3,Intel Smart Cache,Intel Iris 550 Graphics
+Core i3-6167U,Launched,Q3'15,2,N/A,2.70,3,Intel Smart Cache,Intel Iris 550 Graphics
+Core i3-6100,Launched,Q3'15,2,N/A,3.70,3,Intel Smart Cache,Intel HD 530 Graphics
+Core i3-6100T,Discontinued,Q3'15,2,N/A,3.20,3,Intel Smart Cache,Intel HD 530 Graphics
+Core i3-6100TE,Launched,Q4'15,2,N/A,2.70,4,Intel Smart Cache,Intel HD 530 Graphics
+Core i3-6006U,Launched,Q4'16,2,N/A,2.00,3,Intel Smart Cache,Intel HD 520 Graphics
+Core i3-6098P,Discontinued,Q4'15,2,N/A,3.60,3,N/A,Intel HD 510 Graphics
+Core i3-5157U,Launched,Q1'15,2,N/A,2.50,3,N/A,Intel Iris 6100 Graphics
+Core i3-5020U,Launched,Q1'15,2,N/A,2.20,3,N/A,Intel HD 5500 Graphics
+Core i3-5015U,Launched,Q1'15,2,N/A,2.10,3,N/A,Intel HD 5500 Graphics
+Core i3-5010U,Launched,Q1'15,2,N/A,2.10,3,N/A,Intel HD 5500 Graphics
+Core i3-5005U,Launched,Q1'15,2,N/A,2.00,3,N/A,Intel HD 5500 Graphics
+Core i3-4330,Launched,Q3'13,2,N/A,3.50,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4330T,Discontinued,Q3'13,2,N/A,3.00,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4300TE,Launched,Q3'13,2,N/A,2.40,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4340,Discontinued,Q3'13,2,N/A,3.60,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4340TE,Launched,Q2'14,2,N/A,2.60,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4350,Discontinued,Q2'14,2,N/A,3.60,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4350T,Launched,Q2'14,2,N/A,3.10,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4360,Launched,Q2'14,2,N/A,3.70,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4360T,Discontinued,Q3'14,2,N/A,3.20,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4370,Discontinued,Q3'14,2,N/A,3.80,4,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4370T,Discontinued,Q1'15,2,N/A,3.30,4,N/A,Intel HD 4600 Graphics
+Core i3-4100E,Launched,Q3'13,2,N/A,2.40,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4100M,Launched,Q4'13,2,N/A,2.50,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4100U,Launched,Q3'13,2,N/A,1.80,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i3-4102E,Launched,Q3'13,2,N/A,1.60,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4110E,Launched,Q2'14,2,N/A,2.60,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4110M,Launched,Q2'14,2,N/A,2.60,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4112E,Launched,Q2'14,2,N/A,1.80,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4120U,Launched,Q2'14,2,N/A,2.00,3,N/A,Intel HD 4400 Graphics
+Core i3-4158U,Launched,Q3'13,2,N/A,2.00,3,Intel Smart Cache,Intel Iris 5100 Graphics
+Core i3-4170T,Discontinued,Q1'15,2,N/A,3.20,3,N/A,Intel HD 4400 Graphics
+Core i3-4170,Discontinued,Q1'15,2,N/A,3.70,3,N/A,Intel HD 4400 Graphics
+Core i3-4160T,Discontinued,Q3'14,2,N/A,3.10,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i3-4160,Discontinued,Q3'14,2,N/A,3.60,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i3-4150T,Discontinued,Q2'14,2,N/A,3.00,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i3-4150,Discontinued,Q2'14,2,N/A,3.50,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i3-4130T,Discontinued,Q3'13,2,N/A,2.90,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i3-4130,Discontinued,Q3'13,2,N/A,3.40,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i3-4000M,Launched,Q4'13,2,N/A,2.40,3,Intel Smart Cache,Intel HD 4600 Graphics
+Core i3-4005M,Launched,Q3'13,2,N/A,1.70,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i3-4010U,Launched,Q3'13,2,N/A,1.70,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i3-4010Y,Launched,Q3'13,2,N/A,1.30,3,Intel Smart Cache,Intel HD 4200 Graphics
+Core i3-4012Y,Launched,Q3'13,2,N/A,1.50,3,Intel Smart Cache,Intel HD 4200 Graphics
+Core i3-4020Y,Launched,Q3'13,2,N/A,1.50,3,Intel Smart Cache,Intel HD 4200 Graphics
+Core i3-4025U,Launched,Q2'14,2,N/A,1.90,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i3-4030U,Launched,Q2'14,2,N/A,1.90,3,Intel Smart Cache,Intel HD 4400 Graphics
+Core i3-4030Y,Launched,Q2'14,2,N/A,1.60,3,Intel Smart Cache,Intel HD 4200 Graphics
+Core m3-8100Y,Launched,Q3'18,2,3.40,1.10,4,Intel Smart Cache,Intel UHD 615 Graphics
+Core m3-7Y32,Launched,Q2'17,2,3.00,1.10,4,Intel Smart Cache,Intel HD 615 Graphics
+Core m3-7Y30,Launched,Q3'16,2,2.60,1.00,4,Intel Smart Cache,Intel HD 615 Graphics
+Core m7-6Y75,Launched,Q3'15,2,3.10,1.20,4,Intel Smart Cache,Intel HD 515 Graphics
+Core m5-6Y57,Launched,Q3'15,2,2.80,1.10,4,Intel Smart Cache,Intel HD 515 Graphics
+Core m5-6Y54,Launched,Q3'15,2,2.70,1.10,4,Intel Smart Cache,Intel HD 515 Graphics
+Core m3-6Y30,Launched,Q3'15,2,2.20,0.90,4,Intel Smart Cache,Intel HD 515 Graphics
+Core M-5Y71,Launched,Q4'14,2,2.90,1.20,4,N/A,Intel HD 5300 Graphics
+Core M-5Y70,Launched,Q3'14,2,2.60,1.10,4,N/A,Intel HD 5300 Graphics
+Core M-5Y51,Launched,Q4'14,2,2.60,1.10,4,N/A,Intel HD 5300 Graphics
+Core M-5Y31,Launched,Q4'14,2,2.40,0.90,4,N/A,Intel HD 5300 Graphics
+Core M-5Y10c,Launched,Q4'14,2,2.00,0.80,4,N/A,Intel HD 5300 Graphics
+Core M-5Y10a,Launched,Q3'14,2,2.00,0.80,4,N/A,Intel HD 5300 Graphics
+Core M-5Y10,Launched,Q3'14,2,2.00,0.80,4,N/A,Intel HD 5300 Graphics
+Core i7-2960XM Extreme Edition,Discontinued,Q4'11,4,3.70,2.70,8,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2920XM Extreme Edition,Discontinued,Q1'11,4,3.50,2.50,8,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-990X Extreme Edition,Discontinued,Q1'11,6,3.73,3.46,12,Intel Smart Cache,N/A
+Core i7-980X Extreme Edition,Discontinued,Q1'10,6,3.60,3.33,12,Intel Smart Cache,N/A
+Core i7-975 Extreme Edition,Discontinued,Q2'09,4,3.60,3.33,8,Intel Smart Cache,N/A
+Core i7-965 Extreme Edition,Discontinued,Q4'08,4,3.46,3.20,8,Intel Smart Cache,N/A
+Core i7-940XM Extreme Edition,Discontinued,Q3'10,4,3.33,2.13,8,Intel Smart Cache,N/A
+Core i7-920XM Extreme Edition,Discontinued,Q3'09,4,3.20,2.00,8,Intel Smart Cache,N/A
+Core2 X9100 Extreme,Discontinued,Q3'08,2,N/A,3.06,6,L2 Cache,N/A
+Core2 X9000 Extreme,Discontinued,Q1'08,2,N/A,2.80,6,L2 Cache,N/A
+Core2 X7900 Extreme,Discontinued,Q3'07,2,N/A,2.80,4,L2 Cache,N/A
+Core2 X7800 Extreme,Discontinued,Q3'07,2,N/A,2.60,4,L2 Cache,N/A
+Core2 X6800 Extreme,Discontinued,Q3'06,2,N/A,2.93,4,L2 Cache,N/A
+Core2 QX9775 Extreme,Discontinued,Q1'08,4,N/A,3.20,12,L2 Cache,N/A
+Core2 QX9770 Extreme,Discontinued,Q1'08,4,N/A,3.20,12,L2 Cache,N/A
+Core2 QX9650 Extreme,Discontinued,Q4'07,4,N/A,3.00,12,L2 Cache,N/A
+Core2 QX9300 Extreme,Discontinued,Q3'08,4,N/A,2.53,12,L2 Cache,N/A
+Core2 QX6850 Extreme,Discontinued,Q3'07,4,N/A,3.00,8,L2 Cache,N/A
+Core2 QX6800 Extreme,Discontinued,Q2'07,4,N/A,2.93,8,L2 Cache,N/A
+Core2 QX6700 Extreme,Discontinued,Q4'06,4,N/A,2.66,8,L2 Cache,N/A
+Core i7-3840QM,Launched,Q3'12,4,3.80,2.80,8,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3820QM,Launched,Q2'12,4,3.70,2.70,8,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3770T,Discontinued,Q2'12,4,3.70,2.50,8,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3770S,Discontinued,Q2'12,4,3.90,3.10,8,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3770K,Discontinued,Q2'12,4,3.90,3.50,8,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3770,Discontinued,Q2'12,4,3.90,3.40,8,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3740QM,Launched,Q3'12,4,3.70,2.70,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3720QM,Launched,Q2'12,4,3.60,2.60,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3689Y,Launched,Q1'13,2,2.60,1.50,4,N/A,Intel HD 4000 Graphics
+Core i7-3687U,Launched,Q1'13,2,3.30,2.10,4,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3667U,Launched,Q2'12,2,3.20,2.00,4,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3635QM,Launched,Q3'12,4,3.40,2.40,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3632QM,Launched,Q3'12,4,3.20,2.20,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3630QM,Launched,Q3'12,4,3.40,2.40,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3615QM,Launched,Q2'12,4,3.30,2.30,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3615QE,Launched,Q2'12,4,3.30,2.30,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3612QM,Launched,Q2'12,4,3.10,2.10,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3612QE,Launched,Q2'12,4,3.10,2.10,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3610QM,Launched,Q2'12,4,3.30,2.30,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3610QE,Launched,Q2'12,4,3.30,2.30,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3555LE,Launched,Q2'12,2,3.20,2.50,4,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3540M,Launched,Q1'13,2,3.70,3.00,4,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3537U,Launched,Q1'13,2,3.10,2.00,4,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3520M,Launched,Q2'12,2,3.60,2.90,4,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3517UE,Launched,Q2'12,2,2.80,1.70,4,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-3517U,Launched,Q2'12,2,3.00,1.90,4,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3610ME,Launched,Q2'12,2,3.30,2.70,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3570S,Discontinued,Q2'12,4,3.80,3.10,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3570T,Discontinued,Q2'12,4,3.30,2.30,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3570K,Discontinued,Q2'12,4,3.80,3.40,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3570,Discontinued,Q2'12,4,3.80,3.40,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3550S,Launched,Q2'12,4,3.70,3.00,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3550,Discontinued,Q2'12,4,3.70,3.30,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3475S,Discontinued,Q2'12,4,3.60,2.90,6,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3470T,Discontinued,Q2'12,2,3.60,2.90,3,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3470S,Discontinued,Q2'12,4,3.60,2.90,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3470,Discontinued,Q2'12,4,3.60,3.20,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3450S,Discontinued,Q2'12,4,3.50,2.80,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3450,Discontinued,Q2'12,4,3.50,3.10,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3439Y,Launched,Q1'13,2,2.30,1.50,3,N/A,Intel HD 4000 Graphics
+Core i5-3437U,Launched,Q1'13,2,2.90,1.90,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3427U,Launched,Q2'12,2,2.80,1.80,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3380M,Launched,Q1'13,2,3.60,2.90,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3360M,Launched,Q2'12,2,3.50,2.80,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3350P,Discontinued,Q3'12,4,3.30,3.10,6,Intel Smart Cache,N/A
+Core i5-3340S,Discontinued,Q3'13,4,3.30,2.80,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3340M,Launched,Q1'13,2,3.40,2.70,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3340,Discontinued,Q3'13,4,3.30,3.10,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3339Y,Launched,Q1'13,2,2.00,1.50,3,N/A,Intel HD 4000 Graphics
+Core i5-3337U,Launched,Q1'13,2,2.70,1.80,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3330S,Discontinued,Q3'12,4,3.20,2.70,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3330,Discontinued,Q3'12,4,3.20,3.00,6,Intel Smart Cache,Intel HD 2500 Graphics
+Core i5-3320M,Launched,Q2'12,2,3.30,2.60,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3317U,Launched,Q2'12,2,2.60,1.70,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3230M,Launched,Q1'13,2,3.20,2.60,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i5-3210M,Launched,Q2'12,2,3.10,2.50,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i3-3250T,Discontinued,Q2'13,2,N/A,3.00,3,Intel Smart Cache,Intel HD 2500 Graphics
+Core i3-3250,Discontinued,Q2'13,2,N/A,3.50,3,Intel Smart Cache,Intel HD 2500 Graphics
+Core i3-3245,Discontinued,Q2'13,2,N/A,3.40,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i3-3240T,Discontinued,Q3'12,2,N/A,2.90,3,Intel Smart Cache,Intel HD 2500 Graphics
+Core i3-3240,Discontinued,Q3'12,2,N/A,3.40,3,Intel Smart Cache,Intel HD 2500 Graphics
+Core i3-3229U,Launched,Q1'13,2,N/A,1.40,3,N/A,Intel HD 4000 Graphics
+Core i3-3227U,Launched,Q1'13,2,N/A,1.90,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i3-3225,Discontinued,Q3'12,2,N/A,3.30,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i3-3220T,Discontinued,Q3'12,2,N/A,2.80,3,Intel Smart Cache,Intel HD 2500 Graphics
+Core i3-3220,Discontinued,Q3'12,2,N/A,3.30,3,Intel Smart Cache,Intel HD 2500 Graphics
+Core i3-3217UE,Launched,Q3'12,2,N/A,1.60,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i3-3217U,Launched,Q2'12,2,N/A,1.80,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i3-3210,Discontinued,Q1'13,2,N/A,3.20,3,Intel Smart Cache,Intel HD 2500 Graphics
+Core i3-3130M,Launched,Q1'13,2,N/A,2.60,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i3-3120ME,Launched,Q3'12,2,N/A,2.40,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i3-3120M,Launched,Q3'12,2,N/A,2.50,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i3-3115C,Launched,Q3'13,2,N/A,2.50,4,L3 Cache,N/A
+Core i3-3110M,Launched,Q2'12,2,N/A,2.40,3,Intel Smart Cache,Intel HD 4000 Graphics
+Core i7-2860QM,Discontinued,Q4'11,4,3.60,2.50,8,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2820QM,Discontinued,Q1'11,4,3.40,2.30,8,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2760QM,Discontinued,Q4'11,4,3.50,2.40,6,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2720QM,Discontinued,Q1'11,4,3.30,2.20,6,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2715QE,Discontinued,Q1'11,4,3.00,2.10,6,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2710QE,Discontinued,Q1'11,4,3.00,2.10,6,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2700K,Discontinued,Q4'11,4,3.90,3.50,8,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2677M,Discontinued,Q2'11,2,2.90,1.80,4,L3 Cache,Intel HD 3000 Graphics
+Core i7-2670QM,Discontinued,Q4'11,4,3.10,2.20,6,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2675QM,Discontinued,Q4'11,4,3.10,2.20,6,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2657M,Discontinued,Q1'11,2,2.70,1.60,4,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2655LE,Discontinued,Q1'11,2,2.90,2.20,4,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2649M,Discontinued,Q1'11,2,3.20,2.30,4,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2640M,Discontinued,Q4'11,2,3.50,2.80,4,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2637M,Discontinued,Q2'11,2,2.80,1.70,4,L3 Cache,Intel HD 3000 Graphics
+Core i7-2635QM,Discontinued,Q1'11,4,2.90,2.00,6,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2630QM,Discontinued,Q1'11,4,2.90,2.00,6,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2629M,Discontinued,Q1'11,2,3.00,2.10,4,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2620M,Discontinued,Q1'11,2,3.40,2.70,4,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2617M,Discontinued,Q1'11,2,2.60,1.50,4,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2610UE,Discontinued,Q1'11,2,2.40,1.50,4,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2600S,Discontinued,Q1'11,4,3.80,2.80,8,Intel Smart Cache,Intel HD 2000 Graphics
+Core i7-2600K,Discontinued,Q1'11,4,3.80,3.40,8,Intel Smart Cache,Intel HD 3000 Graphics
+Core i7-2600,Discontinued,Q1'11,4,3.80,3.40,8,Intel Smart Cache,Intel HD 2000 Graphics
+Core i5-2557M,Discontinued,Q2'11,2,2.70,1.70,3,L3 Cache,Intel HD 3000 Graphics
+Core i5-2550K,Discontinued,Q1'12,4,3.80,3.40,6,Intel Smart Cache,N/A
+Core i5-2540M,Discontinued,Q1'11,2,3.30,2.60,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i5-2537M,Discontinued,Q1'11,2,2.30,1.40,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i5-2520M,Discontinued,Q1'11,2,3.20,2.50,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i5-2515E,Discontinued,Q1'11,2,3.10,2.50,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i5-2510E,Discontinued,Q1'11,2,3.10,2.50,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i5-2500T,Discontinued,Q1'11,4,3.30,2.30,6,Intel Smart Cache,Intel HD 2000 Graphics
+Core i5-2500S,Discontinued,Q1'11,4,3.70,2.70,6,Intel Smart Cache,Intel HD 2000 Graphics
+Core i5-2500K,Discontinued,Q1'11,4,3.70,3.30,6,Intel Smart Cache,Intel HD 3000 Graphics
+Core i5-2500,Discontinued,Q1'11,4,3.70,3.30,6,Intel Smart Cache,Intel HD 2000 Graphics
+Core i5-2467M,Discontinued,Q2'11,2,2.30,1.60,3,L3 Cache,Intel HD 3000 Graphics
+Core i5-2450P,Discontinued,Q1'12,4,3.50,3.20,6,Intel Smart Cache,N/A
+Core i5-2450M,Discontinued,Q1'12,2,3.10,2.50,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i5-2435M,Discontinued,Q4'11,2,3.00,2.40,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i5-2430M,Discontinued,Q4'11,2,3.00,2.40,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i5-2410M,Discontinued,Q1'11,2,2.90,2.30,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i5-2405S,Discontinued,Q2'11,4,3.30,2.50,6,Intel Smart Cache,Intel HD 3000 Graphics
+Core i5-2400S,Discontinued,Q1'11,4,3.30,2.50,6,Intel Smart Cache,Intel HD 2000 Graphics
+Core i5-2400,Discontinued,Q1'11,4,3.40,3.10,6,Intel Smart Cache,Intel HD 2000 Graphics
+Core i5-2390T,Discontinued,Q1'11,2,3.50,2.70,3,Intel Smart Cache,Intel HD 2000 Graphics
+Core i5-2380P,Discontinued,Q1'12,4,3.40,3.10,6,Intel Smart Cache,N/A
+Core i5-2320,Discontinued,Q3'11,4,3.30,3.00,6,Intel Smart Cache,Intel HD 2000 Graphics
+Core i5-2310,Discontinued,Q2'11,4,3.20,2.90,6,Intel Smart Cache,Intel HD 2000 Graphics
+Core i5-2300,Discontinued,Q1'11,4,3.10,2.80,6,Intel Smart Cache,Intel HD 2000 Graphics
+Core i3-2377M,Discontinued,Q2'12,2,N/A,1.50,3,Intel Smart Cache,N/A
+Core i3-2375M,Discontinued,Q1'13,2,N/A,1.50,3,Intel Smart Cache,N/A
+Core i3-2370M,Discontinued,Q1'12,2,N/A,2.40,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i3-2367M,Discontinued,Q4'11,2,N/A,1.40,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i3-2365M,Discontinued,Q3'12,2,N/A,1.40,3,Intel Smart Cache,N/A
+Core i3-2357M,Discontinued,Q2'11,2,N/A,1.30,3,L3 Cache,Intel HD 3000 Graphics
+Core i3-2350M,Discontinued,Q4'11,2,N/A,2.30,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i3-2348M,Discontinued,Q1'13,2,N/A,2.30,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i3-2340UE,Discontinued,Q2'11,2,N/A,1.30,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i3-2330M,Discontinued,Q2'11,2,N/A,2.20,3,L3 Cache,Intel HD 3000 Graphics
+Core i3-2330E,Discontinued,Q2'11,2,N/A,2.20,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i3-2328M,Discontinued,Q3'12,2,N/A,2.20,3,N/A,Intel HD 3000 Graphics
+Core i3-2312M,Discontinued,Q2'11,2,N/A,2.10,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i3-2310M,Discontinued,Q1'11,2,N/A,2.10,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i3-2310E,Discontinued,Q1'11,2,N/A,2.10,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i3-2130,Discontinued,Q3'11,2,N/A,3.40,3,Intel Smart Cache,Intel HD 2000 Graphics
+Core i3-2125,Discontinued,Q3'11,2,N/A,3.30,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i3-2120T,Discontinued,Q3'11,2,N/A,2.60,3,Intel Smart Cache,Intel HD 2000 Graphics
+Core i3-2120,Discontinued,Q1'11,2,N/A,2.00,3,Intel Smart Cache,Intel HD 2000 Graphics
+Core i3-2115C,Launched,Q2'12,2,N/A,2.00,3,Intel Smart Cache,N/A
+Core i3-2105,Discontinued,Q2'11,2,N/A,3.10,3,Intel Smart Cache,Intel HD 3000 Graphics
+Core i3-2102,Discontinued,Q2'11,2,N/A,3.10,3,Intel Smart Cache,Intel HD 2000 Graphics
+Core i3-2100T,Discontinued,Q1'11,2,N/A,2.50,3,Intel Smart Cache,Intel HD 2000 Graphics
+Core i3-2100,Discontinued,Q1'11,2,N/A,3.10,3,Intel Smart Cache,Intel HD 2000 Graphics
+Core i7-980,Discontinued,Q2'11,6,3.60,3.33,12,Intel Smart Cache,N/A
+Core i7-970,Discontinued,Q3'10,6,3.46,3.20,12,Intel Smart Cache,N/A
+Core i7-960,Discontinued,Q4'09,4,3.46,3.20,8,Intel Smart Cache,N/A
+Core i7-950,Discontinued,Q2'09,4,3.33,3.06,8,Intel Smart Cache,N/A
+Core i7-940,Discontinued,Q4'08,4,3.20,2.93,8,Intel Smart Cache,N/A
+Core i7-930,Discontinued,Q1'10,4,3.06,2.80,8,Intel Smart Cache,N/A
+Core i7-920,Discontinued,Q4'08,4,2.93,2.66,8,Intel Smart Cache,N/A
+Core i7-880,Discontinued,Q2'10,4,3.73,3.06,8,Intel Smart Cache,N/A
+Core i7-875K,Discontinued,Q2'10,4,3.60,2.93,8,Intel Smart Cache,N/A
+Core i7-870S,Discontinued,Q2'10,4,3.60,2.66,8,Intel Smart Cache,N/A
+Core i7-870,Discontinued,Q3'09,4,3.60,2.93,8,Intel Smart Cache,N/A
+Core i7-860S,Discontinued,Q1'10,4,3.46,2.53,8,Intel Smart Cache,N/A
+Core i7-860,Discontinued,Q3'09,4,3.46,2.80,8,Intel Smart Cache,N/A
+Core i7-840QM,Discontinued,Q3'10,4,3.20,1.86,8,Intel Smart Cache,N/A
+Core i7-820QM,Discontinued,Q3'09,4,3.06,1.73,8,Intel Smart Cache,N/A
+Core i7-740QM,Discontinued,Q3'10,4,2.93,1.73,6,Intel Smart Cache,N/A
+Core i7-720QM,Discontinued,Q3'09,4,2.80,1.60,6,Intel Smart Cache,N/A
+Core i7-680UM,Discontinued,Q3'10,2,2.53,1.46,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i7-660UM,Discontinued,Q2'10,2,2.40,1.33,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i7-660UE,Discontinued,Q1'10,2,2.40,1.33,4,N/A,Intel HD Graphics for Previous Gen.
+Core i7-660LM,Discontinued,Q3'10,2,3.06,2.26,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i7-640UM,Discontinued,Q1'10,2,2.27,1.20,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i7-640M,Discontinued,Q3'10,2,3.46,2.80,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i7-640LM,Discontinued,Q1'10,2,2.93,2.13,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i7-620UM,Discontinued,Q1'10,2,2.13,1.06,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i7-620UE,Discontinued,Q1'10,2,2.13,1.06,4,Intel Smart Cache,N/A
+Core i7-620M,Discontinued,Q1'10,2,3.33,2.66,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i7-620LM,Discontinued,Q1'10,2,2.80,2.00,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i7-620LE,Discontinued,Q1'10,2,2.80,2.00,4,Intel Smart Cache,N/A
+Core i7-610E,Discontinued,Q1'10,2,3.20,2.53,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-760,Discontinued,Q3'10,4,3.33,2.80,8,Intel Smart Cache,N/A
+Core i5-750S,Discontinued,Q1'10,4,3.20,2.40,8,Intel Smart Cache,N/A
+Core i5-750,Discontinued,Q3'09,4,3.20,2.66,8,Intel Smart Cache,N/A
+Core i5-680,Discontinued,Q2'10,2,3.86,3.60,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-670,Discontinued,Q1'10,2,3.73,3.46,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-661,Discontinued,Q1'10,2,3.60,3.33,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-660,Discontinued,Q1'10,2,3.60,3.33,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-655K,Discontinued,Q2'10,2,3.46,3.20,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-650,Discontinued,Q1'10,2,3.46,3.20,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-580M,Discontinued,Q3'10,2,3.33,2.66,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-560UM,Discontinued,Q3'10,2,2.13,1.33,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-560M,Discontinued,Q3'10,2,3.20,2.66,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-540UM,Discontinued,Q2'10,2,2.00,1.20,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-540M,Discontinued,Q1'10,2,3.07,2.53,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-520UM,Discontinued,Q1'10,2,1.87,1.07,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-520M,Discontinued,Q1'10,2,2.93,2.40,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-520E,Discontinued,Q1'10,2,2.93,2.40,3,Intel Smart Cache,N/A
+Core i5-480M,Discontinued,Q1'11,2,2.93,2.66,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-470UM,Discontinued,Q4'10,2,1.86,1.33,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-460M,Discontinued,Q3'10,2,2.80,2.53,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-450M,Discontinued,Q2'10,2,2.66,2.40,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-430UM,Discontinued,Q2'10,2,1.73,1.20,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i5-430M,Discontinued,Q1'10,2,2.53,2.26,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i3-560,Discontinued,Q3'10,2,N/A,3.33,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i3-550,Discontinued,Q2'10,2,N/A,3.20,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i3-540,Discontinued,Q1'10,2,N/A,3.06,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i3-530,Discontinued,Q1'10,2,N/A,2.93,4,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i3-390M,Discontinued,Q1'11,2,N/A,2.66,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i3-380UM,Discontinued,Q4'10,2,N/A,1.33,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i3-380M,Discontinued,Q3'10,2,N/A,2.53,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i3-370M,Discontinued,Q3'10,2,N/A,2.40,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i3-350M,Discontinued,Q1'10,2,N/A,2.26,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i3-330UM,Discontinued,Q2'10,2,N/A,1.20,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i3-330M,Discontinued,Q1'10,2,N/A,2.13,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core i3-330E,Discontinued,Q1'10,2,N/A,2.13,3,Intel Smart Cache,Intel HD Graphics for Previous Gen.
+Core2 Quad Q9650,Discontinued,Q3'08,4,N/A,3.00,12,L2 Cache,N/A
+Core2 Quad Q9550S,Discontinued,Q1'09,4,N/A,2.83,12,L2 Cache,N/A
+Core2 Quad Q9550,Discontinued,Q1'08,4,N/A,2.83,12,L2 Cache,N/A
+Core2 Quad Q9505S,Discontinued,Q3'09,4,N/A,2.83,6,L2 Cache,N/A
+Core2 Quad Q9505,Discontinued,Q3'09,4,N/A,2.83,6,L2 Cache,N/A
+Core2 Quad Q9500,Discontinued,N/A,4,N/A,2.83,6,L2 Cache,N/A
+Core2 Quad Q9450,Discontinued,Q1'08,4,N/A,2.66,12,L2 Cache,N/A
+Core2 Quad Q9400S,Discontinued,Q1'09,4,N/A,2.66,6,L2 Cache,N/A
+Core2 Quad Q9400,Discontinued,Q3'08,4,N/A,2.66,6,L2 Cache,N/A
+Core2 Quad Q9300,Discontinued,Q1'08,4,N/A,2.50,6,L2 Cache,N/A
+Core2 Quad Q9100,Discontinued,Q3'08,4,N/A,2.26,12,L2 Cache,N/A
+Core2 Quad Q9000,Discontinued,Q1'09,4,N/A,2.00,6,L2 Cache,N/A
+Core2 Quad Q8400S,Discontinued,Q2'09,4,N/A,2.66,4,L2 Cache,N/A
+Core2 Quad Q8400,Discontinued,Q2'09,4,N/A,2.66,4,L2 Cache,N/A
+Core2 Quad Q8300,Discontinued,Q4'08,4,N/A,2.50,4,L2 Cache,N/A
+Core2 Quad Q8200S,Discontinued,Q1'09,4,N/A,2.33,4,L2 Cache,N/A
+Core2 Quad Q8200,Discontinued,Q3'08,4,N/A,2.33,4,L2 Cache,N/A
+Core2 Quad Q6700,Discontinued,Q3'07,4,N/A,2.66,8,L2 Cache,N/A
+Core2 Quad Q6600,Discontinued,Q1'07,4,N/A,2.40,8,L2 Cache,N/A
+Core2 Duo E8600,Discontinued,Q3'08,2,N/A,3.33,6,L2 Cache,N/A
+Core2 Duo E8500,Discontinued,Q1'08,2,N/A,3.16,6,L2 Cache,N/A
+Core2 Duo E8400,Discontinued,Q1'08,2,N/A,3.00,6,L2 Cache,N/A
+Core2 Duo E8300,Discontinued,Q2'08,2,N/A,2.83,6,L2 Cache,N/A
+Core2 Duo E8200,Discontinued,Q1'08,2,N/A,2.66,6,L2 Cache,N/A
+Core2 Duo E8190,Discontinued,Q1'08,2,N/A,2.66,6,L2 Cache,N/A
+Core2 Duo E7600,Discontinued,Q2'09,2,N/A,3.06,3,L2 Cache,N/A
+Core2 Duo E7500,Discontinued,Q1'09,2,N/A,2.93,3,L2 Cache,N/A
+Core2 Duo E7400,Discontinued,Q1'08,2,N/A,2.80,3,L2 Cache,N/A
+Core2 Duo E7300,Discontinued,Q3'08,2,N/A,2.66,3,L2 Cache,N/A
+Core2 Duo E7200,Discontinued,Q2'08,2,N/A,2.53,3,L2 Cache,N/A
+Core2 Duo E6850,Discontinued,Q3'07,2,N/A,3.00,4,L2 Cache,N/A
+Core2 Duo E6750,Discontinued,Q3'07,2,N/A,2.66,4,L2 Cache,N/A
+Core2 Duo E6700,Discontinued,Q3'06,2,N/A,2.66,4,L2 Cache,N/A
+Core2 Duo E6600,Discontinued,Q3'06,2,N/A,2.40,4,L2 Cache,N/A
+Core2 Duo E6550,Discontinued,Q3'07,2,N/A,2.33,4,L2 Cache,N/A
+Core2 Duo E6540,Discontinued,Q3'07,2,N/A,2.33,4,L2 Cache,N/A
+Core2 Duo E6420,Discontinued,Q2'07,2,N/A,2.13,4,L2 Cache,N/A
+Core2 Duo E6320,Discontinued,Q2'07,2,N/A,1.86,4,L2 Cache,N/A
+Core2 Duo E6400,Discontinued,Q3'06,2,N/A,2.13,2,L2 Cache,N/A
+Core2 Duo E6300,Discontinued,Q3'06,2,N/A,1.86,2,L2 Cache,N/A
+Core2 Duo E4700,Discontinued,Q1'08,2,N/A,2.60,2,L2 Cache,N/A
+Core2 Duo E4600,Discontinued,Q4'07,2,N/A,2.40,2,L2 Cache,N/A
+Core2 Duo E4500,Discontinued,Q3'07,2,N/A,2.20,2,L2 Cache,N/A
+Core2 Duo E4400,Discontinued,Q2'07,2,N/A,2.00,2,L2 Cache,N/A
+Core2 Duo E4300,Discontinued,Q3'06,2,N/A,1.80,2,L2 Cache,N/A
+Core2 Duo L7700,Discontinued,Q3'07,2,N/A,1.80,4,L2 Cache,N/A
+Core2 Duo L7500,Discontinued,Q3'06,2,N/A,1.60,4,L2 Cache,N/A
+Core2 Duo L7400,Discontinued,Q3'06,2,N/A,1.50,4,L2 Cache,N/A
+Core2 Duo L7300,Discontinued,Q2'07,2,N/A,1.40,4,L2 Cache,N/A
+Core2 Duo L7200,Discontinued,Q1'07,2,N/A,1.33,4,L2 Cache,N/A
+Core Duo L2400,Discontinued,Q1'06,2,N/A,1.66,2,L2 Cache,N/A
+Core Duo L2300,Discontinued,N/A,2,N/A,1.50,2,L2 Cache,N/A
+Core Duo L2500,Discontinued,N/A,2,N/A,1.83,2,L2 Cache,N/A
+Core2 Duo P9700,Discontinued,Q2'09,2,N/A,2.80,6,L2 Cache,N/A
+Core2 Duo P9600,Discontinued,Q4'08,2,N/A,2.66,6,L2 Cache,N/A
+Core2 Duo P9500,Discontinued,Q3'08,2,N/A,2.53,6,L2 Cache,N/A
+Core2 Duo P8800,Discontinued,Q2'09,2,N/A,2.66,3,L2 Cache,N/A
+Core2 Duo P8700,Discontinued,Q4'08,2,N/A,2.53,3,L2 Cache,N/A
+Core2 Duo P8600,Discontinued,Q3'08,2,N/A,2.40,3,L2 Cache,N/A
+Core2 Duo P8400,Discontinued,Q3'08,2,N/A,2.26,3,L2 Cache,N/A
+Core2 Duo P7570,Discontinued,Q3'09,2,N/A,2.26,3,L2 Cache,N/A
+Core2 Duo P7550,Discontinued,Q3'09,2,N/A,2.26,3,L2 Cache,N/A
+Core2 Duo P7450,Discontinued,Q1'09,2,N/A,2.13,3,L2 Cache,N/A
+Core2 Duo P7370,Discontinued,Q4'08,2,N/A,2.00,3,L2 Cache,N/A
+Core2 Duo P7350,Discontinued,Q3'08,2,N/A,2.00,3,L2 Cache,N/A
+Core2 Duo SL9300,Discontinued,Q3'08,2,N/A,1.60,6,L2 Cache,N/A
+Core2 Duo SL9600,Discontinued,Q1'09,2,N/A,2.13,6,L2 Cache,N/A
+Core2 Duo SL9400,Discontinued,Q3'08,2,N/A,1.86,6,L2 Cache,N/A
+Core2 Duo SL9380,Discontinued,Q3'08,2,N/A,1.80,6,L2 Cache,N/A
+Core2 Duo SP9600,Discontinued,Q1'09,2,N/A,2.53,6,L2 Cache,N/A
+Core2 Duo SP9400,Discontinued,Q3'08,2,N/A,2.40,6,L2 Cache,N/A
+Core2 Duo SP9300,Discontinued,Q3'08,2,N/A,2.26,6,L2 Cache,N/A
+Core2 Duo SU9600,Discontinued,Q1'09,2,N/A,1.60,3,L2 Cache,N/A
+Core2 Duo SU9400,Discontinued,Q3'08,2,N/A,1.40,3,L2 Cache,N/A
+Core2 Duo SU9300,Discontinued,Q3'08,2,N/A,1.20,3,L2 Cache,N/A
+Core2 Duo T9900,Discontinued,Q2'09,2,N/A,3.06,6,L2 Cache,N/A
+Core2 Duo T9800,Discontinued,Q4'08,2,N/A,2.93,6,L2 Cache,N/A
+Core2 Duo T9600,Discontinued,Q3'08,2,N/A,2.80,6,L2 Cache,N/A
+Core2 Duo T9550,Discontinued,Q4'08,2,N/A,2.66,6,L2 Cache,N/A
+Core2 Duo T9500,Discontinued,Q1'08,2,N/A,2.60,6,L2 Cache,N/A
+Core2 Duo T9400,Discontinued,Q3'08,2,N/A,2.53,6,L2 Cache,N/A
+Core2 Duo T9300,Discontinued,Q1'08,2,N/A,2.50,6,L2 Cache,N/A
+Core2 Duo T7800,Discontinued,Q3'07,2,N/A,2.60,4,L2 Cache,N/A
+Core2 Duo T8300,Discontinued,Q1'08,2,N/A,2.40,3,L2 Cache,N/A
+Core2 Duo T8100,Discontinued,Q1'08,2,N/A,2.10,3,L2 Cache,N/A
+Core2 Duo T7700,Discontinued,Q2'07,2,N/A,2.40,4,L2 Cache,N/A
+Core2 Duo T7600,Discontinued,Q3'07,2,N/A,2.33,4,L2 Cache,N/A
+Core2 Duo T7500,Discontinued,Q3'06,2,N/A,2.20,4,L2 Cache,N/A
+Core2 Duo T7400,Discontinued,Q3'06,2,N/A,2.16,4,L2 Cache,N/A
+Core2 Duo T7300,Discontinued,Q2'07,2,N/A,2.00,4,L2 Cache,N/A
+Core2 Duo T7250,Discontinued,Q3'07,2,N/A,2.00,2,L2 Cache,N/A
+Core2 Duo T7200,Discontinued,N/A,2,N/A,2.00,4,L2 Cache,N/A
+Core2 Duo T7100,Discontinued,Q2'07,2,N/A,1.80,2,L2 Cache,N/A
+Core2 Duo T6670,Discontinued,Q3'09,2,N/A,2.20,2,L2 Cache,N/A
+Core2 Duo T6600,Discontinued,Q1'09,2,N/A,2.20,2,L2 Cache,N/A
+Core2 Duo T6500,Discontinued,Q2'09,2,N/A,2.10,2,L2 Cache,N/A
+Core2 Duo T6400,Discontinued,Q1'09,2,N/A,2.00,2,L2 Cache,N/A
+Core2 Duo T5870,Discontinued,N/A,2,N/A,2.00,2,L2 Cache,N/A
+Core2 Duo T5800,Discontinued,Q4'08,2,N/A,2.00,2,L2 Cache,N/A
+Core2 Duo T5750,Discontinued,Q1'08,2,N/A,2.00,2,L2 Cache,N/A
+Core2 Duo T5670,Discontinued,Q2'08,2,N/A,1.80,2,L2 Cache,N/A
+Core2 Duo T5600,Discontinued,N/A,2,N/A,1.83,2,L2 Cache,N/A
+Core2 Duo T5550,Discontinued,N/A,2,N/A,1.83,2,L2 Cache,N/A
+Core2 Duo T5500,Discontinued,N/A,2,N/A,1.66,2,L2 Cache,N/A
+Core2 Duo T5470,Discontinued,N/A,2,N/A,1.60,2,L2 Cache,N/A
+Core2 Duo T5450,Discontinued,N/A,2,N/A,1.66,2,L2 Cache,N/A
+Core2 Duo T5300,Discontinued,N/A,2,N/A,1.73,2,L2 Cache,N/A
+Core2 Duo T5270,Discontinued,N/A,2,N/A,1.40,2,L2 Cache,N/A
+Core2 Duo T5250,Discontinued,N/A,2,N/A,1.50,2,L2 Cache,N/A
+Core Duo T2700,Discontinued,N/A,2,N/A,2.33,2,L2 Cache,N/A
+Core2 Duo T5200,Discontinued,N/A,2,N/A,1.60,2,L2 Cache,N/A
+Core Duo T2600,Discontinued,N/A,2,N/A,2.16,2,L2 Cache,N/A
+Core Duo T2500,Discontinued,Q1'06,2,N/A,2.00,2,L2 Cache,N/A
+Core Duo T2450,Discontinued,N/A,2,N/A,2.00,2,L2 Cache,N/A
+Core Duo T2400,Discontinued,N/A,2,N/A,1.83,2,L2 Cache,N/A
+Core Duo T2350,Discontinued,N/A,2,N/A,1.66,2,L2 Cache,N/A
+Core Duo T2300E,Discontinued,N/A,2,N/A,1.66,2,L2 Cache,N/A
+Core Duo T2300,Discontinued,N/A,2,N/A,1.66,2,L2 Cache,N/A
+Core Duo T2250,Discontinued,N/A,2,N/A,1.73,2,L2 Cache,N/A
+Core Duo T2050,Discontinued,N/A,2,N/A,1.60,2,L2 Cache,N/A
+Core2 Duo U7700,Discontinued,Q1'08,2,N/A,1.33,2,L2 Cache,N/A
+Core2 Duo U7600,Discontinued,Q2'07,2,N/A,1.20,2,L2 Cache,N/A
+Core2 Duo U7500,Discontinued,Q3'06,2,N/A,1.06,2,L2 Cache,N/A
+Core Duo U2500,Discontinued,Q1'06,2,N/A,1.20,2,L2 Cache,N/A
+Core Duo U2400,Discontinued,N/A,2,N/A,1.06,2,L2 Cache,N/A
+Core2 Solo ULV SU3300,Discontinued,Q3'08,1,N/A,1.20,3,L2 Cache,N/A
+Core2 Solo ULV SU3500,Discontinued,Q2'09,1,N/A,1.40,3,L2 Cache,N/A
+Core2 Solo U2200,Discontinued,Q3'07,1,N/A,1.20,1,L2 Cache,N/A
+Core2 Solo U2100,Discontinued,Q3'07,1,N/A,1.06,1,L2 Cache,N/A
+Core Solo U1500,Discontinued,N/A,1,N/A,1.33,2,L2 Cache,N/A
+Core Solo U1400,Discontinued,N/A,1,N/A,1.20,2,L2 Cache,N/A
+Core Solo U1300,Discontinued,N/A,1,N/A,1.06,2,L2 Cache,N/A
+Core Solo T1400,Discontinued,N/A,1,N/A,1.83,2,L2 Cache,N/A
+Core Solo T1350,Discontinued,N/A,1,N/A,1.86,2,L2 Cache,N/A
+Core Solo T1300,Discontinued,N/A,1,N/A,1.66,2,L2 Cache,N/A
+Core Solo T1250,Discontinued,N/A,1,N/A,1.73,2,L2 Cache,N/A
+Core2 Solo SU3500,Discontinued,Q2'09,1,N/A,1.30,3,N/A,N/A
