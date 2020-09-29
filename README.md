@@ -4,17 +4,17 @@
 
 ![Intel Logo](https://i.ibb.co/VTr09cf/intel-logo.png)
 
-Being enthusiast for data analysis, here's my another dataset project which is for analyzing **Intel processors**. Thanks to these datasets altogether, one can realize how computer processors have evolved within the last few decades, in terms of many criterions!
+Being enthusiast for data science, this is my another dataset project which is for analyzing **Intel processors**. Thanks to these datasets altogether, one can realize how computer processors have evolved within the last few decades, in terms of many criterions!
 
-This repository contains the datasets that involve all processors from **Core**, **Pentium**, **Celeron**, **Xeon**, **Itanium**, **Atom** and **Quark SoC** series Intel has ever manufactured until **January 2020**.
+This repository contains the datasets that involve all processors from **Core**, **Pentium**, **Celeron**, **Xeon**, **Itanium**, **Atom** and **Quark SoC** series Intel has ever manufactured until **September 2020**.
 
-_Hopefully, I'm going to perform data analysis over these processors and present them here very soon._
+_Hopefully, I'm going to perform data analysis over these processors and present them here soon._
 
 All these info in the dataset is based on Intel ARK [website](https://ark.intel.com/content/www/tr/tr/ark.html).
 
 ## Features
 
-The 1st version of the datasets contains these features below:
+Current version of the datasets contains these features below:
 
 - `Product`: Name of the manufactured processor
 - `Status`: Indicates the current status of the processor
@@ -25,6 +25,8 @@ The 1st version of the datasets contains these features below:
 - `Cache (MB)`: The total cache capacity of the processor (in MB)
 - `Cache Info`: Additional info about the cache
 - `Integrated Graphics`: Shows the integrated graphic component used by the processor if exists
+
+Because these datasets are now 6 months old, new processors from the latest or existing generations are being added; versions are numbered as "1.1".
 
 ### Future Plans
 
