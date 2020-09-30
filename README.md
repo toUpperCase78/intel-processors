@@ -26,7 +26,7 @@ Current version of the datasets contains these features below:
 - `Cache Info`: Additional info about the cache
 - `Integrated Graphics`: Shows the integrated graphic component used by the processor if exists
 
-Because these datasets are now 6 months old, new processors from the latest or existing generations are being added; versions are numbered as "1.1".
+Because these datasets are more than 6 months old, new processors from the latest or existing generations have been added; thus versions were numbered as "1.1".
 
 ### Future Plans
 
