@@ -1,0 +1,20 @@
+Product,Status,Release Date,Cores,Max. Turbo Freq.(GHz),Base Freq.(GHz),Cache(MB),Cache Info,Integrated Graphics
+Xeon Phi 7120A Coprocessor,Discontinued,Q2'14,61,1.33,1.24,30.5,L2 Cache,N/A
+Xeon Phi 7120D Coprocessor,Discontinued,Q1'14,61,1.33,1.24,30.5,L2 Cache,N/A
+Xeon Phi 7120P Coprocessor,Discontinued,Q2'13,61,1.33,1.24,30.5,L2 Cache,N/A
+Xeon Phi 7120X Coprocessor,Discontinued,Q2'13,61,1.33,1.24,30.5,L2 Cache,N/A
+Xeon Phi 5120D Coprocessor,Discontinued,Q2'13,60,N/A,1.05,30,L2 Cache,N/A
+Xeon Phi 5110P Coprocessor,Discontinued,Q4'12,60,N/A,1.05,30,L2 Cache,N/A
+Xeon Phi 3120A Coprocessor,Discontinued,Q2'13,57,N/A,1.10,28.5,L2 Cache,N/A
+Xeon Phi 3120P Coprocessor,Discontinued,Q2'13,57,N/A,1.10,28.5,L2 Cache,N/A
+Xeon Phi 7290F Processor,Discontinued,Q4'16,72,1.70,1.50,36,L2 Cache,N/A
+Xeon Phi 7290 Processor,Discontinued,Q4'16,72,1.70,1.50,36,L2 Cache,N/A
+Xeon Phi 7250F Processor,Discontinued,Q4'16,68,1.60,1.40,34,L2 Cache,N/A
+Xeon Phi 7250 Processor,Discontinued,Q2'16,68,1.60,1.40,34,L2 Cache,N/A
+Xeon Phi 7230F Processor,Discontinued,Q4'16,64,1.50,1.30,32,L2 Cache,N/A
+Xeon Phi 7230 Processor,Discontinued,Q2'16,64,1.50,1.30,32,L2 Cache,N/A
+Xeon Phi 7210F Processor,Discontinued,Q4'16,64,1.50,1.30,32,L2 Cache,N/A
+Xeon Phi 7210 Processor,Discontinued,Q2'16,64,1.50,1.30,32,L2 Cache,N/A
+Xeon Phi 7295 Processor,Launched,Q4'17,72,1.60,1.50,36,L2 Cache,N/A
+Xeon Phi 7285 Processor,Launched,Q4'17,68,1.40,1.30,34,L2 Cache,N/A
+Xeon Phi 7235 Processor,Launched,Q4'17,64,1.40,1.30,32,L2 Cache,N/A
