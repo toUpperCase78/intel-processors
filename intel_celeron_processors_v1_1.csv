@@ -1,0 +1,326 @@
+Product,Status,Release Date,Cores,Max. Turbo Freq.(GHz),Base Freq.(GHz),Cache(MB),Cache Info,Integrated Graphics
+Celeron G5925,Launched,Q3'20,2,N/A,3.60,4,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G5920,Launched,Q2'20,2,N/A,3.50,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G5905T,Launched,Q3'20,2,N/A,3.30,4,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G5905,Launched,Q3'20,2,N/A,3.50,4,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G5900TE,Launched,Q2'20,2,N/A,3.00,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G5900T,Launched,Q2'20,2,N/A,3.20,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G5900E,Launched,Q2'20,2,N/A,3.20,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G5900,Launched,Q2'20,2,N/A,3.40,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G4950,Launched,Q2'19,2,N/A,3.30,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G4932E,Launched,Q2'19,2,1.90,1.90,2,N/A,Intel UHD 610 Graphics
+Celeron G4930T,Launched,Q2'19,2,N/A,3.00,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G4930E,Launched,Q2'19,2,2.40,2.40,2,N/A,Intel UHD 610 Graphics
+Celeron G4930,Launched,Q2'19,2,N/A,3.20,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G4920,Launched,Q2'18,2,N/A,3.20,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G4900T,Launched,Q2'18,2,N/A,2.90,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G4900,Launched,Q2'18,2,N/A,3.10,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron G3950,Discontinued,Q1'17,2,N/A,3.00,2,N/A,Intel HD 610 Graphics
+Celeron G3930TE,Launched,Q2'17,2,N/A,2.70,2,N/A,Intel HD 610 Graphics
+Celeron G3930T,Discontinued,Q1'17,2,N/A,2.70,2,N/A,Intel HD 610 Graphics
+Celeron G3930E,Launched,Q2'17,2,N/A,2.90,2,N/A,Intel HD 610 Graphics
+Celeron G3930,Discontinued,Q1'17,2,N/A,2.90,2,N/A,Intel HD 610 Graphics
+Celeron G3920,Discontinued,Q4'15,2,N/A,2.90,2,Intel Smart Cache,Intel HD 510 Graphics
+Celeron G3902E,Launched,Q1'16,2,N/A,1.60,2,Intel Smart Cache,Intel HD 510 Graphics
+Celeron G3900TE,Launched,Q4'15,2,N/A,2.30,2,Intel Smart Cache,Intel HD 510 Graphics
+Celeron G3900E,Launched,Q1'16,2,N/A,2.40,2,Intel Smart Cache,Intel HD 510 Graphics
+Celeron G3900T,Discontinued,Q4'15,2,N/A,2.60,2,Intel Smart Cache,Intel HD 510 Graphics
+Celeron G3900,Launched,Q4'15,2,N/A,2.80,2,Intel Smart Cache,Intel HD 510 Graphics
+Celeron G1850,Discontinued,Q2'14,2,N/A,2.90,2,N/A,Intel HD Graphics for 4th Gen Intel Processors
+Celeron G1840T,Discontinued,Q2'14,2,N/A,2.50,2,N/A,Intel HD Graphics for 4th Gen Intel Processors
+Celeron G1840,Discontinued,Q2'14,2,N/A,2.80,2,N/A,Intel HD Graphics for 4th Gen Intel Processors
+Celeron G1830,Discontinued,Q1'14,2,N/A,2.80,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Celeron G1820TE,Launched,Q1'14,2,N/A,2.20,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Celeron G1820T,Discontinued,Q1'14,2,N/A,2.40,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Celeron G1630,Discontinued,Q3'13,2,N/A,2.80,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron G1820,Launched,Q1'14,2,N/A,2.70,2,Intel Smart Cache,Intel HD Graphics for 4th Intel Processors
+Celeron G1620T,Launched,Q3'13,2,N/A,2.40,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron G1620,Launched,Q1'13,2,N/A,2.70,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron G1610T,Launched,Q1'13,2,N/A,2.30,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron G1610,Launched,Q1'13,2,N/A,2.60,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron J6413,Announced,Q1'21,4,N/A,1.80,1.5,L2 Cache,Intel UHD Graphics
+Celeron J4125,Launched,Q4'19,4,N/A,2.00,4,N/A,Intel UHD 600 Graphics
+Celeron J4105,Launched,Q4'17,4,N/A,1.50,4,N/A,Intel UHD 600 Graphics
+Celeron J4025,Launched,Q4'19,2,N/A,2.00,4,N/A,Intel UHD 600 Graphics
+Celeron J4005,Launched,Q4'17,2,N/A,2.00,4,N/A,Intel UHD 600 Graphics
+Celeron J3455E,Launched,Q3'19,4,2.30,1.50,2,N/A,Intel HD 500 Graphics
+Celeron J3355E,Launched,Q3'19,2,2.50,2.00,2,N/A,Intel HD 500 Graphics
+Celeron J3455,Launched,Q3'16,4,N/A,1.50,2,N/A,Intel HD 500 Graphics
+Celeron J3355,Launched,Q3'16,2,N/A,2.00,2,N/A,Intel HD 500 Graphics
+Celeron J3160,Launched,Q1'16,4,N/A,1.60,2,L2 Cache,N/A
+Celeron J3060,Launched,Q1'16,2,N/A,1.60,2,L2 Cache,N/A
+Celeron J1900,Launched,Q4'13,4,N/A,2.00,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron J1850,Launched,Q3'13,4,N/A,2.00,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron J1800,Launched,Q4'13,2,N/A,2.41,1,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron J1750,Launched,Q3'13,2,N/A,2.41,1,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N6211,Announced,Q1'21,2,N/A,1.20,1.5,L2 Cache,Intel UHD Graphics
+Celeron N4120,Launched,Q4'19,4,N/A,1.10,4,N/A,Intel UHD 600 Graphics
+Celeron N4100,Launched,Q4'17,4,N/A,1.10,4,N/A,Intel UHD 600 Graphics
+Celeron N4020,Launched,Q4'19,2,N/A,1.10,4,N/A,Intel UHD 600 Graphics
+Celeron N4000,Launched,Q4'17,2,N/A,1.10,4,N/A,Intel UHD 600 Graphics
+Celeron N3350E,Launched,Q3'19,2,2.40,1.10,2,N/A,Intel HD 500 Graphics
+Celeron N3350,Launched,Q3'16,2,N/A,1.10,2,L2 Cache,Intel HD 500 Graphics
+Celeron N3450,Launched,Q3'16,4,N/A,1.10,2,L2 Cache,Intel HD 500 Graphics
+Celeron N3160,Launched,Q1'16,4,N/A,1.60,2,L2 Cache,N/A
+Celeron N3150,Discontinued,Q1'15,4,N/A,1.60,2,L2 Cache,Intel HD Graphics for Intel Celeron N3000 Processor Series
+Celeron N3060,Launched,Q1'16,2,N/A,1.60,2,L2 Cache,N/A
+Celeron N3050,Discontinued,Q1'15,2,N/A,1.60,2,L2 Cache,Intel HD Graphics for Intel Celeron N3000 Processor Series
+Celeron N3010,Launched,Q1'16,2,N/A,1.04,2,L2 Cache,N/A
+Celeron N3000,Launched,Q1'15,2,N/A,1.04,2,L2 Cache,Intel HD Graphics for Intel Celeron N3000 Processor Series
+Celeron N2940,Launched,Q3'14,4,N/A,1.83,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N2930,Launched,Q1'14,4,N/A,1.83,2,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N2920,Discontinued,Q4'13,4,N/A,1.86,2,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N2910,Launched,Q3'13,4,N/A,1.60,2,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N2840,Launched,Q3'14,2,N/A,2.16,1,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N2830,Launched,Q1'14,2,N/A,2.16,1,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N2820,Launched,Q4'13,2,N/A,2.13,1,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N2815,Launched,Q4'13,2,N/A,1.86,1,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N2810,Launched,Q3'13,2,N/A,2.00,1,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N2808,Launched,Q3'14,2,N/A,1.58,1,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N2807,Launched,Q1'14,2,N/A,1.58,1,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N2806,Launched,Q4'13,2,N/A,1.60,1,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron N2805,Launched,Q3'13,2,N/A,1.46,1,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Celeron 5305U,Launched,Q2'20,2,N/A,2.30,2,N/A,Intel UHD Graphics
+Celeron 5205U,Launched,Q4'19,2,N/A,1.90,2,N/A,Intel UHD Graphics
+Celeron 4305UE,Launched,Q2'19,2,2.00,2.00,2,N/A,Intel UHD 610 Graphics
+Celeron 4305U,Launched,Q2'19,2,N/A,2.20,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron 4205U,Launched,Q1'19,2,N/A,1.80,2,Intel Smart Cache,Intel UHD 610 Graphics
+Celeron 3965U,Launched,Q1'17,2,N/A,2.20,2,Intel Smart Cache,Intel HD 610 Graphics
+Celeron 3965Y,Launched,Q2'17,2,N/A,1.50,2,Intel Smart Cache,Intel HD 615 Graphics
+Celeron 3865U,Launched,Q1'17,2,N/A,1.80,2,Intel Smart Cache,Intel HD 610 Graphics
+Celeron 3955U,Launched,Q4'15,2,N/A,2.00,2,Intel Smart Cache,Intel HD 510 Graphics
+Celeron 3867U,Launched,Q1'19,2,N/A,1.80,2,Intel Smart Cache,Intel HD 610 Graphics
+Celeron 3855U,Launched,Q4'15,2,N/A,1.60,2,Intel Smart Cache,Intel HD 510 Graphics
+Celeron 3765U,Launched,Q2'15,2,N/A,1.90,2,N/A,Intel HD Graphics for 5th Gen Intel Processors
+Celeron 3755U,Launched,Q1'15,2,N/A,1.70,2,N/A,Intel HD Graphics for 5th Gen Intel Processors
+Celeron 3215U,Launched,Q2'15,2,N/A,1.70,2,N/A,Intel HD Graphics for 5th Gen Intel Processors
+Celeron 3205U,Launched,Q1'15,2,N/A,1.50,2,N/A,Intel HD Graphics for 5th Gen Intel Processors
+Celeron 2981U,Launched,Q4'13,2,N/A,1.60,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Celeron 2980U,Launched,Q3'13,2,N/A,1.60,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Celeron 2970M,Launched,Q2'14,2,N/A,2.20,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Celeron 2961Y,Launched,Q4'13,2,N/A,1.10,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Celeron 2957U,Launched,Q4'13,2,N/A,1.40,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Celeron 2955M,Launched,Q3'13,2,N/A,1.40,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Celeron 2950M,Launched,Q4'13,2,N/A,2.00,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Celeron 2002E,Launched,Q1'14,2,N/A,1.50,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Celeron 2000E,Launched,Q1'14,2,N/A,2.20,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Celeron 1047UE,Launched,Q1'13,2,N/A,1.40,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron 1037U,Launched,Q1'13,2,N/A,1.80,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron 1020M,Launched,Q1'13,2,N/A,2.10,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron 1020E,Launched,Q1'13,2,N/A,2.20,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron 1019Y,Launched,Q2'13,2,N/A,1.00,2,N/A,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron 1017U,Launched,Q3'13,2,N/A,1.60,2,N/A,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron 1007U,Launched,Q1'13,2,N/A,1.50,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron 1005M,Launched,Q3'13,2,N/A,1.90,2,N/A,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron 1000M,Launched,Q1'13,2,N/A,1.80,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron B840,Discontinued,Q3'11,2,N/A,1.90,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron B830,Discontinued,Q3'12,2,N/A,1.80,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron B820,Discontinued,Q3'12,2,N/A,1.70,2,N/A,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron B815,Discontinued,Q1'12,2,N/A,1.60,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron B810E,Discontinued,Q2'11,2,N/A,1.60,2,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron B810,Discontinued,Q1'11,2,N/A,1.60,2,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron B800,Discontinued,Q2'11,2,N/A,1.50,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron B720,Discontinued,Q1'12,1,N/A,1.70,1.5,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron B710,Discontinued,Q3'11,1,N/A,1.60,1.5,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron E3500,Discontinued,Q3'10,2,N/A,2.70,1,Intel Smart Cache,N/A
+Celeron E3300,Discontinued,Q3'09,2,N/A,2.50,1,L2 Cache,N/A
+Celeron E3200,Discontinued,Q3'09,2,N/A,2.40,1,L2 Cache,N/A
+Celeron E1600,Discontinued,Q2'09,2,N/A,2.40,0.5,L2 Cache,N/A
+Celeron E1500,Discontinued,Q3'06,2,N/A,2.20,0.5,L2 Cache,N/A
+Celeron E1400,Discontinued,Q2'08,2,N/A,2.00,0.5,L2 Cache,N/A
+Celeron E1200,Discontinued,Q1'08,2,N/A,1.60,0.5,L2 Cache,N/A
+Celeron G550T,Discontinued,Q3'12,2,N/A,2.60,2,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron G550,Discontinued,Q2'12,2,N/A,2.60,2,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron G540T,Discontinued,Q2'12,2,N/A,2.10,2,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron G540,Discontinued,Q3'11,2,N/A,2.50,2,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron G530,Discontinued,Q3'11,2,N/A,2.40,2,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron G555,Discontinued,Q3'12,2,N/A,2.70,2,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron G530T,Discontinued,Q3'11,2,N/A,2.00,2,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron G470,Discontinued,Q2'13,1,N/A,2.00,1.5,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron G465,Discontinued,Q3'12,1,N/A,1.90,1.5,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron G460,Discontinued,Q4'11,1,N/A,1.80,1.5,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron G440,Discontinued,Q3'11,1,N/A,1.60,1,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron P4600,Discontinued,Q3'10,2,N/A,2.00,2,Intel Smart Cache,Intel HD Graphics for Previous Gen Intel Processors
+Celeron P4505,Discontinued,Q1'10,2,N/A,1.86,2,Intel Smart Cache,Intel HD Graphics for Previous Gen Intel Processors
+Celeron P4500,Discontinued,Q1'10,2,N/A,1.86,2,Intel Smart Cache,Intel HD Graphics for Previous Gen Intel Processors
+Celeron P1053,Discontinued,Q1'10,1,N/A,1.33,2,L3 Cache,N/A
+Celeron SU2300,Discontinued,Q3'09,2,N/A,1.20,1,N/A,N/A
+Celeron T3500,Discontinued,Q3'10,2,N/A,2.10,1,N/A,N/A
+Celeron E3400,Discontinued,Q1'10,2,N/A,2.60,1,Intel Smart Cache,N/A
+Celeron T3300,Discontinued,Q1'10,2,N/A,2.00,1,N/A,N/A
+Celeron T3100,Discontinued,Q3'08,2,N/A,1.90,1,L2 Cache,N/A
+Celeron T1700,Discontinued,Q4'08,2,N/A,1.83,1,L2 Cache,N/A
+Celeron T1600,Discontinued,Q4'08,2,N/A,1.66,1,L2 Cache,N/A
+Celeron U3600,Discontinued,Q1'11,2,N/A,1.20,2,Intel Smart Cache,Intel HD Graphics for Previous Gen Intel Processors
+Celeron U3405,Discontinued,Q1'10,2,N/A,1.06,2,N/A,Intel HD Graphics for Previous Gen Intel Processors
+Celeron U3400,Discontinued,Q2'10,2,N/A,1.06,2,Intel Smart Cache,Intel HD Graphics for Previous Gen Intel Processors
+Celeron 927UE,Discontinued,Q1'13,1,N/A,1.50,1,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Celeron 925,Discontinued,Q1'11,1,N/A,2.30,1,L2 Cache,N/A
+Celeron 900,Discontinued,Q1'09,1,N/A,2.20,1,L2 Cache,N/A
+Celeron 887,Discontinued,Q3'12,2,N/A,1.50,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron 877,Discontinued,Q2'12,2,N/A,1.40,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron 867,Discontinued,Q1'12,2,N/A,1.30,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron 857,Discontinued,Q3'11,2,N/A,1.20,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron 847E,Discontinued,Q2'11,2,N/A,1.10,2,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron 847,Discontinued,Q2'11,2,N/A,1.10,2,L3 Cache,N/A
+Celeron 827E,Discontinued,Q3'11,1,N/A,1.40,1.5,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron 807UE,Discontinued,Q4'11,1,N/A,1.00,1,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron 807,Discontinued,Q2'12,1,N/A,1.50,1.5,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron 797,Discontinued,Q1'12,1,N/A,1.40,1.5,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron 787,Discontinued,Q3'11,1,N/A,1.30,1.5,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Celeron ULV 763,Discontinued,Q1'11,1,N/A,1.40,1,L2 Cache,N/A
+Celeron 725C,Launched,Q2'12,1,N/A,1.30,1.5,L3 Cache,N/A
+Celeron 585,Discontinued,Q3'08,1,N/A,2.16,1,L2 Cache,N/A
+Celeron 575,Discontinued,Q3'06,1,N/A,2.00,1,L2 Cache,N/A
+Celeron ULV 573,Discontinued,Q3'06,1,N/A,1.00,0.5,L2 Cache,N/A
+Celeron 570,Discontinued,Q2'08,1,N/A,2.26,1,L2 Cache,N/A
+Celeron 560,Discontinued,Q1'08,1,N/A,2.13,1,L2 Cache,N/A
+Celeron 550,Discontinued,Q3'06,1,N/A,2.00,1,L2 Cache,N/A
+Celeron 540,Discontinued,Q3'07,1,N/A,1.86,1,L2 Cache,N/A
+Celeron 530,Discontinued,Q1'07,1,N/A,1.73,1,L2 Cache,N/A
+Celeron 450,Discontinued,Q3'08,1,N/A,2.20,0.5,L2 Cache,N/A
+Celeron 440,Discontinued,Q3'06,1,N/A,2.00,0.5,L2 Cache,N/A
+Celeron 430,Discontinued,Q2'07,1,N/A,1.80,0.5,L2 Cache,N/A
+Celeron 420,Discontinued,Q2'07,1,N/A,1.60,0.5,L2 Cache,N/A
+Celeron 220,Discontinued,Q4'07,1,N/A,1.20,0.5,L2 Cache,N/A
+Celeron D 335,Discontinued,Q2'04,1,N/A,2.80,0.25,L2 Cache,N/A
+Celeron D 365,Discontinued,Q1'07,1,N/A,3.60,0.5,L2 Cache,N/A
+Celeron D 360,Discontinued,Q4'06,1,N/A,3.46,0.5,L2 Cache,N/A
+Celeron D 355,Discontinued,Q4'05,1,N/A,3.33,0.25,L2 Cache,N/A
+Celeron D 356,Discontinued,Q2'06,1,N/A,3.33,0.5,L2 Cache,N/A
+Celeron D 352,Discontinued,Q2'06,1,N/A,3.20,0.5,L2 Cache,N/A
+Celeron D 351,Discontinued,Q3'05,1,N/A,3.20,0.25,L2 Cache,N/A
+Celeron D 350/350J,Discontinued,Q3'05,1,N/A,3.20,0.25,L2 Cache,N/A
+Celeron D 350,Discontinued,Q3'05,1,N/A,3.20,0.25,L2 Cache,N/A
+Celeron D 347,Discontinued,Q4'06,1,N/A,3.06,0.5,L2 Cache,N/A
+Celeron D 346,Discontinued,N/A,1,N/A,3.06,0.25,N/A,N/A
+Celeron D 345J,Discontinued,Q4'04,1,N/A,3.06,0.25,L2 Cache,N/A
+Celeron D 345,Discontinued,Q4'04,1,N/A,3.06,0.25,L2 Cache,N/A
+Celeron D 341,Discontinued,Q2'04,1,N/A,2.93,0.25,L2 Cache,N/A
+Celeron D 340J,Discontinued,Q4'04,1,N/A,2.93,0.25,L2 Cache,N/A
+Celeron D 340,Discontinued,Q4'04,1,N/A,2.93,0.25,L2 Cache,N/A
+Celeron D 336,Discontinued,N/A,1,N/A,2.80,0.25,L2 Cache,N/A
+Celeron D 335J,Discontinued,Q4'04,1,N/A,2.80,0.25,L2 Cache,N/A
+Celeron D 335/335J,Discontinued,Q2'04,1,N/A,2.80,0.25,L2 Cache,N/A
+Celeron D 331,Discontinued,N/A,1,N/A,2.66,0.25,L2 Cache,N/A
+Celeron D 330J,Discontinued,Q4'04,1,N/A,2.66,0.25,L2 Cache,N/A
+Celeron D 330/330J,Discontinued,Q2'04,1,N/A,2.66,0.25,L2 Cache,N/A
+Celeron D 330,Discontinued,Q4'04,1,N/A,2.66,0.25,L2 Cache,N/A
+Celeron D 326,Discontinued,Q2'04,1,N/A,2.53,0.25,L2 Cache,N/A
+Celeron D 325J,Discontinued,Q4'04,1,N/A,2.53,0.25,L2 Cache,N/A
+Celeron D 325/325J,Discontinued,Q2'04,1,N/A,2.53,0.25,L2 Cache,N/A
+Celeron D 325,Discontinued,Q2'04,1,N/A,2.53,0.25,L2 Cache,N/A
+Celeron D 320,Discontinued,Q2'04,1,N/A,2.40,0.25,L2 Cache,N/A
+Celeron D 315/315J,Discontinued,Q2'04,1,N/A,2.26,0.25,L2 Cache,N/A
+Celeron D 315,Discontinued,Q3'04,1,N/A,2.26,0.25,L2 Cache,N/A
+Celeron D 310,Discontinued,Q4'05,1,N/A,2.13,0.25,L2 Cache,N/A
+"Celeron M ULV 800 MHz, 512K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,0.80,0.5,L2 Cache,N/A
+Celeron M ULV 743,Discontinued,Q3'09,1,N/A,1.30,1,L2 Cache,N/A
+Celeron M ULV 723,Discontinued,Q3'08,1,N/A,1.20,1,L2 Cache,N/A
+Celeron M ULV 722,Discontinued,Q3'08,1,N/A,1.20,1,L2 Cache,N/A
+Celeron M 530,Discontinued,Q3'06,1,N/A,1.73,1,L2 Cache,N/A
+Celeron M ULV 523,Discontinued,Q3'07,1,N/A,0.93,1,L2 Cache,N/A
+Celeron M 520,Discontinued,Q1'07,1,N/A,1.60,1,L2 Cache,N/A
+Celeron M 450,Discontinued,N/A,1,N/A,2.00,1,L2 Cache,N/A
+Celeron M ULV 443,Discontinued,N/A,1,N/A,1.20,1,L2 Cache,N/A
+Celeron M 400,Discontinued,Q1'06,1,N/A,1.86,1,L2 Cache,N/A
+Celeron M ULV 423,Discontinued,Q1'06,1,N/A,1.06,1,L2 Cache,N/A
+Celeron M 420,Discontinued,N/A,1,N/A,1.60,1,L2 Cache,N/A
+Celeron M 430,Discontinued,N/A,1,N/A,1.73,1,L2 Cache,N/A
+Celeron M 410,Discontinued,N/A,1,N/A,1.46,1,L2 Cache,N/A
+Celeron M 390,Discontinued,N/A,1,N/A,1.70,1,L2 Cache,N/A
+Celeron M ULV 383,Discontinued,N/A,1,N/A,1.00,1,L2 Cache,N/A
+Celeron M 380,Discontinued,N/A,1,N/A,1.60,1,L2 Cache,N/A
+Celeron M ULV 373,Discontinued,Q2'04,1,N/A,1.00,0.5,L2 Cache,N/A
+Celeron M 370,Discontinued,Q2'04,1,N/A,1.50,1,L2 Cache,N/A
+Celeron M 360,Discontinued,N/A,1,N/A,1.40,1,L2 Cache,N/A
+Celeron M ULV 353,Discontinued,N/A,1,N/A,0.90,0.5,L2 Cache,N/A
+Celeron M 350,Discontinued,N/A,1,N/A,1.30,1,L2 Cache,N/A
+Celeron M 340,Discontinued,N/A,1,N/A,1.50,0.5,L2 Cache,N/A
+Celeron M ULV 333,Discontinued,N/A,1,N/A,0.90,0.5,L2 Cache,N/A
+Celeron M 330,Discontinued,N/A,1,N/A,1.40,0.5,L2 Cache,N/A
+Celeron M 320,Discontinued,Q2'03,1,N/A,1.30,0.5,L2 Cache,N/A
+Celeron M 310,Discontinued,N/A,1,N/A,1.20,0.5,L2 Cache,N/A
+Celeron M 215,Discontinued,N/A,1,N/A,1.33,0.5,L2 Cache,N/A
+"Celeron M 600 MHz, 512K Cache, 400 MHz FSB",Discontinued,Q2'03,1,N/A,0.60,0.5,L2 Cache,N/A
+"Mobile Celeron 2.50 GHz, 256K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,2.50,0.25,L2 Cache,N/A
+"Mobile Celeron 2.40 GHz, 256K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,2.40,0.25,L2 Cache,N/A
+"Mobile Celeron 2.20 GHz, 256K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,2.20,0.25,L2 Cache,N/A
+"Mobile Celeron 2.00 GHz, 256K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,2.00,0.25,L2 Cache,N/A
+"Mobile Celeron 1.80 GHz, 256K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,1.80,0.25,L2 Cache,N/A
+"Mobile Celeron 1.70 Ghz, 256K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,1.70,0.25,L2 Cache,N/A
+"Mobile Celeron 1.60 GHz, 256K Cache, 400 MHz FSB",Discontinued,Q2'04,1,N/A,1.60,0.25,L2 Cache,N/A
+"Mobile Celeron 1.50 GHz, 256K Cache, 400 MHz FSB",Discontinued,Q2'04,1,N/A,1.50,0.25,L2 Cache,N/A
+"Mobile Celeron 1.40 GHz, 256K Cache, 400 MHz FSB",Discontinued,Q2'04,1,N/A,1.40,0.25,L2 Cache,N/A
+"Mobile Celeron 1.33 GHz, 256K Cache, 133 MHz FSB",Discontinued,N/A,1,N/A,1.33,0.25,L2 Cache,N/A
+"Mobile Celeron 1.20 GHz, 256K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,1.20,0.25,L2 Cache,N/A
+"Mobile Celeron 1.20 GHz, 256K Cache, 133 MHz FSB",Discontinued,N/A,1,N/A,1.20,0.25,L2 Cache,N/A
+"Mobile Celeron 1.13 GHz, 256K Cache, 133 MHz FSB",Discontinued,N/A,1,N/A,1.13,0.25,L2 Cache,N/A
+"Mobile Celeron 1.06 GHz, 256K Cache, 133 MHz FSB",Discontinued,N/A,1,N/A,1.06,0.25,L2 Cache,N/A
+"Mobile Celeron 1.00 GHz, 256K Cache, 133 MHz FSB",Discontinued,N/A,1,N/A,1.00,0.25,L2 Cache,N/A
+"Mobile Celeron 933 MHz, 128K Cache, 133 MHz FSB",Discontinued,N/A,1,N/A,0.933,0.125,L2 Cache,N/A
+"Mobile Celeron 900 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.90,0.125,L2 Cache,N/A
+"Mobile Celeron 866 MHz, 128K Cache, 133 MHz FSB",Discontinued,N/A,1,N/A,0.866,0.125,L2 Cache,N/A
+"Mobile Celeron 850 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.85,0.125,L2 Cache,N/A
+"Mobile Celeron 800 MHz, 128K Cache, 133 MHz FSB",Discontinued,N/A,1,N/A,0.80,0.125,L2 Cache,N/A
+"Mobile Celeron 800 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.80,0.125,L2 Cache,N/A
+"Mobile Celeron 750 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.75,0.125,L2 Cache,N/A
+"Mobile Celeron 733 MHz, 256K Cache, 133 MHz FSB",Discontinued,N/A,1,N/A,0.733,0.25,L2 Cache,N/A
+"Mobile Celeron 733 MHz, 128K Cache, 133 MHz FSB",Discontinued,N/A,1,N/A,0.733,0.125,L2 Cache,N/A
+"Mobile Celeron 700 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.70,0.125,L2 Cache,N/A
+"Mobile Celeron LV 650 MHz, 256K Cache, 100 MHz FSB",Discontinued,Q4'01,1,N/A,0.65,0.25,N/A,N/A
+"Mobile Celeron 650 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.65,0.125,L2 Cache,N/A
+"Mobile Celeron 600 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.60,0.125,L2 Cache,N/A
+"Mobile Celeron 550 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.55,0.125,L2 Cache,N/A
+"Mobile Celeron 500 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.50,0.125,L2 Cache,N/A
+"Mobile Celeron 466 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.466,0.125,L2 Cache,N/A
+"Mobile Celeron 450 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.45,0.125,L2 Cache,N/A
+"Mobile Celeron 433 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.433,0.125,L2 Cache,N/A
+"Mobile Celeron LV 400 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.40,0.125,L2 Cache,N/A
+"Mobile Celeron 400 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.40,0.125,L2 Cache,N/A
+"Mobile Celeron 366 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.366,0.125,L2 Cache,N/A
+"Mobile Celeron 300 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.30,0.125,L2 Cache,N/A
+"Mobile Celeron 266 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.266,0.125,L2 Cache,N/A
+"Celeron 2.80 GHz, 128K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,2.80,0.125,L2 Cache,N/A
+"Celeron 2.70 GHz, 128K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,2.70,0.125,L2 Cache,N/A
+"Celeron 2.60 GHz, 128K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,2.60,0.125,L2 Cache,N/A
+"Celeron 2.50 GHz, 128K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,2.50,0.125,L2 Cache,N/A
+"Celeron 2.40 GHz, 256K Cache, 533 MHz FSB",Discontinued,N/A,1,N/A,2.40,0.25,L2 Cache,N/A
+"Celeron 2.40 GHz, 128K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,2.40,0.125,L2 Cache,N/A
+"Celeron 2.30 GHz, 128K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,2.30,0.125,L2 Cache,N/A
+"Celeron 2.20 GHz, 128K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,2.20,0.125,L2 Cache,N/A
+"Celeron 2.10 GHz, 128K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,2.10,0.125,L2 Cache,N/A
+"Celeron 2.00 GHz, 128K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,2.00,0.125,L2 Cache,N/A
+"Celeron 1.83 GHz, 1M Cache, 667 MHz FSB",Discontinued,Q1'07,1,N/A,1.83,1,L2 Cache,N/A
+"Celeron 1.80 GHz, 128K Cache, 400 MHz FSB",Discontinued,N/A,1,N/A,1.80,0.125,L2 Cache,N/A
+"Celeron 1.70 GHz, 128K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,1.70,0.125,L2 Cache,N/A
+"Celeron 1.66 GHz, 1M Cache, 667 MHz FSB",Discontinued,Q1'06,1,N/A,1.66,1,L2 Cache,N/A
+"Celeron 1.40 GHz, 256K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,1.40,0.25,L2 Cache,N/A
+"Celeron 1.30 GHz, 256K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,1.30,0.25,L2 Cache,N/A
+"Celeron 1.20 GHz, 256K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,1.20,0.25,L2 Cache,N/A
+"Celeron 1.10 GHz, 256K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,1.10,0.25,L2 Cache,N/A
+"Celeron 1.10 GHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,1.10,0.125,L2 Cache,N/A
+"Celeron 1.00 GHz, 256K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,1.00,0.25,L2 Cache,N/A
+"Celeron 1.00 GHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,1.00,0.125,L2 Cache,N/A
+"Celeron 950 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.95,0.125,L2 Cache,N/A
+"Celeron 900 MHz, 256K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.90,0.25,L2 Cache,N/A
+"Celeron 900 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.90,0.125,L2 Cache,N/A
+"Celeron 850 MHz, 128K Cache, 100 MHz FSB",Discontinued,Q1'00,1,N/A,0.85,0.125,L2 Cache,N/A
+"Celeron 800 MHz, 128K Cache, 100 MHz FSB",Discontinued,N/A,1,N/A,0.80,0.125,L2 Cache,N/A
+"Celeron 766 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.766,0.125,L2 Cache,N/A
+"Celeron 733 MHz, 128K Cache, 66 MHz FSB",Discontinued,Q1'00,1,N/A,0.733,0.125,L2 Cache,N/A
+"Celeron 700 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.70,0.125,L2 Cache,N/A
+"Celeron 667 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.667,0.125,L2 Cache,N/A
+"Celeron 633 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.633,0.125,L2 Cache,N/A
+"Celeron 500 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.50,0.125,L2 Cache,N/A
+"Celeron 566 MHz, 128K Cache, 66 MHz FSB",Discontinued,Q1'00,1,N/A,0.566,0.125,L2 Cache,N/A
+"Celeron 600 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.60,0.125,L2 Cache,N/A
+"Celeron 533 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.533,0.125,L2 Cache,N/A
+"Celeron 466 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.466,0.125,N/A,N/A
+"Celeron 433 MHz, 128K Cache, 66 MHz FSB",Discontinued,Q2'99,1,N/A,0.433,0.125,L2 Cache,N/A
+"Celeron 400 MHz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.40,0.125,L2 Cache,N/A
+"Celeron 366 MHz, 128K Cache, 66 MHz FSB",Discontinued,Q1'99,1,N/A,0.366,0.125,L2 Cache,N/A
+"Celeron 333 Mhz, 128K Cache, 66 MHz FSB",Discontinued,N/A,1,N/A,0.333,0.125,L2 Cache,N/A
+"Celeron 300 MHz, 128K Cache, 66 MHz FSB",Discontinued,Q1'99,1,N/A,0.30,0.125,L2 Cache,N/A
+"Celeron 300 MHz, 66 MHz FSB",Discontinued,N/A,1,N/A,0.30,0.5,L2 Cache,N/A
+"Celeron 266 MHz, 66 MHz FSB",Discontinued,N/A,1,N/A,0.266,N/A,N/A,N/A
