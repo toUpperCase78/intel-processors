@@ -28,6 +28,10 @@ Current version of the datasets contains these features below:
 
 Because these datasets are more than 6 months old, new processors from the latest or existing generations have been added; thus versions were numbered as "1.1".
 
-### Future Plans
+## Analyses
 
-**I'm aware that some other necessary features are missing in the dataset!** That's why in the next version (will be marked as v2), I'm going to include more features in order to make better analysis and get these processors more distinguishable from each other (e.g. # of threads, architecture name, litography, socket type, TDP)...
+The 1st part of Intel Core processors' analyses is finally avaliable. Check the related IPython file to see them all!
+
+## Future Plans
+
+**I'm aware that some other necessary features are missing in the dataset!** That's why in the next version (will be marked as v2), I'm planning to include more features for better and more accurate analyses and get these processors more distinguishable from each other (e.g. # of threads, architecture name, litography, socket type, TDP)...
