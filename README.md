@@ -2,15 +2,11 @@
 
 **Datasets for All Manufactured Intel Processors**
 
-![Intel Logo](https://i.ibb.co/VTr09cf/intel-logo.png)
+![Intel Logo](https://i.ibb.co/SVqLYBK/intel-new-logo.png)
 
-As a data scientist, this is my another dataset project about **Intel processors**. Thanks to these datasets altogether, one can realize how computer processors have evolved within the last few decades, with regards to many features!
+As a data scientist, here is one of my dataset project, **Intel Processors**. Thanks to these datasets altogether, one can realize how computers' central processing units have evolved within the last few decades, with regards to many features!
 
-This repository contains the datasets that involve all processors from **Core**, **Pentium**, **Celeron**, **Xeon**, **Itanium**, **Atom** and **Quark SoC** series Intel has ever manufactured. 
-
-## Current Status
-
-Everything is being updated nowadays for **version 1.2** to contain all these processors until **October 2021**.
+This repo contains the datasets that involve all processors from **Core**, **Pentium**, **Celeron**, **Xeon**, **Xeon Phi**, **Itanium**, **Atom** and **Quark SoC** series Intel has ever manufactured. 
 
 ## Source
 
@@ -30,7 +26,11 @@ Current datasets contain these features below:
 - `Cache Info`: Additional info about the cache
 - `Integrated Graphics`: Shows the integrated graphic component used by the processor if exists
 
-Because these datasets (v1.1) are more than 13 months old, new processors from the latest or existing generations are being added right now; thus versions will be numbered as "1.2". Older ones will still exist and be moved for archive.
+## Current Status
+
+Everything has been updated to **version 1.2** to contain all these processors until **October 2021**.
+
+Older datasets (numbered as v1.1) will still exist and be moved to their specific folders for archive.
 
 ## Analyses
 
@@ -40,6 +40,6 @@ _Hopefully, more analyses for the other types of processors will be included her
 
 ## Future Plans
 
-**I'm aware that some other necessary features are missing in the dataset!** That's why in the future versions, I'm planning to include more features for better and more accurate analyses and get these processors more distinguishable from each other (e.g. # of threads, architecture name, litography, socket type, TDP)...
+**I'm aware that some important features are missing in the dataset!** That's why in the future versions, I'm planning to include more features for better and more accurate analyses and get these processors more distinguishable from each other (e.g. # of threads, architecture name, litography, socket type, TDP)...
 
 Moreover, this repo has been in silence for more than 1 year, hence my short-term plan is to keep it alive with up-to-date information!
