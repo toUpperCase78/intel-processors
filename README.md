@@ -12,6 +12,14 @@ This repo contains the datasets that involve all processors from **Core**, **Pen
 
 All these info in the dataset is based on Intel ARK [website](https://ark.intel.com/content/www/tr/tr/ark.html).
 
+## Current Status
+
+Now the datasets are being updated to **version 1.5** to contain new features _Threads, Lithography and TDP,_ and new processors launched until **November 2021**, including **12th Generation Intel Core Processors**!
+
+Older datasets (such as v1.1 and some v1.2) will still exist and be moved to their specific folders for archive.
+
+In the meantime, preparations are being made for new analyses to be published here with up-to-date information.
+
 ## Features
 
 Current datasets contain these features below:
@@ -20,17 +28,14 @@ Current datasets contain these features below:
 - `Status`: Indicates the current status of the processor
 - `Release Date`: Shows when the processor has been released to PC manufacturers or individual users
 - `Cores`: The number of cores the processor has
+- `Threads`: The number of threads the processor has (new in v1.5)
+- `Lithography (nm)`: The number in nm, indicating the technology for the size of the features integrated on semi-conducting circuit (new in v1.5)
 - `Max. Turbo Freq. (GHz)`: The maximum clock speed the processor can reach, especially while on full load (in GHz)
 - `Base. Freq. (GHz)`: The base clock speed of the processor (in GHz)
+- `TDP (W)`: The value of Thermal Design Power in Watts (new in v1.5)
 - `Cache (MB)`: The total cache capacity of the processor (in MB)
 - `Cache Info`: Additional info about the cache
 - `Integrated Graphics`: Shows the integrated graphic component used by the processor if exists
-
-## Current Status
-
-Everything has been updated to **version 1.2** to contain all these processors until **October 2021**.
-
-Older datasets (numbered as v1.1) will still exist and be moved to their specific folders for archive.
 
 ## Analyses
 
