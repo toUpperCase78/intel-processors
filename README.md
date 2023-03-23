@@ -39,9 +39,33 @@ The latest version (1.6) of current datasets contain these features below:
 
 ## Analyses
 
-The 1st part of **Intel Core processors'** analyses is avaliable for dataset **version 1.1**. Check the related notebook file (.ipynb) to see them all!
+There is only one data analyses available so far, about **Intel Core Processors** (done for v1.1) which was published more than 2 years ago. Anyway, you can click on the related notebook file (.ipynb) to see the details.
 
 _Hopefully, more analyses for the other types of processors will be included here!_
+
+## Some Beneficial Infos
+
+In the last few generations, many Intel processors have letters (suffixes) that come after the numbers, indicating their specialties. This list below might help you understand the meanings of these letters:
+
+| Suffix | Meaning |
+|--------|---------|
+| K | High-performance, unlocked |
+| F | Requires discrete graphics |
+| S | Special edition |
+| T | Power-optimized lifestyle |
+| X/XE | Highest performance, unlocked |
+| HX | Highest performance, all SKUs unlocked |
+| HK | High performance, unlocked |
+| H | High performance |
+| P | Performance for thin & light |
+| U | Power efficient |
+| Y | Extremely low-power efficient |
+| G1-G7 | Graphics level (processors with newer integrated graphics technology) |
+| E | Embedded |
+| UE | Power efficient, embedded |
+| HE | High performance, embedded |
+| UL | Power efficient, in LGA package |
+| HL | High performance, in LGA package |
 
 ## Future Plans
 
