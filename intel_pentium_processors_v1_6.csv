@@ -1,0 +1,273 @@
+Product,Status,Release Date,Cores,Threads,Lithography(nm),Max. Turbo Freq.(GHz),Base Freq.(GHz),TDP(W),Cache(MB),Cache Info,Integrated Graphics
+Pentium Gold 8500,Launched,Q1'22,5,6,7,4.40,4.40,9,8,Intel Smart Cache,Intel UHD Graphics for 12th Gen Intel Processors
+Pentium Gold 8505,Launched,Q1'22,5,6,7,4.40,4.40,15,8,Intel Smart Cache,Intel UHD Graphics for 12th Gen Intel Processors
+Pentium Gold 8505 (with IPU),Launched,Q1'22,5,6,7,4.40,4.40,15,8,Intel Smart Cache,Intel UHD Graphics for 12th Gen Intel Processors
+Pentium Gold G7400,Launched,Q1'22,2,4,7,N/A,3.70,46,6,Intel Smart Cache,Intel UHD Graphics 710
+Pentium Gold G7400E,Launched,Q1'22,2,4,7,N/A,3.60,46,6,Intel Smart Cache,Intel UHD Graphics 710
+Pentium Gold G7400T,Launched,Q1'22,2,4,7,N/A,3.10,35,6,Intel Smart Cache,Intel UHD Graphics 710
+Pentium Gold G7400TE,Launched,Q1'22,2,4,7,N/A,3.00,35,6,Intel Smart Cache,Intel UHD Graphics 710
+Pentium Gold G6405,Launched,Q1'21,2,4,14,N/A,4.10,58,4,Intel Smart Cache,Intel UHD 610 Graphics
+Pentium Gold G6405T,Launched,Q1'21,2,4,14,N/A,3.50,35,4,Intel Smart Cache,Intel UHD 610 Graphics
+Pentium Gold G6505,Launched,Q1'21,2,4,14,N/A,4.20,58,4,Intel Smart Cache,Intel UHD 630 Graphics
+Pentium Gold G6505T,Launched,Q1'21,2,4,14,N/A,3.60,35,4,Intel Smart Cache,Intel UHD 630 Graphics
+Pentium Gold G6605,Launched,Q1'21,2,4,14,N/A,4.30,58,4,Intel Smart Cache,Intel UHD 630 Graphics
+Pentium Gold 6500Y,Launched,Q1'21,2,4,14,3.40,3.10,5,4,Intel Smart Cache,Intel UHD 615 Graphics
+Pentium Gold 7505,Launched,Q4'20,2,4,10,N/A,3.50,15,4,Intel Smart Cache,Intel UHD Graphics for 11th Gen Intel Core Processors
+Pentium Gold G6400,Launched,Q2'20,2,4,14,N/A,4.00,58,4,Intel Smart Cache,Intel UHD 610 Graphics
+Pentium Gold G6400E,Launched,Q2'20,2,4,14,N/A,3.80,58,4,Intel Smart Cache,Intel UHD 610 Graphics
+Pentium Gold G6400T,Launched,Q2'20,2,4,14,N/A,3.40,35,4,Intel Smart Cache,Intel UHD 610 Graphics
+Pentium Gold G6400TE,Launched,Q2'20,2,4,14,N/A,3.20,35,4,Intel Smart Cache,Intel UHD 610 Graphics
+Pentium Gold G6500,Launched,Q2'20,2,4,14,N/A,4.10,58,4,Intel Smart Cache,Intel UHD 630 Graphics
+Pentium Gold G6500T,Launched,Q2'20,2,4,14,N/A,3.50,35,4,Intel Smart Cache,Intel UHD 630 Graphics
+Pentium Gold G6600,Launched,Q2'20,2,4,14,N/A,4.20,58,4,Intel Smart Cache,Intel UHD 630 Graphics
+Pentium Gold 6405U,Launched,Q4'19,2,4,14,N/A,2.40,15,2,N/A,Intel UHD Graphics for 10th Gen Intel Core Processors
+Pentium Gold G5420,Launched,Q2'19,2,4,14,N/A,3.80,54,4,Intel Smart Cache,Intel UHD 610 Graphics
+Pentium Gold G5420T,Launched,Q2'19,2,4,14,N/A,3.20,35,4,Intel Smart Cache,Intel UHD 610 Graphics
+Pentium Gold G5600T,Launched,Q2'19,2,4,14,N/A,3.30,35,4,Intel Smart Cache,Intel UHD 630 Graphics
+Pentium Gold G5620,Launched,Q2'19,2,4,14,N/A,4.00,54,4,Intel Smart Cache,Intel UHD 630 Graphics
+Pentium Gold 5405U,Launched,Q1'19,2,4,14,N/A,2.30,15,2,Intel Smart Cache,Intel UHD Graphics for 8th Gen Intel Processors
+Pentium Gold 4417U,Launched,Q1'19,2,4,14,N/A,2.30,15,2,Intel Smart Cache,Intel HD 610 Graphics
+Pentium Gold 4425Y,Launched,Q1'19,2,4,14,N/A,1.70,6,2,N/A,Intel UHD 615 Graphics
+Pentium Gold G5400,Launched,Q2'18,2,4,14,N/A,3.70,58,4,Intel Smart Cache,Intel UHD 610 Graphics
+Pentium Gold G5400T,Launched,Q2'18,2,4,14,N/A,3.10,35,4,Intel Smart Cache,Intel UHD 610 Graphics
+Pentium Gold G5500,Discontinued,Q2'18,2,4,14,N/A,3.80,54,4,Intel Smart Cache,Intel UHD 630 Graphics
+Pentium Gold G5500T,Discontinued,Q2'18,2,4,14,N/A,3.20,35,4,Intel Smart Cache,Intel UHD 630 Graphics
+Pentium Gold G5600,Discontinued,Q2'18,2,4,14,N/A,3.90,54,4,Intel Smart Cache,Intel UHD 630 Graphics
+Pentium Gold 4415Y,Launched,Q2'17,2,4,14,N/A,1.60,6,2,Intel Smart Cache,Intel HD 615 Graphics
+Pentium Gold 4410Y,Launched,Q1'17,2,4,14,N/A,1.50,6,2,Intel Smart Cache,Intel HD 615 Graphics
+Pentium Gold 4415U,Launched,Q1'17,2,4,14,N/A,2.30,15,2,Intel Smart Cache,Intel HD 610 Graphics
+Pentium Silver N6000,Launched,Q1'21,4,4,10,N/A,1.10,6,4,Intel Smart Cache,Intel UHD Graphics
+Pentium Silver N6005,Launched,Q1'21,4,4,10,N/A,2.00,10,4,Intel Smart Cache,Intel UHD Graphics
+Pentium Silver J5040,Launched,Q4'19,4,4,14,N/A,2.00,10,4,N/A,Intel UHD 605 Graphics
+Pentium Silver N5030,Launched,Q4'19,4,4,14,N/A,1.10,6,4,N/A,Intel UHD 605 Graphics
+Pentium Silver J5005,Discontinued,Q4'17,4,4,14,N/A,1.50,10,4,N/A,Intel UHD 605 Graphics
+Pentium Silver N5000,Discontinued,Q4'17,4,4,14,N/A,1.10,6,4,N/A,Intel UHD 605 Graphics
+Pentium D1519,Launched,Q2'16,4,8,7,2.10,1.50,25,6,N/A,N/A
+Pentium D1507,Launched,Q4'15,2,2,14,N/A,1.20,20,3,N/A,N/A
+Pentium D1508,Launched,Q4'15,2,4,14,2.60,2.20,25,3,N/A,N/A
+Pentium D1509,Launched,Q4'15,2,2,14,N/A,1.50,19,3,N/A,N/A
+Pentium D1517,Launched,Q4'15,4,8,7,2.20,1.60,25,6,N/A,N/A
+Pentium G4560,Discontinued,Q1'17,2,4,14,N/A,3.50,54,3,N/A,Intel HD 610 Graphics
+Pentium G4560T,Discontinued,Q1'17,2,4,14,N/A,2.90,35,3,N/A,Intel HD 610 Graphics
+Pentium G4600,Discontinued,Q1'17,2,4,14,N/A,3.60,51,3,N/A,Intel HD 630 Graphics
+Pentium G4600T,Discontinued,Q1'17,2,4,14,N/A,3.00,35,3,N/A,Intel HD 630 Graphics
+Pentium G4620,Discontinued,Q1'17,2,4,14,N/A,3.70,51,3,N/A,Intel HD 630 Graphics
+Pentium G4400TE,Launched,Q4'15,2,2,14,N/A,2.40,35,3,Intel Smart Cache,Intel HD 510 Graphics
+Pentium G4400,Launched,Q3'15,2,2,14,N/A,3.30,54,3,Intel Smart Cache,Intel HD 510 Graphics
+Pentium G4400T,Discontinued,Q3'15,2,2,14,N/A,2.90,35,3,Intel Smart Cache,Intel HD 510 Graphics
+Pentium G4500,Discontinued,Q3'15,2,2,14,N/A,3.50,51,3,Intel Smart Cache,Intel HD 530 Graphics
+Pentium G4500T,Discontinued,Q3'15,2,2,14,N/A,3.00,35,3,Intel Smart Cache,Intel HD 530 Graphics
+Pentium G4520,Discontinued,Q3'15,2,2,14,N/A,3.60,51,3,Intel Smart Cache,Intel HD 530 Graphics
+Pentium G3260,Discontinued,Q1'15,2,2,22,N/A,3.30,53,3,N/A,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3260T,Discontinued,Q1'15,2,2,22,N/A,2.90,35,3,N/A,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3460T,Discontinued,Q1'15,2,2,22,N/A,3.00,35,3,N/A,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3470,Discontinued,Q1'15,2,2,22,N/A,3.60,53,3,N/A,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3250,Discontinued,Q3'14,2,2,22,N/A,3.20,53,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3250T,Discontinued,Q3'14,2,2,22,N/A,2.80,35,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3450T,Discontinued,Q3'14,2,2,22,N/A,2.90,35,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3460,Discontinued,Q3'14,2,2,22,N/A,3.50,53,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3258,Discontinued,Q2'14,2,2,22,N/A,3.20,53,3,N/A,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3240,Discontinued,Q2'14,2,2,22,N/A,3.10,53,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3240T,Discontinued,Q2'14,2,2,22,N/A,2.70,35,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3440,Discontinued,Q2'14,2,2,22,N/A,3.30,53,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3440T,Discontinued,Q2'14,2,2,22,N/A,2.80,35,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3450,Discontinued,Q2'14,2,2,22,N/A,3.40,53,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3220,Discontinued,Q3'13,2,2,22,N/A,3.00,53,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3220T,Discontinued,Q3'13,2,2,22,N/A,2.60,35,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3320TE,Launched,Q3'13,2,2,22,N/A,2.30,35,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3420,Launched,Q3'13,2,2,22,N/A,3.20,53,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3420T,Discontinued,Q3'13,2,2,22,N/A,2.70,35,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G3430,Discontinued,Q3'13,2,2,22,N/A,3.30,53,3,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium G2030,Discontinued,Q2'13,2,2,22,N/A,3.00,55,3,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium G2030T,Discontinued,Q2'13,2,2,22,N/A,2.60,35,3,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium G2120T,Discontinued,Q2'13,2,2,22,N/A,2.70,35,3,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium G2140,Discontinued,Q2'13,2,2,22,N/A,3.30,55,3,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium G2010,Discontinued,Q1'13,2,2,22,N/A,2.80,55,3,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium G2020,Discontinued,Q1'13,2,2,22,N/A,2.90,55,3,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium G2020T,Discontinued,Q1'13,2,2,22,N/A,2.50,35,3,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium G2130,Discontinued,Q1'13,2,2,22,N/A,3.20,55,3,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium G2100T,Discontinued,Q3'12,2,2,22,N/A,2.60,35,3,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium G2120,Launched,Q3'12,2,2,22,N/A,3.10,55,3,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium J6426,Launched,Q1'21,4,4,10,N/A,2.00,10,1.5,L2 Cache,Intel UHD Graphics for 10th Gen Intel Core Processors
+Pentium J4205,Launched,Q3'16,4,4,14,N/A,1.50,10,2,N/A,Intel HD 505 Graphics
+Pentium J3710,Launched,Q1'16,4,4,14,N/A,1.60,6.5,2,L2 Cache,Name Unknown
+Pentium J2900,Discontinued,Q4'13,4,4,22,N/A,2.41,10,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Pentium J2850,Discontinued,Q3'13,4,4,22,N/A,2.41,10,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Pentium N6415,Launched,Q1'21,4,4,10,N/A,1.20,6.5,1.5,L2 Cache,Intel UHD Graphics for 10th Gen Intel Core Processors
+Pentium N4200E,Launched,Q3'19,4,4,14,2.50,2.50,6,2,N/A,Intel HD 505 Graphics
+Pentium N4200,Launched,Q3'16,4,4,14,N/A,1.10,6,2,L2 Cache,Intel HD 505 Graphics
+Pentium N3710,Launched,Q1'16,4,4,14,N/A,1.60,6,2,L2 Cache,Name Unknown
+Pentium N3700,Discontinued,Q1'15,4,4,14,N/A,1.60,6,2,L2 Cache,Intel HD Graphics for Intel Celeron N3000 Processor Series
+Pentium N3540,Discontinued,Q3'14,4,4,22,N/A,2.16,7.5,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Pentium N3530,Discontinued,Q1'14,4,4,22,N/A,2.16,7.5,2,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Pentium N3520,Discontinued,Q4'13,4,4,22,N/A,2.17,7.5,2,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Pentium N3510,Discontinued,Q3'13,4,4,22,N/A,2.00,7.5,2,N/A,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Pentium 6805,Launched,Q4'20,2,4,10,3.00,1.10,15,4,N/A,Intel UHD Graphics for 10th Gen Intel Core Processors
+Pentium 4405U,Discontinued,Q3'15,2,4,14,N/A,2.10,15,2,Intel Smart Cache,Intel HD 510 Graphics
+Pentium 4405Y,Discontinued,Q3'15,2,4,14,N/A,1.50,6,2,Intel Smart Cache,Intel HD 515 Graphics
+Pentium 3825U,Discontinued,Q1'15,2,4,14,N/A,1.90,15,2,N/A,Intel HD Graphics for 5th Gen Intel Processors
+Pentium 3805U,Discontinued,Q1'15,2,2,14,N/A,1.90,15,2,N/A,Intel HD Graphics for 5th Gen Intel Processors
+Pentium 3560M,Discontinued,Q2'14,2,2,22,N/A,2.40,37,2,N/A,Intel HD Graphics for 4th Gen Intel Processors
+Pentium 3558U,Discontinued,Q4'13,2,2,22,N/A,1.70,15,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium 3561Y,Discontinued,Q4'13,2,2,22,N/A,1.20,11.5,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium 3550M,Discontinued,Q4'13,2,2,22,N/A,2.30,37,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium 3556U,Discontinued,Q3'13,2,2,22,N/A,1.70,15,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium 3560Y,Discontinued,Q3'13,2,2,22,N/A,1.20,11.5,2,Intel Smart Cache,Intel HD Graphics for 4th Gen Intel Processors
+Pentium 2127U,Discontinued,Q3'13,2,2,22,N/A,1.90,17,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium 2030M,Discontinued,Q1'13,2,2,22,N/A,2.50,35,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium 2129Y,Discontinued,Q1'13,2,2,22,N/A,1.10,10,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium 2020M,Discontinued,Q3'12,2,2,22,N/A,2.40,35,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium 2117U,Discontinued,Q3'12,2,2,22,N/A,1.80,17,2,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium A1020,Discontinued,Q1'16,4,4,22,N/A,2.41,10,2,L2 Cache,Intel HD Graphics for Intel Atom Z3700 Processor Series
+Pentium 1405 v2,Launched,Q1'14,2,N/A,22,N/A,1.40,40,6,Intel Smart Cache,N/A
+Pentium A1018,Discontinued,Q3'13,2,2,22,N/A,2.10,35,1,Intel Smart Cache,Intel HD Graphics for 3rd Gen Intel Processors
+Pentium 1405,Discontinued,Q2'12,2,2,32,1.80,1.20,40,5,Intel Smart Cache,N/A
+Pentium B925C,Launched,Q4'13,2,4,N/A,N/A,2.00,15,4,L3 Cache,N/A
+Pentium 987,Discontinued,Q3'12,2,2,32,N/A,1.50,17,2,N/A,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium 997,Discontinued,Q3'12,2,2,32,N/A,1.60,17,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G645,Discontinued,Q3'12,2,2,32,N/A,2.90,65,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G645T,Discontinued,Q3'12,2,2,32,N/A,2.50,35,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium B980,Discontinued,Q2'12,2,2,32,N/A,2.40,35,2,N/A,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G640,Discontinued,Q2'12,2,2,32,N/A,2.80,65,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G640T,Discontinued,Q2'12,2,2,32,N/A,2.40,35,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G860T,Discontinued,Q2'12,2,2,32,N/A,2.60,35,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G870,Discontinued,Q2'12,2,2,32,N/A,3.10,65,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium B915C,Discontinued,Q2'12,2,4,N/A,N/A,1.50,15,3,L3 Cache,N/A
+Pentium 977,Discontinued,Q1'12,2,2,32,N/A,1.40,17,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium B970,Discontinued,Q1'12,2,2,32,N/A,2.30,35,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium 967,Discontinued,Q4'11,2,2,32,N/A,1.30,17,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium B960,Discontinued,Q4'11,2,2,32,N/A,2.20,35,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G630,Discontinued,Q3'11,2,2,32,N/A,2.70,65,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G630T,Discontinued,Q3'11,2,2,32,N/A,2.30,35,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G632,Discontinued,Q3'11,2,2,32,N/A,2.70,65,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G6951,Discontinued,Q3'11,2,2,32,N/A,2.80,73,3,Intel Smart Cache,Name Unknown
+Pentium G860,Discontinued,Q3'11,2,2,32,N/A,3.00,65,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium 957,Discontinued,Q2'11,2,2,32,N/A,1.20,17,2,L3 Cache,Name Unknown
+Pentium B940,Discontinued,Q2'11,2,2,32,N/A,2.00,35,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium B950,Discontinued,Q2'11,2,2,32,N/A,2.10,35,2,L3 Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G620,Discontinued,Q2'11,2,2,32,N/A,2.60,65,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G620T,Discontinued,Q2'11,2,2,32,N/A,2.20,35,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G622,Discontinued,Q2'11,2,2,32,N/A,2.60,65,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G840,Discontinued,Q2'11,2,2,32,N/A,2.80,65,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G850,Discontinued,Q2'11,2,2,32,N/A,2.90,65,3,Intel Smart Cache,Intel HD Graphics for 2nd Gen Intel Processors
+Pentium G6960,Discontinued,Q1'11,2,2,32,N/A,2.93,73,3,Intel Smart Cache,Name Unknown
+Pentium U5600,Discontinued,Q1'11,2,2,32,N/A,1.33,18,3,Intel Smart Cache,Intel HD Graphics for Previous Gen Intel Processors
+Pentium P6300,Discontinued,Q1'11,2,2,32,N/A,2.27,35,3,Intel Smart Cache,Intel HD Graphics for Previous Gen Intel Processors
+Pentium E5800,Discontinued,Q4'10,2,N/A,45,N/A,3.20,65,2,N/A,N/A
+Pentium E5700,Discontinued,Q3'10,2,N/A,45,N/A,3.00,65,2,Intel Smart Cache,N/A
+Pentium E6800,Discontinued,Q3'10,2,N/A,45,N/A,3.33,65,2,Intel Smart Cache,N/A
+Pentium P6100,Discontinued,Q3'10,2,2,32,N/A,2.00,35,3,Intel Smart Cache,Intel HD Graphics for Previous Gen Intel Processors
+Pentium P6200,Discontinued,Q3'10,2,2,32,N/A,2.13,35,3,Intel Smart Cache,Intel HD Graphics for Previous Gen Intel Processors
+Pentium E6700,Discontinued,Q2'10,2,N/A,45,N/A,3.20,65,2,Intel Smart Cache,N/A
+Pentium U5400,Discontinued,Q2'10,2,2,32,N/A,1.20,18,3,Intel Smart Cache,Intel HD Graphics for Previous Gen Intel Processors
+Pentium E5500,Discontinued,Q2'10,2,N/A,45,N/A,2.80,65,2,Intel Smart Cache,N/A
+Pentium P6000,Discontinued,Q2'10,2,2,32,N/A,1.86,35,3,Intel Smart Cache,Intel HD Graphics for Previous Gen Intel Processors
+Pentium G6950,Discontinued,Q1'10,2,2,32,N/A,2.80,73,3,Intel Smart Cache,Name Unknown
+Pentium E6600,Discontinued,Q1'10,2,N/A,45,N/A,3.06,65,2,Intel Smart Cache,N/A
+Pentium T4500,Discontinued,Q1'10,2,N/A,45,N/A,2.30,35,1,N/A,N/A
+Pentium T4400,Discontinued,Q4'09,2,N/A,45,N/A,2.20,35,1,L2 Cache,N/A
+Pentium E6500,Discontinued,Q1'08,2,N/A,45,N/A,2.93,65,2,L2 Cache,N/A
+Pentium E6500K,Discontinued,Q3'09,2,N/A,45,N/A,2.93,65,2,N/A,N/A
+Pentium E6300,Discontinued,Q2'09,2,N/A,45,N/A,2.80,65,2,L2 Cache,N/A
+Pentium E5400,Discontinued,Q1'09,2,N/A,45,N/A,2.70,65,2,L2 Cache,N/A
+Pentium T4200,Discontinued,Q1'09,2,N/A,45,N/A,2.00,35,1,L2 Cache,N/A
+Pentium E5300,Discontinued,Q1'08,2,N/A,45,N/A,2.60,65,2,L2 Cache,N/A
+Pentium T3400,Discontinued,Q4'08,2,N/A,65,N/A,2.16,35,1,L2 Cache,N/A
+Pentium E5200,Discontinued,Q3'08,2,N/A,45,N/A,2.50,65,2,L2 Cache,N/A
+Pentium E2220,Discontinued,Q1'08,2,N/A,65,N/A,2.40,65,1,L2 Cache,N/A
+Pentium T2370,Discontinued,Q1'08,2,N/A,65,N/A,1.73,35,1,L2 Cache,N/A
+Pentium E2200,Discontinued,Q4'07,2,N/A,65,N/A,2.20,65,1,L2 Cache,N/A
+Pentium T2310,Discontinued,Q4'07,2,N/A,65,N/A,1.46,35,1,L2 Cache,N/A
+Pentium T2330,Discontinued,Q4'07,2,N/A,65,N/A,1.60,35,1,L2 Cache,N/A
+Pentium E2180,Discontinued,Q3'07,2,N/A,65,N/A,2.00,65,1,L2 Cache,N/A
+Pentium E2140,Discontinued,Q2'07,2,N/A,65,N/A,1.60,65,1,L2 Cache,N/A
+Pentium T2080,Discontinued,Q2'07,2,N/A,65,N/A,1.73,31,1,L2 Cache,N/A
+Pentium T2130,Discontinued,Q2'07,2,N/A,65,N/A,1.86,31,1,L2 Cache,N/A
+Pentium D 935,Discontinued,Q1'07,2,N/A,65,N/A,3.20,95,4,L2 Cache,N/A
+Pentium T2060,Discontinued,Q1'07,2,N/A,65,N/A,1.60,31,1,L2 Cache,N/A
+Pentium 4 651 Supporting HT Technology,Discontinued,Q2'06,1,N/A,65,N/A,3.40,86,2,L2 Cache,N/A
+Pentium D 915,Discontinued,Q3'06,2,N/A,65,N/A,2.80,95,4,L2 Cache,N/A
+Pentium D 925,Discontinued,Q3'06,2,N/A,65,N/A,3.00,95,4,L2 Cache,N/A
+Pentium D 945,Discontinued,Q3'06,2,N/A,65,N/A,3.40,95,4,L2 Cache,N/A
+Pentium E2160,Discontinued,Q3'06,2,N/A,65,N/A,1.80,65,1,L2 Cache,N/A
+Pentium 4 524 Supporting HT Technology,Discontinued,Q2'06,1,N/A,90,N/A,3.06,84,1,L2 Cache,N/A
+Pentium D 960,Discontinued,Q2'06,2,N/A,65,N/A,3.60,130,4,L2 Cache,N/A
+Pentium 4 631 Supporting HT Technology,Discontinued,Q1'06,1,N/A,65,N/A,3.00,86,2,L2 Cache,N/A
+Pentium 4 641 Supporting HT Technology,Discontinued,Q1'06,1,N/A,65,N/A,3.20,86,2,L2 Cache,N/A
+Pentium 4 661 Supporting HT Technology,Discontinued,Q1'06,1,N/A,65,N/A,3.60,86,2,L2 Cache,N/A
+Pentium D 920 (1),Discontinued,Q1'06,2,N/A,65,N/A,2.80,95,4,N/A,N/A
+Pentium D 920 (2),Discontinued,Q1'06,2,N/A,65,N/A,2.80,95,4,L2 Cache,N/A
+Pentium D 930,Discontinued,Q1'06,2,N/A,65,N/A,3.00,95,4,L2 Cache,N/A
+Pentium D 940,Discontinued,Q1'06,2,N/A,65,N/A,3.20,N/A,4,L2 Cache,N/A
+Pentium D 950,Discontinued,Q1'06,2,N/A,65,N/A,3.40,130,4,L2 Cache,N/A
+Pentium 955 Extreme Edition,Discontinued,Q1'06,2,N/A,65,N/A,3.46,130,4,L2 Cache,N/A
+Pentium 965 Extreme Edition,Discontinued,Q1'06,2,N/A,65,N/A,3.73,130,4,L2 Cache,N/A
+Pentium 4 511,Discontinued,Q4'05,1,N/A,90,N/A,2.80,84,1,L2 Cache,N/A
+Pentium 4 516,Discontinued,Q4'05,1,N/A,90,N/A,2.93,84,1,L2 Cache,N/A
+Pentium 4 540J Supporting HT Technology,Discontinued,Q4'05,1,N/A,90,N/A,3.20,84,1,L2 Cache,N/A
+Pentium 4 630 Supporting HT Technology,Discontinued,Q4'05,1,N/A,90,N/A,3.00,84,2,L2 Cache,N/A
+Pentium 4 662 Supporting HT Technology,Discontinued,Q4'05,1,N/A,90,N/A,3.60,115,2,L2 Cache,N/A
+Pentium 4 672 Supporting HT Technology,Discontinued,Q4'05,1,N/A,90,N/A,3.80,115,2,L2 Cache,N/A
+Pentium 4 515/515J,Discontinued,Q3'05,1,N/A,90,N/A,2.93,84,1,L2 Cache,N/A
+Pentium 4 517 Supporting HT Technology,Discontinued,Q3'05,1,N/A,90,N/A,2.93,84,1,L2 Cache,N/A
+Pentium 4 521 Supporting HT Technology,Discontinued,Q3'05,1,N/A,90,N/A,2.80,84,1,L2 Cache,N/A
+Pentium 4 561 Supporting HT Technology,Discontinued,Q3'05,1,N/A,90,N/A,3.60,115,1,L2 Cache,N/A
+Pentium 4 571 Supporting HT Technology,Discontinued,Q3'05,1,N/A,90,N/A,3.80,115,1,L2 Cache,N/A
+Pentium 4 506,Discontinued,Q2'05,1,N/A,90,N/A,2.66,84,1,L2 Cache,N/A
+Pentium 4 670 Supporting HT Technology,Discontinued,Q2'05,1,N/A,90,N/A,3.80,115,2,L2 Cache,N/A
+Pentium D 820,Discontinued,Q2'05,2,N/A,90,N/A,2.80,95,2,L2 Cache,N/A
+Pentium D 830,Discontinued,Q2'05,2,N/A,90,N/A,3.00,130,2,L2 Cache,N/A
+Pentium D 840,Discontinued,Q2'05,2,N/A,90,N/A,3.20,130,2,L2 Cache,N/A
+Pentium 840 Extreme Edition,Discontinued,Q2'05,2,N/A,90,N/A,3.20,130,2,L2 Cache,N/A
+Pentium 4 505/505J,Discontinued,Q1'05,1,N/A,90,N/A,2.66,84,1,L2 Cache,N/A
+Pentium 4 640 Supporting HT Technology,Discontinued,Q1'05,1,N/A,90,N/A,3.20,84,2,L2 Cache,N/A
+Pentium 4 650 Supporting HT Technology,Discontinued,Q1'05,1,N/A,90,N/A,3.40,84,2,L2 Cache,N/A
+Pentium 4 660 Supporting HT Technology,Discontinued,Q1'05,1,N/A,90,N/A,3.60,115,2,L2 Cache,N/A
+Pentium D 805,Discontinued,Q1'05,1,N/A,90,N/A,2.66,95,2,L2 Cache,N/A
+Pentium M 760,Discontinued,Q2'04,1,N/A,90,N/A,2.00,27,2,L2 Cache,N/A
+Pentium 4 519K,Discontinued,Q4'04,1,N/A,90,N/A,3.06,84,1,L2 Cache,N/A
+Pentium 4 520J Supporting HT Technology,Discontinued,Q4'04,1,N/A,90,N/A,2.80,84,1,L2 Cache,N/A
+Pentium 4 530J Supporting HT Technology,Discontinued,Q4'04,1,N/A,90,N/A,3.00,84,1,L2 Cache,N/A
+Pentium 4 550J Supporting HT Technology,Discontinued,Q4'04,1,N/A,90,N/A,3.40,84,1,L2 Cache,N/A
+Pentium 4 570J Supporting HT Technology,Discontinued,Q4'04,1,N/A,90,N/A,3.80,115,1,L2 Cache,N/A
+"Pentium 4 Extreme Edition Supporting HT Technology, 3.46 GHz, 2M Cache, 1066 MHz FSB",Discontinued,Q4'04,1,N/A,130,N/A,3.46,110.7,2,L2 Cache,N/A
+"Pentium 4 Extreme Edition Supporting HT Technology, 3.73 GHz, 2M Cache, 1066 MHz FSB",Discontinued,Q4'04,1,N/A,90,N/A,3.73,115,2,L2 Cache,N/A
+Pentium M LV 738,Discontinued,Q2'04,1,N/A,90,N/A,1.40,7.5,2,L2 Cache,N/A
+Pentium 4 541 Supporting HT Technology,Discontinued,Q3'04,1,N/A,90,N/A,3.20,84,1,L2 Cache,N/A
+Pentium 4 531 Supporting HT Technology,Discontinued,Q2'04,1,N/A,90,N/A,3.00,84,1,L2 Cache,N/A
+Pentium 4 551 Supporting HT Technology,Discontinued,Q2'05,1,N/A,90,N/A,3.40,84,1,L2 Cache,N/A
+Pentium M 745,Discontinued,Q2'04,1,N/A,90,N/A,1.80,7.5,2,L2 Cache,N/A
+Pentium M 745A,Discontinued,Q2'04,1,N/A,90,N/A,1.80,21,2,L2 Cache,N/A
+Pentium 4 520 Supporting HT Technology,Discontinued,Q2'04,1,N/A,90,N/A,2.80,84,1,L2 Cache,N/A
+Pentium 4 530/530J Supporting HT Technology,Discontinued,Q2'04,1,N/A,90,N/A,3.00,84,1,L2 Cache,N/A
+Pentium 4 540/540J Supporting HT Technology,Discontinued,Q2'04,1,N/A,90,N/A,3.20,84,1,L2 Cache,N/A
+Pentium 4 550 Supporting HT Technology,Discontinued,Q2'04,1,N/A,90,N/A,3.40,115,1,L2 Cache,N/A
+Pentium M 725,Discontinued,Q2'04,1,N/A,90,N/A,1.60,7.5,2,L2 Cache,N/A
+"Pentium 4, 2.80 GHz, 512K Cache, 533 MHz FSB",Discontinued,Q1'02,1,N/A,130,N/A,2.80,68.4,0.5,L2 Cache,N/A
+"Pentium 4 Mobile Supporting HT Technology, 2.80E GHz, 1M Cache, 800 MHz FSB",Discontinued,Q1'04,1,N/A,90,N/A,2.80,89,1,L2 Cache,N/A
+"Pentium 4 Supporting HT Technology, 3.00 GHz, 1M Cache, 800 MHz FSB",Discontinued,Q1'04,1,N/A,90,N/A,3.00,89,1,L2 Cache,N/A
+"Pentium 4 Supporting HT Technology, 3.00E GHz, 1M Cache, 800 MHz FSB",Discontinued,Q2'04,1,N/A,90,N/A,3.00,89,1,L2 Cache,N/A
+"Pentium 4 Supporting HT Technology, 3.20 GHz, 1M Cache, 800 MHz FSB",Discontinued,Q1'04,1,N/A,90,N/A,3.20,103,1,L2 Cache,N/A
+"Pentium 4 Supporting HT Technology, 3.20E GHz, 1M Cache, 800 MHz FSB",Discontinued,Q1'04,1,N/A,90,N/A,3.20,103,1,L2 Cache,N/A
+"Pentium 4 Supporting HT Technology, 3.40 GHz, 1M Cache, 800 MHz FSB",Discontinued,Q1'04,1,N/A,90,N/A,3.40,103,1,L2 Cache,N/A
+"Pentium 4 Supporting HT Technology, 3.40E GHz, 1M Cache, 800 MHz FSB",Discontinued,Q1'04,1,N/A,90,N/A,3.40,103,1,L2 Cache,N/A
+"Pentium M 1.60 GHz, 1M Cache, 400 MHz FSB",Discontinued,Q2'03,1,N/A,130,N/A,1.60,24.5,1,L2 Cache,N/A
+"Pentium M LV 1.10 GHz, 1M Cache, 400 MHz FSB",Discontinued,Q2'03,1,N/A,130,N/A,1.10,12,1,L2 Cache,N/A
+"Pentium 4 2.60 GHz, 512K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,130,N/A,2.60,62.6,0.5,L2 Cache,N/A
+"Pentium 4 Mobile - M 2.20 GHz, 512K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,130,N/A,2.20,35,0.5,L2 Cache,N/A
+"Pentium 4 Mobile - M 1.70 GHz, 512K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,130,N/A,1.70,30,0.5,L2 Cache,N/A
+"Pentium 4 2.00 GHz, 512K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,130,N/A,2.00,54.3,0.5,L2 Cache,N/A
+"Pentium 4 2.20 GHz, 512K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,130,N/A,2.20,57.1,0.5,L2 Cache,N/A
+"Pentium 4 2.40 GHz, 512K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,130,N/A,2.40,59.8,0.5,L2 Cache,N/A
+"Pentium 4 2.40 GHz, 512K Cache, 533 MHz FSB",Discontinued,Q1'02,1,N/A,130,N/A,2.40,59.8,0.5,L2 Cache,N/A
+"Pentium 4 2.50 GHz, 512K Cache, 400 MHz FSB",Discontinued,Q1'02,1,N/A,130,N/A,2.50,61,0.5,L2 Cache,N/A
+"Pentium III - S 1.26 GHz, 512K Cache, 133 MHz FSB",Discontinued,Q4'01,1,N/A,130,N/A,1.26,30.4,0.5,L2 Cache,N/A
+"Pentium III - S 800 MHz, 512K Cache, 133 MHz FSB",Discontinued,Q4'01,1,N/A,130,N/A,0.80,10.63,0.5,L2 Cache,N/A
+"Pentium III - S 933 MHz, 512K Cache, 133 MHz FSB",Discontinued,Q4'01,1,N/A,130,N/A,0.933,11.61,0.5,L2 Cache,N/A
+"Pentium III 1.00 GHz, 256K Cache, 100 MHz FSB",Discontinued,Q1'00,1,N/A,180,N/A,1.00,29,0.25,L2 Cache,N/A
+"Pentium III 1.00 GHz, 256K Cache, 133 MHz FSB",Discontinued,Q1'00,1,N/A,180,N/A,1.00,29,0.25,L2 Cache,N/A
+"Pentium III 600 MHz, 256K Cache, 100 MHz FSB",Discontinued,Q1'00,1,N/A,180,N/A,0.60,19.5,0.25,L2 Cache,N/A
+"Pentium III 700 MHz, 256K Cache, 100 MHz FSB",Discontinued,Q1'00,1,N/A,180,N/A,0.70,18.3,0.25,L2 Cache,N/A
+"Pentium III 733 MHz, 256K Cache, 133 MHz FSB",Discontinued,Q1'00,1,N/A,180,N/A,0.733,22.8,0.25,L2 Cache,N/A
+"Pentium III 850 MHz, 256K Cache, 100 MHz FSB",Discontinued,Q1'00,1,N/A,180,N/A,0.85,22.5,0.25,L2 Cache,N/A
+"Pentium III 866 MHx, 256K Cache, 133 MHz FSB",Discontinued,Q1'00,1,N/A,180,N/A,0.866,26.1,0.25,L2 Cache,N/A
