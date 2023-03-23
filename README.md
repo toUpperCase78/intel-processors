@@ -8,9 +8,7 @@ Hello there! As a data scientist, here is my dataset project: **Intel Processors
 
 This repo contains the datasets that involve all processors from **Core**, **Pentium**, **Celeron**, **Xeon**, **Xeon Phi**, **Itanium**, **Atom** and **Quark SoC** series Intel has ever manufactured. 
 
-## Source
-
-All these info in the dataset is based on Intel ARK [website](https://ark.intel.com/content/www/tr/tr/ark.html).
+All these info in the datasets are obtained from Intel ARK [website](https://ark.intel.com/content/www/tr/tr/ark.html).
 
 ## Current Status
 
@@ -36,6 +34,14 @@ The latest version (1.6) of current datasets contain these features below:
 - `Cache (MB)`: The total cache capacity of the processor (in MB)
 - `Cache Info`: Additional info about the cache
 - `Integrated Graphics`: Shows the integrated graphic component used by the processor if exists
+
+### Assumptions
+
+There are some assumptions for the preparation of these datasets. Please keep them in mind while inspecting them:
+
+- For assessing `TDP` of the processors, normally **the base value** is taken. If base value is not avaiable in the original spec sheet, but configurable TDP-up and TDP-down frequency values are given instead, the **TDP-up** value is taken.
+- For some processors having both performance and efficiency cores/threads together, their performance-core base frequency is considered in the `Base Freq.`, if the individual base frequency is not found in the spec sheet.
+- In `Integrated Graphics` column, the name for a few processors migh appear as 'Name Unknown'. This means the processors has integrated graphics, but its name was not indicated in the spec sheet of the original source.
 
 ## Analyses
 
