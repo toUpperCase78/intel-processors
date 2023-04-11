@@ -1,0 +1,23 @@
+Product,Status,Release Date,Cores,Threads,Lithography(nm),Max. Turbo Freq.(GHz),Base Freq.(GHz),TDP(W),Cache(MB),Cache Info,Integrated Graphics
+Itanium 9720,Discontinued,Q2'17,4,8,32,N/A,1.73,130,20,N/A,N/A
+Itanium 9740,Discontinued,Q2'17,8,16,32,N/A,2.13,170,24,N/A,N/A
+Itanium 9750,Discontinued,Q2'17,4,8,32,N/A,2.53,170,32,N/A,N/A
+Itanium 9760,Discontinued,Q2'17,8,16,32,N/A,2.66,170,32,N/A,N/A
+Itanium 9520,Discontinued,Q4'12,4,8,32,N/A,1.73,130,20,N/A,N/A
+Itanium 9540,Discontinued,Q4'12,8,16,32,N/A,2.13,170,24,N/A,N/A
+Itanium 9550,Discontinued,Q4'12,4,8,32,N/A,2.40,170,32,N/A,N/A
+Itanium 9560,Discontinued,Q4'12,8,16,32,N/A,2.53,170,32,N/A,N/A
+Itanium 9310,Discontinued,Q1'10,2,4,65,N/A,1.60,130,10,L3 Cache,N/A
+Itanium 9320,Discontinued,Q1'10,4,8,65,1.47,1.33,155,16,L3 Cache,N/A
+Itanium 9330,Discontinued,Q1'10,4,8,65,1.60,1.46,155,20,L3 Cache,N/A
+Itanium 9340,Discontinued,Q1'10,4,8,65,1.73,1.60,185,20,L3 Cache,N/A
+Itanium 9350,Discontinued,Q1'10,4,8,65,1.87,1.73,185,24,L3 Cache,N/A
+Itanium 9110N,Discontinued,Q4'07,1,N/A,90,N/A,1.60,75,12,L3 Cache,N/A
+Itanium 9120N,Discontinued,Q4'07,2,N/A,90,N/A,1.42,104,12,L3 Cache,N/A
+Itanium 9130M,Discontinued,Q4'07,2,N/A,90,N/A,1.66,104,8,L3 Cache,N/A
+Itanium 9140M,Discontinued,Q4'07,2,N/A,90,N/A,1.66,104,18,L3 Cache,N/A
+Itanium 9140N,Discontinued,Q4'07,2,N/A,90,N/A,1.60,104,18,L3 Cache,N/A
+Itanium 9150M,Discontinued,Q4'07,2,N/A,90,N/A,1.66,104,24,L3 Cache,N/A
+Itanium 9150N,Discontinued,Q4'07,2,N/A,90,N/A,1.60,104,24,L3 Cache,N/A
+Itanium 9152M,Discontinued,Q4'07,2,N/A,90,N/A,1.66,104,24,L3 Cache,N/A
+Itanium 9015,Discontinued,Q1'07,2,N/A,90,N/A,1.40,104,12,L2 Cache,N/A
