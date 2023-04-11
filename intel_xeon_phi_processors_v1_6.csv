@@ -1,0 +1,20 @@
+Product,Status,Release Date,Cores,Threads,Lithography(nm),Max. Turbo Freq.(GHz),Base Freq.(GHz),TDP(W),Cache(MB),Cache Info,Integrated Graphics
+Xeon Phi 7120A Coprocessor,Discontinued,Q2'14,61,N/A,22,1.33,1.24,300,30.5,L2 Cache,N/A
+Xeon Phi 7120D Coprocessor,Discontinued,Q1'14,61,N/A,22,1.33,1.24,270,30.5,L2 Cache,N/A
+Xeon Phi 3120A Coprocessor,Discontinued,Q2'13,57,N/A,22,N/A,1.10,300,28.5,L2 Cache,N/A
+Xeon Phi 3120P Coprocessor,Discontinued,Q2'13,57,N/A,22,N/A,1.10,300,28.5,L2 Cache,N/A
+Xeon Phi 5120D Coprocessor,Discontinued,Q2'13,60,N/A,22,N/A,1.05,245,30,L2 Cache,N/A
+Xeon Phi 7120P Coprocessor,Discontinued,Q2'13,61,N/A,22,1.33,1.24,300,30.5,L2 Cache,N/A
+Xeon Phi 7120X Coprocessor,Discontinued,Q2'13,61,N/A,22,1.33,1.24,300,30.5,L2 Cache,N/A
+Xeon Phi 5110P Coprocessor,Discontinued,Q4'12,60,N/A,22,N/A,1.05,225,30,L2 Cache,N/A
+Xeon Phi 7210,Discontinued,Q2'16,64,N/A,14,1.50,1.30,215,32,L2 Cache,N/A
+Xeon Phi 7210F,Discontinued,Q4'16,64,N/A,14,1.50,1.30,230,32,L2 Cache,N/A
+Xeon Phi 7230,Discontinued,Q2'16,64,N/A,14,1.50,1.30,215,32,L2 Cache,N/A
+Xeon Phi 7230F,Discontinued,Q4'16,64,N/A,14,1.50,1.30,230,32,L2 Cache,N/A
+Xeon Phi 7250,Discontinued,Q2'16,68,N/A,14,1.60,1.40,215,34,L2 Cache,N/A
+Xeon Phi 7250F,Discontinued,Q4'16,68,N/A,14,1.60,1.40,230,34,L2 Cache,N/A
+Xeon Phi 7290,Discontinued,Q4'16,72,N/A,14,1.70,1.50,245,36,L2 Cache,N/A
+Xeon Phi 7290F,Discontinued,Q4'16,72,N/A,14,1.70,1.50,260,36,L2 Cache,N/A
+Xeon Phi 7235,Discontinued,Q4'17,64,N/A,14,1.40,1.30,250,32,L2 Cache,N/A
+Xeon Phi 7285,Discontinued,Q4'17,68,N/A,14,1.40,1.30,250,34,L2 Cache,N/A
+Xeon Phi 7295,Discontinued,Q4'17,72,N/A,14,1.60,1.50,320,36,L2 Cache,N/A
