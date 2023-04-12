@@ -1,0 +1,12 @@
+Product,Status,Release Date,Cores,Threads,Lithography(nm),Max. Turbo Freq.(MHz),Base Freq.(MHz),TDP(W),Cache(KB),Cache Info,Integrated Graphics
+Quark SoC X1001,Discontinued,Q2'14,1,1,32,N/A,400,2.2,16,N/A,N/A
+Quark SoC X1011,Discontinued,Q2'14,1,1,32,N/A,400,2.2,16,N/A,N/A
+Quark SoC X1020,Discontinued,Q2'14,1,1,32,N/A,400,2.2,16,N/A,N/A
+Quark SoC X1021,Discontinued,Q2'14,1,1,32,N/A,400,2.2,16,N/A,N/A
+Quark SoC X1021D,Discontinued,Q2'14,1,1,32,N/A,400,2.2,16,N/A,N/A
+Quark SoC X1010,Discontinued,Q1'14,1,1,32,N/A,400,2.2,16,N/A,N/A
+Quark SoC X1020D,Discontinued,Q1'14,1,1,32,N/A,400,2.2,16,N/A,N/A
+Quark SoC X1000,Discontinued,Q4'13,1,1,32,N/A,400,2.2,16,N/A,N/A
+Quark Microcontroller D1000,Discontinued,Q3'15,1,N/A,N/A,N/A,33,0.025,0,N/A,N/A
+Quark Microcontroller D2000,Discontinued,Q3'15,1,N/A,N/A,N/A,32,N/A,0,N/A,N/A
+Quark Microcontroller SE C1000,Discontinued,Q4'15,1,N/A,N/A,N/A,32,N/A,8,N/A,N/A
