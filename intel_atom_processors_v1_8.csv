@@ -111,8 +111,8 @@ Atom Z3560,Discontinued,Q2'14,Moorefield,4,N/A,22,N/A,N/A,N/A,2,N/A,4,LPDDR3,160
 Atom Z3580,Discontinued,Q2'14,Moorefield,4,N/A,22,N/A,N/A,N/A,2,N/A,4,LPDDR3,1600,Name Unknown
 Atom Z3735F,Discontinued,Q1'14,Bay Trail,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,2,DDR3L-RS,1333,Intel HD Graphics for Intel Atom Z3700 Processor Series
 Atom Z3735G,Discontinued,Q1'14,Bay Trail,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,1,DDR3L-RS,1333,Intel HD Graphics for Intel Atom Z3700 Processor Series
-Atom Z3460,Discontinued,Q1'14,Merrifield,2,N/A,22,N/A,N/A,N/A,1,4,LPDDR3,1066,Intel Smart Cache,Name Unknown
-Atom Z3480,Discontinued,Q1'14,Merrifield,2,N/A,22,N/A,N/A,N/A,1,4,LPDDR3,1066,Intel Smart Cache,Name Unknown
+Atom Z3460,Discontinued,Q1'14,Merrifield,2,N/A,22,N/A,N/A,N/A,1,Intel Smart Cache,4,LPDDR3,1066,Name Unknown
+Atom Z3480,Discontinued,Q1'14,Merrifield,2,N/A,22,N/A,N/A,N/A,1,Intel Smart Cache,4,LPDDR3,1066,Name Unknown
 Atom Z3735D,Discontinued,Q1'14,Bay Trail,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,2,DDR3L-RS,1333,Intel HD Graphics for Intel Atom Z3700 Processor Series
 Atom Z3735E,Discontinued,Q1'14,Bay Trail,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,1,DDR3L-RS,1333,Intel HD Graphics for Intel Atom Z3700 Processor Series
 Atom Z3775D,Discontinued,Q1'14,Bay Trail,4,N/A,22,N/A,1.49,N/A,2,L2 Cache,2,DDR3L-RS,1333,Intel HD Graphics for Intel Atom Z3700 Processor Series
