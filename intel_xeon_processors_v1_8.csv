@@ -118,6 +118,7 @@ Xeon Platinum 8360Y,Launched,Q2'21,Ice Lake,36,72,10,3.50,2.40,250,54,N/A,6144,D
 Xeon Platinum 8362,Launched,Q2'21,Ice Lake,32,64,10,3.60,2.80,265,48,N/A,6144,DDR4,3200,N/A
 Xeon Platinum 8368,Launched,Q2'21,Ice Lake,38,76,10,3.40,2.40,270,57,N/A,6144,DDR4,3200,N/A
 Xeon Platinum 8368Q,Launched,Q2'21,Ice Lake,38,76,10,3.70,2.60,270,57,N/A,6144,DDR4,3200,N/A
+Xeon Platinum 8370C,Launched,Q2'21,Ice Lake,32,64,10,3.50,2.80,270,48,N/A,6144,DDR4,3200,N/A
 Xeon Platinum 8380,Launched,Q2'21,Ice Lake,40,80,10,3.40,2.30,270,60,N/A,6144,DDR4,3200,N/A
 Xeon Silver 4309Y,Launched,Q2'21,Ice Lake,8,16,10,3.60,2.80,105,12,N/A,6144,DDR4,2667,N/A
 Xeon Silver 4310,Launched,Q2'21,Ice Lake,12,24,10,3.30,2.10,120,18,N/A,6144,DDR4,2667,N/A
@@ -202,6 +203,7 @@ Xeon Platinum 8260L,Launched,Q2'19,Cascade Lake,24,48,14,3.90,2.40,165,35.75,N/A
 Xeon Platinum 8260Y,Launched,Q2'19,Cascade Lake,24,48,14,3.90,2.40,165,35.75,N/A,1024,DDR4,2933,N/A
 Xeon Platinum 8268,Launched,Q2'19,Cascade Lake,24,48,14,3.90,2.90,205,35.75,N/A,1024,DDR4,2933,N/A
 Xeon Platinum 8270,Launched,Q2'19,Cascade Lake,26,52,14,4.00,2.70,205,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Platinum 8272CL,Launched,Q2'19,Cascade Lake,26,52,14,3.70,2.60,195,35.75,N/A,4608,DDR4,2933,N/A
 Xeon Platinum 8276,Launched,Q2'19,Cascade Lake,28,56,14,4.00,2.20,165,38.5,N/A,1024,DDR4,2933,N/A
 Xeon Platinum 8276L,Launched,Q2'19,Cascade Lake,28,56,14,4.00,2.20,165,38.5,N/A,4608,DDR4,2933,N/A
 Xeon Platinum 8280,Launched,Q2'19,Cascade Lake,28,56,14,4.00,2.70,205,38.5,N/A,1024,DDR4,2933,N/A
@@ -256,6 +258,7 @@ Xeon Platinum 8160T,Launched,Q3'17,Skylake,24,48,14,3.70,2.10,150,33,L3 Cache,76
 Xeon Platinum 8164,Discontinued,Q3'17,Skylake,26,52,14,3.70,2.00,150,35.75,L3 Cache,768,DDR4,2666,N/A
 Xeon Platinum 8168,Discontinued,Q3'17,Skylake,24,48,14,3.70,2.70,205,33,L3 Cache,768,DDR4,2666,N/A
 Xeon Platinum 8170,Discontinued,Q3'17,Skylake,26,52,14,3.70,2.10,165,35.75,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8171M,Discontinued,Q3'17,Skylake,26,52,14,3.70,2.60,165,35.75,L3 Cache,1536,DDR4,2666,N/A
 Xeon Platinum 8176,Discontinued,Q3'17,Skylake,28,56,14,3.80,2.10,165,38.5,L3 Cache,768,DDR4,2666,N/A
 Xeon Platinum 8176F,Discontinued,Q3'17,Skylake,28,56,14,3.80,2.10,173,38.5,L3 Cache,768,DDR4,2666,N/A
 Xeon Platinum 8180,Discontinued,Q3'17,Skylake,28,56,14,3.80,2.50,205,28.5,L3 Cache,768,DDR4,2666,N/A
