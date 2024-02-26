@@ -265,7 +265,7 @@ Xeon Silver 4110,Launched,Q3'17,Skylake,8,16,14,3.00,2.10,85,11,L3 Cache,768,DDR
 Xeon Silver 4112,Discontinued,Q3'17,Skylake,4,8,14,3.00,2.60,85,8.25,L3 Cache,768,DDR4,2400,N/A
 Xeon Silver 4114,Discontinued,Q3'17,Skylake,10,20,14,3.00,2.20,85,13.75,L3 Cache,768,DDR4,2400,N/A
 Xeon Silver 4114T,Launched,Q3'17,Skylake,10,20,14,3.00,2.20,85,13.75,L3 Cache,768,DDR4,2400,N/A
-Xeon Silver 4116,Launched,Q3'17,Skylake,12,24,14,3.00,2.10,85,16,5,L3 Cache,768,DDR4,2400,N/A
+Xeon Silver 4116,Launched,Q3'17,Skylake,12,24,14,3.00,2.10,85,16.5,L3 Cache,768,DDR4,2400,N/A
 Xeon Silver 4116T,Launched,Q3'17,Skylake,12,24,14,3.00,2.10,85,16.5,L3 Cache,768,DDR4,2400,N/A
 Xeon CPU Max 9460,Launched,Q1'23,Sapphire Rapids HBM,40,80,7,3.50,2.20,350,97.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
 Xeon CPU Max 9462,Launched,Q1'23,Sapphire Rapids HBM,32,64,7,3.50,2.70,350,75,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
