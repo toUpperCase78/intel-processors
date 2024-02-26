@@ -848,7 +848,7 @@ Xeon X5690,Discontinued,Q1'11,Westmere EP,6,12,32,3.73,3.46,130,12,Intel Smart C
 Xeon W3670,Discontinued,Q3'10,Westmere EP,6,12,32,3.46,3.20,130,12,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
 Xeon X3480,Discontinued,Q2'10,Lynnfield,4,8,45,3.73,3.06,95,8,Intel Smart Cache,32,"DDR3 800/1066/1333",N/A,N/A
 Xeon E5620,Discontinued,Q1'10,Westmere EP,4,8,32,2.66,2.40,80,12,Intel Smart Cache,288,"DDR3 800/1066",N/A,N/A
-Xeon E5630,Discontinued,Q1'10,Westmere EP,4,8,32,2.80,2.53,80,12,Intel Smart Cache,288,"DDR3 800/1066"N/A,N/A
+Xeon E5630,Discontinued,Q1'10,Westmere EP,4,8,32,2.80,2.53,80,12,Intel Smart Cache,288,"DDR3 800/1066",N/A,N/A
 Xeon E5640,Discontinued,Q1'10,Westmere EP,4,8,32,2.93,2.66,80,12,Intel Smart Cache,288,"DDR3 800/1066",N/A,N/A
 Xeon E5645,Discontinued,Q1'10,Westmere EP,6,12,32,2.67,2.40,80,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
 Xeon L3406,Discontinued,Q1'10,Clarkdale,2,4,32,2.53,2.26,30,4,Intel Smart Cache,16.38,DDR3,1066,N/A
