@@ -52,9 +52,9 @@ There are some assumptions for the preparation of these datasets. Please keep th
 
 In the meantime, below I'll list the processors which didn't exist in Intel's website and have been contributed by other people for inclusion. Many thanks!
 
-- Xeon Platinum 8370C
-- Xeon Platinum 8272CL
-- Xeon Platinum 8171M
+- Xeon Platinum 8370C (mvarian)
+- Xeon Platinum 8272CL (mvarian)
+- Xeon Platinum 8171M (mvarian)
 
 ## Analyses
 
@@ -91,3 +91,5 @@ In the last few generations, many Intel processors have letters (suffixes) that 
 **This repo has been in silence for a long time!** In order to make it alive, all datasets are being updated to version 1.8 specifications described above. Then, I'll move on to analyses for presenting more insights!
 
 Depending on the interest of this repo, more features might be included for detailed specs for any processors. Naturally, you may try to find your processor here with necessary details!
+
+Last but not least, if you'd like to contribute by the addition of other processors that weren't seen in Intel's web site, just open a pull request, write down the processors including their necessary features and the reference site where you've taken the data.
