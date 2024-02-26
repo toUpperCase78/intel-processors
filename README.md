@@ -46,11 +46,19 @@ There are some assumptions for the preparation of these datasets. Please keep th
 - For assessing `TDP` of the processors, normally **the base value** is taken. If base value is not avaiable in the original spec sheet, but configurable TDP-up and TDP-down frequency values are given instead, the **TDP-up** value is taken.
 - For some processors having both performance and efficiency cores/threads together, their performance-core base frequency is considered in the `Base Freq.`, if the individual base frequency is not found in the spec sheet.
 - In `Integrated Graphics` column, the name for a few processors migh appear as `Name Unknown`. This means the processor has integrated graphics, but its name was not indicated in the spec sheet of the original source.
-- If there is only one type of supported memory and its related speed value, then the value is written for `Max Memory Speed (MHz)`.
+- If there is only one type of supported memory type and only one speed value, then this value is filled for `Max Memory Speed (MHz)`.
+
+## Contributions
+
+In the meantime, below I'll list the processors which didn't exist in Intel's website and have been contributed by other people for inclusion. Many thanks!
+
+- Xeon Platinum 8370C
+- Xeon Platinum 8272CL
+- Xeon Platinum 8171M
 
 ## Analyses
 
-There is only one data analysis available so far, about **Intel Core Processors** (done for v1.1) which was published more than 3 years ago. Anyway, you can click on the related notebook file (.ipynb) to see the details.
+There is only one data analysis available so far, about **Intel Core Processors** (done for v1.1) which was published more than 4 years ago. Anyway, you can click on the related notebook file (.ipynb) to see the details.
 
 _I'm totally aware that no other analyses have been carried out yet! Hopefully, more of them for up-to-date datasets will be included here in the best period possible!_
 
