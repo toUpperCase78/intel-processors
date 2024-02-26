@@ -81,6 +81,7 @@ Xeon Platinum 8362,Launched,Q2'21,32,64,10,3.60,2.80,265,48,N/A,N/A
 Xeon Platinum 8368,Launched,Q2'21,38,76,10,3.40,2.40,270,57,N/A,N/A
 Xeon Platinum 8368Q,Launched,Q2'21,38,76,10,3.70,2.60,270,57,N/A,N/A
 Xeon Platinum 8380,Launched,Q2'21,40,80,10,3.40,2.30,270,60,N/A,N/A
+Xeon Platinum 8370C,Launched,Q2'21,32,72,10,3.5,2.8,270,48,N/A,N/A
 Xeon Silver 4309Y,Launched,Q2'21,8,16,10,3.60,2.80,105,12,N/A,N/A
 Xeon Silver 4310,Launched,Q2'21,12,24,10,3.30,2.10,120,18,N/A,N/A
 Xeon Silver 4310T,Launched,Q2'21,10,20,10,3.40,2.30,105,15,N/A,N/A
@@ -164,6 +165,7 @@ Xeon Platinum 8260L,Launched,Q2'19,24,48,14,3.90,2.40,165,35.75,N/A,N/A
 Xeon Platinum 8260Y,Launched,Q2'19,24,48,14,3.90,2.40,165,35.75,N/A,N/A
 Xeon Platinum 8268,Launched,Q2'19,24,48,14,3.90,2.90,205,35.75,N/A,N/A
 Xeon Platinum 8270,Launched,Q2'19,26,52,14,4.00,2.70,205,35.75,N/A,N/A
+Xeon Platinum 8272CL,Launched,Q2'19,26,52,14,4,2.7,205,35.75,N/A,N/A
 Xeon Platinum 8276,Launched,Q2'19,28,56,14,4.00,2.20,165,38.5,N/A,N/A
 Xeon Platinum 8276L,Launched,Q2'19,28,56,14,4.00,2.20,165,38.5,N/A,N/A
 Xeon Platinum 8280,Launched,Q2'19,28,56,14,4.00,2.70,205,38.5,N/A,N/A
@@ -178,6 +180,7 @@ Xeon Silver 4214Y,Launched,Q2'19,12,24,14,3.20,2.20,85,16.5,N/A,N/A
 Xeon Silver 4215,Launched,Q2'19,8,16,14,3.50,2.50,85,11,N/A,N/A
 Xeon Silver 4216,Launched,Q2'19,16,32,14,3.20,2.10,100,22,N/A,N/A
 Xeon Gold 6138P,Discontinued,Q2'18,20,40,14,3.70,2.00,195,27.5,L3 Cache,N/A
+Xeon Platinum 8171M,Launched,Q1'18,26,52,14,N/A,2.6,N/A,35.75,L3 Cache,N/A
 Xeon Bronze 3104,Discontinued,Q3'17,6,6,14,N/A,1.70,85,8.25,L3 Cache,N/A
 Xeon Bronze 3106,Launched,Q3'17,8,8,14,N/A,1.70,85,11,L3 Cache,N/A
 Xeon Gold 5115,Discontinued,Q3'17,10,20,14,3.20,2.40,85,13.75,L3 Cache,N/A
