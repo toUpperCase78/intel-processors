@@ -1,0 +1,999 @@
+Product,Status,Release Date,Code Name,Cores,Threads,Lithography(nm),Max. Turbo Freq.(GHz),Base Freq.(GHz),TDP(W),Cache(MB),Cache Info,Max Memory Size(GB),Memory Types,Max Memory Speed(MHz),Integrated Graphics
+Xeon Bronze 3508U,Launched,Q4'23,Sapphire Rapids,8,8,7,2.20,2.10,125,22.5,N/A,4096,"DDR5 @ 4400 MT/s (1DPC & 2DPC)",N/A,N/A
+Xeon Gold 5512U,Launched,Q4'23,Emerald Rapids,28,56,7,3.70,2.10,185,52.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 5515+,Launched,Q4'23,Emerald Rapids,8,16,7,4.10,3.20,165,22.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 5520+,Launched,Q4'23,Emerald Rapids,28,56,7,4.00,2.20,205,52.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6526Y,Launched,Q4'23,Emerald Rapids,16,32,7,3.90,2.80,195,37.5,N/A,4096,"Up to DDR5 5200 MT/s 1DPC",N/A,N/A
+Xeon Gold 6530,Launched,Q4'23,Emerald Rapids,32,64,7,4.00,2.10,270,160,N/A,4096,"DDR5 @ 4800 MT/s (1DPC)",N/A,N/A
+Xeon Gold 6534,Launched,Q4'23,Emerald Rapids,8,16,7,4.20,3.90,195,22.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC",N/A,N/A
+Xeon Gold 6538N,Launched,Q4'23,Emerald Rapids,32,64,7,4.10,2.10,205,60,N/A,4096,"Up to DDR5 5200 MT/s 1DPC",N/A,N/A
+Xeon Gold 6538Y+,Launched,Q4'23,Emerald Rapids,32,64,7,4.00,2.20,225,60,N/A,4096,"Up to DDR5 5200 MT/s 1DPC",N/A,N/A
+Xeon Gold 6542Y,Launched,Q4'23,Emerald Rapids,24,48,7,4.10,2.90,250,60,N/A,4096,"Up to DDR5 5200 MT/s 1DPC",N/A,N/A
+Xeon Gold 6544Y,Launched,Q4'23,Emerald Rapids,16,32,7,4.10,3.60,270,45,N/A,4096,"Up to DDR5 5200 MT/s 1DPC",N/A,N/A
+Xeon Gold 6548N,Launched,Q4'23,Emerald Rapids,32,64,7,4.10,2.80,250,60,N/A,4096,"Up to DDR5 5200 MT/s 1DPC",N/A,N/A
+Xeon Gold 6548Y+,Launched,Q4'23,Emerald Rapids,32,64,7,4.10,2.50,250,60,N/A,4096,"Up to DDR5 5200 MT/s 1DPC",N/A,N/A
+Xeon Gold 6554S,Launched,Q4'23,Emerald Rapids,36,72,7,4.00,2.20,270,180,N/A,4096,"DDR5 @ 5200 MT/s (1DPC)",N/A,N/A
+Xeon Gold 6558Q,Launched,Q4'23,Emerald Rapids,32,64,7,4.10,3.20,350,60,N/A,4096,"Up to DDR5 5200 MT/s 1DPC",N/A,N/A
+Xeon Platinum 8558,Launched,Q4'23,Emerald Rapids,48,96,7,4.00,2.10,330,260,N/A,4096,"DDR5 @ 5200 MT/s (1DPC)",N/A,N/A
+Xeon Platinum 8558P,Launched,Q4'23,Emerald Rapids,48,96,7,4.00,2.70,350,260,N/A,4096,"DDR5 @ 5200 MT/s (1DPC)",N/A,N/A
+Xeon Platinum 8558U,Launched,Q4'23,Emerald Rapids,48,96,7,4.00,2.00,300,260,N/A,4096,"DDR5 @ 5200 MT/s (1DPC)",N/A,N/A
+Xeon Platinum 8562Y+,Launched,Q4'23,Emerald Rapids,32,64,7,4.10,2.80,300,60,N/A,4096,"Up to DDR5 5200 MT/s 1DPC",N/A,N/A
+Xeon Platinum 8568Y+,Launched,Q4'23,Emerald Rapids,48,96,7,4.00,2.30,350,300,N/A,4096,"DDR5 @ 5600 MT/s (1DPC)",N/A,N/A
+Xeon Platinum 8570,Launched,Q4'23,Emerald Rapids,56,112,7,4.00,2.10,350,300,N/A,4096,"DDR5 @ 5600 MT/s (1DPC)",N/A,N/A
+Xeon Platinum 8571N,Launched,Q4'23,Emerald Rapids,52,104,7,4.00,2.40,300,300,N/A,4096,"DDR5 @ 4800 MT/s (1DPC)",N/A,N/A
+Xeon Platinum 8580,Launched,Q4'23,Emerald Rapids,60,120,7,4.00,2.00,350,300,N/A,4096,"DDR5 @ 5600 MT/s (1DPC)",N/A,N/A
+Xeon Platinum 8581V,Launched,Q4'23,Emerald Rapids,60,120,7,3.90,2.00,270,300,N/A,4096,"DDR5 @ 4800 MT/s (1DPC)",N/A,N/A
+Xeon Platinum 8592+,Launched,Q4'23,Emerald Rapids,64,128,7,3.90,1.90,350,320,N/A,4096,"DDR5 @ 5600 MT/s (1DPC)",N/A,N/A
+Xeon Platinum 8592V,Launched,Q4'23,Emerald Rapids,64,128,7,3.90,2.00,330,320,N/A,4096,"DDR5 @ 4800 MT/s (1DPC)",N/A,N/A
+Xeon Platinum 8593Q,Launched,Q4'23,Emerald Rapids,64,128,7,3.90,2.20,385,320,N/A,4096,"DDR5 @ 5600 MT/s (1DPC)",N/A,N/A
+Xeon Silver 4509Y,Launched,Q4'23,Sapphire Rapids,8,16,7,4.10,2.60,125,22.5,N/A,4096,"DDR5 @ 4400 MT/s (1DPC & 2DPC)",N/A,N/A
+Xeon Silver 4510,Launched,Q4'23,Sapphire Rapids,12,24,7,4.10,2.40,150,30,N/A,4096,"DDR5 @ 4400 MT/s (1DPC & 2DPC)",N/A,N/A
+Xeon Silver 4510T,Launched,Q4'23,Sapphire Rapids,12,24,7,3.70,2.00,115,30,N/A,4096,"DDR5 @ 4400 MT/s (1DPC & 2DPC)",N/A,N/A
+Xeon Silver 4514Y,Launched,Q4'23,Emerald Rapids,16,32,7,3.40,2.00,150,30,N/A,4096,"Up to DDR5 4400 MT/s (1DPC & 2DPC)",N/A,N/A
+Xeon Silver 4516Y+,Launched,Q4'23,Emerald Rapids,24,48,7,3.70,2.20,185,45,N/A,4096,"Up to DDR5 4400 MT/s (1DPC & 2DPC)",N/A,N/A
+Xeon Gold 5403N,Launched,Q4'23,Sapphire Rapids Edge Enhanced,12,24,7,3.90,2.00,115,22.5,N/A,4096,DDR5,4000,N/A
+Xeon Gold 6403N,Launched,Q3'23,Sapphire Rapids Edge Enhanced,24,48,7,3.60,1.90,185,45,N/A,4096,DDR5,4000,N/A
+Xeon Gold 6423N,Launched,Q3'23,Sapphire Rapids Edge Enhanced,28,56,7,3.60,2.00,195,52.5,N/A,4096,DDR5,4400,N/A
+Xeon Gold 6433N,Launched,Q3'23,Sapphire Rapids Edge Enhanced,32,64,7,3.60,2.00,205,60,N/A,4096,DDR5,4400,N/A
+Xeon Gold 6433NE,Launched,Q3'23,Sapphire Rapids Edge Enhanced,32,64,7,3.60,2.00,205,60,N/A,4096,DDR5,4400,N/A
+Xeon Gold 6443N,Launched,Q3'23,Sapphire Rapids Edge Enhanced,32,64,7,3.60,2.00,195,60,N/A,4096,DDR5,4400,N/A
+Xeon Platinum 8444H,Launched,Q1'23,Sapphire Rapids,16,32,7,4.00,2.90,270,45,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8450H,Launched,Q1'23,Sapphire Rapids,28,56,7,3.50,2.00,250,75,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8452Y,Launched,Q1'23,Sapphire Rapids,36,72,7,3.20,2.00,300,67.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8454H,Launched,Q1'23,Sapphire Rapids,32,64,7,3.40,2.10,270,82.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8458P,Launched,Q1'23,Sapphire Rapids,44,88,7,3.80,2.70,350,82.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8460H,Launched,Q1'23,Sapphire Rapids,40,80,7,3.80,2.20,330,105,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8460Y+,Launched,Q1'23,Sapphire Rapids,40,80,7,3.70,2.00,300,105,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8461V,Launched,Q1'23,Sapphire Rapids,48,96,7,3.70,2.20,300,97.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8462Y+,Launched,Q1'23,Sapphire Rapids,32,64,7,4.10,2.80,300,60,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8468,Launched,Q1'23,Sapphire Rapids,48,96,7,3.80,2.10,350,105,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8468H,Launched,Q1'23,Sapphire Rapids,48,96,7,3.80,2.10,330,105,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8468V,Launched,Q1'23,Sapphire Rapids,48,96,7,3.80,2.40,330,97.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8470,Launched,Q1'23,Sapphire Rapids,52,104,7,3.80,2.00,350,105,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8470N,Launched,Q1'23,Sapphire Rapids,52,104,7,3.60,1.70,300,97.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8470Q,Launched,Q1'23,Sapphire Rapids,52,104,7,3.80,2.10,350,105,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8471N,Launched,Q1'23,Sapphire Rapids,52,104,7,3.60,1.80,300,97.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8480+,Launched,Q1'23,Sapphire Rapids,56,112,7,3.80,2.00,350,105,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Platinum 8490H,Launched,Q1'23,Sapphire Rapids,60,120,7,3.50,1.90,350,112.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 5411N,Launched,Q1'23,Sapphire Rapids,24,48,7,3.90,1.90,165,45,N/A,4096,"Up to DDR5 4400 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Gold 5412U,Launched,Q1'23,Sapphire Rapids,24,48,7,3.90,2.10,185,45,N/A,4096,"Up to DDR5 4400 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Gold 5415+,Launched,Q1'23,Sapphire Rapids,8,16,7,4.10,2.90,150,22.5,N/A,4096,"Up to DDR5 4400 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Gold 5416S,Launched,Q1'23,Sapphire Rapids,16,32,7,4.00,2.00,150,30,N/A,4096,"Up to DDR5 4400 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Gold 5418N,Launched,Q1'23,Sapphire Rapids,24,48,7,3.80,1.80,165,45,N/A,4096,"Up to DDR5 4400 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Gold 5418Y,Launched,Q1'23,Sapphire Rapids,24,48,7,3.80,2.00,185,45,N/A,4096,"Up to DDR5 4400 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Gold 5420+,Launched,Q1'23,Sapphire Rapids,28,56,7,4.10,2.00,205,52.5,N/A,4096,"Up to DDR5 4400 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Gold 5423N,Launched,Q1'23,Sapphire Rapids Edge Enhanced,20,40,7,4.00,2.10,145,37.5,N/A,4096,DDR5,4000,N/A
+Xeon Gold 5433N,Launched,Q1'23,Sapphire Rapids Edge Enhanced,20,40,7,4.10,2.30,160,37.5,N/A,4096,DDR5,4000,N/A
+Xeon Gold 6414U,Launched,Q1'23,Sapphire Rapids,32,64,7,3.40,2.00,250,60,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6416H,Launched,Q1'23,Sapphire Rapids,18,36,7,4.20,2.20,165,45,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6418H,Launched,Q1'23,Sapphire Rapids,24,48,7,4.00,2.10,185,60,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6421N,Launched,Q1'23,Sapphire Rapids,32,64,7,3.60,1.80,185,60,N/A,4096,"Up to DDR5 4400 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Gold 6426Y,Launched,Q1'23,Sapphire Rapids,16,32,7,4.10,2.50,185,37.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6428N,Launched,Q1'23,Sapphire Rapids,32,64,7,3.80,1.80,185,60,N/A,4096,"Up to DDR5 4400 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Gold 6430,Launched,Q1'23,Sapphire Rapids,32,64,7,3.40,2.10,270,60,N/A,4096,"Up to DDR5 4400 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Gold 6434,Launched,Q1'23,Sapphire Rapids,8,16,7,4.10,3.70,195,22.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6434H,Launched,Q1'23,Sapphire Rapids,8,16,7,4.10,3.70,195,22.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6438M,Launched,Q1'23,Sapphire Rapids,32,64,7,3.90,2.20,205,60,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6438N,Launched,Q1'23,Sapphire Rapids,32,64,7,3.60,2.00,205,60,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6438Y+,Launched,Q1'23,Sapphire Rapids,32,64,7,4.00,2.00,205,60,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6442Y,Launched,Q1'23,Sapphire Rapids,24,48,7,4.00,2.60,225,60,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6444Y,Launched,Q1'23,Sapphire Rapids,16,32,7,4.00,3.60,270,45,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6448H,Launched,Q1'23,Sapphire Rapids,32,64,7,4.10,2.40,250,60,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6448Y,Launched,Q1'23,Sapphire Rapids,32,64,7,4.10,2.10,225,60,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6454S,Launched,Q1'23,Sapphire Rapids,32,64,7,3.40,2.20,270,60,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Gold 6458Q,Launched,Q1'23,Sapphire Rapids,32,64,7,4.00,3.10,350,60,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon Silver 4410T,Launched,Q1'23,Sapphire Rapids,10,20,7,4.00,2.70,150,26.25,N/A,4096,"Up to DDR5 4000 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Silver 4410Y,Launched,Q1'23,Sapphire Rapids,12,24,7,3.90,2.00,150,30,N/A,4096,"Up to DDR5 4000 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Silver 4416+,Launched,Q1'23,Sapphire Rapids,20,40,7,3.90,2.00,165,37.5,N/A,4096,"Up to DDR5 4000 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Bronze 3408U,Launched,Q1'23,Sapphire Rapids,8,8,7,1.90,1.80,125,22.5,N/A,4096,"Up to DDR5 4000 MT/s 1DPC and 2DPC",N/A,N/A
+Xeon Gold 5315Y,Launched,Q2'21,Ice Lake,8,16,10,3.60,3.20,140,12,N/A,6144,DDR4,2933,N/A
+Xeon Gold 5317,Launched,Q2'21,Ice Lake,12,24,10,3.60,3.00,150,18,N/A,6144,DDR4,2933,N/A
+Xeon Gold 5318N,Launched,Q2'21,Ice Lake,24,48,10,3.40,2.10,150,36,N/A,6144,DDR4,2667,N/A
+Xeon Gold 5318S,Launched,Q2'21,Ice Lake,24,48,10,3.40,2.10,165,36,N/A,6144,DDR4,2933,N/A
+Xeon Gold 5318Y,Launched,Q2'21,Ice Lake,24,48,10,3.40,2.10,165,36,N/A,6144,DDR4,2933,N/A
+Xeon Gold 5320,Launched,Q2'21,Ice Lake,26,52,10,3.40,2.20,185,39,N/A,6144,DDR4,2933,N/A
+Xeon Gold 5320T,Launched,Q2'21,Ice Lake,20,40,10,3.50,2.30,150,30,N/A,6144,DDR4,2933,N/A
+Xeon Gold 6312U,Launched,Q2'21,Ice Lake,24,48,10,3.60,2.40,185,36,N/A,6144,DDR4,3200,N/A
+Xeon Gold 6314U,Launched,Q2'21,Ice Lake,32,64,10,3.40,2.30,205,48,N/A,6144,DDR4,3200,N/A
+Xeon Gold 6326,Launched,Q2'21,Ice Lake,16,32,10,3.50,2.90,185,24,N/A,6144,DDR4,3200,N/A
+Xeon Gold 6330,Launched,Q2'21,Ice Lake,28,56,10,3.10,2.00,205,42,N/A,6144,DDR4,2933,N/A
+Xeon Gold 6330N,Launched,Q2'21,Ice Lake,28,56,10,3.40,2.20,165,42,N/A,6144,DDR4,2667,N/A
+Xeon Gold 6334,Launched,Q2'21,Ice Lake,8,16,10,3.70,3.60,165,18,N/A,6144,DDR4,3200,N/A
+Xeon Gold 6336Y,Launched,Q2'21,Ice Lake,24,48,10,3.60,2.40,185,35,N/A,6144,DDR4,3200,N/A
+Xeon Gold 6338,Launched,Q2'21,Ice Lake,32,64,10,3.20,2.00,205,48,N/A,6144,DDR4,3200,N/A
+Xeon Gold 6338N,Launched,Q2'21,Ice Lake,32,64,10,3.50,2.20,185,48,N/A,6144,DDR4,2667,N/A
+Xeon Gold 6338T,Launched,Q2'21,Ice Lake,24,48,10,3.40,2.10,165,36,N/A,6144,DDR4,3200,N/A
+Xeon Gold 6342,Launched,Q2'21,Ice Lake,24,48,10,3.50,2.80,230,36,N/A,6144,DDR4,3200,N/A
+Xeon Gold 6346,Launched,Q2'21,Ice Lake,16,32,10,3.60,3.10,205,36,N/A,6144,DDR4,3200,N/A
+Xeon Gold 6348,Launched,Q2'21,Ice Lake,28,56,10,3.50,2.60,235,42,N/A,6144,DDR4,3200,N/A
+Xeon Gold 6354,Launched,Q2'21,Ice Lake,18,36,10,3.60,3.00,205,39,N/A,6144,DDR4,3200,N/A
+Xeon Platinum 8351N,Launched,Q2'21,Ice Lake,36,72,10,3.50,2.40,225,54,N/A,6144,DDR4,2933,N/A
+Xeon Platinum 8352M,Launched,Q2'21,Ice Lake,32,64,10,3.50,2.30,185,48,N/A,6144,DDR4,3200,N/A
+Xeon Platinum 8352S,Launched,Q2'21,Ice Lake,32,64,10,3.40,2.20,205,48,N/A,6144,DDR4,3200,N/A
+Xeon Platinum 8352V,Launched,Q2'21,Ice Lake,36,72,10,3.50,2.10,195,54,N/A,6144,DDR4,2933,N/A
+Xeon Platinum 8352Y,Launched,Q2'21,Ice Lake,32,64,10,3.40,2.20,205,48,N/A,6144,DDR4,3200,N/A
+Xeon Platinum 8358,Launched,Q2'21,Ice Lake,32,64,10,3.40,2.60,250,48,N/A,6144,DDR4,3200,N/A
+Xeon Platinum 8358P,Launched,Q2'21,Ice Lake,32,64,10,3.40,2.60,240,48,N/A,6144,DDR4,3200,N/A
+Xeon Platinum 8360Y,Launched,Q2'21,Ice Lake,36,72,10,3.50,2.40,250,54,N/A,6144,DDR4,3200,N/A
+Xeon Platinum 8362,Launched,Q2'21,Ice Lake,32,64,10,3.60,2.80,265,48,N/A,6144,DDR4,3200,N/A
+Xeon Platinum 8368,Launched,Q2'21,Ice Lake,38,76,10,3.40,2.40,270,57,N/A,6144,DDR4,3200,N/A
+Xeon Platinum 8368Q,Launched,Q2'21,Ice Lake,38,76,10,3.70,2.60,270,57,N/A,6144,DDR4,3200,N/A
+Xeon Platinum 8380,Launched,Q2'21,Ice Lake,40,80,10,3.40,2.30,270,60,N/A,6144,DDR4,3200,N/A
+Xeon Silver 4309Y,Launched,Q2'21,Ice Lake,8,16,10,3.60,2.80,105,12,N/A,6144,DDR4,2667,N/A
+Xeon Silver 4310,Launched,Q2'21,Ice Lake,12,24,10,3.30,2.10,120,18,N/A,6144,DDR4,2667,N/A
+Xeon Silver 4310T,Launched,Q2'21,Ice Lake,10,20,10,3.40,2.30,105,15,N/A,6144,DDR4,2667,N/A
+Xeon Silver 4314,Launched,Q2'21,Ice Lake,16,32,10,3.40,2.40,135,24,N/A,6144,DDR4,2667,N/A
+Xeon Silver 4316,Launched,Q2'21,Ice Lake,20,40,10,3.40,2.30,150,30,N/A,6144,DDR4,2667,N/A
+Xeon Gold 6330H,Launched,Q3'20,Cooper Lake,24,48,14,3.70,2.00,150,33,N/A,1147,DDR4 RDIMM,2933,N/A
+Xeon Platinum 8356H,Launched,Q3'20,Cooper Lake,8,16,14,4.40,3.90,190,35.75,N/A,1147,DDR4 RDIMM,2933,N/A
+Xeon Platinum 8360H,Launched,Q3'20,Cooper Lake,24,48,14,4.20,3.00,225,33,N/A,1147,DDR4 RDIMM,3200,N/A
+Xeon Platinum 8360HL,Launched,Q3'20,Cooper Lake,24,48,14,4.20,3.00,225,33,N/A,4608,DDR4 RDIMM,3200,N/A
+Xeon Gold 5318H,Launched,Q2'20,Cooper Lake,18,36,14,3.80,2.50,150,24.75,N/A,1147,DDR4 RDIMM,2667,N/A
+Xeon Gold 5320H,Launched,Q2'20,Cooper Lake,20,40,14,4.20,2.40,150,27.5,N/A,1147,DDR4 RDIMM,2667,N/A
+Xeon Gold 6328H,Launched,Q2'20,Cooper Lake,16,32,14,4.30,2.80,165,22,N/A,1147,DDR4 RDIMM,2933,N/A
+Xeon Gold 6328HL,Launched,Q2'20,Cooper Lake,16,32,14,4.30,2.80,165,22,N/A,4608,DDR4 RDIMM,2933,N/A
+Xeon Gold 6348H,Launched,Q2'20,Cooper Lake,24,48,14,4.20,2,30.165,33,N/A,1147,DDR4 RDIMM,2933,N/A
+Xeon Platinum 8353H,Launched,Q2'20,Cooper Lake,18,36,14,3.80,2.50,150,24.75,N/A,1147,DDR4 RDIMM,3200,N/A
+Xeon Platinum 8354H,Launched,Q2'20,Cooper Lake,18,36,14,4.30,3.10,205,24.75,N/A,1147,DDR4 RDIMM,3200,N/A
+Xeon Platinum 8376H,Launched,Q2'20,Cooper Lake,28,56,14,4.30,2.60,205,38.5,N/A,1147,DDR4 RDIMM,3200,N/A
+Xeon Platinum 8376HL,Launched,Q2'20,Cooper Lake,28,56,14,4.30,2.60,205,38.5,N/A,4608,DDR4 RDIMM,3200,N/A
+Xeon Platinum 8380H,Launched,Q2'20,Cooper Lake,28,56,14,4.30,2.90,250,38.5,N/A,1147,DDR4 RDIMM,3200,N/A
+Xeon Platinum 8380HL,Launched,Q2'20,Cooper Lake,28,56,14,4.30,2.90,250,38.5,N/A,4608,DDR4 RDIMM,3200,N/A
+Xeon Bronze 3206R,Launched,Q1'20,Cascade Lake,8,8,14,1.90,1.90,85,11,N/A,1024,DDR4,2133,N/A
+Xeon Gold 5218R,Launched,Q1'20,Cascade Lake,20,40,14,4.00,2.10,125,27.5,N/A,1024,DDR4,2667,N/A
+Xeon Gold 5220R,Launched,Q1'20,Cascade Lake,24,48,14,4.00,2.20,150,35.75,N/A,1024,DDR4,2667,N/A
+Xeon Gold 6208U,Launched,Q1'20,Cascade Lake,16,32,14,3.90,2.90,150,22,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6226R,Launched,Q1'20,Cascade Lake,16,32,14,3.90,2.90,150,22,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6230R,Launched,Q1'20,Cascade Lake,26,52,14,4.00,2.10,150,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6238R,Launched,Q1'20,Cascade Lake,28,56,14,4.00,2.20,165,38.5,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6240R,Launched,Q1'20,Cascade Lake,24,48,14,4.00,2.40,165,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6242R,Launched,Q1'20,Cascade Lake,20,40,14,4.10,3.10,205,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6246R,Launched,Q1'20,Cascade Lake,16,32,14,4.10,3.40,205,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6248R,Launched,Q1'20,Cascade Lake,24,48,14,4.00,3.00,205,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6250,Launched,Q1'20,Cascade Lake,8,16,14,4.50,3.90,185,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6250L,Launched,Q1'20,Cascade Lake,8,16,14,4.50,3.90,185,35.75,N/A,4608,DDR4,2933,N/A
+Xeon Gold 6256,Launched,Q1'20,Cascade Lake,12,24,14,4.50,3.60,205,33,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6258R,Launched,Q1'20,Cascade Lake,28,56,14,4.00,2.70,205,38.5,N/A,1024,DDR4,2933,N/A
+Xeon Silver 4210R,Launched,Q1'20,Cascade Lake,10,20,14,3.20,2.40,100,13.75,N/A,1024,DDR4,2400,N/A
+Xeon Silver 4210T,Launched,Q1'20,Cascade Lake,10,20,14,3.20,2.30,95,13.75,N/A,1024,DDR4,2400,N/A
+Xeon Silver 4214R,Launched,Q1'20,Cascade Lake,12,24,14,3.50,2.40,100,16.5,N/A,1024,DDR4,2400,N/A
+Xeon Silver 4215R,Launched,Q1'20,Cascade Lake,8,16,14,4.00,3.20,130,11,N/A,1024,DDR4,2400,N/A
+Xeon Platinum 9221,Launched,Q3'19,Cascade Lake,32,64,14,3.70,2.30,250,71.5,N/A,N/A,DDR4,2933,N/A
+Xeon Platinum 9222,Launched,Q3'19,Cascade Lake,32,64,14,3.70,2.30,250,71.5,N/A,N/A,DDR4,2933,N/A
+Xeon Bronze 3204,Launched,Q2'19,Cascade Lake,6,6,14,1.90,1.90,85,8.25,N/A,1024,DDR4,2133,N/A
+Xeon Gold 5215,Launched,Q2'19,Cascade Lake,10,20,14,3.40,2.50,85,13.75,N/A,1024,DDR4,2667,N/A
+Xeon Gold 5215L,Launched,Q2'19,Cascade Lake,10,20,14,3.40,2.50,85,13.75,N/A,4608,DDR4,2667,N/A
+Xeon Gold 5217,Launched,Q2'19,Cascade Lake,8,16,14,3.70,3.00,115,11,N/A,1024,DDR4,2667,N/A
+Xeon Gold 5218,Launched,Q2'19,Cascade Lake,16,32,14,3.90,2.30,125,22,N/A,1024,DDR4,2667,N/A
+Xeon Gold 5218B,Launched,Q2'19,Cascade Lake,16,32,14,3.90,2.30,125,22,N/A,1024,DDR4,2667,N/A
+Xeon Gold 5218N,Launched,Q2'19,Cascade Lake,16,32,14,3.70,2.30,110,22,N/A,1024,DDR4,2667,N/A
+Xeon Gold 5218T,Launched,Q2'19,Cascade Lake,16,32,14,3.80,2.10,105,22,N/A,1024,DDR4,2667,N/A
+Xeon Gold 5220,Launched,Q2'19,Cascade Lake,18,36,14,3.90,2.20,125,24.75,N/A,1024,DDR4,2667,N/A
+Xeon Gold 5220S,Launched,Q2'19,Cascade Lake,18,36,14,3.90,2.70,125,24.75,N/A,1024,DDR4,2667,N/A
+Xeon Gold 5220T,Launched,Q2'19,Cascade Lake,18,36,14,3.90,1.90,105,24.75,N/A,1024,DDR4,2667,N/A
+Xeon Gold 5222,Launched,Q2'19,Cascade Lake,4,8,14,3.90,3.80,105,16.5,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6209U,Launched,Q2'19,Cascade Lake,20,40,14,3.90,2.10,125,27.5,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6210U,Launched,Q2'19,Cascade Lake,20,40,14,3.90,2.50,150,27.5,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6212U,Launched,Q2'19,Cascade Lake,24,48,14,3.90,2.40,165,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6222V,Launched,Q2'19,Cascade Lake,20,40,14,3.60,1.80,115,27.5,N/A,1024,DDR4,2400,N/A
+Xeon Gold 6226,Launched,Q2'19,Cascade Lake,12,24,14,3.70,2.70,125,19.25,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6230,Launched,Q2'19,Cascade Lake,20,40,14,3.90,2.10,125,27.5,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6230N,Launched,Q2'19,Cascade Lake,20,40,14,3.50,2.30,125,27.5,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6230T,Launched,Q2'19,Cascade Lake,20,40,14,3.90,2.10,125,27.5,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6234,Launched,Q2'19,Cascade Lake,8,16,14,4.00,3.30,130,24.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6238,Launched,Q2'19,Cascade Lake,22,44,14,3.70,2.10,140,30.25,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6238L,Launched,Q2'19,Cascade Lake,22,44,14,3.70,2.10,140,30.25,N/A,4608,DDR4,2933,N/A
+Xeon Gold 6238T,Launched,Q2'19,Cascade Lake,22,44,14,3.70,1.90,125,30.25,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6240,Launched,Q2'19,Cascade Lake,18,36,14,3.90,2.60,150,24.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6240L,Launched,Q2'19,Cascade Lake,18,36,14,3.90,2.60,150,24.75,N/A,4608,DDR4,2933,N/A
+Xeon Gold 6240Y,Launched,Q2'19,Cascade Lake,18,36,14,3.90,2.60,150,24.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6242,Launched,Q2'19,Cascade Lake,16,32,14,3.90,2.80,150,22,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6244,Launched,Q2'19,Cascade Lake,8,16,14,4.40,3.60,150,24.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6246,Launched,Q2'19,Cascade Lake,12,24,14,4.20,3.30,165,24.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6248,Launched,Q2'19,Cascade Lake,20,40,14,3.90,2.50,150,27.5,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6252,Launched,Q2'19,Cascade Lake,24,48,14,3.70,2.10,150,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6252N,Launched,Q2'19,Cascade Lake,24,48,14,3.60,2.30,150,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6254,Launched,Q2'19,Cascade Lake,18,36,14,4.00,3.10,200,24.75,N/A,1024,DDR4,2933,N/A
+Xeon Gold 6262V,Launched,Q2'19,Cascade Lake,24,48,14,3.60,1.90,135,33,N/A,1024,DDR4,2400,N/A
+Xeon Platinum 8253,Launched,Q2'19,Cascade Lake,16,32,14,3.00,2.20,125,22,N/A,1024,DDR4,2933,N/A
+Xeon Platinum 8256,Launched,Q2'19,Cascade Lake,4,8,14,3.90,3.80,105,16.5,N/A,1024,DDR4,2933,N/A
+Xeon Platinum 8260,Launched,Q2'19,Cascade Lake,24,48,14,3.90,2.40,165,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Platinum 8260L,Launched,Q2'19,Cascade Lake,24,48,14,3.90,2.40,165,35.75,N/A,4608,DDR4,2933,N/A
+Xeon Platinum 8260Y,Launched,Q2'19,Cascade Lake,24,48,14,3.90,2.40,165,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Platinum 8268,Launched,Q2'19,Cascade Lake,24,48,14,3.90,2.90,205,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Platinum 8270,Launched,Q2'19,Cascade Lake,26,52,14,4.00,2.70,205,35.75,N/A,1024,DDR4,2933,N/A
+Xeon Platinum 8276,Launched,Q2'19,Cascade Lake,28,56,14,4.00,2.20,165,38.5,N/A,1024,DDR4,2933,N/A
+Xeon Platinum 8276L,Launched,Q2'19,Cascade Lake,28,56,14,4.00,2.20,165,38.5,N/A,4608,DDR4,2933,N/A
+Xeon Platinum 8280,Launched,Q2'19,Cascade Lake,28,56,14,4.00,2.70,205,38.5,N/A,1024,DDR4,2933,N/A
+Xeon Platinum 8280L,Launched,Q2'19,Cascade Lake,28,56,14,4.00,2.70,205,38.5,N/A,4608,DDR4,2933,N/A
+Xeon Platinum 9242,Launched,Q2'19,Cascade Lake,48,96,14,3.80,2.30,350,71.5,Intel Smart Cache,N/A,DDR4,2933,N/A
+Xeon Platinum 9282,Launched,Q2'19,Cascade Lake,56,112,14,3.80,2.60,400,77,Intel Smart Cache,N/A,DDR4,2933,N/A
+Xeon Silver 4208,Launched,Q2'19,Cascade Lake,8,16,14,3.20,2.10,85,11,N/A,1024,DDR4,2400,N/A
+Xeon Silver 4209T,Launched,Q2'19,Cascade Lake,8,16,14,3.20,2.20,70,11,N/A,1024,DDR4,2400,N/A
+Xeon Silver 4210,Launched,Q2'19,Cascade Lake,10,20,14,3.20,2.20,85,13.75,N/A,1024,DDR4,2400,N/A
+Xeon Silver 4214,Launched,Q2'19,Cascade Lake,12,24,14,3.20,2.20,85,16.5,N/A,1024,DDR4,2400,N/A
+Xeon Silver 4214Y,Launched,Q2'19,Cascade Lake,12,24,14,3.20,2.20,85,16.5,N/A,1024,DDR4,2400,N/A
+Xeon Silver 4215,Launched,Q2'19,Cascade Lake,8,16,14,3.50,2.50,85,11,N/A,1024,DDR4,2400,N/A
+Xeon Silver 4216,Launched,Q2'19,Cascade Lake,16,32,14,3.20,2.10,100,22,N/A,1024,DDR4,2400,N/A
+Xeon Gold 6138P,Discontinued,Q2'18,Skylake,20,40,14,3.70,2.00,195,27.5,L3 Cache,768,DDR4,2666,N/A
+Xeon Bronze 3104,Discontinued,Q3'17,Skylake,6,6,14,N/A,1.70,85,8.25,L3 Cache,768,DDR4,2133,N/A
+Xeon Bronze 3106,Launched,Q3'17,Skylake,8,8,14,N/A,1.70,85,11,L3 Cache,768,DDR4,2133,N/A
+Xeon Gold 5115,Discontinued,Q3'17,Skylake,10,20,14,3.20,2.40,85,13.75,L3 Cache,768,DDR4,2400,N/A
+Xeon Gold 5118,Launched,Q3'17,Skylake,12,24,14,3.20,2.30,105,16.5,L3 Cache,768,DDR4,2400,N/A
+Xeon Gold 5119T,Launched,Q3'17,Skylake,14,28,14,3.20,1.90,85,19.25,L3 Cache,768,DDR4,2400,N/A
+Xeon Gold 5120,Discontinued,Q3'17,Skylake,14,28,14,3.20,2.20,105,19.25,L3 Cache,768,DDR4,2400,N/A
+Xeon Gold 5120T,Launched,Q3'17,Skylake,14,28,14,3.20,2.20,105,19.25,L3 Cache,768,DDR4,2400,N/A
+Xeon Gold 5122,Discontinued,Q3'17,Skylake,4,8,14,3.70,3.60,105,16.5,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6126,Launched,Q3'17,Skylake,12,24,14,3.70,2.60,125,19.25,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6126F,Discontinued,Q3'17,Skylake,12,24,14,3.70,2.60,135,19.25,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6126T,Launched,Q3'17,Skylake,12,24,14,3.70,2.60,125,19.25,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6128,Discontinued,Q3'17,Skylake,6,12,14,3.70,3.40,115,19.25,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6130,Launched,Q3'17,Skylake,16,32,14,3.70,2.10,125,22,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6130F,Discontinued,Q3'17,Skylake,16,32,14,3.70,2.10,135,22,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6130T,Launched,Q3'17,Skylake,16,32,14,3.70,2.10,125,22,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6132,Discontinued,Q3'17,Skylake,14,28,14,3.70,2.60,140,19.25,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6134,Discontinued,Q3'17,Skylake,8,16,14,3.70,3.20,130,24.75,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6136,Discontinued,Q3'17,Skylake,12,24,14,3.70,3.00,150,24.75,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6138,Discontinued,Q3'17,Skylake,20,40,14,3.70,2.00,125,27.5,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6138F,Discontinued,Q3'17,Skylake,20,40,14,3.70,2.00,135,27.5,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6138T,Launched,Q3'17,Skylake,20,40,14,3.70,2.00,125,27.5,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6140,Discontinued,Q3'17,Skylake,18,36,14,3.70,2.30,140,24.75,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6142,Discontinued,Q3'17,Skylake,16,32,14,3.70,2.60,150,22,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6142F,Discontinued,Q3'17,Skylake,16,32,14,3.70,2.60,160,22,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6144,Discontinued,Q3'17,Skylake,8,16,14,4.20,3.50,150,24.75,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6146,Discontinued,Q3'17,Skylake,12,24,14,4.20,3.20,165,24.75,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6148,Discontinued,Q3'17,Skylake,20,40,14,3.70,2.40,150,27.5,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6148F,Discontinued,Q3'17,Skylake,20,40,14,3.70,2.40,160,27.5,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6150,Discontinued,Q3'17,Skylake,18,36,14,3.70,2.70,165,24.75,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6152,Discontinued,Q3'17,Skylake,22,44,14,3.70,2.10,140,30.25,L3 Cache,768,DDR4,2666,N/A
+Xeon Gold 6154,Discontinued,Q3'17,Skylake,18,36,14,3.70,3.00,200,24.75,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8153,Discontinued,Q3'17,Skylake,16,32,14,2.80,2.00,125,22,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8156,Discontinued,Q3'17,Skylake,4,8,14,3.70,3.60,105,16.5,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8158,Discontinued,Q3'17,Skylake,12,24,14,3.70,3.00,150,24.75,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8160,Discontinued,Q3'17,Skylake,24,48,14,3.70,2.10,150,33,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8160F,Discontinued,Q3'17,Skylake,24,48,14,3.70,2.10,160,33,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8160T,Launched,Q3'17,Skylake,24,48,14,3.70,2.10,150,33,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8164,Discontinued,Q3'17,Skylake,26,52,14,3.70,2.00,150,35.75,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8168,Discontinued,Q3'17,Skylake,24,48,14,3.70,2.70,205,33,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8170,Discontinued,Q3'17,Skylake,26,52,14,3.70,2.10,165,35.75,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8176,Discontinued,Q3'17,Skylake,28,56,14,3.80,2.10,165,38.5,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8176F,Discontinued,Q3'17,Skylake,28,56,14,3.80,2.10,173,38.5,L3 Cache,768,DDR4,2666,N/A
+Xeon Platinum 8180,Discontinued,Q3'17,Skylake,28,56,14,3.80,2.50,205,28.5,L3 Cache,768,DDR4,2666,N/A
+Xeon Silver 4018,Discontinued,Q3'17,Skylake,8,16,14,3.00,1.80,85,11,L3 Cache,768,DDR4,2400,N/A
+Xeon Silver 4109T,Launched,Q3'17,Skylake,8,16,14,3.00,2.00,70,11,L3 Cache,768,DDR4,2400,N/A
+Xeon Silver 4110,Launched,Q3'17,Skylake,8,16,14,3.00,2.10,85,11,L3 Cache,768,DDR4,2400,N/A
+Xeon Silver 4112,Discontinued,Q3'17,Skylake,4,8,14,3.00,2.60,85,8.25,L3 Cache,768,DDR4,2400,N/A
+Xeon Silver 4114,Discontinued,Q3'17,Skylake,10,20,14,3.00,2.20,85,13.75,L3 Cache,768,DDR4,2400,N/A
+Xeon Silver 4114T,Launched,Q3'17,Skylake,10,20,14,3.00,2.20,85,13.75,L3 Cache,768,DDR4,2400,N/A
+Xeon Silver 4116,Launched,Q3'17,Skylake,12,24,14,3.00,2.10,85,16,5,L3 Cache,768,DDR4,2400,N/A
+Xeon Silver 4116T,Launched,Q3'17,Skylake,12,24,14,3.00,2.10,85,16.5,L3 Cache,768,DDR4,2400,N/A
+Xeon CPU Max 9460,Launched,Q1'23,Sapphire Rapids HBM,40,80,7,3.50,2.20,350,97.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon CPU Max 9462,Launched,Q1'23,Sapphire Rapids HBM,32,64,7,3.50,2.70,350,75,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon CPU Max 9468,Launched,Q1'23,Sapphire Rapids HBM,48,96,7,3.50,2.10,350,105,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon CPU Max 9470,Launched,Q1'23,Sapphire Rapids HBM,52,104,7,3.50,2.00,350,105,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon CPU Max 9480,Launched,Q1'23,Sapphire Rapids HBM,56,112,7,3.50,1.90,350,112.5,N/A,4096,"Up to DDR5 4800 MT/s 1DPC; Up to DDR5 4400 MT/s 2DPC",N/A,N/A
+Xeon E-2414,Launched,Q4'23,Raptor Lake,4,4,7,4.50,2.60,55,12,N/A,128,DDR5,4800,N/A
+Xeon E-2434,Launched,Q4'23,Raptor Lake,4,8,7,5.00,3.40,55,12,N/A,128,DDR5,4800,N/A
+Xeon E-2436,Launched,Q4'23,Raptor Lake,6,12,7,5.00,2.90,65,18,N/A,128,DDR5,4800,N/A
+Xeon E-2456,Launched,Q4'23,Raptor Lake,6,12,7,5.10,3.30,80,18,N/A,128,DDR5,4800,N/A
+Xeon E-2468,Launched,Q4'23,Raptor Lake,8,16,7,5.20,2.60,65,24,N/A,128,DDR5,4800,N/A
+Xeon E-2478,Launched,Q4'23,Raptor Lake,8,16,7,5.20,2.80,80,24,N/A,128,DDR5,4800,N/A
+Xeon E-2486,Launched,Q4'23,Raptor Lake,6,12,7,5.60,3.50,95,18,N/A,128,DDR5,4800,N/A
+Xeon E-2488,Launched,Q4'23,Raptor Lake,8,16,7,5.60,3.20,95,24,N/A,128,DDR5,4800,N/A
+Xeon E-2314,Launched,Q3'21,Rocket Lake,4,4,14,4.50,2.80,65,8,Intel Smart Cache,128,DDR4,3200,N/A
+Xeon E-2324G,Launched,Q3'21,Rocket Lake,4,4,14,4.60,3.10,65,8,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon E-2334,Launched,Q3'21,Rocket Lake,4,8,14,4.80,3.40,65,8,Intel Smart Cache,128,DDR4,3200,N/A
+Xeon E-2336,Launched,Q3'21,Rocket Lake,6,12,14,4.80,2.90,65,12,Intel Smart Cache,128,DDR4,3200,N/A
+Xeon E-2356G,Launched,Q3'21,Rocket Lake,6,12,14,5.00,3.20,80,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon E-2374G,Launched,Q3'21,Rocket Lake,4,8,14,5.00,3.70,80,8,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon E-2378,Launched,Q3'21,Rocket Lake,8,16,14,4.80,2.60,65,16,Intel Smart Cache,128,DDR4,3200,N/A
+Xeon E-2378G,Launched,Q3'21,Rocket Lake,8,16,14,5.10,2.80,80,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon E-2386G,Launched,Q3'21,Rocket Lake,6,12,14,5.10,3.50,95,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon E-2388G,Launched,Q3'21,Rocket Lake,8,16,14,5.10,3.20,95,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon E-2226GE,Launched,Q2'19,Coffee Lake,6,6,14,4.60,3.40,80,12,Intel Smart Cache,128,DDR4,2666,Intel UHD 630 Graphics
+Xeon E-2254ME,Launched,Q2'19,Coffee Lake,4,8,14,3.80,2.60,45,8,N/A,64,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2254ML,Launched,Q2'19,Coffee Lake,4,8,14,3.50,1.70,25,8,N/A,64,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2276ME,Launched,Q2'19,Coffee Lake,6,12,14,4.50,2.80,45,12,N/A,64,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2276ML,Launched,Q2'19,Coffee Lake,6,12,14,4.20,2.00,25,12,N/A,64,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2278GE,Launched,Q2'19,Coffee Lake,8,16,14,4.70,3.30,80,16,N/A,128,DDR4,2666,Intel UHD 630 Graphics
+Xeon E-2278GEL,Launched,Q2'19,Coffee Lake,8,16,14,3.90,2.00,35,16,N/A,128,DDR4,2666,Intel UHD 630 Graphics
+Xeon E-2224,Launched,Q2'19,Coffee Lake,4,4,14,4.60,3.40,71,8,Intel Smart Cache,128,DDR4,2666,N/A
+Xeon E-2224G,Launched,Q2'19,Coffee Lake,4,4,14,4.70,3.50,71,8,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2226G,Launched,Q2'19,Coffee Lake,6,6,14,4.70,3.40,80,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2234,Launched,Q2'19,Coffee Lake,4,8,14,4.80,3.50,71,8,Intel Smart Cache,128,DDR4,2666,N/A
+Xeon E-2236,Launched,Q2'19,Coffee Lake,6,12,14,4.80,3.40,80,12,Intel Smart Cache,128,DDR4,2666,N/A
+Xeon E-2244G,Launched,Q2'19,Coffee Lake,4,8,14,4.80,3.80,71,8,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2246G,Launched,Q2'19,Coffee Lake,6,12,14,4.80,3.60,80,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2274G,Launched,Q2'19,Coffee Lake,4,8,14,4.90,4.00,83,8,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2276G,Launched,Q2'19,Coffee Lake,6,12,14,4.90,3.80,80,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2276M,Launched,Q2'19,Coffee Lake,6,12,14,4.70,2.80,45,12,Intel Smart Cache,128,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics P630
+Xeon E-2278G,Launched,Q2'19,Coffee Lake,8,16,14,5.00,3.40,80,16,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2286G,Launched,Q2'19,Coffee Lake,6,12,14,4.90,4.00,95,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2286M,Launched,Q2'19,Coffee Lake,8,16,14,5.00,2.40,45,16,Intel Smart Cache,128,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics P630
+Xeon E-2288G,Launched,Q2'19,Coffee Lake,8,16,14,5.00,3.70,95,16,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2124,Launched,Q3'18,Coffee Lake,4,4,14,4.30,3.30,71,8,Intel Smart Cache,128,DDR4,2666,N/A
+Xeon E-2124G,Launched,Q3'18,Coffee Lake,4,4,14,4.50,3.40,71,8,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2126G,Launched,Q3'18,Coffee Lake,6,6,14,4.50,3.30,80,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2134,Launched,Q3'18,Coffee Lake,4,8,14,4.50,3.50,71,8,Intel Smart Cache,128,DDR4,2666,N/A
+Xeon E-2136,Launched,Q3'18,Coffee Lake,6,12,14,4.50,3.30,80,12,Intel Smart Cache,128,DDR4,2666,N/A
+Xeon E-2144G,Launched,Q3'18,Coffee Lake,4,8,14,4.50,3.60,71,8,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2146G,Launched,Q3'18,Coffee Lake,6,12,14,4.50,3.50,80,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2174G,Launched,Q3'18,Coffee Lake,4,8,14,4.70,3.80,71,8,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2186G,Launched,Q3'18,Coffee Lake,6,12,14,4.70,3.80,95,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon E-2176M,Launched,Q2'18,Coffee Lake,6,12,14,4.40,2.70,45,12,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics P630
+Xeon E-2186M,Discontinued,Q2'18,Coffee Lake,6,12,14,4.80,2.90,45,12,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics P630
+Xeon E-2176G,Launched,Q4'17,Coffee Lake,6,12,14,4.70,3.70,80,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon W3-2423,Launched,Q1'23,Sapphire Rapids,6,12,7,4.20,2.10,120,15,Intel Smart Cache,2048,DDR5,4400,N/A
+Xeon W3-2425,Launched,Q1'23,Sapphire Rapids,6,12,7,4.40,3.00,130,15,Intel Smart Cache,2048,DDR5,4400,N/A
+Xeon W3-2435,Launched,Q1'23,Sapphire Rapids,8,16,7,4.50,3.10,165,22.5,Intel Smart Cache,2048,DDR5,4400,N/A
+Xeon W5-2445,Launched,Q1'23,Sapphire Rapids,10,20,7,4.60,3.10,175,26.25,Intel Smart Cache,2048,DDR5,4800,N/A
+Xeon W5-2455X,Launched,Q1'23,Sapphire Rapids,12,24,7,4.60,3.20,200,30,Intel Smart Cache,2048,DDR5,4800,N/A
+Xeon W5-2465X,Launched,Q1'23,Sapphire Rapids,16,32,7,4.70,3.10,200,33.75,Intel Smart Cache,2048,DDR5,4800,N/A
+Xeon W5-3425,Launched,Q1'23,Sapphire Rapids,12,24,7,4.60,3.20,270,30,Intel Smart Cache,4096,DDR5,4800,N/A
+Xeon W5-3435X,Launched,Q1'23,Sapphire Rapids,16,32,7,4.70,3.10,270,45,Intel Smart Cache,4096,DDR5,4800,N/A
+Xeon W7-2475X,Launched,Q1'23,Sapphire Rapids,20,40,7,4.80,2.60,225,37.5,Intel Smart Cache,2048,DDR5,4800,N/A
+Xeon W7-2495X,Launched,Q1'23,Sapphire Rapids,24,48,7,4.80,2.50,225,45,Intel Smart Cache,2048,DDR5,4800,N/A
+Xeon W7-3445,Launched,Q1'23,Sapphire Rapids,20,40,7,4.80,2.60,270,52.5,Intel Smart Cache,4096,DDR5,4800,N/A
+Xeon W7-3455,Launched,Q1'23,Sapphire Rapids,24,48,7,4.80,2.50,270,67.5,Intel Smart Cache,4096,DDR5,4800,N/A
+Xeon W7-3465X,Launched,Q1'23,Sapphire Rapids,28,56,7,4.80,2.50,300,75,Intel Smart Cache,4096,DDR5,4800,N/A
+Xeon W9-3475X,Launched,Q1'23,Sapphire Rapids,36,72,7,4.80,2.20,300,82.5,Intel Smart Cache,4096,DDR5,4800,N/A
+Xeon W9-3495X,Launched,Q1'23,Sapphire Rapids,56,112,7,4.80,1.90,350,105,Intel Smart Cache,4096,DDR5,4800,N/A
+Xeon W-11155MLE,Launched,Q3'21,Tiger Lake,4,8,10,3.10,1.80,25,8,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics for 11th Gen Intel Core Processors
+Xeon W-11155MRE,Launched,Q3'21,Tiger Lake,4,8,10,4.40,2.40,45,8,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics for 11th Gen Intel Core Processors
+Xeon W-11555MLE,Launched,Q3'21,Tiger Lake,6,12,10,4.40,1.90,25,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics for 11th Gen Intel Core Processors
+Xeon W-11555MRE,Launched,Q3'21,Tiger Lake,6,12,10,4.50,2.60,45,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics for 11th Gen Intel Core Processors
+Xeon W-11865MLE,Launched,Q3'21,Tiger Lake,8,16,10,4.50,1.50,25,24,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics for 11th Gen Intel Core Processors
+Xeon W-11865MRE,Launched,Q3'21,Tiger Lake,8,16,10,4.70,2.60,45,24,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics for 11th Gen Intel Core Processors
+Xeon W-3323,Launched,Q3'21,Ice Lake,12,24,10,3.90,3.50,220,21,N/A,4096,DDR4,3200,N/A
+Xeon W-3335,Launched,Q3'21,Ice Lake,16,32,10,4.00,3.40,250,24,N/A,4096,DDR4,3200,N/A
+Xeon W-3345,Launched,Q3'21,Ice Lake,24,48,10,4.00,3.00,250,36,N/A,4096,DDR4,3200,N/A
+Xeon W-3365,Launched,Q3'21,Ice Lake,32,64,10,4.00,2.70,270,48,N/A,4096,DDR4,3200,N/A
+Xeon W-3375,Launched,Q3'21,Ice Lake,38,76,10,4.00,2.50,270,57,N/A,4096,DDR4,3200,N/A
+Xeon W-11855M,Launched,Q2'21,Tiger Lake,6,12,10,4.80,3.20,45,18,Intel Smart Cache,128,"Up to 3200 MT/s",N/A,Intel UHD Graphics for 11th Gen Intel Core Processors
+Xeon W-11955M,Launched,Q2'21,Tiger Lake,8,16,10,5.00,2.60,45,24,Intel Smart Cache,128,"Up to 3200 MT/s",N/A,Intel UHD Graphics for 11th Gen Intel Core Processors
+Xeon W-1350,Launched,Q2'21,Rocket Lake,6,12,14,5.00,3.30,80,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon W-1350P,Launched,Q2'21,Rocket Lake,6,12,14,5.10,4.00,125,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon W-1370,Launched,Q2'21,Rocket Lake,8,16,14,5.10,2.90,80,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon W-1370P,Launched,Q2'21,Rocket Lake,8,16,14,5.20,3.60,125,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon W-1390,Launched,Q2'21,Rocket Lake,8,16,14,5.20,2.80,80,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon W-1390P,Launched,Q2'21,Rocket Lake,8,16,14,5.30,3.50,125,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon W-1390T,Launched,Q2'21,Rocket Lake,8,16,14,4.90,1.50,35,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics P750
+Xeon W-10855M,Launched,Q2'20,Comet Lake,6,12,14,5.10,2.80,45,12,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics for 10th Gen Intel Core Processors
+Xeon W-10885M,Launched,Q2'20,Comet Lake,8,16,14,5.30,2.40,45,16,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics for 10th Gen Intel Core Processors
+Xeon W-1250,Launched,Q2'20,Comet Lake,6,12,14,4.70,3.30,80,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon W-1250E,Launched,Q2'20,Comet Lake,6,12,14,4.70,3.50,80,12,Intel Smart Cache,128,DDR4,2666,Intel UHD 630 Graphics
+Xeon W-1250P,Launched,Q2'20,Comet Lake,6,12,14,4.80,4.10,125,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics P630
+Xeon W-1250TE,Launched,Q2'20,Comet Lake,6,12,14,3.80,2.40,35,12,Intel Smart Cache,128,DDR4,2666,Intel UHD 630 Graphics
+Xeon W-1270,Launched,Q2'20,Comet Lake,8,16,14,5.00,3.40,80,16,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics P630
+Xeon W-1270E,Launched,Q2'20,Comet Lake,8,16,14,4.80,3.40,80,16,Intel Smart Cache,128,DDR4,2933,Intel UHD 630 Graphics
+Xeon W-1270P,Launched,Q2'20,Comet Lake,8,16,14,5.10,3.80,125,16,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics P630
+Xeon W-1270TE,Launched,Q2'20,Comet Lake,8,16,14,4.40,2.00,35,16,Intel Smart Cache,128,DDR4,2933,Intel UHD 630 Graphics
+Xeon W-1290,Launched,Q2'20,Comet Lake,10,20,14,5.20,3.20,80,20,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics P630
+Xeon W-1290E,Launched,Q2'20,Comet Lake,10,20,14,4.80,3.50,95,20,Intel Smart Cache,128,DDR4,2933,Intel UHD 630 Graphics
+Xeon W-1290P,Launched,Q2'20,Comet Lake,10,20,14,5.30,3.70,125,20,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics P630
+Xeon W-1290T,Launched,Q2'20,Comet Lake,10,20,14,4.70,1.90,35,20,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics P630
+Xeon W-1290TE,Launched,Q2'20,Comet Lake,10,20,14,4.50,1.80,35,20,Intel Smart Cache,128,DDR4,2933,Intel UHD 630 Graphics
+Xeon W-2223,Launched,Q4'19,Cascade Lake,4,8,14,3.90,3.60,120,8.25,N/A,1024,DDR4,2666,N/A
+Xeon W-2225,Launched,Q4'19,Cascade Lake,4,8,14,4.60,4.10,105,8.25,N/A,1024,DDR4,2933,N/A
+Xeon W-2235,Launched,Q4'19,Cascade Lake,6,12,14,4.60,3.80,130,8.25,N/A,1024,DDR4,2933,N/A
+Xeon W-2245,Launched,Q4'19,Cascade Lake,8,16,14,4.50,3.90,155,16.5,N/A,1024,DDR4,2933,N/A
+Xeon W-2255,Launched,Q4'19,Cascade Lake,10,20,14,4.50,3.70,165,19.25,N/A,1024,DDR4,2933,N/A
+Xeon W-2265,Launched,Q4'19,Cascade Lake,12,24,14,4.60,3.50,165,19.25,N/A,1024,DDR4,2933,N/A
+Xeon W-2275,Launched,Q4'19,Cascade Lake,14,28,14,4.60,3.30,165,19.25,N/A,1024,DDR4,2933,N/A
+Xeon W-2295,Launched,Q4'19,Cascade Lake,18,36,14,4.60,3.00,165,24.75,N/A,1024,DDR4,2933,N/A
+Xeon W-3223,Launched,Q2'19,Cascade Lake,8,16,14,4.00,3.50,160,16.5,N/A,1024,DDR4,2666,N/A
+Xeon W-3225,Launched,Q2'19,Cascade Lake,8,16,14,4.30,3.70,160,16.5,N/A,1024,DDR4,2666,N/A
+Xeon W-3235,Launched,Q2'19,Cascade Lake,12,24,14,4.40,3.30,180,19.25,N/A,1024,DDR4,2933,N/A
+Xeon W-3245,Launched,Q2'19,Cascade Lake,16,32,14,4.40,3.20,205,22,N/A,1024,DDR4,2933,N/A
+Xeon W-3245M,Launched,Q2'19,Cascade Lake,16,32,14,4.40,3.20,205,22,N/A,2048,DDR4,2933,N/A
+Xeon W-3265,Launched,Q2'19,Cascade Lake,24,48,14,4.40,2.70,205,33,N/A,1024,DDR4,2933,N/A
+Xeon W-3265M,Launched,Q2'19,Cascade Lake,24,48,14,4.40,2.70,205,33,N/A,2048,DDR4,2933,N/A
+Xeon W-3275,Launched,Q2'19,Cascade Lake,28,56,14,4.40,2.50,205,38.5,N/A,1024,DDR4,2933,N/A
+Xeon W-3275M,Launched,Q2'19,Cascade Lake,28,56,14,4.40,2.50,205,38.5,N/A,2048,DDR4,2933,N/A
+Xeon W-3175X,Discontinued,Q4'18,Skylake,28,56,14,3.80,3.10,255,38.5,N/A,512,DDR4,2666,N/A
+Xeon W-2123,Discontinued,Q3'17,Skylake,4,8,14,3.90,3.60,120,8.25,N/A,512,"DDR4 1600/1866/2133/2400/2666",N/A,N/A
+Xeon W-2125,Discontinued,Q3'17,Skylake,4,8,14,4.50,4.00,120,8.25,N/A,512,"DDR4 1600/1866/2133/2400/2666",N/A,N/A
+Xeon W-2133,Discontinued,Q3'17,Skylake,6,12,14,3.90,3.60,140,8.25,N/A,512,"DDR4 1600/1866/2133/2400/2666",N/A,N/A
+Xeon W-2135,Discontinued,Q3'17,Skylake,6,12,14,4.50,3.70,140,8.25,N/A,512,"DDR4 1600/1866/2133/2400/2666",N/A,N/A
+Xeon W-2145,Discontinued,Q3'17,Skylake,8,16,14,4.50,3.70,140,11,N/A,512,"DDR4 1600/1866/2133/2400/2666",N/A,N/A
+Xeon W-2155,Discontinued,Q3'17,Skylake,10,20,14,4.50,3.30,140,13.75,N/A,512,"DDR4 1600/1866/2133/2400/2666",N/A,N/A
+Xeon W-2175,Discontinued,Q3'17,Skylake,14,28,14,4.30,2.50,140,19,N/A,512,"DDR4 1600/1866/2133/2400/2666",N/A,N/A
+Xeon W-2195,Discontinued,Q3'17,Skylake,18,36,14,4.30,2.30,140,24.75,N/A,512,"DDR4 1600/1866/2133/2400/2666",N/A,N/A
+Xeon D-1813NT,Launched,Q4'23,Ice Lake,4,8,N/A,2.40,2.20,42,10,N/A,256,DDR4,2400,N/A
+Xeon D-1823NT,Launched,Q4'23,Ice Lake,6,12,N/A,3.50,2.80,55,10,N/A,256,DDR4,2400,N/A
+Xeon D-1834,Launched,Q4'23,Ice Lake,8,16,N/A,2.90,1.80,42,15,N/A,256,DDR4,2667,N/A
+Xeon D-1844NT,Launched,Q4'23,Ice Lake,10,20,N/A,3.10,2.00,55,15,N/A,256,DDR4,2667,N/A
+Xeon D-1846,Launched,Q4'23,Ice Lake,10,20,N/A,3.10,2.00,55,15,N/A,256,DDR4,2933,N/A
+Xeon D-1848TER,Launched,Q4'23,Ice Lake,10,20,N/A,3.10,2.00,57,15,N/A,256,DDR4,2667,N/A
+Xeon D-2832NT,Launched,Q4'23,Ice Lake,8,16,N/A,3.20,2.10,70,15,N/A,1024,DDR4,2667,N/A
+Xeon D-2843NT,Launched,Q4'23,Ice Lake,10,20,N/A,3.20,2.00,80,15,N/A,1024,DDR4,2667,N/A
+Xeon D-2876NT,Launched,Q4'23,Ice Lake,16,32,N/A,3.10,2.00,100,20,N/A,1024,DDR4,2933,N/A
+Xeon D-2896NT,Launched,Q4'23,Ice Lake,20,40,N/A,3.20,2.00,117,30,N/A,1024,DDR4,2933,N/A
+Xeon D-2896TER,Launched,Q4'23,Ice Lake,20,40,N/A,3.20,2.00,110,30,N/A,1024,DDR4,2933,N/A
+Xeon D-2899NT,Launched,Q4'23,Ice Lake,22,44,N/A,3.10,2.20,135,30,N/A,1024,DDR4,3200,N/A
+Xeon D-2745NX,Launched,Q3'22,Ice Lake,10,20,10,3.50,2.40,96,17.5,N/A,1024,DDR4,2667,N/A
+Xeon D-2757NX,Launched,Q3'22,Ice Lake,12,24,10,3.50,2.50,107,20,N/A,1024,DDR4,2667,N/A
+Xeon D-2777NX,Launched,Q3'22,Ice Lake,16,32,10,3.30,2.20,116,25,N/A,1024,DDR4,2667,N/A
+Xeon D-2798NX,Launched,Q3'22,Ice Lake,20,40,10,3.10,2.10,126,30,N/A,1024,DDR4,2933,N/A
+Xeon D-1702,Launched,Q1'22,Ice Lake,2,4,10,1.70,1.60,25,5,N/A,256,DDR4,2400,N/A
+Xeon D-1712TR,Launched,Q1'22,Ice Lake,4,8,10,3.10,2.00,40,10,N/A,384,DDR4,2400,N/A
+Xeon D-1713NT,Launched,Q1'22,Ice Lake,4,8,10,3.50,2.20,45,10,N/A,256,DDR4,2400,N/A
+Xeon D-1713NTE,Launched,Q1'22,Ice Lake,4,8,10,3.30,2.20,45,10,N/A,256,DDR4,2400,N/A
+Xeon D-1714,Launched,Q1'22,Ice Lake,4,8,10,3.40,2.30,38,10,N/A,256,DDR4,2667,N/A
+Xeon D-1715TER,Launched,Q1'22,Ice Lake,4,8,10,3.50,2.40,50,10,N/A,384,DDR4,2667,N/A
+Xeon D-1718T,Launched,Q1'22,Ice Lake,4,8,10,3.50,2.60,46,10,N/A,256,DDR4,2933,N/A
+Xeon D-1722NE,Launched,Q1'22,Ice Lake,6,12,10,2.70,1.70,36,10,N/A,256,DDR4,2400,N/A
+Xeon D-1726,Launched,Q1'22,Ice Lake,6,12,10,3.50,2.90,70,10,N/A,384,DDR4,2933,N/A
+Xeon D-1732TE,Launched,Q1'22,Ice Lake,8,16,10,3.00,1.90,52,15,N/A,384,DDR4,2667,N/A
+Xeon D-1733NT,Launched,Q1'22,Ice Lake,8,16,10,3.10,2.00,53,15,N/A,256,DDR4,2400,N/A
+Xeon D-1734NT,Launched,Q1'22,Ice Lake,8,16,10,3.10,2.00,50,15,N/A,256,DDR4,2667,N/A
+Xeon D-1735TR,Launched,Q1'22,Ice Lake,8,16,10,3.40,2.20,59,15,N/A,384,DDR4,2933,N/A
+Xeon D-1736,Launched,Q1'22,Ice Lake,8,16,10,3.40,2.30,55,15,N/A,256,DDR4,2933,N/A
+Xeon D-1736NT,Launched,Q1'22,Ice Lake,8,16,10,3.50,2.70,67,15,N/A,256,DDR4,2667,N/A
+Xeon D-1739,Launched,Q1'22,Ice Lake,8,16,10,3.50,3.00,83,15,N/A,384,DDR4,2933,N/A
+Xeon D-1746TER,Launched,Q1'22,Ice Lake,10,20,10,3.10,2.00,67,15,N/A,384,DDR4,2667,N/A
+Xeon D-1747NTE,Launched,Q1'22,Ice Lake,10,20,10,3.50,2.50,80,15,N/A,384,DDR4,2933,N/A
+Xeon D-1748TE,Launched,Q1'22,Ice Lake,10,20,10,3.40,2.30,65,15,N/A,256,DDR4,2400,N/A
+Xeon D-1749NT,Launched,Q1'22,Ice Lake,10,20,10,3.50,3.00,90,15,N/A,256,DDR4,2667,N/A
+Xeon D-2712T,Launched,Q1'22,Ice Lake,4,8,10,3.00,1.90,65,15,N/A,1024,DDR4,2667,N/A
+Xeon D-2733NT,Launched,Q1'22,Ice Lake,8,16,10,3.20,2.10,80,15,N/A,1024,DDR4,2667,N/A
+Xeon D-2738,Launched,Q1'22,Ice Lake,8,16,10,3.50,2.50,88,15,N/A,1024,DDR4,2933,N/A
+Xeon D-2739NT,Launched,Q1'22,Ice Lake,8,16,10,3.50,2.50,97,15,N/A,1024,DDR4,2933,N/A
+Xeon D-2752NTE,Launched,Q1'22,Ice Lake,12,24,10,3.00,1.90,84,20,N/A,1024,DDR4,2667,N/A
+Xeon D-2752TER,Launched,Q1'22,Ice Lake,12,24,10,2.80,1.80,77,20,N/A,1024,DDR4,2667,N/A
+Xeon D-2753NT,Launched,Q1'22,Ice Lake,12,24,10,3.10,2.00,87,20,N/A,1024,DDR4,2667,N/A
+Xeon D-2766NT,Launched,Q1'22,Ice Lake,14,28,10,3.10,2.00,97,20,N/A,1024,DDR4,2667,N/A
+Xeon D-2775TE,Launched,Q1'22,Ice Lake,16,32,10,3.10,2.00,100,25,N/A,1024,DDR4,2933,N/A
+Xeon D-2776NT,Launched,Q1'22,Ice Lake,16,32,10,3.20,2.10,117,25,N/A,1024,DDR4,2933,N/A
+Xeon D-2779,Launched,Q1'22,Ice Lake,16,32,10,3.40,2.50,126,25,N/A,1024,DDR4,3200,N/A
+Xeon D-2786NTE,Launched,Q1'22,Ice Lake,18,36,10,3.10,2.10,118,27.5,N/A,1024,DDR4,2933,N/A
+Xeon D-2795NT,Launched,Q1'22,Ice Lake,20,40,10,3.10,2.00,110,30,N/A,1024,DDR4,2933,N/A
+Xeon D-2796NT,Launched,Q1'22,Ice Lake,20,40,10,3.10,2.00,120,30,N/A,1024,DDR4,2933,N/A
+Xeon D-2796TE,Launched,Q1'22,Ice Lake,20,40,10,3.10,2.00,118,30,N/A,1024,DDR4,2933,N/A
+Xeon D-2798NT,Launched,Q1'22,Ice Lake,20,40,10,3.10,2.10,125,30,N/A,1024,DDR4,3200,N/A
+Xeon D-2799,Launched,Q1'22,Ice Lake,20,40,10,3.40,2.40,129,30,N/A,1024,DDR4,3200,N/A
+Xeon D-1731NTE,Launched,Q1'22,Ice Lake,8,16,10,2.80,1.70,45,15,N/A,256,DDR4,2400,N/A
+Xeon D-1602,Launched,Q2'19,Hewitt Lake,2,4,14,3.20,2.50,27,3,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1622,Launched,Q2'19,Hewitt Lake,4,8,14,3.20,2.60,40,6,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1623N,Launched,Q2'19,Hewitt Lake,4,8,14,3.20,2.40,35,6,N/A,128,"DDR4, DDR3",1866,N/A
+Xeon D-1627,Launched,Q2'19,Hewitt Lake,4,8,14,3.20,2.90,45,6,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1633N,Launched,Q2'19,Hewitt Lake,6,12,14,3.20,2.50,45,9,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1637,Launched,Q2'19,Hewitt Lake,6,12,14,3.20,2.90,55,9,N/A,128,"DDR4, DDR3",2400,N/A
+Xeon D-1649N,Launched,Q2'19,Hewitt Lake,8,16,14,3.00,2.30,45,12,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1653N,Launched,Q2'19,Hewitt Lake,8,16,14,3.20,2.80,65,12,N/A,128,"DDR4, DDR3",2400,N/A
+Xeon D-1524N,Launched,Q4'18,Broadwell,4,8,N/A,N/A,2.00,45,6,N/A,N/A,N/A,N/A,N/A
+Xeon D-2123IT,Launched,Q1'18,Skylake,4,8,14,3.00,2.20,60,8,N/A,512,DDR4,2400,N/A
+Xeon D-2141I,Launched,Q1'18,Skylake,8,16,14,3.00,2.20,65,11,N/A,512,DDR4,2133,N/A
+Xeon D-2142IT,Launched,Q1'18,Skylake,8,16,14,3.00,1.90,65,11,N/A,512,DDR4,2133,N/A
+Xeon D-2143IT,Launched,Q1'18,Skylake,8,16,14,3.00,2.20,65,11,N/A,512,DDR4,2133,N/A
+Xeon D-2145NT,Launched,Q1'18,Skylake,8,16,14,3.00,1.90,65,11,N/A,512,DDR4,2133,N/A
+Xeon D-2146NT,Launched,Q1'18,Skylake,8,16,14,3.00,2.30,80,11,N/A,512,DDR4,2133,N/A
+Xeon D-2161I,Launched,Q1'18,Skylake,12,24,14,3.00,2.20,80,16.5,L2 Cache,512,DDR4,2133,N/A
+Xeon D-2163IT,Launched,Q1'18,Skylake,12,24,14,3.00,2.10,75,17,N/A,512,DDR4,2133,N/A
+Xeon D-2166NT,Launched,Q1'18,Skylake,12,24,14,3.00,2.00,85,17,N/A,512,DDR4,2133,N/A
+Xeon D-2173IT,Launched,Q1'18,Skylake,14,28,14,3.00,1.70,70,19,N/A,512,DDR4,2133,N/A
+Xeon D-2177NT,Launched,Q1'18,Skylake,14,28,14,3.00,1.90,105,19,N/A,512,DDR4,2667,N/A
+Xeon D-2183IT,Launched,Q1'18,Skylake,16,32,14,3.00,2.20,100,22,N/A,512,DDR4,2400,N/A
+Xeon D-2187NT,Launched,Q1'18,Skylake,16,32,14,3.00,2.00,110,22,N/A,512,DDR4,2667,N/A
+Xeon D-1513N,Launched,Q3'17,Broadwell,4,8,14,2.20,1.60,35,6,N/A,128,"DDR4, DDR3",N/A,N/A
+Xeon D-1523N,Launched,Q3'17,Broadwell,4,8,14,2.60,2.00,45,6,N/A,128,"DDR4, DDR3",N/A,N/A
+Xeon D-1533N,Launched,Q3'17,Broadwell,6,12,14,2.70,2.10,45,9,N/A,128,"DDR4, DDR3",N/A,N/A
+Xeon D-1543N,Launched,Q3'17,Broadwell,8,16,14,2.50,1.90,45,12,N/A,128,"DDR4, DDR3",N/A,N/A
+Xeon D-1553N,Launched,Q3'17,Broadwell,8,16,14,2.70,2.30,65,12,N/A,128,"DDR4, DDR3",N/A,N/A
+Xeon D-1529,Launched,Q2'16,Broadwell,4,8,14,1.30,1.30,20,6,N/A,128,"DDR4, DDR3",1600,N/A
+Xeon D-1539,Launched,Q2'16,Broadwell,8,16,14,2.20,1.60,35,12,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1559,Launched,Q2'16,Broadwell,12,24,14,2.10,1.50,45,18,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1557,Launched,Q1'16,Broadwell,12,24,14,2.10,1.50,45,18,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1567,Launched,Q1'16,Broadwell,12,24,14,2.70,2.10,65,18,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1571,Launched,Q1'16,Broadwell,16,32,14,2.10,1.30,45,24,N/A,128,"DDR4, DDR3",2400,N/A
+Xeon D-1577,Launched,Q1'16,Broadwell,16,32,14,2.10,1.30,45,24,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1518,Launched,Q4'15,Broadwell,4,8,14,2.20,2.20,35,6,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1521,Launched,Q4'15,Broadwell,4,8,14,2.70,2.40,45,6,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1527,Launched,Q4'15,Broadwell,4,8,14,2.70,2.20,35,6,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1528,Launched,Q4'15,Broadwell,6,12,14,2.50,1.90,35,9,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1531,Launched,Q4'15,Broadwell,6,12,14,2.70,2.20,45,9,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1537,Launched,Q4'15,Broadwell,8,16,14,2.30,1.70,35,12,N/A,128,"DDR4, DDR3",2133,N/A
+Xeon D-1541,Launched,Q4'15,Broadwell,8,16,14,2.70,2.10,45,12,N/A,128,"DDR4, DDR3",2400,N/A
+Xeon D-1548,Launched,Q4'15,Broadwell,8,16,14,2.60,2.00,45,12,N/A,128,"DDR4, DDR3",2400,N/A
+Xeon D-1520,Launched,Q1'15,Broadwell,4,8,14,2.60,2.20,45,6,N/A,128,DDR4,2133,N/A
+Xeon D-1540,Launched,Q1'15,Broadwell,8,16,14,2.60,2.00,45,12,N/A,128,DDR4,2133,N/A
+Xeon E7-8894 v4,Discontinued,Q1'17,Broadwell,24,48,14,3.40,2.40,165,60,N/A,3072,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-4809 v4,Discontinued,Q2'16,Broadwell,8,16,14,N/A,2.10,115,20,N/A,3072,"DDR4-1333/1600/1866, DDR3-1066/1333",N/A,N/A
+Xeon E7-4820 v4,Discontinued,Q2'16,Broadwell,10,20,14,N/A,2.00,115,25,N/A,3072,"DDR4-1333/1600/1866, DDR3-1066/1333",N/A,N/A
+Xeon E7-4830 v4,Discontinued,Q2'16,Broadwell,14,28,14,2.80,2.00,115,35,N/A,3072,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-4850 v4,Discontinued,Q2'16,Broadwell,16,32,14,2.80,2.10,115,40,N/A,3072,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8860 v4,Discontinued,Q2'16,Broadwell,18,36,14,3.20,2.20,140,45,N/A,3072,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8867 v4,Discontinued,Q2'16,Broadwell,18,36,14,3.30,2.40,165,45,N/A,3072,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8870 v4,Discontinued,Q2'16,Broadwell,20,40,14,3.00,2.10,140,50,N/A,3072,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8880 v4,Discontinued,Q2'16,Broadwell,22,44,14,3.30,2.20,150,55,N/A,3072,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8890 v4,Discontinued,Q2'16,Broadwell,24,48,14,3.40,2.20,165,60,N/A,3072,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8891 v4,Discontinued,Q2'16,Broadwell,10,20,14,3.50,2.80,165,60,N/A,3072,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8893 v4,Discontinued,Q2'16,Broadwell,4,8,14,3.50,3.20,140,60,N/A,3072,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-4809 v3,Discontinued,Q2'15,Haswell,8,16,22,N/A,2.00,115,20,Last Level Cache,1536,"DDR4-1333/1600/1866, DDR3-1066/1333",N/A,N/A
+Xeon E7-4820 v3,Discontinued,Q2'15,Haswell,10,20,22,N/A,1.90,115,25,Last Level Cache,1536,"DDR4-1333/1600/1866, DDR3-1066/1333",N/A,N/A
+Xeon E7-4830 v3,Discontinued,Q2'15,Haswell,12,24,22,2.70,2.10,115,30,Last Level Cache,1536,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-4850 v3,Discontinued,Q2'15,Haswell,14,28,22,2.80,2.20,115,35,Last Level Cache,1536,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8860 v3,Discontinued,Q2'15,Haswell,16,32,22,3.20,2.20,140,40,Last Level Cache,1536,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8867 v3,Discontinued,Q2'15,Haswell,16,32,22,3.30,2.50,165,45,N/A,1536,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8870 v3,Discontinued,Q2'15,Haswell,18,36,22,2.90,2.10,140,45,Last Level Cache,1536,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8880 v3,Discontinued,Q2'15,Haswell,18,36,22,3.10,2.30,150,45,Last Level Cache,1536,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8880L v3,Discontinued,Q2'15,Haswell,18,36,22,2.80,2.00,115,45,Last Level Cache,1536,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8890 v3,Discontinued,Q2'15,Haswell,18,36,22,3.30,2.50,165,45,Last Level Cache,1536,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8891 v3,Discontinued,Q2'15,Haswell,10,20,22,3.50,2.80,165,45,Last Level Cache,1536,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-8893 v3,Discontinued,Q2'15,Haswell,4,8,22,3.50,3.20,140,45,Last Level Cache,1536,"DDR4-1333/1600/1866, DDR3-1066/1333/1600",N/A,N/A
+Xeon E7-2850 v2,Discontinued,Q1'14,Ivy Bridge,12,24,22,2.80,2.30,105,24,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-2870 v2,Discontinued,Q1'14,Ivy Bridge,15,30,22,2.90,2.30,130,30,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-2880 v2,Discontinued,Q1'14,Ivy Bridge,15,30,22,3.10,2.50,130,37.5,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-2890 v2,Discontinued,Q1'14,Ivy Bridge,15,30,22,3.40,2.80,155,37.5,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-4809 v2,Discontinued,Q1'14,Ivy Bridge,6,12,22,N/A,1.90,105,12,N/A,1536,"DDR3 1066/1333",N/A,N/A
+Xeon E7-4820 v2,Discontinued,Q1'14,Ivy Bridge,8,16,22,2.50,2.00,105,16,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-4830 v2,Discontinued,Q1'14,Ivy Bridge,10,20,22,2.70,2.20,105,20,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-4850 v2,Discontinued,Q1'14,Ivy Bridge,12,24,22,2.80,2.30,105,24,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-4860 v2,Discontinued,Q1'14,Ivy Bridge,12,24,22,3.20,2.60,130,30,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-4870 v2,Discontinued,Q1'14,Ivy Bridge,15,30,22,2.90,2.30,130,30,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-4880 v2,Discontinued,Q1'14,Ivy Bridge,15,30,22,3.10,2.50,130,37.5,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-4890 v2,Discontinued,Q1'14,Ivy Bridge,15,30,22,3.40,2.80,155,37.5,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-8850 v2,Discontinued,Q1'14,Ivy Bridge,12,24,22,2.80,2.30,105,24,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-8857 v2,Discontinued,Q1'14,Ivy Bridge,12,12,22,3.60,3.00,130,30,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-8870 v2,Discontinued,Q1'14,Ivy Bridge,15,30,22,2.90,2.30,130,30,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-8880 v2,Discontinued,Q1'14,Ivy Bridge,15,30,22,3.10,2.50,130,37.5,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-8880L v2,Discontinued,Q1'14,Ivy Bridge,15,30,22,2.80,2.20,105,37.5,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-8890 v2,Discontinued,Q1'14,Ivy Bridge,15,30,22,3.40,2.80,155,37.5,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-8891 v2,Discontinued,Q1'14,Ivy Bridge,10,20,22,3.70,3.20,155,37.5,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-8893 v2,Discontinued,Q1'14,Ivy Bridge,6,12,22,3.70,3.40,155,37.5,N/A,1536,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E7-2803,Discontinued,Q2'11,Westmere EX,6,12,32,N/A,1.73,105,18,Intel Smart Cache,1024,"DDR3 800/978/1066/1333 (Max Speed 800 MHz)",N/A,N/A
+Xeon E7-2820,Discontinued,Q2'11,Westmere EX,8,16,32,2.27,2.00,105,18,Intel Smart Cache,1024,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-2830,Discontinued,Q2'11,Westmere EX,8,16,32,2.40,2.13,105,24,Intel Smart Cache,1024,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-2850,Discontinued,Q2'11,Westmere EX,10,20,32,2.40,2.00,130,24,Intel Smart Cache,1024,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-2860,Discontinued,Q2'11,Westmere EX,10,20,32,2.67,2.26,130,24,Intel Smart Cache,1024,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-2870,Discontinued,Q2'11,Westmere EX,10,20,32,2.80,2.40,130,30,Intel Smart Cache,1024,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-4807,Discontinued,Q2'11,Westmere EX,6,12,32,N/A,1.86,95,18,Intel Smart Cache,2048,"DDR3 800/978/1066/1333 (Max Speed 800 MHz)",N/A,N/A
+Xeon E7-4820,Discontinued,Q2'11,Westmere EX,8,16,32,2.27,2.00,105,18,Intel Smart Cache,2048,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-4830,Discontinued,Q2'11,Westmere EX,8,16,32,2.40,2.13,105,24,Intel Smart Cache,2048,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-4850,Discontinued,Q2'11,Westmere EX,10,20,32,2.40,2.00,130,24,Intel Smart Cache,2048,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-4860,Discontinued,Q2'11,Westmere EX,10,20,32,2.67,2.26,130,24,Intel Smart Cache,2048,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-4870,Discontinued,Q2'11,Westmere EX,10,20,32,2.80,2.40,130,30,Intel Smart Cache,2048,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-8830,Discontinued,Q2'11,Westmere EX,8,16,32,2.40,2.13,105,24,Intel Smart Cache,4096,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-8837,Discontinued,Q2'11,Westmere EX,8,8,32,2.80,2.66,130,24,Intel Smart Cache,4096,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-8850,Discontinued,Q2'11,Westmere EX,10,20,32,2.40,2.00,130,24,Intel Smart Cache,4096,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-8860,Discontinued,Q2'11,Westmere EX,10,20,32,2.67,2.26,130,24,Intel Smart Cache,4096,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-8867L,Discontinued,Q2'11,Westmere EX,10,20,32,2.53,2.13,105,30,Intel Smart Cache,4096,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E7-8870,Discontinued,Q2'11,Westmere EX,10,20,32,2.80,2.40,130,30,Intel Smart Cache,4096,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon E5-2699A v4,Launched,Q4'16,Broadwell,22,44,14,3.60,2.40,145,55,N/A,1536,"DDR3 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2699R v4,Launched,Q4'16,Broadwell,22,44,14,3.60,2.20,145,55,N/A,1536,"DDR3 1600/1866/2133/2400",N/A,N/A
+Xeon E5-4610 v4,Launched,Q2'16,Broadwell,10,20,14,1.80,1.80,105,25,N/A,1536,DDR4,N/A,N/A
+Xeon E5-4620 v4,Launched,Q2'16,Broadwell,10,20,14,2.60,2.10,105,25,N/A,1536,DDR4,N/A,N/A
+Xeon E5-4627 v4,Launched,Q2'16,Broadwell,10,10,14,3.20,2.60,135,25,N/A,1536,DDR4,2400,N/A
+Xeon E5-4628L v4,Launched,Q2'16,Broadwell,14,28,14,2.20,1.80,75,35,N/A,1536,DDR4,N/A,N/A
+Xeon E5-4640 v4,Launched,Q2'16,Broadwell,12,24,14,2.60,2.10,105,30,N/A,N/A,N/A,N/A,N/A
+Xeon E5-4650 v4,Launched,Q2'16,Broadwell,14,28,14,2.80,2.20,105,35,N/A,1536,DDR4,N/A,N/A
+Xeon E5-4655 v4,Launched,Q2'16,Broadwell,8,16,14,3.20,2.50,135,30,N/A,1536,DDR4,N/A,N/A
+Xeon E5-4660 v4,Launched,Q2'16,Broadwell,16,32,14,3.00,2.20,120,40,N/A,1536,DDR4,N/A,N/A
+Xeon E5-4667 v4,Launched,Q2'16,Broadwell,18,36,14,3.00,2.20,135,45,N/A,1536,DDR4,N/A,N/A
+Xeon E5-4669 v4,Launched,Q2'16,Broadwell,22,44,14,3.00,2.20,135,55,N/A,1536,DDR4,N/A,N/A
+Xeon E5-1620 v4,Launched,Q2'16,Broadwell,4,8,14,3.80,3.50,140,10,N/A,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-1630 v4,Launched,Q2'16,Broadwell,4,8,14,4.00,3.70,140,10,N/A,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-1650 v4,Launched,Q2'16,Broadwell,6,12,14,4.00,3.60,140,15,N/A,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-1660 v4,Launched,Q2'16,Broadwell,8,16,14,3.80,3.20,140,20,N/A,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-1680 v4,Launched,Q2'16,Broadwell,8,16,14,4.00,3.40,140,20,N/A,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2603 v4,Launched,Q1'16,Broadwell,6,6,14,N/A,1.70,85,15,Intel Smart Cache,1536,"DDR4 1600/1866",N/A,N/A
+Xeon E5-2608L v4,Launched,Q1'16,Broadwell,8,16,14,1.70,1.60,50,20,Intel Smart Cache,1536,"DDR4 1600/1866",N/A,N/A
+Xeon E5-2609 v4,Launched,Q1'16,Broadwell,8,8,14,N/A,1.70,85,20,Intel Smart Cache,1536,"DDR4 1600/1866",N/A,N/A
+Xeon E5-2618L v4,Launched,Q1'16,Broadwell,10,20,14,3.20,2.20,75,25,Intel Smart Cache,1536,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2620 v4,Launched,Q1'16,Broadwell,8,16,14,3.00,2.10,85,20,Intel Smart Cache,1536,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2623 v4,Launched,Q1'16,Broadwell,4,8,14,3.20,2.60,85,10,Intel Smart Cache,1536,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2628L v4,Launched,Q1'16,Broadwell,12,24,14,2.40,1.90,75,30,Intel Smart Cache,1536,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2630 v4,Launched,Q1'16,Broadwell,10,20,14,3.10,2.20,85,25,Intel Smart Cache,1536,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2630L v4,Launched,Q1'16,Broadwell,10,20,14,2.90,1.80,55,25,Intel Smart Cache,1536,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2637 v4,Launched,Q1'16,Broadwell,4,8,14,3.70,3.50,135,15,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2640 v4,Launched,Q1'16,Broadwell,10,20,14,3.40,2.40,90,25,Intel Smart Cache,1536,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2643 v4,Launched,Q1'16,Broadwell,6,12,14,3.70,3.40,135,20,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2648L v4,Launched,Q1'16,Broadwell,14,28,14,2.50,1.80,75,35,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2650 v4,Launched,Q1'16,Broadwell,12,24,14,2.90,2.20,105,30,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2650L v4,Launched,Q1'16,Broadwell,14,28,14,2.50,1.70,65,35,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2658 v4,Launched,Q1'16,Broadwell,14,28,14,2.80,2.30,105,35,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2660 v4,Launched,Q1'16,Broadwell,14,28,14,3.20,2.00,105,35,N/A,N/A,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2667 v4,Launched,Q1'16,Broadwell,8,16,14,3.60,3.20,135,25,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2680 v4,Launched,Q1'16,Broadwell,14,28,14,3.30,2.40,120,35,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2683 v4,Launched,Q1'16,Broadwell,16,32,14,3.00,2.10,120,40,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2687W v4,Launched,Q1'16,Broadwell,12,24,14,3.50,3.00,160,30,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2690 v4,Launched,Q1'16,Broadwell,14,28,14,3.50,2.60,135,35,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2695 v4,Launched,Q1'16,Broadwell,18,36,14,3.30,2.10,120,45,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2697 v4,Launched,Q1'16,Broadwell,18,36,14,3.60,2.30,145,45,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2697A v4,Launched,Q1'16,Broadwell,16,32,14,3.60,2.60,145,40,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2698 v4,Launched,Q1'16,Broadwell,20,40,14,3.60,2.20,135,50,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-2699 v4,Launched,Q1'16,Broadwell,22,44,14,3.60,2.20,145,55,Intel Smart Cache,1536,"DDR4 1600/1866/2133/2400",N/A,N/A
+Xeon E5-4610 v3,Discontinued,Q2'15,Haswell,10,20,22,1.70,1.70,105,25,N/A,768,DDR4,N/A,N/A
+Xeon E5-4620 v3,Discontinued,Q2'15,Haswell,10,20,22,2.60,2.00,105,25,N/A,768,DDR4,N/A,N/A
+Xeon E5-4627 v3,Discontinued,Q2'15,Haswell,10,10,22,3.20,2.60,135,25,N/A,768,DDR4,N/A,N/A
+Xeon E5-4640 v3,Discontinued,Q2'15,Haswell,12,24,22,2.60,1.90,105,30,N/A,768,DDR4,N/A,N/A
+Xeon E5-4648 v3,Discontinued,Q2'15,Haswell,12,24,22,2.20,1.70,105,30,N/A,768,DDR4,N/A,N/A
+Xeon E5-4650 v3,Discontinued,Q2'15,Haswell,12,24,22,2.80,2.10,105,30,N/A,768,DDR4,N/A,N/A
+Xeon E5-4655 v3,Discontinued,Q2'15,Haswell,6,12,22,3.20,2.90,135,30,N/A,768,DDR4,N/A,N/A
+Xeon E5-4660 v3,Discontinued,Q2'15,Haswell,14,28,22,2.90,2.10,120,35,N/A,768,DDR4,N/A,N/A
+Xeon E5-4667 v3,Discontinued,Q2'15,Haswell,16,32,22,2.90,2.00,135,40,N/A,768,DDR4,N/A,N/A
+Xeon E5-4669 v3,Discontinued,Q2'15,Haswell,18,36,22,2.90,2.10,135,45,N/A,768,DDR4,N/A,N/A
+Xeon E5-2658A v3,Discontinued,Q1'15,Haswell,12,24,22,2.90,2.20,105,30,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-1428L v3,Launched,Q1'15,Haswell,8,16,22,N/A,2.00,65,20,N/A,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2408L v3,Discontinued,Q1'15,Haswell,4,8,22,N/A,1.80,45,10,N/A,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2418L v3,Discontinued,Q1'15,Haswell,6,12,22,N/A,2.00,50,15,N/A,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2428L v3,Discontinued,Q1'15,Haswell,8,16,22,N/A,1.80,55,20,N/A,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2438L v3,Discontinued,Q1'15,Haswell,10,20,22,N/A,1.80,70,25,N/A,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-1620 v3,Discontinued,Q3'14,Haswell,4,8,22,3.60,3.50,140,10,Intel Smart Cache,768,"DDR4 1333/1600/1866/2133",N/A,N/A
+Xeon E5-1630 v3,Discontinued,Q3'14,Haswell,4,8,22,3.80,3.70,140,10,Intel Smart Cache,768,"DDR4 1333/1600/1866/2133",N/A,N/A
+Xeon E5-1650 v3,Discontinued,Q3'14,Haswell,6,12,22,3.80,3.50,140,15,Intel Smart Cache,768,"DDR4 1333/1600/1866/2133",N/A,N/A
+Xeon E5-1660 v3,Discontinued,Q3'14,Haswell,8,16,22,3.50,3.00,140,20,Intel Smart Cache,768,"DDR4 1333/1600/1866/2133",N/A,N/A
+Xeon E5-1680 v3,Discontinued,Q3'14,Haswell,8,16,22,3.80,3.20,140,20,Intel Smart Cache,768,"DDR4 1333/1600/1866/2133",N/A,N/A
+Xeon E5-2603 v3,Discontinued,Q3'14,Haswell,6,6,22,N/A,1.60,85,15,Intel Smart Cache,768,DDR4,1600,N/A
+Xeon E5-2608L v3,Discontinued,Q3'14,Haswell,6,12,22,N/A,2.00,52,15,Intel Smart Cache,768,"DDR4 1600/1866",N/A,N/A
+Xeon E5-2609 v3,Discontinued,Q3'14,Haswell,6,6,22,N/A,1.90,85,15,Intel Smart Cache,768,DDR4,1600,N/A
+Xeon E5-2618L v3,Launched,Q3'14,Haswell,8,16,22,3.40,2.30,75,20,Intel Smart Cache,768,"DDR4 1600/1866",N/A,N/A
+Xeon E5-2620 v3,Discontinued,Q3'14,Haswell,6,12,22,3.20,2.40,85,15,Intel Smart Cache,768,"DDR4 1600/1866",N/A,N/A
+Xeon E5-2623 v3,Discontinued,Q3'14,Haswell,4,8,22,3.50,3.00,105,10,Intel Smart Cache,768,"DDR4 1600/1866",N/A,N/A
+Xeon E5-2628L v3,Discontinued,Q3'14,Haswell,10,20,22,2.50,2.00,75,25,Intel Smart Cache,768,"DDR4 1600/1866",N/A,N/A
+Xeon E5-2630 v3,Discontinued,Q3'14,Haswell,8,16,22,3.20,2.40,85,20,Intel Smart Cache,768,"DDR4 1600/1866",N/A,N/A
+Xeon E5-2630L v3,Discontinued,Q3'14,Haswell,8,16,22,2.90,1.80,55,20,Intel Smart Cache,768,"DDR4 1600/1866",N/A,N/A
+Xeon E5-2637 v3,Discontinued,Q3'14,Haswell,4,8,22,3.70,3.50,135,15,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2640 v3,Discontinued,Q3'14,Haswell,8,16,22,3.40,2.60,90,20,Intel Smart Cache,768,"DDR4 1600/1866",N/A,N/A
+Xeon E5-2643 v3,Discontinued,Q3'14,Haswell,6,12,22,3.70,3.40,135,20,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2648L v3,Discontinued,Q3'14,Haswell,12,24,22,2.50,1.80,75,30,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2650 v3,Discontinued,Q3'14,Haswell,10,20,22,3.00,2.30,105,25,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2650L v3,Discontinued,Q3'14,Haswell,12,24,22,2.50,1.80,65,30,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2658 v3,Discontinued,Q3'14,Haswell,12,24,22,2.90,2.20,105,30,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2660 v3,Discontinued,Q3'14,Haswell,10,20,22,3.30,2.60,105,25,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2667 v3,Discontinued,Q3'14,Haswell,8,16,22,3.60,3.20,135,20,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2670 v3,Discontinued,Q3'14,Haswell,12,24,22,3.10,2.30,120,30,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2680 v3,Discontinued,Q3'14,Haswell,12,24,22,3.30,2.50,120,30,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2683 v3,Discontinued,Q3'14,Haswell,14,28,22,3.00,2.00,120,35,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2687W v3,Discontinued,Q3'14,Haswell,10,20,22,3.50,3.10,160,25,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2690 v3,Discontinued,Q3'14,Haswell,12,24,22,3.50,2.60,135,30,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2695 v3,Discontinued,Q3'14,Haswell,14,28,22,3.30,2.30,120,35,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2697 v3,Discontinued,Q3'14,Haswell,14,28,22,3.60,2.60,145,35,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2698 v3,Discontinued,Q3'14,Haswell,16,32,22,3.60,2.30,135,40,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-2699 v3,Discontinued,Q3'14,Haswell,18,36,22,3.60,2.30,145,45,Intel Smart Cache,768,"DDR4 1600/1866/2133",N/A,N/A
+Xeon E5-4603 v2,Discontinued,Q1'14,Ivy Bridge EP,4,8,22,2.20,2.20,95,10,Intel Smart Cache,768,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-4607 v2,Discontinued,Q1'14,Ivy Bridge EP,6,12,22,2.60,2.60,95,15,Intel Smart Cache,768,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-4610 v2,Discontinued,Q1'14,Ivy Bridge EP,8,16,22,2.70,2.30,95,16,Intel Smart Cache,768,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-4620 v2,Discontinued,Q1'14,Ivy Bridge EP,8,16,22,3.00,2.60,95,20,Intel Smart Cache,768,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-4624L v2,Discontinued,Q1'14,Ivy Bridge EP,10,20,22,2.50,1.90,70,25,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-4627 v2,Discontinued,Q1'14,Ivy Bridge EP,8,8,22,3.60,3.30,130,16,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-4640 v2,Discontinued,Q1'14,Ivy Bridge EP,10,20,22,2.70,2.20,95,20,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-4650 v2,Discontinued,Q1'14,Ivy Bridge EP,10,20,22,2.90,2.40,95,25,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-4657L v2,Discontinued,Q1'14,Ivy Bridge EP,12,24,22,2.90,2.40,115,30,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-1428L v2,Discontinued,Q1'14,Ivy Bridge EN,6,12,22,2.70,2.20,60,15,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2403 v2,Discontinued,Q1'14,Ivy Bridge EN,4,4,22,1.80,1.80,80,10,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2407 v2,Discontinued,Q1'14,Ivy Bridge EN,4,4,22,2.40,2.40,80,10,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2418L v2,Discontinued,Q1'14,Ivy Bridge EN,6,12,22,2.00,2.00,50,15,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2420 v2,Discontinued,Q1'14,Ivy Bridge EN,6,12,22,2.70,2.20,80,15,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2428L v2,Discontinued,Q1'14,Ivy Bridge EN,8,16,22,2.30,1.80,60,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2430 v2,Discontinued,Q1'14,Ivy Bridge EN,6,12,22,3.00,2.50,80,15,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2430L v2,Discontinued,Q1'14,Ivy Bridge EN,6,12,22,2.80,2.40,60,15,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2440 v2,Discontinued,Q1'14,Ivy Bridge EN,8,16,22,2.40,1.90,95,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2448L v2,Discontinued,Q1'14,Ivy Bridge EN,10,20,22,2.40,1.80,70,25,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2450 v2,Discontinued,Q1'14,Ivy Bridge EN,8,16,22,3.30,2.50,95,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2450L v2,Discontinued,Q1'14,Ivy Bridge EN,10,20,22,2.10,1.70,60,25,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2470 v2,Discontinued,Q1'14,Ivy Bridge EN,10,20,22,3.20,2.40,95,25,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-1620 v2,Discontinued,Q3'13,Ivy Bridge EP,4,8,22,3.90,3.70,130,10,Intel Smart Cache,256,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-1650 v2,Discontinued,Q3'13,Ivy Bridge EP,6,12,22,3.90,3.50,130,12,Intel Smart Cache,256,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-1660 v2,Discontinued,Q3'13,Ivy Bridge EP,6,12,22,4.00,3.70,130,15,Intel Smart Cache,256,"DDR33 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2603 v2,Discontinued,Q3'13,Ivy Bridge EP,4,4,22,N/A,1.80,80,10,Intel Smart Cache,768,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2609 v2,Discontinued,Q3'13,Ivy Bridge EP,4,4,22,2.50,2.50,80,10,Intel Smart Cache,768,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2618L v2,Discontinued,Q3'13,Ivy Bridge EP,6,12,22,2.00,2.00,50,15,Intel Smart Cache,768,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2620 v2,Discontinued,Q3'13,Ivy Bridge EP,6,12,22,2.60,2.10,80,15,Intel Smart Cache,768,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2628L v2,Discontinued,Q3'13,Ivy Bridge EP,8,16,22,2.40,1.90,70,20,Intel Smart Cache,768,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2630 v2,Discontinued,Q3'13,Ivy Bridge EP,6,12,22,3.10,2.60,80,15,Intel Smart Cache,768,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2630L v2,Discontinued,Q3'13,Ivy Bridge EP,6,12,22,2.80,2.40,60,15,Intel Smart Cache,768,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2637 v2,Discontinued,Q3'13,Ivy Bridge EP,4,8,22,3.80,3.50,130,15,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2640 v2,Discontinued,Q3'13,Ivy Bridge EP,8,16,22,2.50,2.00,95,20,Intel Smart Cache,768,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2643 v2,Discontinued,Q3'13,Ivy Bridge EP,6,12,22,3.80,3.50,130,25,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2648L v2,Discontinued,Q3'13,Ivy Bridge EP,10,20,22,2.50,1.90,70,25,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2650 v2,Discontinued,Q3'13,Ivy Bridge EP,8,16,22,3.40,2.60,95,20,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2650L v2,Discontinued,Q3'13,Ivy Bridge EP,10,20,22,2.10,1.70,70,25,Intel Smart Cache,768,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2658 v2,Discontinued,Q3'13,Ivy Bridge EP,10,20,22,3.00,2.40,95,25,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2660 v2,Discontinued,Q3'13,Ivy Bridge EP,10,20,22,3.00,2.20,95,25,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2667 v2,Discontinued,Q3'13,Ivy Bridge EP,8,16,22,4.00,3.30,130,25,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2670 v2,Discontinued,Q3'13,Ivy Bridge EP,10,20,22,3.00,2.50,115,25,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2680 v2,Discontinued,Q3'13,Ivy Bridge EP,10,20,22,3.60,2.80,115,25,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2687W v2,Discontinued,Q3'13,Ivy Bridge EP,8,16,22,4.00,3.40,150,25,Intel Smart Cache,256,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2690 v2,Discontinued,Q3'13,Ivy Bridge EP,10,20,22,3.60,3.00,130,25,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2695 v2,Discontinued,Q3'13,Ivy Bridge EP,12,24,22,3.20,2.40,115,30,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-2697 v2,Discontinued,Q3'13,Ivy Bridge EP,12,24,22,3.50,2.70,130,30,Intel Smart Cache,768,"DDR3 800/1066/1333/1600/1866",N/A,N/A
+Xeon E5-1428L,Discontinued,Q2'12,Sandy Bridge EN,6,12,32,N/A,1.80,60,15,L3 Cache,N/A,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2403,Discontinued,Q2'12,Sandy Bridge EN,4,4,32,N/A,1.80,80,10,Intel Smart Cache,384,"DDR3 800/1066",N/A,N/A
+Xeon E5-2407,Discontinued,Q2'12,Sandy Bridge EN,4,4,32,N/A,2.20,80,10,Intel Smart Cache,384,"DDR3 800/1066",N/A,N/A
+Xeon E5-2418L,Discontinued,Q2'12,Sandy Bridge EN,4,8,32,2.10,2.00,50,10,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2420,Discontinued,Q2'12,Sandy Bridge EN,6,12,32,2.40,1.90,95,15,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2428L,Discontinued,Q2'12,Sandy Bridge EN,6,12,32,2.00,1.80,60,15,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2430,Discontinued,Q2'12,Sandy Bridge EN,6,12,32,2.70,2.20,95,15,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2430L,Discontinued,Q2'12,Sandy Bridge EN,6,12,32,2.50,2.00,60,15,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2440,Discontinued,Q2'12,Sandy Bridge EN,6,12,32,2.90,2.40,95,15,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2448L,Discontinued,Q2'12,Sandy Bridge EN,8,16,32,2.10,1.80,70,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2450,Discontinued,Q2'12,Sandy Bridge EN,8,16,32,2.90,2.10,95,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2450L,Discontinued,Q2'12,Sandy Bridge EN,8,16,32,2.30,1.80,70,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2470,Discontinued,Q2'12,Sandy Bridge EN,8,16,32,3.10,2.30,95,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-4603,Discontinued,Q2'12,Sandy Bridge EP,4,8,32,N/A,2.00,95,10,Intel Smart Cache,384,"DDR3 800/1066",N/A,N/A
+Xeon E5-4607,Discontinued,Q2'12,Sandy Bridge EP,6,12,32,N/A,2.20,95,12,Intel Smart Cache,384,"DDR3 800/1066",N/A,N/A
+Xeon E5-4610,Discontinued,Q2'12,Sandy Bridge EP,6,12,32,2.90,2.40,95,15,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-4617,Discontinued,Q2'12,Sandy Bridge EP,6,6,32,3.40,2.90,130,15,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-4620,Discontinued,Q2'12,Sandy Bridge EP,8,16,32,2.60,2.20,95,16,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-4640,Discontinued,Q2'12,Sandy Bridge EP,8,16,32,2.80,2.40,95,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-4650,Discontinued,Q2'12,Sandy Bridge EP,8,16,32,3.30,2.70,130,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-4650L,Discontinued,Q2'12,Sandy Bridge EP,8,16,32,3.10,2.60,115,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-1620,Discontinued,Q1'12,Sandy Bridge EP,4,8,32,3.80,3.60,130,10,Intel Smart Cache,375,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-1650,Discontinued,Q1'12,Sandy Bridge EP,6,12,32,3.80,3.20,130,12,Intel Smart Cache,256,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-1660,Discontinued,Q1'12,Sandy Bridge EP,6,12,32,3.90,3.30,130,15,Intel Smart Cache,256,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2603,Discontinued,Q1'12,Sandy Bridge EP,4,4,32,N/A,1.80,80,10,Intel Smart Cache,384,"DDR3 800/1066",N/A,N/A
+Xeon E5-2609,Discontinued,Q1'12,Sandy Bridge EP,4,4,32,N/A,2.40,80,10,Intel Smart Cache,384,"DDR3 800/1066",N/A,N/A
+Xeon E5-2620,Discontinued,Q1'12,Sandy Bridge EP,6,12,32,2.50,2.00,95,15,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2630,Discontinued,Q1'12,Sandy Bridge EP,6,12,32,2.80,2.30,95,15,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2630L,Discontinued,Q1'12,Sandy Bridge EP,6,12,32,2.50,2.00,60,15,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2637,Discontinued,Q1'12,Sandy Bridge EP,2,4,32,3.50,3.00,80,5,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2640,Discontinued,Q1'12,Sandy Bridge EP,6,12,32,3.00,2.50,95,15,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5-2643,Discontinued,Q1'12,Sandy Bridge EP,4,8,32,3.50,3.30,130,10,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2648L,Discontinued,Q1'12,Sandy Bridge EP,8,16,32,2.10,1.80,70,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2650,Discontinued,Q1'12,Sandy Bridge EP,8,16,32,2.80,2.00,95,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2650L,Discontinued,Q1'12,Sandy Bridge EP,8,16,32,2.30,1.80,70,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2658,Discontinued,Q1'12,Sandy Bridge EP,8,16,32,2.40,2.10,95,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2660,Discontinued,Q1'12,Sandy Bridge EP,8,16,32,3.00,2.20,95,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2665,Discontinued,Q1'12,Sandy Bridge EP,8,16,32,3.10,2.40,115,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2667,Discontinued,Q1'12,Sandy Bridge EP,6,12,32,3.50,2.90,130,15,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2670,Discontinued,Q1'12,Sandy Bridge EP,8,16,32,3.30,2.60,115,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2680,Discontinued,Q1'12,Sandy Bridge EP,8,16,32,3.50,2.70,130,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2687W,Discontinued,Q1'12,Sandy Bridge EP,8,16,32,3.80,3.10,150,20,Intel Smart Cache,256,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E5-2690,Discontinued,Q1'12,Sandy Bridge EP,8,16,32,3.80,2.90,135,20,Intel Smart Cache,384,"DDR3 800/1066/1333/1600",N/A,N/A
+Xeon E3-1285 v6,Launched,Q3'17,Kaby Lake,4,8,14,4.50,4.10,79,8,Intel Smart Cache,64,"DDR4-2400, DDR3L-1866",N/A,Intel HD P630 Graphics
+Xeon E3-1220 v6,Launched,Q1'17,Kaby Lake,4,4,14,3.50,3.00,72,8,Intel Smart Cache,64,"DDR4-2400, DDR3L-1866",N/A,N/A
+Xeon E3-1225 v6,Launched,Q1'17,Kaby Lake,4,4,14,3.70,3.30,73,8,Intel Smart Cache,64,"DDR4-2400, DDR3L-1866",N/A,Intel HD P630 Graphics
+Xeon E3-1230 v6,Launched,Q1'17,Kaby Lake,4,8,14,3.90,3.50,72,8,Intel Smart Cache,64,"DDR4-2400, DDR3L-1866",N/A,N/A
+Xeon E3-1240 v6,Launched,Q1'17,Kaby Lake,4,8,14,4.10,3.70,72,8,Intel Smart Cache,64,"DDR4-2400, DDR3L-1866",N/A,N/A
+Xeon E3-1245 v6,Launched,Q1'17,Kaby Lake,4,8,14,4.10,3.70,73,8,Intel Smart Cache,64,"DDR4-2400, DDR3L-1866",N/A,Intel HD P630 Graphics
+Xeon E3-1270 v6,Launched,Q1'17,Kaby Lake,4,8,14,4.20,3.80,72,8,Intel Smart Cache,64,"DDR4-2400, DDR3L-1866",N/A,N/A
+Xeon E3-1275 v6,Launched,Q1'17,Kaby Lake,4,8,14,4.20,3.80,73,8,Intel Smart Cache,64,"DDR4-2400, DDR3L-1866",N/A,Intel HD P630 Graphics
+Xeon E3-1280 v6,Launched,Q1'17,Kaby Lake,4,8,14,4.20,3.90,72,8,Intel Smart Cache,64,"DDR4-2400, DDR3L-1866",N/A,N/A
+Xeon E3-1505L v6,Launched,Q1'17,Kaby Lake,4,8,14,3.00,2.20,25,8,N/A,64,DDR4,2400,Intel HD P630 Graphics
+Xeon E3-1505M v6,Launched,Q1'17,Kaby Lake,4,8,14,4.00,3.00,45,8,N/A,64,"DDR4-2400, LPDDR3-2133, DDR3L-1600",N/A,Intel HD P630 Graphics
+Xeon E3-1535M v6,Launched,Q1'17,Kaby Lake,4,8,14,4.20,3.10,45,8,N/A,64,"DDR4-2400, LPDDR3-2133, DDR3L-1600",N/A,Intel HD P630 Graphics
+Xeon E3-1501L v6,Launched,Q3'16,Kaby Lake,4,4,14,2.90,2.10,25,6,N/A,64,DDR4,2400,Intel HD P630 Graphics
+Xeon E3-1501M v6,Launched,Q3'16,Kaby Lake,4,4,14,3.60,2.90,45,6,N/A,64,DDR4,2400,Intel HD P630 Graphics
+Xeon E3-1558L v5,Discontinued,Q2'16,Skylake,4,8,14,3.30,1.90,45,8,N/A,64,"DDR3L, DDR4 2133 MHz at 1.2V",N/A,Name Unknown
+Xeon E3-1565L v5,Discontinued,Q2'16,Skylake,4,8,14,3.50,2.50,35,8,N/A,64,"DDR3L, LPDDR3 1600 MHz, DDR4 2133 MHz at 1.2V",N/A,Intel Iris Pro P580 Graphics
+Xeon E3-1578L v5,Launched,Q2'16,Skylake,4,8,14,3.40,2.00,45,8,N/A,64,"DDR3L, DDR4 2133 MHz at 1.2V",N/A,Intel Iris Pro P580 Graphics
+Xeon E3-1585 v5,Discontinued,Q2'16,Skylake,4,8,14,3.90,3.50,65,8,N/A,64,"DDR3L, LPDDR3 1600 MHz, DDR4 2133 MHz at 1.2V",N/A,Intel Iris Pro P580 Graphics
+Xeon E3-1585L v5,Discontinued,Q2'16,Skylake,4,8,14,3.70,3.00,45,8,N/A,64,"DDR3L, LPDDR3 1600 MHz, DDR4 2133 MHz at 1.2V",N/A,Intel Iris Pro P580 Graphics
+Xeon E3-1515M v5,Launched,Q1'16,Skylake,4,8,14,3.70,2.80,45,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Pro P580 Graphics
+Xeon E3-1545M v5,Discontinued,Q1'16,Skylake,4,8,14,3.80,2.90,45,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Pro P580 Graphics
+Xeon E3-1575M v5,Discontinued,Q1'16,Skylake,4,8,14,3.90,3.00,45,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Pro P580 Graphics
+Xeon E3-1220 v5,Discontinued,Q4'15,Skylake,4,4,14,3.50,3.00,80,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,N/A
+Xeon E3-1225 v5,Launched,Q4'15,Skylake,4,4,14,3.70,3.30,80,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD P530 Graphics
+Xeon E3-1230 v5,Discontinued,Q4'15,Skylake,4,8,14,3.80,3.40,80,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,N/A
+Xeon E3-1235L v5,Discontinued,Q4'15,Skylake,4,4,14,3.00,2.00,25,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD P530 Graphics
+Xeon E3-1240 v5,Discontinued,Q4'15,Skylake,4,8,14,3.90,3.50,80,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,N/A
+Xeon E3-1240L v5,Discontinued,Q4'15,Skylake,4,8,14,3.20,2.10,25,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,N/A
+Xeon E3-1245 v5,Discontinued,Q4'15,Skylake,4,8,14,3.90,3.50,80,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD P530 Graphics
+Xeon E3-1260L v5,Discontinued,Q4'15,Skylake,4,8,14,3.90,2.90,45,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,N/A
+Xeon E3-1268L v5,Launched,Q4'15,Skylake,4,8,14,3.40,2.40,35,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD P530 Graphics
+Xeon E3-1270 v5,Discontinued,Q4'15,Skylake,4,8,14,4.00,3.60,80,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,N/A
+Xeon E3-1275 v5,Launched,Q4'15,Skylake,4,8,14,4.00,3.60,80,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD P530 Graphics
+Xeon E3-1280 v5,Discontinued,Q4'15,Skylake,4,8,14,4.00,3.70,80,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,N/A
+Xeon E3-1505L v5,Launched,Q4'15,Skylake,4,8,14,2.80,2.00,25,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD P530 Graphics
+Xeon E3-1505M v5,Launched,Q3'15,Skylake,4,8,14,3.70,2.80,45,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DRR3L-1600",N/A,Intel HD P530 Graphics
+Xeon E3-1535M v5,Discontinued,Q3'15,Skylake,4,8,14,3.80,2.90,45,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD P530 Graphics
+Xeon E3-1258L v4,Discontinued,Q2'15,Broadwell,4,8,14,3.20,1.80,47,6,Intel Smart Cache,32,DDR3L,1600,Name Unknown
+Xeon E3-1265L v4,Discontinued,Q2'15,Broadwell,4,8,14,3.30,2.30,35,6,N/A,32,"DDR3 and DDR3L 1333/1600/1866 at 1.5V",N/A,Name Unknown
+Xeon E3-1278L v4,Discontinued,Q2'15,Broadwell,4,8,14,3.30,2.00,47,6,Intel Smart Cache,32,DDR3L,1600,Name Unknown
+Xeon E3-1285 v4,Discontinued,Q2'15,Broadwell,4,8,14,3.80,3.50,95,6,N/A,32,"DDR3 and DDR3L 1333/1600/1866 at 1.5V",N/A,Name Unknown
+Xeon E3-1285L v4,Discontinued,Q2'15,Broadwell,4,8,14,3.80,3.40,65,6,N/A,32,"DDR3 and DDR3L 1333/1600/1866 at 1.5V",N/A,Name Unknown
+Xeon E3-1226 v3,Discontinued,Q2'14,Haswell,4,4,22,3.70,3.30,84,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Name Unknown
+Xeon E3-1231 v3,Discontinued,Q2'14,Haswell,4,8,22,3.80,3.40,80,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,N/A
+Xeon E3-1240L v3,Discontinued,Q2'14,Haswell,4,8,22,3.00,2.00,25,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,N/A
+Xeon E3-1241 v3,Discontinued,Q2'14,Haswell,4,8,22,3.90,3.50,80,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,N/A
+Xeon E3-1246 v3,Discontinued,Q2'14,Haswell,4,8,22,3.90,3.50,84,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Name Unknown
+Xeon E3-1271 v3,Discontinued,Q2'14,Haswell,4,8,22,4.00,3.60,80,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,N/A
+Xeon E3-1275L v3,Discontinued,Q2'14,Haswell,4,8,22,3.90,2.70,45,8,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics for 4th Gen Intel Processors
+Xeon E3-1276 v3,Discontinued,Q2'14,Haswell,4,8,22,4.00,3.60,84,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Name Unknown
+Xeon E3-1281 v3,Discontinued,Q2'14,Haswell,4,8,22,4.10,3.70,82,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,N/A
+Xeon E3-1286 v3,Discontinued,Q2'14,Haswell,4,8,22,4.10,3.70,84,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Name Unknown
+Xeon E3-1286L v3,Discontinued,Q2'14,Haswell,4,8,22,4.00,3.20,65,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Name Unknown
+Xeon E3-1220L v3,Discontinued,Q3'13,Haswell,2,4,22,1.50,1.10,13,4,Intel Smart Cache,32,"DDR3 1333/1600",N/A,N/A
+Xeon E3-1220 v3,Discontinued,Q2'13,Haswell,4,4,22,3.50,3.10,80,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,N/A
+Xeon E3-1225 v3,Discontinued,Q2'13,Haswell,4,4,22,3.60,3.20,84,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,N/A
+Xeon E3-1230 v3,Discontinued,Q2'13,Haswell,4,8,22,3.70,3.30,80,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,N/A
+Xeon E3-1230L v3,Discontinued,Q2'13,Haswell,4,8,22,2.80,1.80,25,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,N/A
+Xeon E3-1240 v3,Discontinued,Q2'13,Haswell,4,8,22,3.80,3.40,80,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,N/A
+Xeon E3-1245 v3,Discontinued,Q2'13,Haswell,4,8,22,3.80,3.40,84,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Name Unknown
+Xeon E3-1265L v3,Discontinued,Q2'13,Haswell,4,8,22,3.70,2.50,45,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Intel HD Graphics for 4th Gen Intel Processors
+Xeon E3-1268L v3,Discontinued,Q2'13,Haswell,4,8,22,3.30,2.30,45,8,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD 4600 Graphics
+Xeon E3-1270 v3,Discontinued,Q2'13,Haswell,4,8,22,3.90,3.50,80,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,N/A
+Xeon E3-1275 v3,Discontinued,Q2'13,Haswell,4,8,22,3.90,3.50,84,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Name Unknown
+Xeon E3-1280 v3,Discontinued,Q2'13,Haswell,4,8,22,4.00,3.60,82,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,N/A
+Xeon E3-1285 v3,Discontinued,Q2'13,Haswell,4,8,22,4.00,3.60,84,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Name Unknown
+Xeon E3-1285L v3,Discontinued,Q2'13,Haswell,4,8,22,3.90,3.10,65,8,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Name Unknown
+Xeon E3-1105C v2,Discontinued,Q3'13,Gladden,4,8,22,N/A,1.80,25,8,L3 Cache,32,"DDR3/DDR3L 1066/1333/1600",N/A,N/A
+Xeon E3-1125C v2,Discontinued,Q3'13,Gladden,4,8,22,N/A,2.50,40,8,L3 Cache,32,"DDR3/DDR3L 1066/1333/1600",N/A,N/A
+Xeon E3-1220 v2,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.50,3.10,69,8,Intel Smart Cache,32.77,"DDR3 1333/1600",N/A,N/A
+Xeon E3-1220L v2,Discontinued,Q2'12,Ivy Bridge,2,4,22,3.50,2.30,17,3,Intel Smart Cache,32.23,"DDR3 1333/1600",N/A,N/A
+Xeon E3-1225 v2,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.60,3.20,77,8,Intel Smart Cache,32.77,"DDR3 1333/1600",N/A,Name Unknown
+Xeon E3-1230 v2,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.70,3.30,69,8,Intel Smart Cache,32.77,"DDR3 1333/1600",N/A,N/A
+Xeon E3-1240 v2,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.80,3.40,69,8,Intel Smart Cache,32.77,"DDR3 1333/1600",N/A,N/A
+Xeon E3-1245 v2,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.80,3.40,77,8,Intel Smart Cache,32.77,"DDR3 1333/1600",N/A,Name Unknown
+Xeon E3-1265L v2,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.50,2.50,45,8,Intel Smart Cache,32.77,"DDR3 1333/1600",N/A,Intel HD 2500 Graphics
+Xeon E3-1270 v2,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.90,3.50,69,8,Intel Smart Cache,32.77,"DDR3 1333/1600",N/A,N/A
+Xeon E3-1275 v2,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.90,3.50,77,8,Intel Smart Cache,32.77,"DDR3 1333/1600",N/A,Name Unknown
+Xeon E3-1280 v2,Discontinued,Q2'12,Ivy Bridge,4,8,22,4.00,3.60,69,8,Intel Smart Cache,32.77,"DDR3 1333/1600",N/A,N/A
+Xeon E3-1290 v2,Discontinued,Q2'12,Ivy Bridge,4,8,22,4.10,3.70,87,8,Intel Smart Cache,32.77,"DDR3 1333/1600",N/A,N/A
+Xeon E3-1105C,Discontinued,Q2'12,Gladden,4,8,N/A,N/A,1.00,25,6,L3 Cache,32,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E3-1125C,Discontinued,Q2'12,Gladden,4,8,N/A,N/A,2.00,40,8,L3 Cache,32,"DDR3 1066/1333/1600",N/A,N/A
+Xeon E3-1290,Discontinued,Q3'11,Sandy Bridge,4,8,32,4.00,3.60,95,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,N/A
+Xeon E3-1220,Discontinued,Q2'11,Sandy Bridge,4,4,32,3.40,3.10,80,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,N/A
+Xeon E3-1220L,Discontinued,Q2'11,Sandy Bridge,2,4,32,3.40,2.20,20,3,Intel Smart Cache,32,"DDR3 1066/1333",N/A,N/A
+Xeon E3-1225,Discontinued,Q2'11,Sandy Bridge,4,4,32,3.40,3.10,95,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Name Unknown
+Xeon E3-1230,Discontinued,Q2'11,Sandy Bridge,4,8,32,3.60,3.20,80,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,N/A
+Xeon E3-1235,Discontinued,Q2'11,Sandy Bridge,4,8,32,3.60,3.20,95,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Name Unknown
+Xeon E3-1240,Discontinued,Q2'11,Sandy Bridge,4,8,32,3.70,3.30,80,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,N/A
+Xeon E3-1245,Discontinued,Q2'11,Sandy Bridge,4,8,32,3.70,3.30,95,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Name Unknown
+Xeon E3-1260L,Discontinued,Q2'11,Sandy Bridge,4,8,32,3.30,2.40,45,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD 2000 Graphics
+Xeon E3-1270,Discontinued,Q2'11,Sandy Bridge,4,8,32,3.80,3.40,80,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,N/A
+Xeon E3-1275,Discontinued,Q2'11,Sandy Bridge,4,8,32,3.80,3.40,95,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Name Unknown
+Xeon E3-1280,Discontinued,Q2'11,Sandy Bridge,4,8,32,3.90,3.50,95,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,N/A
+Xeon E5603,Discontinued,Q1'11,Westmere EP,4,4,32,N/A,1.60,80,4,Intel Smart Cache,288,"DDR3 800/1066",N/A,N/A
+Xeon E5606,Discontinued,Q1'11,Westmere EP,4,4,32,N/A,2.13,80,8,Intel Smart Cache,288,"DDR3 800/1066",N/A,N/A
+Xeon E5607,Discontinued,Q1'11,Westmere EP,4,4,32,N/A,2.26,80,8,Intel Smart Cache,288,"DDR3 800/1066",N/A,N/A
+Xeon E5649,Discontinued,Q1'11,Westmere EP,6,12,32,2.93,2.53,80,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon W3690,Discontinued,Q1'11,Gulftown,6,12,32,3.73,3.46,130,12,Intel Smart Cache,24,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5647,Discontinued,Q1'11,Westmere EP,4,8,32,3.20,2.93,130,12,Intel Smart Cache,288,"DDR3 800/1066",N/A,N/A
+Xeon X5672,Discontinued,Q1'11,Westmere EP,4,8,32,3.60,3.20,95,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5675,Discontinued,Q1'11,Westmere EP,6,12,32,3.46,3.06,95,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5687,Discontinued,Q1'11,Westmere EP,4,8,32,3.86,3.60,130,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5690,Discontinued,Q1'11,Westmere EP,6,12,32,3.73,3.46,130,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon W3670,Discontinued,Q3'10,Westmere EP,6,12,32,3.46,3.20,130,12,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Xeon X3480,Discontinued,Q2'10,Lynnfield,4,8,45,3.73,3.06,95,8,Intel Smart Cache,32,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5620,Discontinued,Q1'10,Westmere EP,4,8,32,2.66,2.40,80,12,Intel Smart Cache,288,"DDR3 800/1066",N/A,N/A
+Xeon E5630,Discontinued,Q1'10,Westmere EP,4,8,32,2.80,2.53,80,12,Intel Smart Cache,288,"DDR3 800/1066"N/A,N/A
+Xeon E5640,Discontinued,Q1'10,Westmere EP,4,8,32,2.93,2.66,80,12,Intel Smart Cache,288,"DDR3 800/1066",N/A,N/A
+Xeon E5645,Discontinued,Q1'10,Westmere EP,6,12,32,2.67,2.40,80,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon L3406,Discontinued,Q1'10,Clarkdale,2,4,32,2.53,2.26,30,4,Intel Smart Cache,16.38,DDR3,1066,N/A
+Xeon L5609,Discontinued,Q1'10,Westmere EP,4,4,32,1.86,1.86,40,12,Intel Smart Cache,288,"DDR3 800/1066",N/A,N/A
+Xeon L5618,Discontinued,Q1'10,Westmere EP,4,8,32,2.26,1.87,40,12,N/A,N/A,N/A,N/A,N/A
+Xeon L5630,Discontinued,Q1'10,Westmere EP,4,8,32,2.40,2.13,40,12,Intel Smart Cache,288,"DDR3 800/1066",N/A,N/A
+Xeon L5638,Discontinued,Q1'10,Westmere EP,6,12,32,2.40,2.00,60,12,N/A,N/A,N/A,N/A,N/A
+Xeon L5640,Discontinued,Q1'10,Westmere EP,6,12,32,2.80,2.26,60,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon W3680,Discontinued,Q1'10,Westmere EP,6,12,32,3.60,3.33,130,12,Intel Smart Cache,24,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5650,Discontinued,Q1'10,Westmere EP,6,12,32,3.06,2.66,95,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5660,Discontinued,Q1'10,Westmere EP,6,12,32,3.20,2.80,95,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5667,Discontinued,Q1'10,Westmere EP,4,8,32,3.46,3.06,95,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5670,Discontinued,Q1'10,Westmere EP,6,12,32,3.33,2.93,95,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5677,Discontinued,Q1'10,Westmere EP,4,8,32,3.73,3.46,130,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5680,Discontinued,Q1'10,Westmere EP,6,12,32,3.60,3.33,130,12,Intel Smart Cache,288,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5503,Discontinued,Q1'10,Nehalem EP,2,2,45,N/A,2.00,80,4,Intel Smart Cache,144,DDR3,800,N/A
+Xeon E5507,Discontinued,Q1'10,Nehalem EP,4,4,45,N/A,2.26,80,4,Intel Smart Cache,144,DDR3,800,N/A
+Xeon E6510,Discontinued,Q1'10,Nehalem EX,4,8,N/A,1.73,1.73,105,12,L3 Cache,N/A,N/A,N/A,N/A
+Xeon E6540,Discontinued,Q1'10,Nehalem EX,6,12,45,2.27,2.00,105,18,L3 Cache,N/A,N/A,N/A,N/A
+Xeon E7520,Discontinued,Q1'10,Nehalem EX,4,8,45,1.87,1.87,95,18,L3 Cache,N/A,N/A,N/A,N/A
+Xeon E7530,Discontinued,Q1'10,Nehalem EX,6,12,45,2.13,1.87,105,12,L3 Cache,N/A,N/A,N/A,N/A
+Xeon E7540,Discontinued,Q1'10,Nehalem EX,6,12,45,2.27,2.00,105,18,L3 Cache,N/A,N/A,N/A,N/A
+Xeon EC3539,Discontinued,Q1'10,Jasper Forest,4,4,45,N/A,2.13,65,8,L3 Cache,N/A,N/A,N/A,N/A
+Xeon EC5509,Discontinued,Q1'10,Jasper Forest,4,4,45,N/A,2.00,85,8,L3 Cache,N/A,N/A,N/A,N/A
+Xeon EC5539,Discontinued,Q1'10,Jasper Forest,2,2,45,N/A,2.27,65,4,L3 Cache,N/A,N/A,N/A,N/A
+Xeon EC5549,Discontinued,Q1'10,Jasper Forest,4,8,45,2.93,2.53,85,8,L3 Cache,N/A,"DDR3 800/1066/1333",N/A,N/A
+Xeon L7545,Discontinued,Q1'10,Nehalem EX,6,12,45,2.53,1.87,95,18,L3 Cache,N/A,N/A,N/A,N/A
+Xeon L7555,Discontinued,Q1'10,Nehalem EX,8,16,45,2.53,1.87,95,24,L3 Cache,N/A,N/A,N/A,N/A
+Xeon LC3518,Discontinued,Q1'10,Jasper Forest,1,1,45,N/A,1.73,23,2,L3 Cache,N/A,N/A,N/A,N/A
+Xeon LC3528,Discontinued,Q1'10,Jasper Forest,2,4,45,1.87,1.73,35,4,L3 Cache,N/A,N/A,N/A,N/A
+Xeon LC5518,Discontinued,Q1'10,Jasper Forest,4,8,45,2.13,1.87,48,8,L3 Cache,N/A,N/A,N/A,N/A
+Xeon LC5528,Discontinued,Q1'10,Jasper Forest,4,8,45,2.53,2.13,60,8,L3 Cache,N/A,N/A,N/A,N/A
+Xeon W3530,Discontinued,Q1'10,Bloomfield,4,8,45,3.06,2.80,130,8,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Xeon X6550,Discontinued,Q1'10,Nehalem EX,8,16,45,2.40,2.00,130,18,L3 Cache,N/A,N/A,N/A,N/A
+Xeon X7542,Discontinued,Q1'10,Nehalem EX,6,N/A,45,2.80,2.67,130,18,L3 Cache,N/A,N/A,N/A,N/A
+Xeon X7550,Discontinued,Q1'10,Nehalem EX,8,16,45,2.40,2.00,130,18,L3 Cache,N/A,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon X7560,Discontinued,Q1'10,Nehalem EX,8,16,45,2.67,2.27,130,24,L3 Cache,N/A,"DDR3 800/978/1066/1333 (Max Speed 1066 MHz)",N/A,N/A
+Xeon W3565,Discontinued,Q4'09,Bloomfield,4,8,45,3.46,3.20,130,8,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Xeon L3426,Discontinued,Q3'09,Lynnfield,4,8,45,3.20,1.86,45,8,Intel Smart Cache,32,"DDR3 800/1066/1333",N/A,N/A
+Xeon X3430,Discontinued,Q3'09,Lynnfield,4,4,45,2.80,2.40,95,8,Intel Smart Cache,32,"DDR3 800/1066/1333",N/A,N/A
+Xeon X3440,Discontinued,Q3'09,Lynnfield,4,8,45,2.93,2.53,95,8,Intel Smart Cache,32,"DDR3 800/1066/1333",N/A,N/A
+Xeon X3450,Discontinued,Q3'09,Lynnfield,4,8,45,3.20,2.66,95,8,Intel Smart Cache,32,"DDR3 800/1066/1333",N/A,N/A
+Xeon X3460,Discontinued,Q3'09,Lynnfield,4,8,45,3.46,2.80,95,8,Intel Smart Cache,32,"DDR3 800/1066/1333",N/A,N/A
+Xeon X3470,Discontinued,Q3'09,Lynnfield,4,8,45,3.60,2.93,95,8,Intel Smart Cache,32,"DDR3 800/1066/1333",N/A,N/A
+Xeon L5530,Discontinued,Q3'09,Nehalem EP,4,8,45,2.66,2.40,60,8,Intel Smart Cache,144,"DDR3 800/1066",N/A,N/A
+Xeon W3550,Discontinued,Q3'09,Bloomfield,4,8,45,3.33,3.06,130,8,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Xeon W3580,Discontinued,Q3'09,Bloomfield,4,8,45,3.60,3.33,130,8,Intel Smart Cache,24,"DDR3 800/1066/1333",N/A,N/A
+Xeon W5590,Discontinued,Q3'09,Nehalem EP,4,8,45,3.60,3.33,130,8,Intel Smart Cache,144,"DDR3 800/1066/1333",N/A,N/A
+Xeon E5502,Discontinued,Q1'09,Nehalem EP,2,2,45,N/A,1.86,80,4,Intel Smart Cache,144,DDR3,800,N/A
+Xeon E5504,Discontinued,Q1'09,Nehalem EP,4,4,45,N/A,2.00,80,4,Intel Smart Cache,144,DDR3,800,N/A
+Xeon E5506,Discontinued,Q1'09,Nehalem EP,4,4,45,N/A,2.13,80,4,Intel Smart Cache,144,DDR3,800,N/A
+Xeon E5520,Discontinued,Q1'09,Nehalem EP,4,8,45,2.53,2.26,80,8,Intel Smart Cache,144,"DDR3 800/1066",N/A,N/A
+Xeon E5530,Discontinued,Q1'09,Nehalem EP,4,8,45,2.66,2.40,80,8,Intel Smart Cache,144,"DDR3 800/1066",N/A,N/A
+Xeon E5540,Discontinued,Q1'09,Nehalem EP,4,8,45,2.80,2.53,80,8,Intel Smart Cache,144,"DDR3 800/1066",N/A,N/A
+Xeon L5506,Discontinued,Q1'09,Nehalem EP,4,4,45,N/A,2.13,60,4,Intel Smart Cache,144,DDR3,800,N/A
+Xeon L5508,Discontinued,Q1'09,Nehalem EP,2,4,45,2.40,2.00,38,8,Intel Smart Cache,144,"DDR3 800/1066",N/A,N/A
+Xeon L5518,Discontinued,Q1'09,Nehalem EP,4,8,45,2.40,2.13,60,8,Intel Smart Cache,144,"DDR3 800/1066",N/A,N/A
+Xeon L5520,Discontinued,Q1'09,Nehalem EP,4,8,45,2.48,2.26,60,8,Intel Smart Cache,114,"DDR3 800/1066",N/A,N/A
+Xeon W3520,Discontinued,Q1'09,Bloomfield,4,8,45,2.93,2.66,130,8,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Xeon W3540,Discontinued,Q1'09,Bloomfield,4,8,45,3.20,2.93,130,8,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Xeon W3570,Discontinued,Q1'09,Bloomfield,4,8,45,3.46,3.20,130,8,Intel Smart Cache,24,"DDR3 800/1066/1333",N/A,N/A
+Xeon W5580,Discontinued,Q1'09,Nehalem EP,4,8,45,3.46,3.20,130,8,Intel Smart Cache,144,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5550,Discontinued,Q1'09,Nehalem EP,4,8,45,3.06,2.66,95,8,Intel Smart Cache,144,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5560,Discontinued,Q1'09,Nehalem EP,4,8,45,3.20,2.80,95,8,Intel Smart Cache,144,"DDR3 800/1066/1333",N/A,N/A
+Xeon X5570,Discontinued,Q1'09,Nehalem EP,4,8,45,3.33,2.93,95,8,Intel Smart Cache,144,"DDR3 800/1066/1333",N/A,N/A
+Xeon X3380,Discontinued,Q1'09,Yorkfield,4,N/A,45,N/A,3.16,95,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L3110,Discontinued,Q1'09,Wolfdale,2,N/A,45,N/A,3.00,45,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L3360,Discontinued,Q1'09,Yorkfield,4,N/A,45,N/A,2.83,65,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X5270,Discontinued,Q3'08,Yorkfield,2,N/A,45,N/A,3.50,80,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L3014,Discontinued,Q1'08,Wolfdale,1,N/A,45,N/A,2.40,30,3,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L5215,Discontinued,Q3'08,Wolfdale,2,N/A,45,N/A,1.86,20,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E7420,Discontinued,Q3'08,Dunnington,4,N/A,45,N/A,2.13,90,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E7430,Discontinued,Q3'08,Dunnington,4,N/A,45,N/A,2.13,90,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E7440,Discontinued,Q3'08,Dunnington,4,N/A,45,N/A,2.40,90,16,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E7450,Discontinued,Q3'08,Dunnington,6,N/A,45,N/A,2.40,90,12,L3 Cache,N/A,N/A,N/A,N/A
+Xeon L7445,Discontinued,Q3'08,Dunnington,4,N/A,45,N/A,2.13,50,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L7455,Discontinued,Q3'08,Dunnington,6,N/A,45,N/A,2.13,65,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X7460,Discontinued,Q3'08,Dunnington,6,N/A,45,N/A,2.66,130,16,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L5430,Discontinued,Q3'08,Harpertown,4,N/A,45,N/A,2.66,50,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X5470,Discontinued,Q3'08,Harpertown,4,N/A,45,N/A,3.33,120,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X5492,Discontinued,Q3'08,Harpertown,4,N/A,45,N/A,3.40,150,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E3120,Discontinued,Q3'08,Wolfdale,2,N/A,45,N/A,3.16,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X3330,Discontinued,Q3'08,Yorkfield,4,N/A,45,N/A,2.66,95,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X3370,Discontinued,Q3'08,Yorkfield,4,N/A,45,N/A,3.00,95,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L5240,Discontinued,Q2'08,Wolfdale,2,N/A,45,N/A,3.00,40,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5220,Discontinued,Q1'08,Wolfdale,2,N/A,45,N/A,2.33,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5240,Discontinued,Q1'08,Wolfdale,2,N/A,45,N/A,3.00,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L5318,Discontinued,Q1'07,Clovertown,4,N/A,65,N/A,1.60,40,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L5408,Discontinued,Q1'08,Harpertown,4,N/A,45,N/A,2.13,40,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L5410,Discontinued,Q1'08,Harpertown,4,N/A,45,N/A,2.33,50,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L5420,Discontinued,Q1'08,Harpertown,4,N/A,45,N/A,2.50,50,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X3320,Discontinued,Q1'08,Yorkfield,4,N/A,45,N/A,2.50,95,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X3350,Discontinued,Q1'08,Yorkfield,4,N/A,45,N/A,2.66,95,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X3360,Discontinued,Q1'08,Yorkfield,4,N/A,45,N/A,2.83,95,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E3110,Discontinued,Q1'08,Wolfdale,2,N/A,45,N/A,3.00,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L5238,Discontinued,Q1'08,Wolfdale,2,N/A,45,N/A,2.66,35,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon 3065,Discontinued,Q4'07,Conroe,2,N/A,65,N/A,2.33,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5205,Discontinued,Q4'07,Wolfdale,2,N/A,45,N/A,1.86,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5405,Discontinued,Q4'07,Harpertown,4,N/A,45,N/A,2.00,80,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5410,Discontinued,Q4'07,Harpertown,4,N/A,45,N/A,2.33,80,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5420,Discontinued,Q4'07,Harpertown,4,N/A,45,N/A,2.50,80,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5430,Discontinued,Q4'07,Harpertown,4,N/A,45,N/A,2.66,80,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5440,Discontinued,Q1'08,Harpertown,4,N/A,45,N/A,2.83,80,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5450,Discontinued,Q4'07,Harpertown,4,N/A,45,N/A,3.00,80,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5462,Discontinued,Q4'07,Harpertown,4,N/A,45,N/A,2.80,80,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5472,Discontinued,Q4'07,Harpertown,4,N/A,45,N/A,3.00,80,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X5260,Discontinued,Q4'07,Wolfdale,2,N/A,45,N/A,3.33,80,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X5272,Discontinued,Q4'07,Wolfdale,2,N/A,45,N/A,3.40,80,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X5450,Discontinued,Q4'07,Harpertown,4,N/A,45,N/A,3.00,120,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X5460,Discontinued,Q4'07,Harpertown,4,N/A,45,N/A,3.16,120,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X5472,Discontinued,Q4'07,Harpertown,4,N/A,45,N/A,3.00,120,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X5482,Discontinued,Q4'07,Harpertown,4,N/A,45,N/A,3.20,150,12,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L5335,Discontinued,Q3'07,Clovertown,4,N/A,65,N/A,2.00,50,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X5365,Discontinued,Q3'07,Clovertown,4,N/A,65,N/A,3.00,150,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X3230,Discontinued,Q3'07,Kentsfield,4,N/A,65,N/A,2.66,95,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E7210,Discontinued,Q3'07,Tigerton,2,N/A,65,N/A,2.40,80,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E7220,Discontinued,Q3'07,Tigerton,2,N/A,65,N/A,2.93,80,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E7310,Discontinued,Q3'07,Tigerton,4,N/A,65,N/A,1.60,80,4,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E7320,Discontinued,Q3'07,Tigerton,4,N/A,65,N/A,2.13,80,4,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E7330,Discontinued,Q3'07,Tigerton,4,N/A,65,N/A,2.40,80,6,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E7340,Discontinued,Q3'07,Tigerton,4,N/A,65,N/A,2.40,80,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L7345,Discontinued,Q3'07,Tigerton,4,N/A,65,N/A,1.86,50,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X7350,Discontinued,Q3'07,Tigerton,4,N/A,65,N/A,2.93,130,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L5310,Discontinued,Q1'07,Clovertown,4,N/A,65,N/A,1.60,50,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon L5320,Discontinued,Q1'07,Clovertown,4,N/A,65,N/A,1.86,50,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X3210,Discontinued,Q1'07,Kentsfield,4,N/A,65,N/A,2.13,105,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X3220,Discontinued,Q1'07,Kentsfield,4,N/A,65,N/A,2.40,105,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5310,Discontinued,Q4'06,Clovertown,4,N/A,65,N/A,1.60,80,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5320,Discontinued,Q4'06,Clovertown,4,N/A,65,N/A,1.86,80,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5335,Discontinued,Q1'07,Clovertown,4,N/A,65,N/A,2.00,80,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon E5345,Discontinued,Q1'07,Clovertown,4,N/A,65,N/A,2.33,80,8,L2 Cache,N/A,N/A,N/A,N/A
+Xeon LV 5128,Discontinued,Q2'06,Woodcrest,2,N/A,65,N/A,1.86,40,4,L2 Cache,N/A,N/A,N/A,N/A
+Xeon LV 5138,Discontinued,Q2'06,Woodcrest,2,N/A,65,N/A,2.13,35,4,L2 Cache,N/A,N/A,N/A,N/A
+Xeon X5355,Discontinued,Q4'06,Clovertown,4,N/A,65,N/A,2.66,120,8,L2 Cache,N/A,N/A,N/A,N/A
+"Xeon LV 1.66 GHz, 2M Cache, 667 MHz FSB",Discontinued,Q1'06,Sossaman,2,N/A,65,N/A,1.66,31,2,L2 Cache,N/A,N/A,N/A,N/A
+"Xeon LV 2.16 GHz, 2M Cache, 667 MHz FSB",Discontinued,Q3'06,Sossaman,2,N/A,65,N/A,2.16,31,2,L2 Cache,N/A,N/A,N/A,N/A
+"Xeon ULV 1.66 GHz, 2M Cache, 667 MHz FSB",Discontinued,Q1'06,Sossaman,2,N/A,65,N/A,1.66,15,2,L2 Cache,N/A,N/A,N/A,N/A
+Xeon 5130,Discontinued,Q2'06,Woodcrest,2,N/A,65,N/A,2.00,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Xeon 5140,Discontinued,Q2'06,Woodcrest,2,N/A,65,N/A,2.33,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Xeon LV 5148,Discontinued,Q2'06,Woodcrest,2,N/A,65,N/A,2.33,40,4,L2 Cache,N/A,N/A,N/A,N/A
+"Xeon LV 2.00 GHz, 2M Cache, 667 MHz FSB",Discontinued,Q1'06,Sossaman,2,N/A,65,N/A,2.00,31,2,L2 Cache,N/A,N/A,N/A,N/A
+"64-bit Xeon 3.20 GHz, 1M Cache, 800 MHz FSB",Discontinued,Q2'04,Nocona,1,N/A,90,N/A,3.20,103,1,L2 Cache,N/A,N/A,N/A,N/A
+"64-bit Xeon LV 2.80 GHz, 1M Cache, 800 MHz FSB",Discontinued,Q2'04,Nocona,1,N/A,90,N/A,2.80,55,1,L2 Cache,N/A,N/A,N/A,N/A
+"Xeon 2.80 GHz, 512K Cache, 533 MHz FSB",Discontinued,Q4'03,Prestonia,1,N/A,130,N/A,2.80,74,0.5,L2 Cache,N/A,N/A,N/A,N/A
+"Xeon LV 2.40 GHz, 512K Cache, 400 MHz FSB",Discontinued,Q3'03,Prestonia,1,N/A,130,N/A,2.40,40,0.5,L2 Cache,N/A,N/A,N/A,N/A
+"Xeon 2.40 GHz, 512K Cache, 533 MHz FSB",Discontinued,Q4'02,Prestonia,1,N/A,130,N/A,2.40,65,0.5,L2 Cache,N/A,N/A,N/A,N/A
+"Xeon LV 1.60 GHz, 512K Cache, 400 MHz FSB",Discontinued,Q3'02,Prestonia,1,N/A,130,N/A,1.60,30,0.5,L2 Cache,N/A,N/A,N/A,N/A
+"Xeon 2.00 GHz, 512K Cache, 533 MHz FSB",Discontinued,Q1'02,Prestonia,1,N/A,130,N/A,2.00,58,0.5,L2 Cache,N/A,N/A,N/A,N/A
