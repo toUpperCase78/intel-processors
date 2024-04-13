@@ -258,7 +258,7 @@ Core i5-1155G7,Discontinued,Q2'21,Tiger Lake,4,8,10,4.50,N/A,28,8,Intel Smart Ca
 Core i5-1155G7 (with IPU),Discontinued,Q2'21,Tiger Lake,4,8,10,4.50,N/A,28,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
 Core i5-11320H,Discontinued,Q2'21,Tiger Lake,4,8,10,4.50,N/A,35,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
 Core i5-11500HE,Launched,Q3'21,Tiger Lake,6,12,10,4.50,N/A,45,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics for 11th Gen Intel Processors
-Core i3-1110G4 (with IPU),Discontinued,Q3'20,Tiger Lake,2,4,10,3.90,N/A,15,6,Intel Smart Cache,32,LPDDR4x-4267,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-1110G4 (with IPU),Discontinued,Q3'20,Tiger Lake,2,4,10,3.90,N/A,15,6,Intel Smart Cache,32,LPDDR4x-4267,N/A,Intel UHD Graphics for 11th Gen Intel Processors
 Core i3-1115G4 (with IPU),Discontinued,Q3'20,Tiger Lake,2,4,10,4.10,N/A,28,6,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-3733",N/A,Intel UHD Graphics for 11th Gen Intel Processors
 Core i3-1115G4,Discontinued,Q3'20,Tiger Lake,2,4,10,4.10,N/A,28,6,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-3733",N/A,Intel UHD Graphics for 11th Gen Intel Processors
 Core i3-1115G4E,Launched,Q3'20,Tiger Lake,2,4,10,3.90,2.20,28,6,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-3733",N/A,Intel UHD Graphics for 11th Gen Intel Processors
