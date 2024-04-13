@@ -574,7 +574,7 @@ Core i5-6402P,Discontinued,Q4'15,Skylake,4,4,14,3.40,2.80,65,6,N/A,64,"DDR4-1866
 Core i5-6350HQ,Discontinued,Q1'16,Skylake,4,4,14,3.20,2.30,45,6,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Pro Graphics 580
 Core i5-6585R,Discontinued,Q2'16,Skylake,4,4,14,3.60,2.80,65,6,N/A,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel Iris Pro Graphics 580
 Core i5-6685R,Discontinued,Q2'16,Skylake,4,4,14,3.80,3.20,65,6,N/A,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel Iris Pro Graphics 580
-Core i3-6100,Launched,Q3'15,Skylake,2,4,14,N/A,3.70,51,3,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V,N/A,Intel HD Graphics 530
+Core i3-6100,Launched,Q3'15,Skylake,2,4,14,N/A,3.70,51,3,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
 Core i3-6100H,Discontinued,Q3'15,Skylake,2,4,14,N/A,2.70,35,3,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
 Core i3-6100T,Discontinued,Q3'15,Skylake,2,4,14,N/A,3.20,35,3,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
 Core i3-6100U,Launched,Q3'15,Skylake,2,4,14,N/A,2.30,15,3,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 520
