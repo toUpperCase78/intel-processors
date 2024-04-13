@@ -1,0 +1,1115 @@
+Product,Status,Release Date,Code Name,Cores,Threads,Lithography(nm),Max. Turbo Freq.(GHz),Base Freq.(GHz),TDP(W),Cache(MB),Cache Info,Max Memory Size(GB),Memory Types,Max Memory Speed(MHz),Integrated Graphics
+Core 3 100U,Launched,Q1'24,Raptor Lake,6,8,7,4.70,1.20,55,10,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Graphics
+Core 3 100U (with IPU),Launched,Q1'24,Raptor Lake,6,8,7,4.70,1.20,55,10,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Graphics
+Core 5 120U,Launched,Q1'24,Raptor Lake,10,12,7,5.00,1.40,55,12,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Graphics
+Core 7 150U,Launched,Q1'24,Raptor Lake,10,12,7,5.40,1.80,55,12,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Graphics
+Core i9-14900KS,Launched,Q1'24,Raptor Lake,24,32,7,6.20,3.20,253,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-14900,Launched,Q1'24,Raptor Lake,24,32,7,5.80,2.00,219,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-14900F,Launched,Q1'24,Raptor Lake,24,32,7,5.80,2.00,219,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i9-14900HX,Launched,Q1'24,Raptor Lake,24,32,7,5.80,2.20,157,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 14th Gen Intel Processors
+Core i9-14900T,Launched,Q1'24,Raptor Lake,24,32,7,5.50,1.10,106,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-14900K,Launched,Q4'23,Raptor Lake,24,32,7,6.00,2.40,253,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-14900KF,Launched,Q4'23,Raptor Lake,24,32,7,6.00,2.40,253,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i7-14650HX,Launched,Q1'24,Raptor Lake,16,24,7,5.20,2.20,157,30,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 14th Gen Intel Processors
+Core i7-14700,Launched,Q1'24,Raptor Lake,20,28,7,5.40,2.10,219,33,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-14700F,Launched,Q1'24,Raptor Lake,20,28,7,5.40,2.10,219,33,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i7-14700HX,Launched,Q1'24,Raptor Lake,20,28,7,5.50,2.10,157,33,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i7-14700T,Launched,Q1'24,Raptor Lake,20,28,7,5.20,1.30,106,33,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-14700K,Launched,Q4'23,Raptor Lake,20,28,7,5.60,3.40,253,33,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-14700KF,Launched,Q4'23,Raptor Lake,20,28,7,5.60,3.40,253,33,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i5-14400,Launched,Q1'24,Raptor Lake,10,16,7,4.70,1.80,148,20,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i5-14400F,Launched,Q1'24,Raptor Lake,10,16,7,4.70,1.80,148,20,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i5-14400T,Launched,Q1'24,Raptor Lake,10,16,7,4.50,1.50,82,20,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i5-14450HX,Launched,Q1'24,Raptor Lake,10,16,7,4.80,2.40,157,20,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 14th Gen Intel Processors
+Core i5-14500,Launched,Q1'24,Raptor Lake,14,20,7,5.00,2.60,154,24,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-14500HX,Launched,Q1'24,Raptor Lake,14,20,7,4.90,2.60,157,24,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 14th Gen Intel Processors
+Core i5-14500T,Launched,Q1'24,Raptor Lake,14,20,7,4.80,1.70,92,24,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-14600,Launched,Q1'24,Raptor Lake,14,20,7,5.20,2.40,154,24,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-14600T,Launched,Q1'24,Raptor Lake,14,20,7,5.10,1.80,92,24,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-14600K,Launched,Q4'23,Raptor Lake,14,20,7,5.30,3.50,181,24,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-14600KF,Launched,Q4'23,Raptor Lake,14,20,7,5.30,3.50,181,24,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i3-14100,Launched,Q1'24,Raptor Lake,4,8,7,4.70,3.50,110,12,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i3-14100F,Launched,Q1'24,Raptor Lake,4,8,7,4.70,3.50,110,12,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i3-14100T,Launched,Q1'24,Raptor Lake,4,8,7,4.40,2.40,69,12,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i9-13900KS,Launched,Q1'23,Raptor Lake,24,32,7,6.00,3.20,253,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-13900,Launched,Q1'23,Raptor Lake,24,32,7,5.60,2.00,219,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-13900E,Launched,Q1'23,Raptor Lake,24,32,7,5.20,1.80,65,36,Intel Smart Cache,128,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-13900F,Launched,Q1'23,Raptor Lake,24,32,7,5.60,2.00,219,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i9-13900H,Launched,Q1'23,Raptor Lake,14,20,7,5.40,N/A,115,24,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i9-13900HK,Launched,Q1'23,Raptor Lake,14,20,7,5.40,N/A,115,24,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i9-13900HX,Launched,Q1'23,Raptor Lake,24,32,7,5.40,N/A,157,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i9-13900T,Launched,Q1'23,Raptor Lake,24,32,7,5.30,1.10,106,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-13900TE,Launched,Q1'23,Raptor Lake,24,32,7,5.00,1.00,35,36,Intel Smart Cache,128,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-13905H,Launched,Q1'23,Raptor Lake,14,20,7,5.40,N/A,115,24,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i9-13950HX,Launched,Q1'23,Raptor Lake,24,32,7,5.50,N/A,157,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i9-13980HX,Launched,Q1'23,Raptor Lake,24,32,7,5.60,N/A,157,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i9-13900K,Launched,Q4'22,Raptor Lake,24,32,7,5.80,3.00,253,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-13900KF,Launched,Q4'22,Raptor Lake,24,32,7,5.80,3.00,253,36,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i7-1355U,Launched,Q1'23,Raptor Lake,10,12,7,5.00,N/A,55,12,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1360P,Launched,Q1'23,Raptor Lake,12,16,7,5.00,N/A,64,18,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-13620H,Launched,Q1'23,Raptor Lake,10,16,7,4.90,N/A,115,24,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i7-13650HX,Launched,Q1'23,Raptor Lake,14,20,7,4.90,N/A,157,24,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i7-1365U,Launched,Q1'23,Raptor Lake,10,12,7,5.20,N/A,55,12,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1365UE,Launched,Q1'23,Raptor Lake,10,12,7,4.90,1.70,55,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-13700,Launched,Q1'23,Raptor Lake,16,24,7,5.20,2.10,219,30,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-13700E,Launched,Q1'23,Raptor Lake,16,24,7,5.10,1.90,65,30,Intel Smart Cache,128,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-13700F,Launched,Q1'23,Raptor Lake,16,24,7,5.20,2.10,219,30,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i7-13700H,Launched,Q1'23,Raptor Lake,14,20,7,5.00,N/A,115,24,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-13700HX,Launched,Q1'23,Raptor Lake,16,24,7,5.00,N/A,157,30,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i7-13700T,Launched,Q1'23,Raptor Lake,16,24,7,4.90,1.40,106,30,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-13700TE,Launched,Q1'23,Raptor Lake,16,24,7,4.80,1.10,35,30,Intel Smart Cache,128,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-13705H,Launched,Q1'23,Raptor Lake,14,20,7,5.00,N/A,115,24,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1370P,Launched,Q1'23,Raptor Lake,14,20,7,5.20,N/A,64,24,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1370PE,Launched,Q1'23,Raptor Lake,14,20,7,4.80,1.90,64,24,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1375PRE,Launched,Q1'23,Raptor Lake,14,20,7,4.80,N/A,64,24,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-13800H,Launched,Q1'23,Raptor Lake,14,20,7,5.20,N/A,115,24,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-13800HE,Launched,Q1'23,Raptor Lake,14,20,7,5.00,2.50,115,24,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-13850HX,Launched,Q1'23,Raptor Lake,20,28,7,5.30,N/A,157,30,Intel Smart Cache,192,"Up to DDr5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i7-13800HRE,Launched,Q1'23,Raptor Lake,14,20,7,5.00,2.50,115,24,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-13700K,Launched,Q4'22,Raptor Lake,16,24,7,5.40,3.40,253,30,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-13700KF,Launched,Q4'22,Raptor Lake,16,24,7,5.40,3.40,253,30,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i7-1365URE,Launched,Q1'23,Raptor Lake,10,12,7,4.90,1.70,55,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1366URE,Launched,Q1'23,Raptor Lake,10,12,7,4.90,1.70,55,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1370PRE,Launched,Q1'23,Raptor Lake,14,20,7,4.80,1.90,64,24,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1334U,Launched,Q1'23,Raptor Lake,10,12,7,4.60,N/A,55,12,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1335U,Launched,Q1'23,Raptor Lake,10,12,7,4.60,N/A,55,12,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1335UE,Launched,Q1'23,Raptor Lake,10,12,7,4.50,1.30,55,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-13400,Launched,Q1'23,Raptor Lake,10,16,7,4.60,2.50,148,20,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i5-13400E,Launched,Q1'23,Raptor Lake,10,16,7,4.60,2.40,65,20,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i5-13400F,Launched,Q1'23,Raptor Lake,10,16,7,4.60,2.50,148,20,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i5-13400T,Launched,Q1'23,Raptor Lake,10,16,7,4.40,1.30,82,20,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i5-1340P,Launched,Q1'23,Raptor Lake,12,16,7,4.60,N/A,64,12,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1340PE,Launched,Q1'23,Raptor Lake,12,16,7,4.50,1.80,64,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-13420H,Launched,Q1'23,Raptor Lake,8,12,7,4.60,N/A,95,12,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i5-13450HX,Launched,Q1'23,Raptor Lake,10,16,7,4.60,N/A,157,20,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i5-1345U,Launched,Q1'23,Raptor Lake,10,12,7,4.70,N/A,55,12,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1345UE,Launched,Q1'23,Raptor Lake,10,12,7,4.60,1.40,55,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1345URE,Launched,Q1'23,Raptor Lake,10,12,7,4.60,1.40,55,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-13500,Launched,Q1'23,Raptor Lake,14,20,7,4.80,2.50,154,24,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-13500E,Launched,Q1'23,Raptor Lake,14,20,7,4.60,2.40,65,24,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-13500H,Launched,Q1'23,Raptor Lake,12,16,7,4.70,N/A,95,18,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-13500H (with IPU),Launched,Q1'23,Raptor Lake,12,16,7,4.70,N/A,95,18,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-13500HX,Launched,Q1'23,Raptor Lake,14,20,7,4.70,N/A,157,24,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i5-13500T,Launched,Q1'23,Raptor Lake,14,20,7,4.60,1.60,92,24,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-13500TE,Launched,Q1'23,Raptor Lake,14,20,7,4.50,1.30,35,24,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-13505H,Launched,Q1'23,Raptor Lake,12,16,7,4.70,N/A,115,18,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1350P,Launched,Q1'23,Raptor Lake,12,16,7,4.70,N/A,64,12,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1350PE,Launched,Q1'23,Raptor Lake,12,16,7,4.60,1.80,64,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-13600,Launched,Q1'23,Raptor Lake,14,20,7,5.00,2.70,154,24,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-13600H,Launched,Q1'23,Raptor Lake,12,16,7,4.80,N/A,95,18,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-13600HE,Launched,Q1'23,Raptor Lake,12,16,7,4.80,2.70,115,18,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-13600HX,Launched,Q1'23,Raptor Lake,14,20,7,4.80,N/A,157,24,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i5-13600T,Launched,Q1'23,Raptor Lake,14,20,7,4.80,1.80,92,24,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-1350PRE,Launched,Q1'23,Raptor Lake,12,16,7,4.60,1.80,64,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-13600HRE,Launched,Q1'23,Raptor Lake,12,16,7,4.80,2.70,115,18,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-13600K,Launched,Q4'22,Raptor Lake,14,20,7,5.10,3.50,181,24,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-13600KF,Launched,Q4'22,Raptor Lake,14,20,7,5.10,3.50,181,24,Intel Smart Cache,192,"Up to DDR5 5600 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i3-1305U,Launched,Q1'23,Raptor Lake,5,6,7,4.50,N/A,55,10,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i3-13100,Launched,Q1'23,Raptor Lake,4,8,7,4.50,N/A,110,12,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i3-13100E,Launched,Q1'23,Raptor Lake,4,8,7,4.40,3.30,60,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i3-13100F,Launched,Q1'23,Raptor Lake,4,8,7,4.50,N/A,110,12,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i3-13100T,Launched,Q1'23,Raptor Lake,4,8,7,4.20,N/A,69,12,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i3-13100TE,Launched,Q1'23,Raptor Lake,4,8,7,4.10,2.40,35,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i3-1315U,Launched,Q1'23,Raptor Lake,6,8,7,4.50,N/A,55,10,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i3-1315U (with IPU),Launched,Q1'23,Raptor Lake,6,8,4.50,N/A,55,10,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i3-1315UE,Launched,Q1'23,Raptor Lake,6,8,7,4.50,1.20,55,10,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i3-1315URE,Launched,Q1'23,Raptor Lake,6,8,7,4.50,1.20,55,10,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i3-1320PE,Launched,Q1'23,Raptor Lake,8,12,7,4.50,1.70,64,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i3-13300HE,Launched,Q1'23,Raptor Lake,8,12,7,4.60,2.10,115,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i3-1320PRE,Launched,Q1'23,Raptor Lake,8,12,7,4.50,1.70,64,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i3-13300HRE,Launched,Q1'23,Raptor Lake,8,12,7,4.60,2.10,115,12,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 13th Gen Intel Processors
+Core i9-12900K,Launched,Q4'21,Alder Lake,16,24,7,5.20,3.20,241,30,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-12900KF,Launched,Q4'21,Alder Lake,16,24,7,5.20,3.20,241,30,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i9-12900,Launched,Q1'22,Alder Lake,16,24,7,5.10,2.40,202,30,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-12900E,Launched,Q1'22,Alder Lake,16,24,7,5.00,2.30,65,30,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-12900F,Launched,Q1'22,Alder Lake,16,24,7,5.10,2.40,202,30,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i9-12900H,Launched,Q1'22,Alder Lake,14,20,7,5.00,N/A,115,24,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i9-12900HK,Launched,Q1'22,Alder Lake,14,20,7,5.00,N/A,115,24,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i9-12900T,Launched,Q1'22,Alder Lake,16,24,7,4.90,1.40,106,30,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-12900TE,Launched,Q1'22,Alder Lake,16,24,7,4.80,1.10,35,30,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-12900KS,Launched,Q1'22,Alder Lake,16,24,7,5.50,3.40,241,30,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i9-12900HX,Launched,Q2'22,Alder Lake,16,24,7,5.00,N/A,157,30,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i9-12950HX,Launched,Q2'22,Alder Lake,16,24,7,5.00,N/A,157,30,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i7-12700K,Launched,Q4'21,Alder Lake,12,20,7,5.00,3.60,190,25,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-12700KF,Launched,Q4'21,Alder Lake,12,20,7,5.00,3.60,190,25,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i7-12650H,Launched,Q1'22,Alder Lake,10,16,7,4.70,N/A,115,24,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i7-12700,Launched,Q1'22,Alder Lake,12,20,7,4.90,2.10,180,25,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-12700E,Launched,Q1'22,Alder Lake,12,20,7,4.80,2.10,65,25,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-12700F,Launched,Q1'22,Alder Lake,12,20,7,4.90,2.10,180,25,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i7-12700H,Launched,Q1'22,Alder Lake,14,20,7,4.70,N/A,115,24,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-12700T,Launched,Q1'22,Alder Lake,12,20,7,4.70,1.40,99,25,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-12700TE,Launched,Q1'22,Alder Lake,12,20,7,4.60,1.40,35,25,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i7-12800H,Launched,Q1'22,Alder Lake,14,20,7,4.80,N/A,115,24,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-12800HE,Launched,Q1'22,Alder Lake,14,20,7,4.60,2.40,115,24,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1250U,Launched,Q1'22,Alder Lake,10,12,7,4.70,N/A,29,12,Intel Smart Cache,64,"Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1255U,Launched,Q1'22,Alder Lake,10,12,7,4.70,N/A,55,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1260P,Launched,Q1'22,Alder Lake,12,16,7,4.70,N/A,64,18,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1260U,Launched,Q1'22,Alder Lake,10,12,7,4.70,N/A,29,12,Intel Smart Cache,64,"Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1265U,Launched,Q1'22,Alder Lake,10,12,7,4.80,N/A,55,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1270P,Launched,Q1'22,Alder Lake,12,16,7,4.80,N/A,64,18,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1280P,Launched,Q1'22,Alder Lake,14,20,7,4.80,N/A,64,24,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1265UE,Launched,Q1'22,Alder Lake,10,12,7,4.70,N/A,55,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1270PE,Launched,Q1'22,Alder Lake,12,16,7,4.50,N/A,64,18,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-12650HX,Launched,Q2'22,Alder Lake,14,20,7,4.70,N/A,157,24,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i7-12800HX,Launched,Q2'22,Alder Lake,16,24,7,4.80,N/A,157,25,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i7-12850HX,Launched,Q2'22,Alder Lake,16,24,7,4.80,N/A,157,25,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i7-1255UL,Launched,Q3'22,Alder Lake,10,12,7,4.70,1.70,15,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-1265UL,Launched,Q3'22,Alder Lake,10,12,7,4.80,1.80,15,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-12700HL,Launched,Q3'22,Alder Lake,14,20,7,4.70,2.30,45,24,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel Iris Xe Graphics
+Core i7-12800HL,Launched,Q3'22,Alder Lake,14,20,7,4.80,2.40,45,24,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-12600K,Launched,Q4'21,Alder Lake,10,16,7,4.90,3.70,150,20,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-12600KF,Launched,Q4'21,Alder Lake,10,16,7,4.90,3.70,150,20,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i5-12400,Launched,Q1'22,Alder Lake,6,12,7,4.40,2.50,117,18,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i5-12400F,Launched,Q1'22,Alder Lake,6,12,7,4.40,2.50,117,18,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i5-12400T,Launched,Q1'22,Alder Lake,6,12,7,4.20,1.80,74,18,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i5-12450H,Launched,Q1'22,Alder Lake,8,12,7,4.40,N/A,95,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i5-12500,Launched,Q1'22,Alder Lake,6,12,7,4.60,3.00,117,18,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-12500E,Launched,Q1'22,Alder Lake,6,12,7,4.50,2.90,65,18,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-12500H,Launched,Q1'22,Alder Lake,12,16,7,4.50,N/A,95,18,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-12500T,Launched,Q1'22,Alder Lake,6,12,7,4.40,2.00,74,18,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-12500TE,Launched,Q1'22,Alder Lake,6,12,7,4.30,1.90,35,18,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-12600,Launched,Q1'22,Alder Lake,6,12,7,4.80,3.30,117,18,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-12600H,Launched,Q1'22,Alder Lake,12,16,7,4.50,N/A,95,18,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-12600HE,Launched,Q1'22,Alder Lake,12,16,7,4.50,2.50,115,18,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-12600T,Launched,Q1'22,Alder Lake,6,12,7,4.60,2.10,74,18,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 770
+Core i5-1230U,Launched,Q1'22,Alder Lake,10,12,7,4.40,N/A,29,12,Intel Smart Cache,64,"Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1235U,Launched,Q1'22,Alder Lake,10,12,7,4.40,N/A,55,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1235U (with IPU),Launched,Q1'22,Alder Lake,10,12,7,4.40,N/A,55,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1240P,Launched,Q1'22,Alder Lake,12,16,7,4.40,N/A,64,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1240U,Launched,Q1'22,Alder Lake,10,12,7,4.40,N/A,29,12,Intel Smart Cache,64,"Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1245U,Launched,Q1'22,Alder Lake,10,12,7,4.40,N/A,55,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1250P,Launched,Q1'22,Alder Lake,12,16,7,4.40,N/A,64,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1245UE,Launched,Q1'22,Alder Lake,10,12,7,4.40,N/A,55,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1250PE,Launched,Q1'22,Alder Lake,12,16,7,4.40,N/A,64,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-12450HX,Launched,Q2'22,Alder Lake,8,12,7,4.40,N/A,157,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i5-12600HX,Launched,Q2'22,Alder Lake,12,16,7,4.60,N/A,157,18,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i5-1235UL,Launched,Q3'22,Alder Lake,10,12,7,4.40,1.30,15,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-1245UL,Launched,Q3'22,Alder Lake,10,12,7,4.40,1.60,15,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-12500HL,Launched,Q3'22,Alder Lake,12,16,7,4.50,2.50,45,18,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel Iris Xe Graphics
+Core i5-12600HL,Launched,Q3'22,Alder Lake,12,16,7,4.50,2.70,45,18,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel Iris Xe Graphics
+Core i3-12100,Launched,Q1'22,Alder Lake,4,8,7,4.30,N/A,89,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i3-12100E,Launched,Q1'22,Alder Lake,4,8,7,4.20,N/A,60,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i3-12100F,Launched,Q1'22,Alder Lake,4,8,7,4.30,N/A,89,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,N/A
+Core i3-12100T,Launched,Q1'22,Alder Lake,4,8,7,4.10,2.20,69,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i3-12100TE,Launched,Q1'22,Alder Lake,4,8,7,4.00,2.10,35,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i3-12300,Launched,Q1'22,Alder Lake,4,8,7,4.40,3.50,89,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i3-12300HE,Launched,Q1'22,Alder Lake,8,12,7,4.30,1.90,115,12,Intel Smart Cache,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics
+Core i3-12300T,Launched,Q1'22,Alder Lake,4,8,7,4.20,2.30,69,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
+Core i3-1210U,Launched,Q1'22,Alder Lake,6,8,7,4.40,N/A,29,10,Intel Smart Cache,64,"Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i3-1215U,Launched,Q1'22,Alder Lake,6,8,7,4.40,N/A,55,10,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i3-1215U (with IPU),Launched,Q1'22,Alder Lake,6,8,7,4.40,N/A,55,10,Intel Smart Cache,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i3-1220P,Launched,Q1'22,Alder Lake,10,12,7,4.40,N/A,64,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i3-1215UE,Launched,Q1'22,Alder Lake,6,8,7,4.40,N/A,55,10,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i3-1220PE,Launched,Q1'22,Alder Lake,8,12,7,4.20,N/A,64,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
+Core i3-1215UL,Launched,Q3'22,Alder Lake,6,8,7,4.40,1.20,15,10,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel Iris Xe Graphics
+Core i3-12300HL,Launched,Q3'22,Alder Lake,8,12,7,4.40,2.00,45,12,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel Iris Xe Graphics
+Core i3-N300,Launched,Q1'23,Alder Lake-N,8,8,7,3.80,N/A,7,6,Intel Smart Cache,16,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,Intel UHD Graphics
+Core i3-N305,Launched,Q1'23,Alder Lake-N,8,8,7,3.80,N/A,15,6,Intel Smart Cache,16,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,Intel UHD Graphics
+Core i9-11900,Discontinued,Q1'21,Rocket Lake,8,16,14,5.20,2.50,65,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 750
+Core i9-11900F,Discontinued,Q1'21,Rocket Lake,8,16,14,5.20,2.50,65,16,Intel Smart Cache,128,DDR4,3200,N/A
+Core i9-11900K,Discontinued,Q1'21,Rocket Lake,8,16,14,5.30,3.50,125,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 750
+Core i9-11900KF,Discontinued,Q1'21,Rocket Lake,8,16,14,5.30,3.50,125,16,Intel Smart Cache,128,DDR4,3200,N/A
+Core i9-11900T,Discontinued,Q1'21,Rocket Lake,8,16,14,4.90,1.50,35,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 750
+Core i9-11900H,Discontinued,Q2'21,Tiger Lake,8,16,10,4.90,N/A,45,24,Intel Smart Cache,128,Up to 3200 MT/s,N/A,Intel UHD Graphics for 11th Generation Intel Processors
+Core i9-11950H,Discontinued,Q2'21,Tiger Lake,8,16,10,5.00,N/A,45,24,Intel Smart Cache,128,Up to 3200 MT/s,N/A,Intel UHD Graphics for 11th Generation Intel Processors
+Core i9-11980HK,Discontinued,Q2'21,Tiger Lake,8,16,10,5.00,N/A,65,24,Intel Smart Cache,128,Up to 3200 MT/s,N/A,Intel UHD Graphics for 11th Generation Intel Processors
+Core i7-1160G7,Discontinued,Q3'20,Tiger Lake,4,8,10,4.40,N/A,15,12,Intel Smart Cache,32,LPDDR4x,4267,Intel Iris Xe Graphics
+Core i7-1165G7,Discontinued,Q3'20,Tiger Lake,4,8,10,4.70,N/A,28,12,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i7-1165G7 (with IPU),Discontinued,Q3'20,Tiger Lake,4,8,10,4.70,N/A,28,12,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i7-1185G7,Launched,Q3'20,Tiger Lake,4,8,10,4.80,N/A,28,12,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i7-1185G7E,Launched,Q3'20,Tiger Lake,4,8,10,4.40,1.80,28,12,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i7-1185GRE,Launched,Q3'20,Tiger Lake,4,8,10,4.40,1.80,28,12,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267, In-Band ECC",N/A,Intel Iris Xe Graphics
+Core i7-11370H (with IPU),Discontinued,Q1'21,Tiger Lake,4,8,10,4.80,N/A,35,12,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core 17-11375H (with IPU),Discontinued,Q1'21,Tiger Lake,4,8,10,5.00,N/A,35,12,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i7-1180G7 (with IPU),Discontinued,Q1'21,Tiger Lake,4,8,10,4.60,N/A,15,12,Intel Smart Cache,32,LPDDR4x,4267,Intel Iris Xe Graphics
+Core i7-11700,Discontinued,Q1'21,Rocket Lake,8,16,14,4.90,2.50,65,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 750
+Core i7-11700F,Discontinued,Q1'21,Rocket Lake,8,16,14,4.90,2.50,65,16,Intel Smart Cache,128,DDR4,3200,N/A
+Core i7-11700K,Discontinued,Q1'21,Rocket Lake,8,16,14,5.00,3.60,125,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 750
+Core i7-11700KF,Discontinued,Q1'21,Rocket Lake,8,16,14,5.00,3.60,125,16,Intel Smart Cache,128,DDR4,3200,N/A
+Core i7-11700T,Discontinued,Q1'21,Rocket Lake,8,16,14,4.60,1.40,35,16,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 750
+Core i7-11800H,Discontinued,Q2'21,Tiger Lake,8,16,10,4.60,N/A,45,24,Intel Smart Cache,128,Up to 3200 MT/s,N/A,Intel UHD Graphics for 11th Gen Intel Processors
+Core i7-11850H,Discontinued,Q2'21,Tiger Lake,8,16,10,4.80,N/A,45,24,Intel Smart Cache,128,Up to 3200 MT/s,N/A,Intel UHD Graphics for 11th Gen Intel Processors
+Core i7-1195G7,Launched,Q2'21,Tiger Lake,4,8,10,5.00,N/A,28,12,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i7-1195G7 (with IPU),Discontinued,Q2'21,Tiger Lake,4,8,10,5.00,N/A,28,12,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i7-11390H (with IPU),Discontinued,Q2'21,Tiger Lake,4,8,10,5.00,N/A,35,12,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i7-11600H,Discontinued,Q3'21,Tiger Lake,6,12,10,4.60,N/A,45,18,Intel Smart Cache,128,Up to 3200 MT/s,N/A,Intel UHD Graphics for 11th Gen Intel Processors
+Core i7-11850HE,Launched,Q3'21,Tiger Lake,8,16,10,4.70,N/A,45,24,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics for 11th Gen Intel Processors
+Core i5-1130G7 (with IPU),Discontinued,Q3'20,Tiger Lake,4,8,10,4.00,N/A,15,8,Intel Smart Cache,32,LPDDR4x,4267,Intel Iris Xe Graphics
+Core i5-1135G7,Discontinued,Q3'20,Tiger Lake,4,8,10,4.20,N/A,28,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i5-1135G7 (with IPU),Discontinued,Q3'20,Tiger Lake,4,8,10,4.20,N/A,28,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i5-1145G7E,Launched,Q3'20,Tiger Lake,4,8,10,4.10,1.50,28,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i5-1145GRE,Launched,Q3'20,Tiger Lake,4,8,10,4.10,1.50,28,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267, In-Band ECC",N/A,Intel Iris Xe Graphics
+Core i5-11300H,Discontinued,Q1'21,Tiger Lake,4,8,10,4.40,N/A,35,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i5-1140G7,Discontinued,Q1'21,Tiger Lake,4,8,10,4.20,N/A,15,8,Intel Smart Cache,32,LPDDR4x,4267,Intel Iris Xe Graphics
+Core i5-1145G7,Discontinued,Q1'21,Tiger Lake,4,8,10,4.40,N/A,28,10,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i5-11400,Discontinued,Q1'21,Rocket Lake,6,12,14,4.40,2.60,65,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 730
+Core i5-11400F,Discontinued,Q1'21,Rocket Lake,6,12,14,4.40,2.60,65,12,Intel Smart Cache,128,DDR4,3200,N/A
+Core i5-11400T,Discontinued,Q1'21,Rocket Lake,6,12,14,3.70,1.30,35,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 730
+Core i5-11500,Discontinued,Q1'21,Rocket Lake,6,12,14,4.60,2.70,65,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 750
+Core i5-11500T,Discontinued,Q1'21,Rocket Lake,6,12,14,3.90,1.50,35,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 750
+Core i5-11600,Discontinued,Q1'21,Rocket Lake,6,12,14,4.80,2.80,65,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 750
+Core i5-11600K,Discontinued,Q1'21,Rocket Lake,6,12,14,4.90,3.90,125,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 750
+Core i5-11600KF,Discontinued,Q1'21,Rocket Lake,6,12,14,4.90,3.90,125,12,Intel Smart Cache,128,DDR4,3200,N/A
+Core i5-11600T,Discontinued,Q1'21,Rocket Lake,6,12,14,4.10,1.70,35,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics 750
+Core i5-11260H,Discontinued,Q2'21,Tiger Lake,6,12,10,4.40,N/A,45,12,Intel Smart Cache,128,Up to 3200 MT/s,N/A,Intel UHD Graphics for 11th Gen Intel Processors
+Core i5-11400H,Discontinued,Q2'21,Tiger Lake,6,12,10,4.50,N/A,45,12,Intel Smart Cache,128,Up to 3200 MT/s,N/A,Intel UHD Graphics for 11th Gen Intel Processors
+Core i5-11500H,Discontinued,Q2'21,Tiger Lake,6,12,10,4.60,N/A,45,12,Intel Smart Cache,128,Up to 3200 MT/s,N/A,Intel UHD Graphics for 11th Gen Intel Processors
+Core i5-1155G7,Discontinued,Q2'21,Tiger Lake,4,8,10,4.50,N/A,28,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i5-1155G7 (with IPU),Discontinued,Q2'21,Tiger Lake,4,8,10,4.50,N/A,28,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i5-11320H,Discontinued,Q2'21,Tiger Lake,4,8,10,4.50,N/A,35,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-4267",N/A,Intel Iris Xe Graphics
+Core i5-11500HE,Launched,Q3'21,Tiger Lake,6,12,10,4.50,N/A,45,12,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-1110G4 (with IPU),Discontinued,Q3'20,Tiger Lake,2,4,10,3.90,N/A,15,6,Intel Smart Cache,32,LPDDR4x-4267,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-1115G4 (with IPU),Discontinued,Q3'20,Tiger Lake,2,4,10,4.10,N/A,28,6,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-3733",N/A,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-1115G4,Discontinued,Q3'20,Tiger Lake,2,4,10,4.10,N/A,28,6,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-3733",N/A,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-1115G4E,Launched,Q3'20,Tiger Lake,2,4,10,3.90,2.20,28,6,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-3733",N/A,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-1115GRE,Launched,Q3'20,Tiger Lake,2,4,10,3.90,2.20,28,6,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-3733, In-Band ECC",N/A,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-1120G4,Discontinued,Q1'21,Tiger Lake,4,8,10,3.50,N/A,15,8,Intel Smart Cache,32,LPDDR4x,4267,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-1125G4,Discontinued,Q1'21,Tiger Lake,4,8,10,3.70,N/A,28,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-3733",N/A,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-1125G4 (with IPU),Discontinued,Q1'21,Tiger Lake,4,8,10,3.70,N/A,28,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-3733",N/A,Intel UHD Graphics for 11th Gen Intel Processors
+Core i3-11100HE,Launched,Q3'21,Tiger Lake,4,8,10,4.40,N/A,45,8,Intel Smart Cache,128,DDR4,3200,Intel UHD Graphics for 11th Gen Intel Processors
+Core i9-10900X X Series,Launched,Q4'19,Cascade Lake,10,20,14,4.50,3.70,165,19.25,Intel Smart Cache,256,DDR4,2933,N/A
+Core i9-10920X X Series,Launched,Q4'19,Cascade Lake,12,24,14,4.60,3.50,165,19.25,Intel Smart Cache,256,DDR4,2933,N/A
+Core i9-10940X X Series,Launched,Q4'19,Cascade Lake,14,28,14,4.60,3.30,165,19.25,Intel Smart Cache,256,DDR4,2933,N/A
+Core i9-10980XE Extreme Edition,Launched,Q4'19,Cascade Lake,18,36,14,4.60,3.00,165,24.75,Intel Smart Cache,256,DDR4,2933,N/A
+Core i7-9800X X Series,Discontinued,Q4'18,Skylake,8,16,14,4.40,3.80,165,16.5,Intel Smart Cache,128,DDR4,2666,N/A
+Core i9-9820X X Series,Discontinued,Q4'18,Skylake,10,20,14,4.10,3.30,165,16.5,Intel Smart Cache,128,DDR4,2666,N/A
+Core i9-9900X X Series,Discontinued,Q4'18,Skylake,10,20,14,4.40,3.50,165,19.25,Intel Smart Cache,128,DDR4,2666,N/A
+Core i9-9920X X Series,Discontinued,Q4'18,Skylake,12,24,14,4.40,3.50,165,19.25,Intel Smart Cache,128,DDR4,2666,N/A
+Core i9-9940X X Series,Discontinued,Q4'18,Skylake,14,28,14,4.40,3.30,165,19.25,Intel Smart Cache,128,DDR4,2666,N/A
+Core i9-9960X X Series,Discontinued,Q4'18,Skylake,16,32,14,4.40,3.10,165,22,Intel Smart Cache,128,DDR4,2666,N/A
+Core i9-9980XE Extreme Edition,Discontinued,Q4'18,Skylake,18,36,14,4.40,3.00,165,24.75,Intel Smart Cache,128,DDR4,2666,N/A
+Core i9-7940X X Series,Discontinued,Q3'17,Skylake,14,28,N/A,4.30,3.10,165,19.25,N/A,128,DDR4,2666,N/A
+Core i9-7960X X Series,Discontinued,Q3'17,Skylake,16,32,N/A,4.20,2.80,165,22,N/A,128,DDR4,2666,N/A
+Core i9-7980XE Extreme Edition,Discontinued,Q3'17,Skylake,18,36,N/A,4.20,2.60,165,24.75,N/A,128,DDR4,2666,N/A
+Core i9-7920X X Series,Discontinued,Q3'17,Skylake,12,24,14,4.30,2.90,140,16.5,L3 Cache,128,DDR4,2666,N/A
+Core i5-7640X X Series,Discontinued,Q2'17,Kaby Lake,4,N/A,14,4.20,4.00,112,6,N/A,64,DDR4,2666,N/A
+Core i7-7740X X Series,Discontinued,Q2'17,Kaby Lake,4,8,14,4.50,4.30,112,8,N/A,64,DDR4,2666,N/A
+Core i7-7800X X Series,Discontinued,Q2'17,Skylake,6,12,14,4.00,3.50,140,8.25,L3 Cache,128,DDR4,2400,N/A
+Core i7-7820X X Series,Discontinued,Q2'17,Skylake,8,16,14,4.30,3.60,140,11,L3 Cache,128,DDR4,2666,N/A
+Core i9-7900X X Series,Discontinued,Q2'17,Skylake,10,20,14,4.30,3.30,140,13.75,L3 Cache,128,DDR4,2666,N/A
+Core i7-6800K,Discontinued,Q2'16,Broadwell E,6,12,14,3.60,3.40,140,15,Intel Smart Cache,128,"DDR4 2400/2133",N/A,N/A
+Core i7-6850K,Discontinued,Q2'16,Broadwell E,6,12,14,3.80,3.60,140,15,N/A,128,"DDR4 2400/2133",N/A,N/A
+Core i7-6900K,Discontinued,Q2'16,Broadwell E,8,16,14,3.70,3.20,140,20,N/A,128,"DDR4 2400/2133",N/A,N/A
+Core i7-6950X Extreme Edition,Discontinued,Q2'16,Broadwell E,10,20,14,3.50,3.00,140,25,N/A,128,"DDR4 2400/2133",N/A,N/A
+Core i7-5820K,Discontinued,Q3'14,Haswell E,6,12,22,3.60,3.30,140,15,Intel Smart Cache,64,"DDR4 1600/1866/2133",N/A,N/A
+Core i7-5930K,Discontinued,Q3'14,Haswell E,6,12,22,3.70,3.50,140,15,Intel Smart Cache,64,"DDR4 1600/1866/2133",N/A,N/A
+Core i7-5960X Extreme Edition,Discontinued,Q3'14,Haswell E,8,16,22,3.50,3.00,140,20,Intel Smart Cache,64,"DDR4 1600/1866/2133",N/A,N/A
+Core i7-4940MX Extreme Edition,Discontinued,Q1'14,Haswell,4,8,22,4.00,3.10,57,8,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD 4600 Graphics
+Core i7-4820K,Discontinued,Q3'13,Ivy Bridge E,4,8,22,3.90,3.70,130,10,Intel Smart Cache,64,"DDR3 1333/1600/1866",N/A,N/A
+Core i7-4930K,Discontinued,Q3'13,Ivy Bridge E,6,12,22,3.90,3.40,130,12,Intel Smart Cache,64,"DDR3 1333/1600/1866",N/A,N/A
+Core i7-4960X Extreme Edition,Discontinued,Q3'13,Ivy Bridge E,6,12,22,4.00,3.60,130,15,Intel Smart Cache,64,"DDR3 1333/1600/1866",N/A,N/A
+Core i7-4930MX Extreme Edition,Discontinued,Q2'13,Haswell,4,8,22,3.90,3.00,57,8,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD 4600 Graphics
+Core i7-3970X Extreme Edition,Discontinued,Q4'12,Sandy Bridge E,6,12,32,4.00,3.50,150,15,Intel Smart Cache,64.45,"DDR3 1066/1333/1600",N/A,N/A
+Core i7-3940XM Extreme Edition,Discontinued,Q3'12,Ivy Bridge,4,8,22,3.90,3.00,55,8,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD 4000 Graphics
+Core i7-3920XM Extreme Edition,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.80,2.90,55,8,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD 4000 Graphics
+Core i7-3820,Discontinued,Q1'12,Sandy Bridge E,4,8,32,3.80,3.60,130,10,Intel Smart Cache,64.23,"DDR3 1066/1333/1600",N/A,N/A
+Core i7-3930K,Discontinued,Q4'11,Sandy Bridge E,6,12,32,3.80,3.20,130,12,Intel Smart Cache,64.23,"DDR3 1066/1333/1600",N/A,N/A
+Core i7-3960X Extreme Edition,Discontinued,Q4'11,Sandy Bridge E,6,12,32,3.90,3.30,130,15,Intel Smart Cache,64,"DDR3 1066/1333/1600",N/A,N/A
+Core i9-10980HK,Discontinued,Q2'20,Comet Lake,8,16,14,5.30,2.40,45,16,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics for 10th Gen Intel Processors
+Core i9-10900,Discontinued,Q2'20,Comet Lake,10,20,14,5.20,2.80,65,20,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics 630
+Core i9-10900E,Launched,Q2'20,Comet Lake,10,20,14,4.70,2.80,65,20,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics 630
+Core i9-10900F,Discontinued,Q2'20,Comet Lake,10,20,14,5.20,2.80,65,20,Intel Smart Cache,128,DDR4,2933,N/A
+Core i9-10900K,Discontinued,Q2'20,Comet Lake,10,20,14,5.30,3.70,125,20,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics 630
+Core i9-10900KF,Discontinued,Q2'20,Comet Lake,10,20,14,5.30,3.70,125,20,Intel Smart Cache,128,DDR4,2933,N/A
+Core i9-10900T,Discontinued,Q2'20,Comet Lake,10,20,14,4.60,1.90,35,20,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics 630
+Core i9-10900TE,Launched,Q2'20,Comet Lake,10,20,14,4.50,1.80,35,20,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics 630
+Core i9-10885H,Discontinued,Q2'20,Comet Lake,8,16,14,5.30,2.40,45,16,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics for 10th Gen Intel Processors
+Core i9-10850K,Discontinued,Q2'20,Comet Lake,10,20,14,5.20,3.60,125,20,Intel Smart Cache,128,DDR4,2933,Intel UHD 630 Graphics
+Core i7-1065G7,Discontinued,Q3'19,Ice Lake,4,8,10,3.90,1.30,15,8,Intel Smart Cache,64,"DDR4-3200, LPDDR4-3733",N/A,Intel Iris Plus Graphics
+Core i7-10510U,Launched,Q3'19,Comet Lake,4,8,14,4.90,1.80,15,8,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133, LPDDR3-2933",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i7-10510Y,Discontinued,Q3'19,Amber Lake Y,4,8,14,4.50,1.20,7,8,Intel Smart Cache,16,"LPDDR3-2133, DDR3L-1600",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i7-10710U,Discontinued,Q3'19,Comet Lake,6,12,14,4.70,1.10,15,12,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133, LPDDR4-2933",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i7-10750H,Launched,Q2'20,Comet Lake,6,12,14,5.00,2.60,45,12,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics for 10th Gen Intel Processors
+Core i7-10850H,Discontinued,Q2'20,Comet Lake,6,12,14,5.10,2.70,45,12,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics for 10th Gen Intel Processors
+Core i7-10875H,Discontinued,Q2'20,Comet Lake,8,16,14,5.10,2.30,45,16,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics for 10th Gen Intel Processors
+Core i7-10700,Discontinued,Q2'20,Comet Lake,8,16,14,4.80,2.90,65,16,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics 630
+Core i7-10700E,Launched,Q2'20,Comet Lake,8,16,14,4.50,2.90,65,16,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics 630
+Core i7-10700F,Discontinued,Q2'20,Comet Lake,8,16,14,4.80,2.90,65,16,Intel Smart Cache,128,DDR4,2933,N/A
+Core i7-10700K,Discontinued,Q2'20,Comet Lake,8,16,14,5.10,3.80,125,16,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics 630
+Core i7-10700KF,Discontinued,Q2'20,Comet Lake,8,16,14,5.10,3.80,125,16,Intel Smart Cache,128,DDR4,2933,N/A
+Core i7-10700T,Discontinued,Q2'20,Comet Lake,8,16,14,4.50,2.00,35,16,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics 630
+Core i7-10700TE,Launched,Q2'20,Comet Lake,8,16,14,4.40,2.00,35,16,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics 630
+Core i7-10610U,Discontinued,Q2'20,Comet Lake,4,8,14,4.90,1.80,15,8,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133, LPDDR4-2933",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i7-10810U,Discontinued,Q2'20,Comet Lake,6,12,14,4.90,1.10,15,12,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133, LPDDR4-2933",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i7-10870H,Discontinued,Q3'20,Comet Lake,8,16,14,5.00,2.20,45,16,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics for 10th Gen Intel Processors
+Core i5-1035G1,Discontinued,Q3'19,Ice Lake,4,8,10,3.60,1.00,15,6,Intel Smart Cache,64,"DDR4-3200, LPDDR4-3733",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i5-1035G4,Discontinued,Q3'19,Ice Lake,4,8,10,3.70,1.10,15,6,Intel Smart Cache,64,"DDR4-3200, LPDDR4-3733",N/A,Intel Iris Plus Graphics
+Core i5-1035G7,Discontinued,Q3'19,Ice Lake,4,8,10,3.70,1.20,15,6,Intel Smart Cache,64,"DDR4-3200, LPDDR4-3733",N/A,Intel Iris Plus Graphics
+Core i5-10210U,Launched,Q3'19,Comet Lake,4,8,14,4.20,1.60,15,6,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133, LPDDR4-2933",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i5-10210Y,Discontinued,Q3'19,Amber Lake Y,4,8,14,4.00,1.00,7,6,Intel Smart Cache,16,"LPDDR3-2133, DDR3L-1600",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i5-10310Y,Discontinued,Q3'19,Amber Lake Y,4,8,10,4.10,1.10,7,6,Intel Smart Cache,16,"LPDDR3-2133, DDR3L-1600",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i5-10300H,Discontinued,Q2'20,Comet Lake,4,8,14,4.50,2.50,45,6,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics for 10th Gen Intel Processors
+Core i5-10400H,Discontinued,Q2'20,Comet Lake,4,8,14,4.60,2.60,45,8,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics for 10th Gen Intel Processors
+Core i5-10400,Launched,Q2'20,Comet Lake,6,12,14,4.30,2.90,65,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-10400F,Launched,Q2'20,Comet Lake,6,12,14,4.30,2.90,65,12,Intel Smart Cache,128,DDR4,2666,N/A
+Core i5-10400T,Launched,Q2'20,Comet Lake,6,12,14,3.60,2.00,35,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-10500,Launched,Q2'20,Comet Lake,6,12,14,4.50,3.10,65,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-10500E,Launched,Q2'20,Comet Lake,6,12,14,4.20,3.10,65,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-10500T,Launched,Q2'20,Comet Lake,6,12,14,3.80,2.30,35,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-10500TE,Launched,Q2'20,Comet Lake,6,12,14,3.70,2.30,35,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-10600,Launched,Q2'20,Comet Lake,6,12,14,4.80,3.30,65,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-10600K,Discontinued,Q2'20,Comet Lake,6,12,14,4.80,4.10,125,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-10600KF,Discontinued,Q2'20,Comet Lake,6,12,14,4.80,4.10,125,12,Intel Smart Cache,128,DDR4,2666,N/A
+Core i5-10600T,Launched,Q2'20,Comet Lake,6,12,14,4.00,2.40,35,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-10310U,Discontinued,Q2'20,Comet Lake,4,8,14,4.40,1.70,15,6,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133, LPDDR4-2933",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i5-10200H,Discontinued,Q3'20,Comet Lake,4,8,14,4.10,2.40,45,8,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics for 10th Gen Intel Processors
+Core i5-10500H,Launched,Q4'20,Comet Lake,6,12,14,4.50,2.50,45,12,Intel Smart Cache,128,DDR4,2933,Intel UHD Graphics for 10th Gen Intel Processors
+Core i5-10505,Launched,Q1'21,Comet Lake,6,12,14,4.60,3.20,65,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-1005G1,Discontinued,Q3'19,Ice Lake,2,4,10,3.40,1.20,15,4,Intel Smart Cache,64,"DDR4-3200, LPDDR4-3733",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i3-10110U,Launched,Q3'19,Comet Lake,2,4,14,4.10,2.10,15,4,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133, LPDDR4-2933",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i3-10110Y,Discontinued,Q3'19,Amber Lake Y,2,4,14,4.00,1.00,7,4,Intel Smart Cache,16,"LPDDR3-2133, DDR3L-1600",N/A,Intel UHD Graphics for 10th Gen Intel Processors
+Core i3-10100,Launched,Q2'20,Comet Lake,4,8,14,4.30,3.60,65,6,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-10100E,Launched,Q2'20,Comet Lake,4,8,14,3.80,3.20,65,6,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-10100T,Launched,Q2'20,Comet Lake,4,8,14,3.80,3.00,35,6,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-10100TE,Launched,Q2'20,Comet Lake,4,8,14,3.60,2.30,35,6,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-10300,Launched,Q2'20,Comet Lake,4,8,14,4.40,3.70,65,8,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-10300T,Launched,Q2'20,Comet Lake,4,8,14,3.90,3.00,35,8,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-10320,Launched,Q2'20,Comet Lake,4,8,14,4.60,3.80,65,8,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-10100F,Launched,Q4'20,Comet Lake,4,8,14,4.30,3.60,65,6,Intel Smart Cache,128,DDR4,2666,N/A
+Core i3-10100Y,Discontinued,Q1'21,Amber Lake Y,2,4,14,3.90,1.30,5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel UHD Graphics 615
+Core i3-10105,Launched,Q1'21,Comet Lake,4,8,14,4.40,3.70,65,6,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-10105F,Launched,Q1'21,Comet Lake,4,8,14,4.40,3.70,65,6,Intel Smart Cache,128,DDR4,2666,N/A
+Core i3-10105T,Launched,Q1'21,Comet Lake,4,8,14,3.90,3.00,35,6,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-10305,Launched,Q1'21,Comet Lake,4,8,14,4.50,3.80,65,8,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-10305T,Launched,Q1'21,Comet Lake,4,8,14,4.00,3.00,35,8,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-10325,Launched,Q1'21,Comet Lake,4,8,14,4.70,3.90,65,8,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i9-9900K,Discontinued,Q4'18,Coffee Lake,8,16,14,5.00,3.60,95,16,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i9-9900KF,Discontinued,Q1'19,Coffee Lake,8,16,14,5.00,3.60,65,16,Intel Smart Cache,128,DDR4,2666,N/A
+Core i9-9880H,Discontinued,Q2'19,Coffee Lake,8,16,14,4.80,2.30,45,16,Intel Smart Cache,128,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics 630
+Core i9-9900,Discontinued,Q2'19,Coffee Lake,8,16,14,5.00,3.10,65,16,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i9-9900T,Discontinued,Q2'19,Coffee Lake,8,16,14,4.40,2.10,35,16,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i9-9980HK,Discontinued,Q2'19,Coffee Lake,8,16,14,5.00,2.40,45,16,Intel Smart Cache,128,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics 630
+Core i9-9900KS,Discontinued,Q4'19,Coffee Lake,8,16,14,5.00,4.00,127,16,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i7-9700K,Discontinued,Q4'18,Coffee Lake,8,8,14,4.90,3.60,95,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i7-9700KF,Discontinued,Q1'19,Coffee Lake,8,8,14,4.90,3.60,95,12,Intel Smart Cache,128,DDR4,2666,N/A
+Core i7-9700,Discontinued,Q2'19,Coffee Lake,8,8,14,4.70,3.00,65,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i7-9700F,Discontinued,Q2'19,Coffee Lake,8,8,14,4.70,3.00,65,12,Intel Smart Cache,128,DDR4,2666,N/A
+Core i7-9700T,Discontinued,Q2'19,Coffee Lake,8,8,14,4.30,2.00,35,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i7-9750H,Discontinued,Q2'19,Coffee Lake,6,12,14,4.50,2.60,45,12,Intel Smart Cache,128,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics 630
+Core i7-9750HF,Discontinued,Q2'19,Coffee Lake,6,12,14,4.50,2.60,45,12,Intel Smart Cache,128,"DDR4-2666, LPDDR3-2133",N/A,N/A
+Core i7-9850H,Discontinued,Q2'19,Coffee Lake,6,12,14,4.60,2.60,45,12,N/A,128,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics 630
+Core i7-9700E,Launched,Q2'19,Coffee Lake,8,8,14,4.40,2.60,65,12,N/A,128,DDR4,2666,Intel UHD Graphics 630
+Core i7-9700TE,Launched,Q2'19,Coffee Lake,8,8,14,3.80,1.80,35,12,N/A,128,DDR4,2666,Intel UHD Graphics 630
+Core i7-9850HE,Launched,Q2'19,Coffee Lake,6,12,14,4.40,2.70,45,9,N/A,64,DDR4,2666,Intel UHD Graphics 630
+Core i7-9850HL,Launched,Q2'19,Coffee Lake,6,12,14,4.10,1.90,25,9,N/A,64,DDR4,2666,Intel UHD Graphics 630
+Core i5-9500TE,Launched,Q4'17,Coffee Lake,6,6,14,3.60,2.20,35,9,N/A,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-9600K,Discontinued,Q4'18,Coffee Lake,6,6,14,4.60,3.70,95,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-9400,Discontinued,Q1'19,Coffee Lake,6,6,14,4.10,2.90,65,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-9400F,Discontinued,Q1'19,Coffee Lake,6,6,14,4.10,2.90,65,9,Intel Smart Cache,128,DDR4,2666,N/A
+Core i5-9600KF,Discontinued,Q1'19,Coffee Lake,6,6,14,4.60,3.70,95,9,Intel Smart Cache,128,DDR4,2666,N/A
+Core i5-9300HF,Discontinued,Q2'19,Coffee Lake,4,8,14,4.10,2.40,45,8,Intel Smart Cache,128,"DDR4-2666, LPDDR3-2133",N/A,N/A
+Core i5-9300H,Discontinued,Q2'19,Coffee Lake,4,8,14,4.10,2.40,45,8,Intel Smart Cache,128,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics 630
+Core i5-9400H,Discontinued,Q2'19,Coffee Lake,4,8,14,4.30,2.50,45,8,Intel Smart Cache,128,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics 630
+Core i5-9400T,Discontinued,Q2'19,Coffee Lake,6,6,14,3.40,1.80,35,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-9500,Discontinued,Q2'19,Coffee Lake,6,6,14,4.40,3.00,65,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-9500F,Discontinued,Q2'19,Coffee Lake,6,6,14,4.40,3.00,65,9,Intel Smart Cache,128,DDR4,2666,N/A
+Core i5-9500T,Discontinued,Q2'19,Coffee Lake,6,6,14,3.70,2.20,35,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-9600,Discontinued,Q2'19,Coffee Lake,6,6,14,4.60,3.10,65,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-9600T,Discontinued,Q2'19,Coffee Lake,6,6,14,3.90,2.30,35,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-9500E,Launched,Q2'19,Coffee Lake,6,6,14,4.20,3.00,65,9,N/A,128,DDR4,2666,Intel UHD Graphics 630
+Core i3-9350KF,Discontinued,Q1'19,Coffee Lake,4,4,14,4.60,4.00,91,8,Intel Smart Cache,64,DDR4,2400,N/A
+Core i3-9100,Discontinued,Q2'19,Coffee Lake,4,4,14,4.20,3.60,65,6,Intel Smart Cache,64,DDR4,2400,Intel UHD Graphics 630
+Core i3-9100F,Discontinued,Q2'19,Coffee Lake,4,4,14,4.20,3.60,65,6,Intel Smart Cache,64,DDR4,2400,N/A
+Core i3-9100T,Discontinued,Q2'19,Coffee Lake,4,4,14,3.70,3.10,35,6,Intel Smart Cache,64,DDR4,2400,Intel UHD Graphics 630
+Core i3-9300,Discontinued,Q2'19,Coffee Lake,4,4,14,4.30,3.70,62,8,Intel Smart Cache,64,DDR4,2400,Intel UHD Graphics 630
+Core i3-9300T,Discontinued,Q2'19,Coffee Lake,4,4,14,3.80,3.20,35,8,Intel Smart Cache,64,DDR4,2400,Intel UHD Graphics 630
+Core i3-9320,Discontinued,Q2'19,Coffee Lake,4,4,14,4.40,3.70,62,8,Intel Smart Cache,64,DDR4,2400,Intel UHD Graphics 630
+Core i3-9350K,Discontinued,Q2'19,Coffee Lake,4,4,14,4.60,4.00,91,8,Intel Smart Cache,64,DDR4,2400,Intel UHD Graphics 630
+Core i3-9100E,Launched,Q2'19,Coffee Lake,4,4,14,3.70,3.10,65,6,N/A,64,DDR4,2400,Intel UHD Graphics 630
+Core i3-9100HL,Launched,Q2'19,Coffee Lake,4,4,14,2.90,1.60,25,6,N/A,64,DDR4,2666,Intel UHD Graphics 630
+Core i3-9100TE,Launched,Q2'19,Coffee Lake,4,4,14,3.20,2.20,35,6,N/A,64,DDR4,2400,Intel UHD Graphics 630
+Core i9-8950HK,Discontinued,Q2'18,Coffee Lake,6,12,14,4.80,2.90,45,12,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics 630
+Core i7-8550U,Discontinued,Q3'17,Kaby Lake,4,8,14,4.00,1.80,15,8,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics 620
+Core i7-8650U,Discontinued,Q3'17,Kaby Lake R,4,8,14,4.20,1.90,15,8,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics 620
+Core i7-8700,Launched,Q4'17,Coffee Lake,6,12,14,4.60,3.20,65,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i7-8700K,Discontinued,Q4'17,Coffee Lake,6,12,14,4.70,3.70,95,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i7-8705G with Radeon RX Vega M GL Graphics,Discontinued,Q1'18,Kaby Lake G,4,8,14,4.10,3.10,65,8,N/A,64,DDR4,2400,Intel HD Graphics 630
+Core i7-8706G with Radeon RX Vega M GL Graphics,Discontinued,Q1'18,Kaby Lake G,4,8,14,4.10,3.10,65,8,N/A,64,DDR4,2400,Intel HD Graphics 630
+Core i7-8709G with Radeon RX Vega M GH Graphics,Discontinued,Q1'18,Kaby Lake G,4,8,14,4.10,3.10,100,8,N/A,64,DDR4,2400,Intel HD Graphics 630
+Core i7-8809G with Radeon RX Vega M GH Graphics,Discontinued,Q1'18,Kaby Lake G,4,8,14,4.20,3.10,100,8,N/A,64,DDR4,2400,Intel HD Graphics 630
+Core i7-8559U,Discontinued,Q2'18,Coffee Lake,4,8,14,4.50,2.70,28,8,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel Iris Plus Graphics 655
+Core i7+8700 Includes Intel Optane Memory,Discontinued,Q2'18,Coffee Lake,6,12,14,4.60,3.20,65,12,Intel Smart Cache,64,DDR4,2666,Intel UHD Graphics 630
+Core i7-8700B,Discontinued,Q2'18,Coffee Lake,6,12,14,4.60,3.20,65,12,Intel Smart Cache,64,DDR4,2666,Intel UHD Graphics 630
+Core i7-8700T,Launched,Q2'18,Coffee Lake,6,12,14,4.00,2.40,35,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i7-8750H,Discontinued,Q2'18,Coffee Lake,6,12,14,4.10,2.20,45,9,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics 630
+Core i7-8850H,Launched,Q2'18,Coffee Lake,6,12,14,4.30,2.60,45,9,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics 630
+Core i7-8086K,Discontinued,Q2'18,Coffee Lake,6,12,14,5.00,4.00,95,12,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i7-8706G with Radeon Pro WX Vega M GL Graphics,Discontinued,Q3'18,Kaby Lake G,4,8,14,4.10,3.10,65,8,N/A,64,DDR4,2400,Intel HD Graphics 630
+Core i7-8500Y,Discontinued,Q1'19,Amber Lake Y,2,4,14,4.20,1.50,5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel UHD Graphics 615
+Core i7-8565U,Discontinued,Q3'18,Whiskey Lake,4,8,14,4.60,1.80,15,8,Intel Smart Cache,64,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics for 8th Gen Intel Processors
+Core i7-8665UE,Launched,Q2'19,Whiskey Lake,4,8,14,4.40,1.70,15,8,Intel Smart Cache,64,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics 620
+Core i7-8665U,Discontinued,Q2'19,Whiskey Lake,4,8,14,4.80,1.90,15,8,Intel Smart Cache,64,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics for 8th Gen Intel Processors
+Core i7-8569U,Discontinued,Q2'19,Coffee Lake,4,8,14,4.70,2.80,28,8,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel Iris Plus Graphics 655
+Core i7-8557U,Discontinued,Q3'19,Coffee Lake,4,8,14,4.50,1.70,15,8,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel Iris Plus Graphics 645
+Core i5-8250U,Discontinued,Q3'17,Kaby Lake R,4,8,14,3.40,1.60,15,6,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics 620
+Core i5-8350U,Discontinued,Q3'17,Kaby Lake R,4,8,14,3.60,1.70,15,6,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics 620
+Core i5-8400,Discontinued,Q4'17,Coffee Lake,6,6,14,4.00,2.80,65,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-8600K,Discontinued,Q4'17,Coffee Lake,6,6,14,4.30,3.60,95,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-8305G with Radeon RX Vega M GL Graphics,Discontinued,Q1'18,Kaby Lake G,4,8,14,3.80,2.80,65,6,N/A,64,DDR4,2400,Intel HD Graphics 630
+Core i5-8259U,Discontinued,Q2'18,Coffee Lake,4,8,14,3.80,2.30,28,6,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel Iris Plus Graphics 655
+Core i5-8269U,Discontinued,Q2'18,Coffee Lake,4,8,14,4.20,2.60,28,6,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel Iris Plus Graphics 655
+Core i5-8300H,Discontinued,Q2'18,Coffee Lake,4,8,14,4.00,2.30,45,8,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics 630
+Core i5+8400 Includes Intel Optane Memory,Discontinued,Q2'18,Coffee Lake,6,6,14,4.00,2.80,65,9,Intel Smart Cache,64,DDR4,2666,Intel UHD Graphics 630
+Core i5-8400B,Discontinued,Q2'18,Coffee Lake,6,6,14,4.00,2.80,65,9,Intel Smart Cache,64,DDR4,2666,Intel UHD Graphics 630
+Core i5-8400H,Launched,Q2'18,Coffee Lake,4,8,14,4.20,2.50,45,8,Intel Smart Cache,64,"DDR4-2666, LPDDR3-2133",N/A,Intel UHD Graphics 630
+Core i5-8400T,Discontinued,Q2'18,Coffee Lake,6,6,14,3.30,1.70,35,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-8500,Launched,Q2'18,Coffee Lake,6,6,14,4.10,3.00,65,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5+8500 Includes Intel Optane Memory,Discontinued,Q2'18,6,6,14,4.10,3.00,65,9,Intel Smart Cache,64,DDR4,2666,Intel UHD Graphics 630
+Core i5-8500B,Discontinued,Q2'18,Coffee Lake,6,6,14,4.10,3.00,65,9,Intel Smart Cache,64,DDR4,2666,Intel UHD Graphics 630
+Core i5-8500T,Launched,Q2'18,Coffee Lake,6,6,14,3.50,2.10,35,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-8600,Discontinued,Q2'18,Coffee Lake,6,6,14,4.30,3.10,65,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-8600T,Discontinued,Q2'18,Coffee Lake,6,6,14,3.70,2.30,35,9,Intel Smart Cache,128,DDR4,2666,Intel UHD Graphics 630
+Core i5-8305G with Radeon Pro WX Vega M GL Graphics,Discontinued,Q3'18,Kaby Lake G,4,8,14,3.80,2.80,65,6,N/A,64,DDR4,2400,Intel HD Graphics 630
+Core i5-8200Y,Discontinued,Q3'18,Amber Lake Y,2,4,14,3.90,1.30,5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel UHD Graphics 615
+Core i5-8265U,Discontinued,Q3'18,Whiskey Lake,4,8,14,3.90,1.60,15,6,Intel Smart Cache,64,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics for 8th Gen Intel Processors
+Core i5-8210Y,Discontinued,Q1'19,Amber Lake Y,2,4,14,3.60,1.60,7,4,Intel Smart Cache,16,"LPDDR3-2133, DDR3L-1600",N/A,Intel UHD Graphics 617
+Core i5-8365UE,Launched,Q2'19,Whiskey Lake,4,8,14,4.10,1.60,15,6,Intel Smart Cache,64,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics 620
+Core i5-8310Y,Discontinued,Q1'19,Amber Lake Y,2,4,14,3.90,1.60,7,4,Intel Smart Cache,16,"LPDDR3-2133, DDR3L-1600",N/A,Intel UHD Graphics 617
+Core i5-8365U,Discontinued,Q2'19,Whiskey Lake,4,8,14,4.10,1.60,15,6,Intel Smart Cache,64,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics for 8th Gen Intel Processors
+Core i5-8279U,Discontinued,Q2'19,Coffee Lake,4,8,14,4.10,2.40,28,6,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel Iris Plus Graphics 655
+Core i5-8257U,Discontinued,Q3'19,Coffee Lake,4,8,14,3.90,1.40,15,6,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel Iris Plus Graphics 645
+Core i5-8260U,Discontinued,Q4'19,Coffee Lake,4,8,14,3.90,1.60,15,6,Intel Smart Cache,64,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics 620
+Core i3-8100,Discontinued,Q4'17,Coffee Lake,4,4,14,N/A,3.60,65,6,Intel Smart Cache,64,DDR4,2400,Intel UHD Graphics 630
+Core i3-8350K,Discontinued,Q4'17,Coffee Lake,4,4,14,N/A,4.00,91,8,Intel Smart Cache,64,DDR4,2400,Intel UHD Graphics 630
+Core i3-8100H,Launched,Q4'17,Coffee Lake,4,4,14,N/A,3.00,45,6,Intel Smart Cache,64,DDR4,2666,Intel UHD Graphics 630
+Core i3-8130U,Discontinued,Q1'18,Kaby Lake R,2,4,14,3.40,2.20,15,4,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics 620
+Core i3-8100T,Launched,Q2'18,Coffee Lake,4,4,14,N/A,3.10,35,6,Intel Smart Cache,64,DDR4,2400,Intel UHD Graphics 630
+Core i3-8109U,Discontinued,Q2'18,Coffee Lake,2,4,14,3.60,3.00,28,4,Intel Smart Cache,32,"DDR4-2400, LPDDR3-2133",N/A,Intel Iris Plus Graphics 655
+Core i3-8300,Discontinued,Q2'18,Coffee Lake,4,4,14,N/A,3.70,62,8,Intel Smart Cache,64,DDR4,2400,Intel UHD Graphics 630
+Core i3-8300T,Discontinued,Q2'18,Coffee Lake,4,4,14,N/A,3.20,35,8,Intel Smart Cache,64,DDR4,2400,Intel UHD Graphics 630
+Core i3-8145U,Discontinued,Q3'18,Whiskey Lake,2,4,14,3.90,2.10,15,4,Intel Smart Cache,64,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics for 8th Intel Processors
+Core i3-8100B,Discontinued,Q3'18,Coffee Lake,4,4,14,N/A,3.60,65,6,Intel Smart Cache,64,DDR4,2666,Intel UHD Graphics 630
+Core i3-8145UE,Launched,Q3'18,Whiskey Lake,2,4,14,3.90,2.20,15,4,Intel Smart Cache,64,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics 620
+Core i3-8140U,Discontinued,Q4'19,Coffee Lake,2,4,14,3.90,2.10,15,4,Intel Smart Cache,64,"DDR4-2400, LPDDR3-2133",N/A,Intel UHD Graphics 620
+Core m3-8100Y,Discontinued,Q3'18,Amber Lake Y,2,4,14,3.40,1.10,5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel UHD Graphics 615
+Core i7-7500U,Discontinued,Q3'16,Kaby Lake,2,4,14,3.50,2.70,15,4,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 620
+Core i7-7Y75,Discontinued,Q3'16,Kaby Lake,2,4,14,3.60,1.30,4.5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 615
+Core i7-7600U,Launched,Q1'17,Kaby Lake,2,4,14,3.90,2.80,15,4,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 620
+Core i7-7560U,Discontinued,Q1'17,Kaby Lake,2,4,14,3.80,2.40,15,4,N/A,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Plus Graphics 640
+Core i7-7567U,Discontinued,Q1'17,Kaby Lake,2,4,14,4.00,3.50,28,4,N/A,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Plus Graphics 650
+Core i7-7660U,Discontinued,Q1'17,Kaby Lake,2,4,14,4.00,2.50,15,4,N/A,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Plus Graphics 640
+Core i7-7700,Launched,Q1'17,Kaby Lake,4,8,14,4.20,3.60,65,8,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i7-7700HQ,Discontinued,Q1'17,Kaby Lake,4,8,14,3.80,2.80,45,6,N/A,64,"DDR4-2400, LPDDR3-2133, DDR3L-1600",N/A,Intel HD Graphics 630
+Core i7-7700K,Discontinued,Q1'17,Kaby Lake,4,8,14,4.50,4.20,91,8,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i7-7700T,Launched,Q1'17,Kaby Lake,4,8,14,3.80,2.90,35,8,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i7-7820EQ,Launched,Q1'17,Kaby Lake,4,8,14,3.70,3.00,45,8,N/A,64,DDR4,2400,Intel HD Graphics 630
+Core i7-7820HK,Discontinued,Q1'17,Kaby Lake,4,8,14,3.90,2.90,45,8,N/A,64,"DDR4-2400, LPDDR3-2133, DDR3L-1600",N/A,Intel HD Graphics 630
+Core i7-7820HQ,Discontinued,Q1'17,Kaby Lake,4,8,14,3.90,2.90,45,8,N/A,64,"DDR4-2400, LPDDR3-2133, DDR3L-1600",N/A,Intel HD Graphics 630
+Core i7-7920HQ,Discontinued,Q1'17,Kaby Lake,4,8,14,4.10,3.10,45,8,N/A,64,"DDR4-2400, LPDDR3-2133, DDR3L-1600",N/A,Intel HD Graphics 630
+Core i5-7200U,Discontinued,Q3'16,Kaby Lake,2,4,14,3.10,2.50,15,3,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 620
+Core i5-7Y54,Discontinued,Q3'16,Kaby Lake,2,4,14,3.20,1.20,4.5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 615
+Core i5-7260U,Discontinued,Q1'17,Kaby Lake,2,4,14,3.40,2.20,15,4,N/A,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Plus Graphics 640
+Core i5-7267U,Discontinued,Q1'17,Kaby Lake,2,4,14,3.50,3.10,28,4,N/A,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Plus Graphics 650
+Core i5-7287U,Discontinued,Q1'17,Kaby Lake,2,4,14,3.70,3.30,28,4,N/A,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Plus Graphics 650
+Core i5-7300HQ,Discontinued,Q1'17,Kaby Lake,4,4,14,3.50,2.50,45,6,N/A,64,"DDR4-2400, LPDDR3-2133, DDR3L-1600",N/A,Intel HD Graphics 630
+Core i5-7300U,Launched,Q1'17,Kaby Lake,2,4,14,3.50,2.60,15,3,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 620
+Core i5-7360U,Discontinued,Q1'17,Kaby Lake,2,4,14,3.60,2.30,15,4,N/A,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Plus Graphics 640
+Core i5-7400,Discontinued,Q1'17,Kaby Lake,4,4,14,3.50,3.00,65,6,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i5-7400T,Discontinued,Q1'17,Kaby Lake,4,4,14,3.00,2.40,35,6,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i5-7440EQ,Launched,Q1'17,Kaby Lake,4,4,14,3.60,2.90,45,6,N/A,64,DDR4,2400,Intel HD Graphics 630
+Core i5-7440HQ,Discontinued,Q1'17,Kaby Lake,4,4,14,3.80,2.80,45,6,N/A,64,"DDR4-2400, LPDDR3-2133, DDR3L-1600",N/A,Intel HD Graphics 630
+Core i5-7442EQ,Launched,Q1'17,Kaby Lake,4,4,14,2.90,2.10,25,6,N/A,64,DDR4,2400,Intel HD Graphics 630
+Core i5-7500,Launched,Q1'17,Kaby Lake,4,4,14,3.80,3.40,65,6,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i5-7500T,Launched,Q1'17,Kaby Lake,4,4,14,3.30,2.70,35,6,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i5-7600,Discontinued,Q1'17,Kaby Lake,4,4,14,4.10,3.50,65,6,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i5-7600K,Discontinued,Q1'17,Kaby Lake,4,4,14,4.20,3.80,91,6,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i5-7600T,Discontinued,Q1'17,Kaby Lake,4,4,14,3.70,2.80,35,6,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i5-7Y57,Discontinued,Q1'17,Kaby Lake,2,4,14,3.30,1.20,4.5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 615
+Core i3-7100U,Launched,Q3'16,Kaby Lake,2,4,14,N/A,2.40,15,3,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 620
+Core i3-7100,Discontinued,Q1'17,Kaby Lake,2,4,14,N/A,3.90,51,3,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i3-7100E,Launched,Q1'17,Kaby Lake,2,4,14,N/A,2.90,35,3,N/A,64,DDR4,2400,Intel HD Graphics 630
+Core i3-7100H,Discontinued,Q1'17,Kaby Lake,2,4,14,N/A,3.00,35,3,N/A,64,N/A,N/A,Intel HD Graphics 630
+Core i3-7100T,Discontinued,Q1'17,Kaby Lake,2,4,14,N/A,3.40,35,3,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i3-7101E,Launched,Q1'17,Kaby Lake,2,4,14,N/A,3.90,54,3,Intel Smart Cache,64,"DDR3L-1600, DDR4-2400",N/A,Intel HD Graphics 630
+Core i3-7101TE,Launched,Q1'17,Kaby Lake,2,4,14,N/A,3.40,35,3,Intel Smart Cache,64,"DDR3L-1600, DDR4-2400",N/A,Intel HD Graphics 630
+Core i3-7102E,Launched,Q1'17,Kaby Lake,2,4,14,N/A,2.10,25,3,N/A,64,DDR4,2400,Intel HD Graphics 630
+Core i3-7167U,Discontinued,Q1'17,Kaby Lake,2,4,14,N/A,2.80,28,3,N/A,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Plus Graphics 650
+Core i3-7300,Discontinued,Q1'17,Kaby Lake,2,4,14,N/A,4.00,51,4,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i3-7300T,Discontinued,Q1'17,Kaby Lake,2,4,14,N/A,3.50,35,4,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i3-7320,Discontinued,Q1'17,Kaby Lake,2,4,14,N/A,4.10,51,4,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i3-7350K,Discontinued,Q1'17,Kaby Lake,2,4,14,N/A,4.20,60,4,Intel Smart Cache,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 630
+Core i3-7130U,Discontinued,Q2'17,Kaby Lake,2,4,14,N/A,2.70,15,3,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 620
+Core i3-7020U,Discontinued,Q2'18,Kaby Lake,2,4,14,N/A,2.30,15,3,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 620
+Core m3-7Y30,Discontinued,Q3'16,Kaby Lake,2,4,14,2.60,1.00,4.5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 615
+Core m3-7Y32,Discontinued,Q2'17,Kaby Lake,2,4,14,3.00,1.10,4.5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 615
+Core i7-6567U,Discontinued,Q3'15,Skylake,2,4,14,3.60,3.30,28,4,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Graphics 550
+Core i7-6700K,Discontinued,Q3'15,Skylake,4,8,14,4.20,4.00,91,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i7-6500U,Discontinued,Q3'15,Skylake,2,4,14,3.10,2.50,15,4,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 520
+Core i7-6560U,Discontinued,Q3'15,Skylake,2,4,14,3.20,2.20,15,4,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Graphics 540
+Core i7-6600U,Launched,Q3'15,Skylake,2,4,14,3.40,2.60,15,4,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 520
+Core i7-6650U,Discontinued,Q3'15,Skylake,2,4,14,3.40,2.20,15,4,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Graphics 540
+Core i7-6700,Launched,Q3'15,Skylake,4,8,14,4.00,3.40,65,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i7-6700HQ,Discontinued,Q3'15,Skylake,4,8,14,3.50,2.60,45,6,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i7-6700T,Discontinued,Q3'15,Skylake,4,8,14,3.60,2.80,35,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i7-6820HK,Discontinued,Q3'15,Skylake,4,8,14,3.60,2.70,45,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i7-6820HQ,Discontinued,Q3'15,Skylake,4,8,14,3.60,2.70,45,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i7-6920HQ,Discontinued,Q3'15,Skylake,4,8,14,3.80,2.90,45,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i7-6700TE,Launched,Q4'15,Skylake,4,8,14,3.40,2.40,35,8,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i7-6820EQ,Launched,Q4'15,Skylake,4,8,14,3.50,2.80,45,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i7-6822EQ,Launched,Q4'15,Skylake,4,8,14,2.80,2.00,25,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i7-6770HQ,Discontinued,Q1'16,Skylake,4,8,14,3.50,2.60,45,6,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Pro Graphics 580
+Core i7-6870HQ,Discontinued,Q1'16,Skylake,4,8,14,3.60,2.70,45,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Pro Graphics 580
+Core i7-6970HQ,Discontinued,Q1'16,Skylake,4,8,14,3.70,2.80,45,8,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Pro Graphics 580
+Core i7-6660U,Discontinued,Q1'16,Skylake,2,4,14,3.40,2.40,15,4,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Graphics 540
+Core i7-6785R,Discontinued,Q2'16,Skylake,4,8,14,3.90,3.30,65,8,N/A,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel Iris Pro Graphics 580
+Core i5-6600K,Discontinued,Q3'15,Skylake,4,4,14,3.90,3.50,91,6,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i5-6200U,Discontinued,Q3'15,Skylake,2,4,14,2.80,2.30,15,3,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 520
+Core i5-6260U,Discontinued,Q3'15,Skylake,2,4,14,2.90,1.80,15,4,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Graphics 540
+Core i5-6267U,Discontinued,Q3'15,Skylake,2,4,14,3.30,2.90,28,4,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Graphics 550
+Core i5-6287U,Discontinued,Q3'15,Skylake,2,4,14,3.50,3.10,28,4,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Graphics 550
+Core i5-6300HQ,Discontinued,Q3'15,Skylake,4,4,14,3.20,2.30,45,6,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i5-6300U,Launched,Q3'15,Skylake,2,4,14,3.00,2.40,15,3,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 520
+Core i5-6360U,Discontinued,Q3'15,Skylake,2,4,14,3.10,2.00,15,4,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Graphics 540
+Core i5-6400,Discontinued,Q3'15,Skylake,4,4,14,3.30,2.70,65,6,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i5-6400T,Discontinued,Q3'15,Skylake,4,4,14,2.80,2.20,35,6,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i5-6440HQ,Discontinued,Q3'15,Skylake,4,4,14,3.50,2.60,45,6,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i5-6500,Launched,Q3'15,Skylake,4,4,14,3.60,3.20,65,6,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i5-6500T,Discontinued,Q3'15,Skylake,4,4,14,3.10,2.50,35,6,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i5-6600,Discontinued,Q3'15,Skylake,4,4,14,3.90,3.30,65,6,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i5-6600T,Discontinued,Q3'15,Skylake,4,4,14,3.50,2.70,35,6,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i5-6440EQ,Launched,Q4'15,Skylake,4,4,14,3.40,2.70,45,6,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i5-6442EQ,Launched,Q4'15,Skylake,4,4,14,2.70,1.90,25,6,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i5-6500TE,Launched,Q4'15,Skylake,4,4,14,3.30,2.30,35,6,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i5-6402P,Discontinued,Q4'15,Skylake,4,4,14,3.40,2.80,65,6,N/A,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 510
+Core i5-6350HQ,Discontinued,Q1'16,Skylake,4,4,14,3.20,2.30,45,6,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Pro Graphics 580
+Core i5-6585R,Discontinued,Q2'16,Skylake,4,4,14,3.60,2.80,65,6,N/A,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel Iris Pro Graphics 580
+Core i5-6685R,Discontinued,Q2'16,Skylake,4,4,14,3.80,3.20,65,6,N/A,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel Iris Pro Graphics 580
+Core i3-6100,Launched,Q3'15,Skylake,2,4,14,N/A,3.70,51,3,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V,N/A,Intel HD Graphics 530
+Core i3-6100H,Discontinued,Q3'15,Skylake,2,4,14,N/A,2.70,35,3,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i3-6100T,Discontinued,Q3'15,Skylake,2,4,14,N/A,3.20,35,3,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i3-6100U,Launched,Q3'15,Skylake,2,4,14,N/A,2.30,15,3,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 520
+Core i3-6167U,Discontinued,Q3'15,Skylake,2,4,14,N/A,2.70,28,3,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Graphics 550
+Core i3-6300,Discontinued,Q3'15,Skylake,2,4,14,N/A,3.80,51,4,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i3-6300T,Discontinued,Q3'15,Skylake,2,4,14,N/A,3.30,35,4,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i3-6320,Discontinued,Q3'15,Skylake,2,4,14,N/A,3.90,51,4,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i3-6100E,Launched,Q4'15,Skylake,2,4,14,N/A,2.70,35,3,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i3-6100TE,Launched,Q4'15,Skylake,2,4,14,N/A,2.70,35,4,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 530
+Core i3-6102E,Launched,Q4'15,Skylake,2,4,14,N/A,1.90,25,3,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 530
+Core i3-6098P,Discontinued,Q4'15,Skylake,2,4,14,N/A,3.60,54,3,N/A,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,Intel HD Graphics 510
+Core i3-6157U,Discontinued,Q3'16,Skylake,2,4,14,N/A,2.40,28,3,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel Iris Graphics 550
+Core i3-6006U,Discontinued,Q4'16,Skylake,2,4,14,N/A,2.00,15,3,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 520
+Core m3-6Y30,Discontinued,Q3'15,Skylake,2,4,14,2.20,0.90,4.5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 515
+Core m3-6Y54,Discontinued,Q3'15,Skylake,2,4,14,2.70,1.10,4.5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 515
+Core m3-6Y57,Discontinued,Q3'15,Skylake,2,4,14,2.80,1.10,4.5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 515
+Core m3-6Y75,Discontinued,Q3'15,Skylake,2,4,14,3.10,1.20,4.5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,Intel HD Graphics 515
+Core i7-5500U,Discontinued,Q1'15,Broadwell,2,4,14,3.00,2.40,15,4,N/A,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 5500
+Core i7-5550U,Discontinued,Q1'15,Broadwell,2,4,14,3.00,2.00,15,4,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1600/1866",N/A,Intel HD Graphics 6000
+Core i7-5557U,Discontinued,Q1'15,Broadwell,2,4,14,3.40,3.10,28,4,N/A,16,"DDR3L 1333/1600, LPDDR3 1600/1866",N/A,Intel Iris Graphics 6100
+Core i7-5600U,Discontinued,Q1'15,Broadwell,2,4,14,3.20,2.60,15,4,N/A,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 5500
+Core i7-5650U,Discontinued,Q1'15,Broadwell,2,4,14,3.10,2.20,15,4,N/A,16,"DDR3L 1333/1600, LPDDR3 1600/1866",N/A,Intel HD Graphics 6000
+Core i7-5700EQ,Discontinued,Q2'15,Broadwell,4,8,14,3.40,2.60,47,6,Intel Smart Cache,32,DDR3L,1600,Name Unknown
+Core i7-5700HQ,Discontinued,Q2'15,Broadwell,4,8,14,3.50,2.70,47,6,N/A,32,"DDR3L 1600/1866, LPDDR3 1600/1866",N/A,Intel Iris Pro Graphics 6200
+Core i7-5750HQ,Discontinued,Q2'15,Broadwell,4,8,14,3.40,2.50,47,6,N/A,32,"DDR3L 1600/1866, LPDDR3 1600/1866",N/A,Intel Iris Pro Graphics 6200
+Core i7-5775C,Discontinued,Q2'15,Broadwell,4,8,14,3.70,3.30,65,6,N/A,32,"DDR3L-1333/1600 @ 1.5V",N/A,Intel Iris Pro Graphics 6200
+Core i7-5775R,Discontinued,Q2'15,Broadwell,4,8,14,3.80,3.30,65,6,N/A,32,"DDR3L-1333/1600/1866 @ 1.5V",N/A,Intel Iris Pro Graphics 6200
+Core i7-5850EQ,Discontinued,Q2'15,Broadwell,4,8,14,3.40,2.70,47,6,Intel Smart Cache,32,DDR3L,1600,Intel Iris Pro Graphics 6200
+Core i7-5850HQ,Discontinued,Q2'15,Broadwell,4,8,14,3.60,2.70,47,6,N/A,32,"DDR3L 1600/1866, LPDDR3 1600/1866",N/A,Intel Iris Pro Graphics 6200
+Core i7-5950HQ,Discontinued,Q2'15,Broadwell,4,8,14,3.80,2.90,47,6,N/A,32,"DDR3L 1600/1866, LPDDR3 1600/1866",N/A,Intel Iris Pro Graphics 6200
+Core i5-5200U,Discontinued,Q1'15,Broadwell,2,4,14,2.70,2.20,15,3,N/A,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 5500
+Core i5-5250U,Discontinued,Q1'15,Broadwell,2,4,14,2.70,1.60,15,3,N/A,16,"DDR3L 1333/1600, LPDDR3 1600/1866",N/A,Intel HD Graphics 6000
+Core i5-5257U,Discontinued,Q1'15,Broadwell,2,4,14,3.10,2.70,28,3,N/A,16,"DDR3L 1333/1600, LPDDR3 1600/1866",N/A,Intel Iris Graphics 6100
+Core i5-5287U,Discontinued,Q1'15,Broadwell,2,4,14,3.30,2.90,28,3,N/A,16,"DDR3L 1333/1600, LPDDR3 1600/1866",N/A,Intel Iris Graphics 6100
+Core i5-5300U,Discontinued,Q1'15,Broadwell,2,4,14,2.90,2.30,15,3,N/A,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 5500
+Core i5-5350U,Discontinued,Q1'15,Broadwell,2,4,14,2.90,1.80,15,3,N/A,16,"DDR3L 1333/1600, LPDDR3 1600/1866",N/A,Intel HD Graphics 6000
+Core i5-5350H,Discontinued,Q2'15,Broadwell,2,4,14,3.50,3.10,47,4,N/A,32,"DDR3L 1600/1866, LPDDR3 1600/1866",N/A,Intel Iris Pro Graphics 6200
+Core i5-5575R,Discontinued,Q2'15,Broadwell,4,N/A,14,3.30,2.80,65,4,N/A,32,"DDR3L-1333/1600/1866 @ 1.5V",N/A,Intel Iris Pro Graphics 6200
+Core i5-5675C,Discontinued,Q2'15,Broadwell,4,N/A,14,3.60,3.10,65,4,N/A,32,"DDR3L-1333/1600 @ 1.5V",N/A,Intel Iris Pro Graphics 6200
+Core i5-5675R,Discontinued,Q2'15,Broadwell,4,N/A,14,3.60,3.10,65,4,N/A,32,"DDR3L-1333/1600/1866 @ 1.5V",N/A,Intel Iris Pro Graphics 6200
+Core i3-5005U,Discontinued,Q1'15,Broadwell,2,4,14,N/A,2.00,15,3,N/A,16,"DDR3L 1333/1600, LPDDR 1333/1600",N/A,Intel HD Graphics 5500
+Core i3-5010U,Discontinued,Q1'15,Broadwell,2,4,14,N/A,2.10,15,3,N/A,16,"DDR3L 1333/1600, LPDDR 1333/1600",N/A,Intel HD Graphics 5500
+Core i3-5157U,Discontinued,Q1'15,Broadwell,2,4,14,N/A,2.50,28,3,N/A,16,"DDR3L 1333/1600, LPDDR3 1600/1866",N/A,Intel Iris Graphics 6100
+Core i3-5015U,Discontinued,Q1'15,Broadwell,2,4,14,N/A,2.10,15,3,N/A,16,"DDR3L 1333/1600, LPDDR 1333/1600",N/A,Intel HD Graphics 5500
+Core i3-5020U,Discontinued,Q1'15,Broadwell,2,4,14,N/A,2.20,15,3,N/A,16,"DDR3L 1333/1600, LPDDR 1333/1600",N/A,Intel HD Graphics 5500
+Core M-5Y10,Discontinued,Q3'14,Broadwell,2,4,14,2.00,0.80,4.5,4,N/A,16,"LPDDR3 1333/1600, DDR3L/DDR3L-RS 1600",N/A,Intel HD Graphics 5300
+Core M-5Y10a,Discontinued,Q3'14,Broadwell,2,4,14,2.00,0.80,4.5,4,N/A,16,"LPDDR3 1333/1600, DDR3L/DDR3L-RS 1600",N/A,Intel HD Graphics 5300
+Core M-5Y70,Discontinued,Q3'14,Broadwell,2,4,14,2.60,1.10,4.5,4,N/A,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 5300
+Core M-5Y10c,Discontinued,Q4'14,Broadwell,2,4,14,2.00,0.80,4.5,4,N/A,16,"LPDDR3 1333/1600, DDR3L/DDR3L-RS 1600",N/A,Intel HD Graphics 5300
+Core M-5Y31,Discontinued,Q4'14,Broadwell,2,4,14,2.40,0.90,4.5,4,N/A,16,"LPDDR3 1333/1600, DDR3L/DDR3L-RS 1600",N/A,Intel HD Graphics 5300
+Core M-5Y51,Discontinued,Q4'14,Broadwell,2,4,14,2.60,1.10,4.5,4,N/A,16,"LPDDR3 1333/1600, DDR3L/DDR3L-RS 1600",N/A,Intel HD Graphics 5300
+Core M-5Y71,Discontinued,Q4'14,Broadwell,2,4,14,2.90,1.20,4.5,4,N/A,16,"LPDDR3 1333/1600, DDR3L/DDR3L-RS 1600",N/A,Intel HD Graphics 5300
+Core i7-4700EQ,Discontinued,Q2'13,Haswell,4,8,22,3.40,2.40,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4700HQ,Discontinued,Q2'13,Haswell,4,8,22,3.40,2.40,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4700MQ,Discontinued,Q2'13,Haswell,4,8,22,3.40,2.40,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4702HQ,Discontinued,Q2'13,Haswell,4,8,22,3.20,2.20,37,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4702MQ,Discontinued,Q2'13,Haswell,4,8,22,3.20,2.20,37,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4765T,Discontinued,Q2'13,Haswell,4,8,22,3.00,2.00,35,8,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i7-4770,Discontinued,Q2'13,Haswell,4,8,22,3.90,3.40,84,8,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i7-4770K,Discontinued,Q2'13,Haswell,4,8,22,3.90,3.50,84,8,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i7-4770S,Discontinued,Q2'13,Haswell,4,8,22,3.90,3.10,65,8,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i7-4770T,Discontinued,Q2'13,Haswell,4,8,22,3.70,2.50,45,8,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i7-4770TE,Discontinued,Q2'13,Haswell,4,8,22,3.30,2.30,45,8,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4800MQ,Discontinued,Q2'13,Haswell,4,8,22,3.70,2.70,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4900MQ,Discontinued,Q2'13,Haswell,4,8,22,3.80,2.80,47,8,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4500U,Discontinued,Q3'13,Haswell,2,4,22,3.00,1.80,15,4,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i7-4550U,Discontinued,Q3'13,Haswell,2,4,22,3.00,1.50,15,4,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 5000
+Core i7-4558U,Discontinued,Q3'13,Haswell,2,4,22,3.30,2.80,28,4,Intel Smart Cache,16,"DDR3L 1333/1600",N/A,Intel Iris Graphics 5100
+Core i7-4650U,Discontinued,Q3'13,Haswell,2,4,22,3.30,1.70,15,4,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 5000
+Core i7-4770R,Discontinued,Q2'13,Crystal Well,4,8,22,3.90,3.20,65,6,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Intel Iris Pro Graphics 5200
+Core i7-4750HQ,Discontinued,Q3'13,Crystal Well,4,8,22,3.20,2.00,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel Iris Pro Graphics 5200
+Core i7-4850HQ,Discontinued,Q3'13,Crystal Well,4,8,22,3.50,2.30,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel Iris Pro Graphics 5200
+Core i7-4950HQ,Discontinued,Q3'13,Crystal Well,4,8,22,3.60,2.40,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel Iris Pro Graphics 5200
+Core i7-4600M,Discontinued,Q4'13,Haswell,2,4,22,3.60,2.90,37,4,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4600U,Discontinued,Q3'13,Haswell,2,4,22,3.30,2.10,15,4,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i7-4610Y,Discontinued,Q3'13,Haswell,2,4,22,2.90,1.70,11.5,4,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4200
+Core i7-4771,Discontinued,Q3'13,Haswell,4,8,22,3.90,3.50,84,8,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i7-4960HQ,Discontinued,Q4'13,Crystal Well,4,8,22,3.80,2.60,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel Iris Pro Graphics 5200
+Core i7-4610M,Discontinued,Q1'14,Haswell,2,4,22,3.70,3.00,37,4,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4810MQ,Discontinued,Q1'14,Haswell,4,8,22,3.80,2.80,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4860HQ,Discontinued,Q1'14,Crystal Well,4,8,22,3.60,2.40,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel Iris Pro Graphics 5200
+Core i7-4910MQ,Discontinued,Q1'14,Haswell,4,8,22,3.90,2.90,47,8,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4700EC,Discontinued,Q1'14,Haswell,4,8,22,N/A,2.70,43,8,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Name Unknown
+Core i7-4702EC,Discontinued,Q1'14,Haswell,4,8,22,N/A,2.00,27,8,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Name Unknown
+Core i7-4510U,Discontinued,Q2'14,Haswell,2,4,22,3.10,2.00,15,4,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i7-4710HQ,Discontinued,Q2'14,Haswell,4,8,22,3.50,2.50,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4710MQ,Discontinued,Q2'14,Haswell,4,8,22,3.50,2.50,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4712HQ,Discontinued,Q2'14,Haswell,4,8,22,3.30,2.30,37,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4712MQ,Discontinued,Q2'14,Haswell,4,8,22,3.30,2.30,37,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4760HQ,Discontinued,Q2'14,Crystal Well,4,8,22,3.30,2.10,47,6,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel Iris Pro Graphics 5200
+Core i7-4785T,Discontinued,Q2'14,Haswell,4,8,22,3.20,2.20,35,8,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i7-4790,Discontinued,Q2'14,Haswell,4,8,22,4.00,3.60,84,8,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i7-4790S,Discontinued,Q2'14,Haswell,4,8,22,4.00,3.20,65,8,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i7-4790T,Discontinued,Q2'14,Haswell,4,8,22,3.90,2.70,45,8,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i7-4790K,Discontinued,Q2'14,Devil's Canyon,4,8,22,4.40,4.00,88,8,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i7-4578U,Discontinued,Q3'14,Haswell,2,4,22,3.50,3.00,28,4,N/A,16,"DDR3L-1333/1600, LPDDR3-1333/1600",N/A,Intel Iris Graphics 5100
+Core i7-4770HQ,Discontinued,Q3'14,Crystal Well,4,8,22,3.40,2.20,47,6,N/A,32,"DDR3L 1333/1600",N/A,Intel Iris Pro Graphics 5200
+Core i7-4870HQ,Discontinued,Q3'14,Crystal Well,4,8,22,3.70,2.50,47,6,N/A,32,"DDR3L 1333/1600",N/A,Intel Iris Pro Graphics 5200
+Core i7-4980HQ,Discontinued,Q3'14,Crystal Well,4,8,22,4.00,2.80,47,6,N/A,32,"DDR3L 1333/1600",N/A,Intel Iris Pro Graphics 5200
+Core i7-4720HQ,Discontinued,Q1'15,Haswell,4,8,22,3.60,2.60,47,6,N/A,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i7-4722HQ,Discontinued,Q1'15,Haswell,4,8,22,3.40,2.40,37,6,N/A,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4430,Discontinued,Q2'13,Haswell,4,4,22,3.20,3.00,84,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4430S,Discontinued,Q2'13,Haswell,4,4,22,3.20,2.70,65,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4570,Discontinued,Q2'13,Haswell,4,4,22,3.60,3.20,84,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4570S,Discontinued,Q2'13,Haswell,4,4,22,3.60,2.90,65,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4570T,Discontinued,Q2'13,Haswell,2,4,22,3.60,2.90,35,4,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4570TE,Discontinued,Q2'13,Haswell,2,4,22,3.30,2.70,35,4,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4670,Discontinued,Q2'13,Haswell,4,4,22,3.80,3.40,84,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4670K,Discontinued,Q2'13,Haswell,4,4,22,3.80,3.40,84,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4670S,Discontinued,Q2'13,Haswell,4,4,22,3.80,3.10,65,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4670T,Discontinued,Q2'13,Haswell,4,4,22,3.30,2.30,45,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4200U,Discontinued,Q3'13,Haswell,2,4,22,2.60,1.60,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i5-4200Y,Discontinued,Q3'13,Haswell,2,4,22,1.90,1.40,11.5,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4200
+Core i5-4250U,Discontinued,Q3'13,Haswell,2,4,22,2.60,1.30,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 5000
+Core i5-4258U,Discontinued,Q3'13,Haswell,2,4,22,2.90,2.40,28,3,Intel Smart Cache,16,"DDR3L 1333/1600",N/A,Intel Iris Graphics 5100
+Core i5-4288U,Discontinued,Q3'13,Haswell,2,4,22,3.10,2.60,28,3,Intel Smart Cache,16,"DDR3L 1333/1600",N/A,Intel Iris Graphics 5100
+Core i5-4350U,Discontinued,Q3'13,Haswell,2,4,22,2.90,1.40,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 5000
+Core i5-4570R,Discontinued,Q2'13,Crystal Well,4,4,22,3.20,2.70,65,4,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Intel Iris Pro Graphics 5200
+Core i5-4670R,Discontinued,Q2'13,Crystal Well,4,4,22,3.70,3.00,65,4,Intel Smart Cache,32,"DDR3 and DDR3L 1333/1600 at 1.5V",N/A,Intel Iris Pro Graphics 5200
+Core i5-4200H,Discontinued,Q4'13,Haswell,2,4,22,3.40,2.80,47,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4200M,Discontinued,Q4'13,Haswell,2,4,22,3.10,2.50,37,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4202Y,Discontinued,Q3'13,Haswell,2,4,22,2.00,1.60,11.5,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4200
+Core i5-4210Y,Discontinued,Q3'13,Haswell,2,4,22,1.90,1.50,11.5,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4200
+Core i5-4300M,Discontinued,Q4'13,Haswell,2,4,22,3.30,2.60,37,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4300U,Discontinued,Q3'13,Haswell,2,4,22,2.90,1.90,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i5-4300Y,Discontinued,Q3'13,Haswell,2,4,22,2.30,1.60,11.5,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4200
+Core i5-4302Y,Discontinued,Q3'13,Haswell,2,4,22,2.30,1.60,11.5,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4200
+Core i5-4330M,Discontinued,Q4'13,Haswell,2,4,22,3.50,2.80,37,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4400E,Discontinued,Q3'13,Haswell,2,4,22,3.30,2.70,37,3,Intel Smart Cache,16,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4402E,Discontinued,Q3'13,Haswell,2,4,22,2.70,1.60,25,3,Intel Smart Cache,16,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4440,Discontinued,Q3'13,Haswell,4,4,22,3.30,3.10,84,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4440S,Discontinued,Q3'13,Haswell,4,4,22,3.30,2.80,65,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4310M,Discontinued,Q1'14,Haswell,2,4,22,3.40,2.70,37,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4310U,Discontinued,Q1'14,Haswell,2,4,22,3.00,2.00,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i5-4340M,Discontinued,Q1'14,Haswell,2,4,22,3.60,2.90,37,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4360U,Discontinued,Q1'14,Haswell,2,4,22,3.00,1.50,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 5000
+Core i5-4402EC,Discontinued,Q1'14,Haswell,2,4,22,N/A,2.50,27,4,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,N/A
+Core i5-4210M,Discontinued,Q2'14,Haswell,2,4,22,3.20,2.60,37,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4210U,Discontinued,Q2'14,Haswell,2,4,22,2.70,1.70,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i5-4220Y,Discontinued,Q2'14,Haswell,2,4,22,2.00,1.60,11.5,3,N/A,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4200
+Core i5-4260U,Discontinued,Q2'14,Haswell,2,4,22,2.70,1.40,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 5000
+Core i5-4410E,Discontinued,Q2'14,Haswell,2,4,22,N/A,2.90,37,3,Intel Smart Cache,16,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4422E,Discontinued,Q2'14,Haswell,2,4,22,2.90,1.80,25,3,Intel Smart Cache,16,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4460,Discontinued,Q2'14,Haswell,4,4,22,3.40,3.20,84,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4460S,Discontinued,Q2'14,Haswell,4,4,22,3.40,2.90,65,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4460T,Discontinued,Q2'14,Haswell,4,4,22,2.70,1.90,35,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4590,Discontinued,Q2'14,Haswell,4,4,22,3.70,3.30,84,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4590S,Discontinued,Q2'14,Haswell,4,4,22,3.70,3.00,65,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4590T,Discontinued,Q2'14,Haswell,4,4,22,3.00,2.00,35,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4690,Discontinued,Q2'14,Haswell,4,4,22,3.90,3.50,84,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4690S,Discontinued,Q2'14,Haswell,4,4,22,3.90,3.20,65,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-133/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4690T,Discontinued,Q2'14,Haswell,4,4,22,3.50,2.50,45,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4690K,Discontinued,Q2'14,Devil's Canyon,4,4,22,3.90,3.50,88,6,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i5-4210H,Discontinued,Q3'14,Haswell,2,4,22,3.50,2.90,47,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i5-4278U,Discontinued,Q3'14,Haswell,2,4,22,3.10,2.60,28,3,N/A,16,"DDR3L-1333/1600, LPDDR3-1333/1600",N/A,Intel Iris Graphics 5100
+Core i5-4308U,Discontinued,Q3'14,Haswell,2,4,22,3.30,2.80,28,3,N/A,16,"DDR3L-1333/1600, LPDDR3-1333/1600",N/A,Intel Iris Graphics 5100
+Core i3-4010U,Discontinued,Q3'13,Haswell,2,4,22,N/A,1.70,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i3-4010Y,Discontinued,Q3'13,Haswell,2,4,22,N/A,1.30,11.5,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4200
+Core i3-4100U,Discontinued,Q3'13,Haswell,2,4,22,N/A,1.80,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i3-4158U,Discontinued,Q3'13,Haswell,2,4,22,N/A,2.00,28,3,Intel Smart Cache,16,"DDR3L 1333/1600",N/A,Intel Iris Graphics 5100
+Core i3-4000M,Discontinued,Q4'13,Haswell,2,4,22,N/A,2.40,37,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i3-4005M,Discontinued,Q3'13,Haswell,2,4,22,N/A,1.70,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i3-4012Y,Discontinued,Q3'13,Haswell,2,4,22,N/A,1.50,11.5,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4200
+Core i3-4020Y,Discontinued,Q3'13,Haswell,2,4,22,N/A,1.50,11.5,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4200
+Core i3-4100E,Discontinued,Q3'13,Haswell,2,4,22,N/A,2.40,37,3,Intel Smart Cache,16,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i3-4100M,Discontinued,Q4'13,Haswell,2,4,22,N/A,2.50,37,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i3-4102E,Discontinued,Q3'13,Haswell,2,4,22,N/A,1.60,25,3,Intel Smart Cache,16,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i3-4130,Discontinued,Q3'13,Haswell,2,4,22,N/A,3.40,54,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4400
+Core i3-4130T,Discontinued,Q3'13,Haswell,2,4,22,N/A,2.90,35,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4400
+Core i3-4330,Discontinued,Q3'13,Haswell,2,4,22,N/A,3.50,54,4,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i3-4330T,Discontinued,Q3'13,Haswell,2,4,22,N/A,3.00,35,4,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i3-4330TE,Discontinued,Q3'13,Haswell,2,4,22,N/A,2.40,35,4,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 4600
+Core i3-4340,Discontinued,Q3'13,Haswell,2,4,22,N/A,3.60,54,4,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i3-4025U,Discontinued,Q2'14,Haswell,2,4,22,N/A,1.90,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i3-4030U,Discontinued,Q2'14,Haswell,2,4,22,N/A,1.90,15,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i3-4030Y,Discontinued,Q2'14,Haswell,2,4,22,N/A,1.60,11.5,3,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4200
+Core i3-4110E,Discontinued,Q2'14,Haswell,2,4,22,N/A,2.60,37,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i3-4110M,Discontinued,Q2'14,Haswell,2,4,22,N/A,2.60,37,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i3-4112E,Discontinued,Q2'14,Haswell,2,4,22,N/A,1.80,25,3,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,Intel HD Graphics 4600
+Core i3-4120U,Discontinued,Q2'14,Haswell,2,4,22,N/A,2.00,15,3,N/A,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,Intel HD Graphics 4400
+Core i3-4150,Discontinued,Q2'14,Haswell,2,4,22,N/A,3.50,54,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4400
+Core i3-4150T,Discontinued,Q2'14,Haswell,2,4,22,N/A,3.00,35,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4400
+Core i3-4340TE,Discontinued,Q2'14,Haswell,2,4,22,N/A,2.60,35,4,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 4600
+Core i3-4350,Discontinued,Q2'14,Haswell,2,4,22,N/A,3.60,54,4,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i3-4350T,Discontinued,Q2'14,Haswell,2,4,22,N/A,3.10,35,4,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i3-4360,Discontinued,Q2'14,Haswell,2,4,22,N/A,3.70,54,4,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i3-4160,Discontinued,Q3'14,Haswell,2,4,22,N/A,3.60,54,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4400
+Core i3-4160T,Discontinued,Q3'14,Haswell,2,4,22,N/A,3.10,35,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4400
+Core i3-4360T,Discontinued,Q3'14,Haswell,2,4,22,N/A,3.20,35,4,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i3-4370,Discontinued,Q3'14,Haswell,2,4,22,N/A,3.80,54,4,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i3-4170,Discontinued,Q1'15,Haswell,2,4,22,N/A,3.70,54,3,N/A,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4400
+Core i3-4170T,Discontinued,Q1'15,Haswell,2,4,22,N/A,3.20,35,3,N/A,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4400
+Core i3-4370T,Discontinued,Q1'15,Haswell,2,4,22,N/A,3.30,35,4,N/A,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,Intel HD Graphics 4600
+Core i3-L13G4,Discontinued,Q2'20,Lakefield,5,5,10,2.80,0.80,N/A,4,N/A,8,"LPDDR4X 4267 POP Memory",4267,Intel UHD Graphics
+Core i5-L16G7,Discontinued,Q2'20,Lakefield,5,5,10,3.00,1.40,N/A,4,N/A,8,"LPDDR4X 4267 POP Memory",4267,Intel UHD Graphics
+Core i3-3115C,Discontinued,Q3'13,Gladden,2,4,22,N/A,2.50,25,4,L3 Cache,32,"DDR3/DDR3L 1066/1333",N/A,N/A
+Core i5-3340,Discontinued,Q3'13,Ivy Bridge,4,4,22,3.30,3.10,77,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i5-3340S,Discontinued,Q3'13,Ivy Bridge,4,4,22,3.30,2.80,65,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i3-3245,Discontinued,Q2'13,Ivy Bridge,2,4,22,N/A,3.40,55,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 4000
+Core i3-3250,Discontinued,Q2'13,Ivy Bridge,2,4,22,N/A,3.50,55,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i3-3250T,Discontinued,Q2'13,Ivy Bridge,2,4,22,N/A,3.00,35,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i3-3130M,Discontinued,Q1'13,Ivy Bridge,2,4,22,N/A,2.60,35,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i3-3210,Discontinued,Q1'13,Ivy Bridge,2,4,22,N/A,3.20,55,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i3-3227U,Discontinued,Q1'13,Ivy Bridge,2,4,22,N/A,1.90,17,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3230M (BGA),Discontinued,Q1'13,Ivy Bridge,2,4,22,3.20,2.60,35,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3230M (rPGA),Discontinued,Q1'13,Ivy Bridge,2,4,22,3.20,2.60,35,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3337U,Discontinued,Q1'13,Ivy Bridge,2,4,22,2.70,1.80,17,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3340M,Discontinued,Q1'13,Ivy Bridge,2,4,22,3.40,2.70,35,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3380M,Discontinued,Q1'13,Ivy Bridge,2,4,22,3.60,2.90,35,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3437U,Discontinued,Q1'13,Ivy Bridge,2,4,22,2.90,1.90,17,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3537U,Discontinued,Q1'13,Ivy Bridge,2,4,22,3.10,2.00,17,4,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3540M,Discontinued,Q1'13,Ivy Bridge,2,4,22,3.70,3.00,35,4,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3687U,Discontinued,Q1'13,Ivy Bridge,2,4,22,3.30,2.10,17,4,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i3-3229U,Discontinued,Q1'13,Ivy Bridge,2,4,22,N/A,1.40,13,3,N/A,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3339Y,Discontinued,Q1'13,Ivy Bridge,2,4,22,2.00,1.50,13,3,N/A,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3439Y,Discontinued,Q1'13,Ivy Bridge,2,4,22,2.30,1.50,13,3,N/A,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3689Y,Discontinued,Q1'13,Ivy Bridge,2,4,22,2.60,1.50,13,4,N/A,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i3-2348M,Discontinued,Q1'13,Sandy Bridge,2,4,32,N/A,2.30,35,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-2375M,Discontinued,Q1'13,Sandy Bridge,2,4,32,N/A,1.50,17,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Name Unknown
+Core i3-3120M,Discontinued,Q3'12,Ivy Bridge,2,4,22,N/A,2.50,35,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3630QM,Discontinued,Q3'12,Ivy Bridge,4,8,22,3.40,2.40,45,6,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3632QM (BGA),Discontinued,Q3'12,Ivy Bridge,4,8,22,3.20,2.20,35,6,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3632QM (rPGA),Discontinued,Q3'12,Ivy Bridge,4,8,22,3.20,2.20,35,6,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3635QM,Discontinued,Q3'12,Ivy Bridge,4,8,22,3.40,2.40,45,6,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3740QM,Discontinued,Q3'12,Ivy Bridge,4,8,22,3.70,2.70,45,6,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3840QM,Discontinued,Q3'12,Ivy Bridge,4,8,22,3.80,2.80,45,8,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i3-3220,Discontinued,Q3'12,Ivy Bridge,2,4,22,N/A,3.30,55,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i3-3220T,Discontinued,Q3'12,Ivy Bridge,2,4,22,N/A,2.80,35,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i3-3225,Discontinued,Q3'12,Ivy Bridge,2,4,22,N/A,3.30,55,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 4000
+Core i3-3240,Discontinued,Q3'12,Ivy Bridge,2,4,22,N/A,3.40,55,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i3-3240T,Discontinued,Q3'12,Ivy Bridge,2,4,22,N/A,2.90,35,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i5-3330,Discontinued,Q3'12,Ivy Bridge,4,4,22,3.20,3.00,77,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i5-3330S,Discontinued,Q3'12,Ivy Bridge,4,4,22,3.20,2.70,65,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i5-3350P,Discontinued,Q3'12,Ivy Bridge,4,4,22,3.30,3.10,69,6,Intel Smart Cache,32.23,"DDR3 1333/1600",N/A,N/A
+Core i3-2328M,Discontinued,Q3'12,Sandy Bridge,2,4,32,N/A,2.20,35,3,N/A,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-2365M,Discontinued,Q3'12,Sandy Bridge,2,4,32,N/A,1.40,17,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Name Unknown
+Core i3-3120ME,Discontinued,Q3'12,Ivy Bridge,2,4,22,N/A,2.40,35,3,Intel Smart Cache,16,"DDR3/DDR3L 1333/1600",N/A,Intel HD Graphics 4000
+Core i3-3217UE,Discontinued,Q3'12,Ivy Bridge,2,4,22,N/A,1.60,17,3,Intel Smart Cache,16,"DDR3/DDR3L 1333/1600",N/A,Intel HD Graphics 4000
+Core i3-2377M,Discontinued,Q2'12,Sandy Bridge,2,4,32,N/A,1.50,17,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Name Unknown
+Core i3-3110M,Discontinued,Q2'12,Ivy Bridge,2,4,22,N/A,2.40,35,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i3-3217U,Discontinued,Q2'12,Ivy Bridge,2,4,22,N/A,1.80,17,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3610ME,Discontinued,Q2'12,Ivy Bridge,2,4,22,3.30,2.70,35,3,Intel Smart Cache,16,"DDR3/DDR3L 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3517UE,Discontinued,Q2'12,Ivy Bridge,2,4,22,2.80,1.70,17,4,Intel Smart Cache,16,"DDR3/DDR3L 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3555LE,Discontinued,Q2'12,Ivy Bridge,2,4,22,3.20,2.50,25,4,Intel Smart Cache,16,"DDR3/DDR3L 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3210M (BGA),Discontinued,Q2'12,Ivy Bridge,2,4,22,3.10,2.50,35,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3210M (rPGA),Discontinued,Q2'12,Ivy Bridge,2,4,22,3.10,2.50,35,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3317U,Discontinued,Q2'12,Ivy Bridge,2,4,22,2.60,1.70,17,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3320M,Discontinued,Q2'12,Ivy Bridge,2,4,22,3.30,2.60,35,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3360M,Discontinued,Q2'12,Ivy Bridge,2,4,22,3.50,2.80,35,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3427U,Discontinued,Q2'12,Ivy Bridge,2,4,22,2.80,1.80,17,3,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3470,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.60,3.20,77,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i5-3470S,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.60,2.90,65,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i5-3470T,Discontinued,Q2'12,Ivy Bridge,2,4,22,3.60,2.90,35,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i5-3475S,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.60,2.90,65,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3570,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.80,3.40,77,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i5-3570S,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.80,3.10,65,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i7-3517U,Discontinued,Q2'12,Ivy Bridge,2,4,22,3.00,1.90,17,4,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3520M,Discontinued,Q2'12,Ivy Bridge,2,4,22,3.60,2.90,35,4,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3667U,Discontinued,Q2'12,Ivy Bridge,2,4,22,3.20,2.00,17,4,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i3-2115C,Discontinued,Q2'12,Gladden,2,4,N/A,N/A,2.00,25,3,Intel Smart Cache,32,"DDR3 1066/1333",N/A,N/A
+Core i5-3450,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.50,3.10,77,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i5-3450S,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.50,2.80,65,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i5-3550,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.70,3.30,77,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i5-3550S,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.70,3.00,65,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i5-3570K,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.80,3.40,77,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-3570T,Discontinued,Q2'12,Ivy Bridge,4,4,22,3.30,2.30,45,6,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 2500
+Core i7-3610QE,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.30,2.30,45,6,Intel Smart Cache,32.23,"DDR3 1067/1333/1600, DDR3L 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3610QM,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.30,2.30,45,6,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3612QE,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.10,2.10,35,6,Intel Smart Cache,16.11,"DDR3/DDR3L 1067/1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3612QM (BGA),Discontinued,Q2'12,Ivy Bridge,4,8,22,3.10,2.10,35,6,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3612QM (rPGA),Discontinued,Q2'12,Ivy Bridge,4,8,22,3.10,2.10,35,6,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3615QE,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.30,2.30,45,6,Intel Smart Cache,16.11,"DDR3/DDR3L 1067/1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3615QM,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.30,2.30,45,6,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3720QM,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.60,2.60,45,6,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3770,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.90,3.40,77,8,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3770K,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.90,3.50,77,8,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3770S,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.90,3.10,65,8,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3770T,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.70,2.50,45,8,Intel Smart Cache,32,"DDR3 1333/1600",N/A,Intel HD Graphics 4000
+Core i7-3820QM,Discontinued,Q2'12,Ivy Bridge,4,8,22,3.70,2.70,45,8,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,Intel HD Graphics 4000
+Core i5-2380P,Discontinued,Q1'12,Sandy Bridge,4,4,32,3.40,3.10,95,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Name Unknown
+Core i5-2450P,Discontinued,Q1'12,Sandy Bridge,4,4,32,3.50,3.20,95,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Name Unknown
+Core i5-2550K,Discontinued,Q1'12,Sandy Bridge,4,4,32,3.80,3.40,95,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Name Unknown
+Core i3-2370M,Discontinued,Q1'12,Sandy Bridge,2,4,32,N/A,2.40,35,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2450M,Discontinued,Q1'12,Sandy Bridge,2,4,32,3.10,2.50,35,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2700K,Discontinued,Q4'11,Sandy Bridge,4,8,32,3.90,3.50,95,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-2350M,Discontinued,Q4'11,Sandy Bridge,2,4,32,N/A,2.30,35,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-2367M,Discontinued,Q4'11,Sandy Bridge,2,4,32,N/A,1.40,17,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2430M,Discontinued,Q4'11,Sandy Bridge,2,4,32,3.00,2.40,35,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2435M,Discontinued,Q4'11,Sandy Bridge,2,4,32,3.00,2.40,35,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2670QM,Discontinued,Q4'11,Sandy Bridge,4,8,32,3.10,2.20,45,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2675QM,Discontinued,Q4'11,Sandy Bridge,4,8,32,3.10,2.20,45,6,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-2120T,Discontinued,Q3'11,Sandy Bridge,2,4,32,N/A,2.60,35,3,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i3-2125,Discontinued,Q3'11,Sandy Bridge,2,4,32,N/A,3.30,65,3,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-2130,Discontinued,Q3'11,Sandy Bridge,2,4,32,N/A,3.40,65,3,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i5-2320,Discontinued,Q3'11,Sandy Bridge,4,4,32,3.30,3.00,95,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i7-2640M,Discontinued,Q4'11,Sandy Bridge,2,4,32,3.50,2.80,35,4,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2760QM,Discontinued,Q4'11,Sandy Bridge,4,8,32,3.50,2.40,45,6,Intel Smart Cache,32,"DDR3 1066/1333/1600",N/A,Intel HD Graphics 3000
+Core i7-2860QM,Discontinued,Q4'11,Sandy Bridge,4,8,32,3.60,2.50,45,8,Intel Smart Cache,32,"DDR3 1066/1333/1600",N/A,Intel HD Graphics 3000
+Core i7-2960XM Extreme Edition,Discontinued,Q4'11,Sandy Bridge,4,8,32,3.70,2.70,55,8,Intel Smart Cache,32,"DDR3 1066/1333/1600",N/A,Intel HD Graphics 3000
+Core i7-980,Discontinued,Q2'11,Gulftown,6,12,32,3.60,3.33,130,12,Intel Smart Cache,24,DDR3,1066,N/A
+Core i3-2330E,Discontinued,Q2'11,Sandy Bridge,2,4,32,N/A,2.20,35,3,Intel Smart Cache,16.6,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-2330M,Discontinued,Q2'11,Sandy Bridge,2,4,32,N/A,2.20,35,3,L3 Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-2340UE,Discontinued,Q2'11,Sandy Bridge,2,4,32,N/A,1.30,17,3,Intel Smart Cache,16.6,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-2357M,Discontinued,Q2'11,Sandy Bridge,2,4,32,N/A,1.30,17,3,L3 Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2467M,Discontinued,Q2'11,Sandy Bridge,2,4,32,2.30,1.60,17,3,L3 Cache,8.01,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2557M,Discontinued,Q2'11,Sandy Bridge,2,4,32,2.70,1.70,17,3,L3 Cache,8.01,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2637M,Discontinued,Q2'11,Sandy Bridge,2,4,32,2.80,1.70,17,4,L3 Cache,8.01,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2677M,Discontinued,Q2'11,Sandy Bridge,2,4,32,2.90,1.80,17,4,L3 Cache,8.01,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2310,Discontinued,Q2'11,Sandy Bridge,4,4,32,3.20,2.90,95,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i5-2405S,Discontinued,Q2'11,Sandy Bridge,4,4,32,3.30,2.50,65,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-2102,Discontinued,Q2'11,Sandy Bridge,2,4,32,N/A,3.10,65,3,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i3-2105,Discontinued,Q2'11,Sandy Bridge,2,4,32,N/A,3.10,65,3,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-2312M,Discontinued,Q2'11,Sandy Bridge,2,4,32,N/A,2.10,35,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2610UE,Discontinued,Q1'11,Sandy Bridge,2,4,32,2.40,1.50,17,4,Intel Smart Cache,16.6,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2655LE,Discontinued,Q1'11,Sandy Bridge,2,4,32,2.90,2.20,25,4,Intel Smart Cache,16.6,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-2100,Discontinued,Q1'11,Sandy Bridge,2,4,32,N/A,3.10,65,3,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i3-2100T,Discontinued,Q1'11,Sandy Bridge,2,4,32,N/A,2.50,35,3,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i3-2120,Discontinued,Q1'11,Sandy Bridge,2,4,32,N/A,3.30,65,3,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i3-2310M,Discontinued,Q1'11,Sandy Bridge,2,4,32,N/A,2.10,35,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2390T,Discontinued,Q1'11,Sandy Bridge,2,4,32,3.50,2.70,35,3,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i5-2410M,Discontinued,Q1'11,Sandy Bridge,2,4,32,2.90,2.30,35,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2510E,Discontinued,Q1'11,Sandy Bridge,2,4,32,3.10,2.50,35,3,Intel Smart Cache,16.6,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2515E,Discontinued,Q1'11,Sandy Bridge,2,4,32,3.10,2.50,35,3,Intel Smart Cache,16.6,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2520M,Discontinued,Q1'11,Sandy Bridge,2,4,32,3.20,2.50,35,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2537M,Discontinued,Q1'11,Sandy Bridge,2,4,32,2.30,1.40,17,3,Intel Smart Cache,8.01,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2540M,Discontinued,Q1'11,Sandy Bridge,2,4,32,3.30,2.60,35,3,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2617M,Discontinued,Q1'11,Sandy Bridge,2,4,32,2.60,1.50,17,4,Intel Smart Cache,8.01,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2620M,Discontinued,Q1'11,Sandy Bridge,2,4,32,3.40,2.70,35,4,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2629M,Discontinued,Q1'11,Sandy Bridge,2,4,32,3.00,2.10,25,4,Intel Smart Cache,8.01,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2649M,Discontinued,Q1'11,Sandy Bridge,2,4,32,3.20,2.30,25,4,Intel Smart Cache,8.01,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2657M,Discontinued,Q1'11,Sandy Bridge,2,4,32,2.70,1.60,17,4,Intel Smart Cache,8.01,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-990X Extreme Edition,Discontinued,Q1'11,Gulftown,6,12,32,3.73,3.46,130,12,Intel Smart Cache,24,DDR3,1066,N/A
+Core i5-2300,Discontinued,Q1'11,Sandy Bridge,4,4,32,3.10,2.80,95,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i5-2400,Discontinued,Q1'11,Sandy Bridge,4,4,32,3.40,3.10,95,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i5-2400S,Discontinued,Q1'11,Sandy Bridge,4,4,32,3.30,2.50,65,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i5-2500,Discontinued,Q1'11,Sandy Bridge,4,4,32,3.70,3.30,95,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i5-2500K,Discontinued,Q1'11,Sandy Bridge,4,4,32,3.70,3.30,95,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i5-2500S,Discontinued,Q1'11,Sandy Bridge,4,4,32,3.70,2.70,65,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i5-2500T,Discontinued,Q1'11,Sandy Bridge,4,4,32,3.30,2.30,45,6,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i7-2600,Discontinued,Q1'11,Sandy Bridge,4,8,32,3.80,3.40,95,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i7-2600K,Discontinued,Q1'11,Sandy Bridge,4,8,32,3.80,3.40,95,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2600S,Discontinued,Q1'11,Sandy Bridge,4,8,32,3.80,2.80,65,8,Intel Smart Cache,32,"DDR3 1066/1333",N/A,Intel HD Graphics 2000
+Core i7-2630QM,Discontinued,Q1'11,Sandy Bridge,4,8,32,2.90,2.00,45,6,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2635QM,Discontinued,Q1'11,Sandy Bridge,4,8,32,2.90,2.00,45,6,Intel Smart Cache,16,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i7-2710QE,Discontinued,Q1'11,Sandy Bridge,4,8,32,3.00,2.10,45,6,Intel Smart Cache,16.6,"DDR3 1066/1333/1600",N/A,Intel HD Graphics 3000
+Core i7-2715QE,Discontinued,Q1'11,Sandy Bridge,4,8,32,3.00,2.10,45,6,Intel Smart Cache,16.6,"DDR3 1066/1333/1600",N/A,Intel HD Graphics 3000
+Core i7-2720QM,Discontinued,Q1'11,Sandy Bridge,4,8,32,3.30,2.20,45,6,Intel Smart Cache,32,"DDR3 1066/1333/1600",N/A,Intel HD Graphics 3000
+Core i7-2820QM,Discontinued,Q1'11,Sandy Bridge,4,8,32,3.40,2.30,45,8,Intel Smart Cache,32,"DDR3 1066/1333/1600",N/A,Intel HD Graphics 3000
+Core i7-2920XM Extreme Edition,Discontinued,Q1'11,Sandy Bridge,4,8,32,3.50,2.50,55,8,Intel Smart Cache,32,"DDR3 1066/1333/1600",N/A,Intel HD Graphics 3000
+Core i3-2310E,Discontinued,Q1'11,Sandy Bridge,2,4,32,N/A,2.10,35,3,Intel Smart Cache,16.6,"DDR3 1066/1333",N/A,Intel HD Graphics 3000
+Core i3-390M,Discontinued,Q1'11,Arrandale,2,4,32,N/A,2.66,35,3,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-480M,Discontinued,Q1'11,Arrandale,2,4,32,2.93,2.66,35,3,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i3-380UM,Discontinued,Q4'10,Arrandale,2,4,32,N/A,1.33,18,3,Intel Smart Cache,8,DDR3,800,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-470UM,Discontinued,Q4'10,Arrandale,2,4,32,1.86,1.33,18,3,Intel Smart Cache,8,DDR3,800,Intel HD Graphics for Previous Gen Intel Processors
+Core i3-560,Discontinued,Q3'10,Clarkdale,2,4,32,N/A,3.33,73,4,Intel Smart Cache,16.38,"DDR3 1066/1333",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-760,Discontinued,Q3'10,Lynnfield,4,4,45,3.33,2.80,95,8,Intel Smart Cache,16,"DDR3 1066/1333",N/A,N/A
+Core i3-370M,Discontinued,Q3'10,Arrandale,2,4,32,N/A,2.40,35,3,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i3-380M,Discontinued,Q3'10,Arrandale,2,4,32,N/A,2.53,35,3,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-460M,Discontinued,Q3'10,Arrandale,2,4,32,2.80,2.53,35,3,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-560M,Discontinued,Q3'10,Arrandale,2,4,32,3.20,2.66,35,3,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-560UM,Discontinued,Q3'10,Arrandale,2,4,32,2.13,1.33,18,3,Intel Smart Cache,8,DDR3,800,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-580M,Discontinued,Q3'10,Arrandale,2,4,32,3.33,2.66,35,3,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-640M,Discontinued,Q3'10,Arrandale,2,4,32,3.46,2.80,35,4,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-660LM,Discontinued,Q3'10,Arrandale,2,4,32,3.06,2.26,25,4,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-680UM,Discontinued,Q3'10,Arrandale,2,4,32,2.53,1.46,18,4,Intel Smart Cache,8,DDR3,800,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-740QM,Discontinued,Q3'10,Clarksfield,4,8,45,2.93,1.73,45,6,Intel Smart Cache,8,"DDR3 1066/1333",N/A,N/A
+Core i7-840QM,Discontinued,Q3'10,Clarksfield,4,8,45,3.20,1.86,45,8,Intel Smart Cache,8,"DDR3 1066/1333",N/A,N/A
+Core i7-940XM Extreme Edition,Discontinued,Q3'10,Clarksfield,4,8,45,3.33,2.13,55,8,Intel Smart Cache,8,"DDR3 1066/1333",N/A,N/A
+Core i7-970,Discontinued,Q3'10,Gulftown,6,12,32,3.46,3.20,130,12,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Core i3-550,Discontinued,Q2'10,Clarkdale,2,4,32,N/A,3.20,73,4,Intel Smart Cache,16.38,"DDR3 1066/1333",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-655K,Discontinued,Q2'10,Clarkdale,2,4,32,3.46,3.20,73,4,Intel Smart Cache,16.38,"DDR3 1066/1333",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-875K,Discontinued,Q2'10,Lynnfield,4,8,45,3.60,2.93,95,8,Intel Smart Cache,16,"DDR3 1066/1333",N/A,N/A
+Core i7-880,Discontinued,Q2'10,Lynnfield,4,8,45,3.73,3.06,95,8,Intel Smart Cache,16,"DDR3 1066/1333",N/A,N/A
+Core i3-330UM,Discontinued,Q2'10,Arrandale,2,4,32,N/A,1.20,18,3,Intel Smart Cache,8,DDR3,800,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-430UM,Discontinued,Q2'10,Arrandale,2,4,32,1.73,1.20,18,3,Intel Smart Cache,8,DDR3,800,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-540UM,Discontinued,Q2'10,Arrandale,2,4,32,2.00,1.20,18,3,Intel Smart Cache,8,DDR3,800,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-660UM,Discontinued,Q2'10,Arrandale,2,4,32,2.40,1.33,18,4,Intel Smart Cache,8,DDR3,800,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-450M,Discontinued,Q2'10,Arrandale,2,4,32,2.66,2.40,35,3,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-680,Discontinued,Q2'10,Clarkdale,2,4,32,3.86,3.60,73,4,Intel Smart Cache,16.6,"DDR3 1066/1333",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-870S,Discontinued,Q2'10,Lynnfield,4,8,45,3.60,2.66,82,8,Intel Smart Cache,16,"DDR3 1066/1333",N/A,N/A
+Core i7-980X Extreme Edition,Discontinued,Q1'10,Gulftown,6,12,32,3.60,3.33,130,12,Intel Smart Cache,24,DDR3,1066,N/A
+Core i3-530,Discontinued,Q1'10,Clarkdale,2,4,32,N/A,2.93,73,4,Intel Smart Cache,16.38,"DDR3 1066/1333",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i3-540,Discontinued,Q1'10,Clarkdale,2,4,32,N/A,3.06,73,4,Intel Smart Cache,16.38,"DDR3 1066/1333",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-520E,Discontinued,Q1'10,Arrandale,2,4,32,2.93,2.40,35,3,Intel Smart Cache,8.79,"DDR3 800/1066",N/A,Name Unknown
+Core i5-520M,Discontinued,Q1'10,Arrandale,2,4,32,2.93,2.40,35,3,Intel Smart Cache,8.3,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-520UM,Discontinued,Q1'10,Arrandale,2,4,32,1.87,1.07,18,3,Intel Smart Cache,8,DDR3,800,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-540M,Discontinued,Q1'10,Arrandale,2,4,32,3.07,2.53,35,3,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-650,Discontinued,Q1'10,Clarkdale,2,4,32,3.46,3.20,73,4,Intel Smart Cache,16.38,"DDR3 1066/1333",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-660,Discontinued,Q1'10,Clarkdale,2,4,32,3.60,3.33,73,4,Intel Smart Cache,16.38,"DDR3 1066/1333",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-661,Discontinued,Q1'10,Clarkdale,2,4,32,3.60,3.33,87,4,Intel Smart Cache,16.38,"DDR3 1066/1333",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-670,Discontinued,Q1'10,Clarkdale,2,4,32,3.73,3.46,73,4,Intel Smart Cache,16.6,"DDR3 1066/1333",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-750S,Discontinued,Q1'10,Lynnfield,4,4,45,3.20,2.40,82,8,Intel Smart Cache,16,"DDR3 1066/1333",N/A,N/A
+Core i7-610E,Discontinued,Q1'10,Arrandale,2,4,32,3.20,2.53,35,4,Intel Smart Cache,8.79,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-620LE,Discontinued,Q1'10,Arrandale,2,4,32,2.80,2.00,25,4,Intel Smart Cache,8.79,"DDR3 800/1066",N/A,Name Unknown
+Core i7-620LM,Discontinued,Q1'10,Arrandale,2,4,32,2.80,2.00,25,4,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-620M,Discontinued,Q1'10,Arrandale,2,4,32,3.33,2.66,35,4,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-620UE,Discontinued,Q1'10,Arrandale,2,4,32,2.13,1.06,18,4,Intel Smart Cache,8.79,DDR3,800,Name Unknown
+Core i7-620UM,Discontinued,Q1'10,Arrandale,2,4,32,2.13,1.06,18,4,Intel Smart Cache,8,DDR3,800,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-640LM,Discontinued,Q1'10,Arrandale,2,4,32,2.93,2.13,25,4,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-640UM,Discontinued,Q1'10,Arrandale,2,4,32,2.27,1.20,18,4,Intel Smart Cache,8,DDR3,800,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-860S,Discontinued,Q1'10,Lynnfield,4,8,45,3.46,2.53,82,8,Intel Smart Cache,16,"DDR3 1066/1333",N/A,N/A
+Core i3-330E,Discontinued,Q1'10,Arrandale,2,4,32,N/A,2.13,35,3,Intel Smart Cache,8.79,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i3-330M,Discontinued,Q1'10,Arrandale,2,4,32,N/A,2.13,35,3,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i3-350M,Discontinued,Q1'10,Arrandale,2,4,32,N/A,2.26,35,3,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i5-430M,Discontinued,Q1'10,Arrandale,2,4,32,2.53,2.26,35,3,Intel Smart Cache,8,"DDR3 800/1066",N/A,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-660UE,Discontinued,Q1'10,Arrandale,2,4,32,2.40,1.33,18,4,N/A,8.79,DDR3,800,Intel HD Graphics for Previous Gen Intel Processors
+Core i7-930,Discontinued,Q1'10,Bloomfield,4,8,45,3.06,2.80,130,8,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Core i7-960,Discontinued,Q4'09,Bloomfield,4,8,45,3.46,3.20,130,8,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Core i7-720QM,Discontinued,Q3'09,Clarksfield,4,8,45,2.80,1.60,45,6,Intel Smart Cache,8,"DDR3 1066/1333",N/A,N/A
+Core i7-820QM,Discontinued,Q3'09,Clarksfield,4,8,45,3.06,1.73,45,8,Intel Smart Cache,8,"DDR3 1066/1333",N/A,N/A
+Core i7-920XM Extreme Edition,Discontinued,Q3'09,Clarksfield,4,8,45,3.20,2.00,55,8,Intel Smart Cache,8,"DDR3 1066/1333",N/A,N/A
+Core i5-750,Discontinued,Q3'09,Lynnfield,4,4,45,3.20,2.66,95,8,Intel Smart Cache,16,"DDR3 1066/1333",N/A,N/A
+Core i7-860,Discontinued,Q3'09,Lynnfield,4,8,45,3.46,2.80,95,8,Intel Smart Cache,16,"DDR3 1066/1333",N/A,N/A
+Core i7-870,Discontinued,Q3'09,Lynnfield,4,8,45,3.60,2.93,95,8,Intel Smart Cache,16,"DDR3 1066/1333",N/A,N/A
+Core 2 Quad Q9505,Discontinued,Q3'09,Yorkfield,4,N/A,45,N/A,2.83,95,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q9505S,Discontinued,Q3'09,Yorkfield,4,N/A,45,N/A,2.83,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo P7570,Discontinued,Q3'09,Penryn,2,N/A,45,N/A,2.26,25,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T6670,Discontinued,Q3'09,Penryn,2,N/A,45,N/A,2.20,35,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo P7550,Discontinued,Q3'09,Penryn,2,N/A,45,N/A,2.26,25,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T6500,Discontinued,Q2'09,Penryn,2,N/A,45,N/A,2.10,35,2,L2 Cache,N/A,N/A,N/A,N/A
+Core i7-950,Discontinued,Q2'09,Bloomfield,4,8,45,3.33,3.06,130,8,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Core i7-975 Extreme Edition,Discontinued,Q2'09,Bloomfield,4,8,45,3.60,3.33,130,8,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Core 2 Duo E7600,Discontinued,Q2'09,Wolfdale,2,N/A,45,N/A,3.06,65,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo P8800,Discontinued,Q2'09,Penryn,2,N/A,45,N/A,2.66,25,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo P9700,Discontinued,Q2'09,Penryn,2,N/A,45,N/A,2.80,28,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T9900,Discontinued,Q2'09,Penryn,2,N/A,45,N/A,3.06,35,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q8400,Discontinued,Q2'09,Yorkfield,4,N/A,45,N/A,2.66,95,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q8400S,Discontinued,Q2'09,Yorkfield,4,N/A,45,N/A,2.66,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Solo SU3500,Discontinued,Q2'09,Penryn,1,N/A,45,N/A,1.30,5.5,3,N/A,N/A,N/A,N/A,N/A
+Core 2 Duo SL9600,Discontinued,Q1'09,Penryn,2,N/A,45,N/A,2.13,17,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo SP9600,Discontinued,Q1'09,Penryn,2,N/A,45,N/A,2.53,25,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo SU9600,Discontinued,Q1'09,Penryn,2,N/A,45,N/A,1.60,10,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Solo ULV SU3500,Discontinued,Q2'09,Penryn,1,N/A,45,N/A,1.40,5.5,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E7500,Discontinued,Q1'09,Wolfdale,2,N/A,45,N/A,2.93,65,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q8200S,Discontinued,Q1'09,Yorkfield,4,N/A,45,N/A,2.33,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q9400S,Discontinued,Q1'09,Yorkfield,4,N/A,45,N/A,2.66,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q9550S,Discontinued,Q1'09,Yorkfield,4,N/A,45,N/A,2.83,65,12,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo P7450,Discontinued,Q1'09,Penryn,2,N/A,45,N/A,2.13,25,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T6400,Discontinued,Q1'09,Penryn,2,N/A,45,N/A,2.00,35,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T6600,Discontinued,Q1'09,Penryn,2,N/A,45,N/A,2.20,35,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo SL9380,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,1.80,17,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo P8700,Discontinued,Q4'08,Penryn,2,N/A,45,N/A,2.53,25,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo P9600,Discontinued,Q4'08,Penryn,2,N/A,45,N/A,2.66,25,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T9550,Discontinued,Q4'08,Penryn,2,N/A,45,N/A,2.66,35,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T9800,Discontinued,Q4'08,Penryn,2,N/A,45,N/A,2.93,35,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q9000,Discontinued,Q1'09,Penryn,4,N/A,45,N/A,2.00,45,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q8300,Discontinued,Q4'08,Yorkfield,4,N/A,45,N/A,2.50,45,4,L2 Cache,N/A,N/A,N/A,N/A
+Core i7-920,Discontinued,Q4'08,Bloomfield,4,8,45,2.93,2.66,130,8,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Core i7-940,Discontinued,Q4'08,Bloomfield,4,8,45,3.20,2.93,130,8,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Core i7-965 Extreme Edition,Discontinued,Q4'08,Bloomfield,4,8,45,3.46,3.20,130,8,Intel Smart Cache,24,"DDR3 800/1066",N/A,N/A
+Core 2 Duo E7400,Discontinued,Q1'08,Wolfdale,2,N/A,45,N/A,2.80,65,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo P7370,Discontinued,Q4'08,Penryn,2,N/A,45,N/A,2.00,25,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T5800,Discontinued,Q4'08,Merom,2,N/A,65,N/A,2.00,35,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q8200,Discontinued,Q3'08,Yorkfield,4,N/A,45,N/A,2.33,95,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo SL9300,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,1.60,17,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo SL9400,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,1.86,17,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo SP9300,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,2.26,25,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo SP9400,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,2.40,25,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo SU9300,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,1.20,10,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo SU9400,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,1.40,10,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Extreme QX9300,Discontinued,Q3'08,Penryn,4,N/A,45,N/A,2.53,45,12,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q9100,Discontinued,Q3'08,Penryn,4,N/A,45,N/A,2.26,45,12,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Solo ULV SU3300,Discontinued,Q3'08,Penryn,1,N/A,45,N/A,1.20,5.5,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E7300,Discontinued,Q3'08,Wolfdale,2,N/A,45,N/A,2.66,65,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E8600,Discontinued,Q3'08,Wolfdale,2,N/A,45,N/A,3.33,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q9400,Discontinued,Q3'08,Yorkfield,4,N/A,45,N/A,2.66,95,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q9650,Discontinued,Q3'08,Yorkfield,4,N/A,45,N/A,3.00,95,12,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo P8400,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,2.26,25,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo P8600,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,2.40,25,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo P9500,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,2.53,25,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T9400,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,2.53,35,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T9600,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,2.80,35,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Extreme X9100,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,3.06,44,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo P7350,Discontinued,Q3'08,Penryn,2,N/A,45,N/A,2.00,25,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E7200,Discontinued,Q2'08,Wolfdale,2,N/A,45,N/A,2.53,65,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E8300,Discontinued,Q2'08,Wolfdale,2,N/A,45,N/A,2.83,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T5670,Discontinued,Q2'08,Merom,2,N/A,65,N/A,1.80,35,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Extreme QX9775,Discontinued,Q1'08,Yorkfield,4,N/A,45,N/A,3.20,150,12,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Extreme QX9770,Discontinued,Q1'08,Yorkfield,4,N/A,45,N/A,3.20,136,12,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q9300,Discontinued,Q1'08,Yorkfield,4,N/A,45,N/A,2.50,95,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q9450,Discontinued,Q1'08,Yorkfield,4,N/A,45,N/A,2.66,95,12,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q9550,Discontinued,Q1'08,Yorkfield,4,N/A,45,N/A,2.83,95,12,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E8190,Discontinued,Q1'08,Wolfdale,2,N/A,45,N/A,2.66,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E8200,Discontinued,Q1'08,Wolfdale,2,N/A,45,N/A,2.66,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E8400,Discontinued,Q1'08,Wolfdale,2,N/A,45,N/A,3.00,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E8500,Discontinued,Q1'08,Wolfdale,2,N/A,45,N/A,3.16,65,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T8100,Discontinued,Q1'08,Penryn,2,N/A,45,N/A,2.10,35,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T8300,Discontinued,Q1'08,Penryn,2,N/A,45,N/A,2.40,35,3,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T9300,Discontinued,Q1'08,Penryn,2,N/A,45,N/A,2.50,35,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T9500,Discontinued,Q1'08,Penryn,2,N/A,45,N/A,2.60,35,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Extreme X9000,Discontinued,Q1'08,Penryn,2,N/A,45,N/A,2.80,44,6,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo U7700,Discontinued,Q1'08,Merom,2,N/A,65,N/A,1.33,10,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E4700,Discontinued,Q1'08,Conroe,2,N/A,65,N/A,2.60,65,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T5750,Discontinued,Q1'08,Merom,2,N/A,65,N/A,2.00,35,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Extreme QX9650,Discontinued,Q4'07,Yorkfield,4,N/A,45,N/A,3.00,130,12,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E4600,Discontinued,Q4'07,Conroe,2,N/A,65,N/A,2.40,65,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo L7700,Discontinued,Q3'07,Merom,2,N/A,65,N/A,1.80,17,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T7250,Discontinued,Q3'07,Merom,2,N/A,65,N/A,2.00,35,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T7800,Discontinued,Q3'07,Merom,2,N/A,65,N/A,2.60,35,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Solo U2100,Discontinued,Q3'07,Merom,1,N/A,65,N/A,1.06,5.5,1,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Solo U2200,Discontinued,Q3'07,Merom,1,N/A,65,N/A,1.20,5.5,1,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Extreme X7900,Discontinued,Q3'07,Merom,2,N/A,65,N/A,2.80,44,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E4500,Discontinued,Q3'07,Conroe,2,N/A,65,N/A,2.20,65,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E6540,Discontinued,Q3'07,Conroe,2,N/A,65,N/A,2.33,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E6550,Discontinued,Q3'07,Conroe,2,N/A,65,N/A,2.33,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E6750,Discontinued,Q3'07,Conroe,2,N/A,65,N/A,2.66,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E6850,Discontinued,Q3'07,Conroe,2,N/A,65,N/A,3.00,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Extreme QX6850,Discontinued,Q3'07,Kentsfield,4,N/A,65,N/A,3.00,130,8,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q6700,Discontinued,Q3'07,Kentsfield,4,N/A,65,N/A,2.66,105,8,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Extreme X7800,Discontinued,Q3'07,Merom,2,N/A,65,N/A,2.60,44,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T7600,Discontinued,Q3'07,Merom,2,N/A,65,N/A,2.33,34,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo L7300,Discontinued,Q2'07,Merom,2,N/A,65,N/A,1.40,17,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo L7500,Discontinued,Q3'06,Merom,2,N/A,65,N/A,1.60,17,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T7100,Discontinued,Q2'07,Merom,2,N/A,65,N/A,1.80,35,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T7300,Discontinued,Q2'07,Merom,2,N/A,65,N/A,2.00,35,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T7500,Discontinued,Q3'06,Merom,2,N/A,65,N/A,2.20,35,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T7700,Discontinued,Q2'07,Merom,2,N/A,65,N/A,2.40,35,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E4400,Discontinued,Q2'07,Conroe,2,N/A,65,N/A,2.00,65,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E6320,Discontinued,Q2'07,Conroe,2,N/A,65,N/A,1.86,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E6420,Discontinued,Q2'07,Conroe,2,N/A,65,N/A,2.13,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Extreme QX6800,Discontinued,Q2'07,Kentsfield,4,N/A,65,N/A,2.93,130,8,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo U7500,Discontinued,Q3'06,Merom,2,N/A,65,N/A,1.06,10,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo U7600,Discontinued,Q2'07,Merom,2,N/A,65,N/A,1.20,10,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E4300,Discontinued,Q3'06,Conroe,2,N/A,65,N/A,1.80,65,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Quad Q6600,Discontinued,Q1'07,Kentsfield,4,N/A,65,N/A,2.40,105,8,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo L7200,Discontinued,Q1'07,Merom,2,N/A,65,N/A,1.33,17,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo L7400,Discontinued,Q3'06,Merom,2,N/A,65,N/A,1.50,17,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Extreme QX6700,Discontinued,Q4'06,Kentsfield,4,N/A,65,N/A,2.66,130,8,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E6300,Discontinued,Q3'06,Conroe,2,N/A,65,N/A,1.86,65,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E6400,Discontinued,Q3'06,Conroe,2,N/A,65,N/A,2.13,65,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E6600,Discontinued,Q3'06,Conroe,2,N/A,65,N/A,2.40,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo E6700,Discontinued,Q3'06,Conroe,2,N/A,65,N/A,2.66,65,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo T7400,Discontinued,Q3'06,Merom,2,N/A,65,N/A,2.16,34,4,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Duo U7500,Discontinued,Q3'06,Merom,2,N/A,65,N/A,1.06,10,2,L2 Cache,N/A,N/A,N/A,N/A
+Core 2 Extreme X6800,Discontinued,Q3'06,Conroe,2,N/A,65,N/A,2.93,75,4,L2 Cache,N/A,N/A,N/A,N/A
+Core Duo L2400,Discontinued,Q1'06,Yonah,2,N/A,65,N/A,1.66,15,2,L2 Cache,N/A,N/A,N/A,N/A
+Core Duo T2500,Discontinued,Q1'06,Yonah,2,N/A,65,N/A,2.00,31,2,L2 Cache,N/A,N/A,N/A,N/A
+Core Duo U2500,Discontinued,Q1'06,Yonah,2,N/A,65,N/A,1.20,9,2,L2 Cache,N/A,N/A,N/A,N/A
