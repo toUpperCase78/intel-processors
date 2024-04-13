@@ -12,11 +12,11 @@ All these info in the datasets are obtained from Intel ARK [website](https://ark
 
 ## Current Status
 
-Nowadays, the datasets are being updated to **Version 1.8** to contain these new features: _Code Name, Max Memory Size, Memory Types & Max Memory Speed._ This will include new processors which are launched until **1st Quarter of 2024**, typically including the era of **14th Generation Intel Core Processors**!
+Now all the datasets were updated to **Version 1.8**, containing these new features: _Code Name, Max Memory Size, Memory Types & Max Memory Speed._ This version includes new processors which are launched until **1st Quarter of 2024**, typically including the era of **14th Generation Intel Core Processors**!
 
 Older datasets (v1.1, v1.2, and later v1.6) will still exist and be found under their specific folders for archiving.
 
-In the meantime, I'm aware that it's been a long time since I didn't perform any analyses on these processors. Certainly, I'll upload them here once they're ready in the best possible period.
+In the meantime, I'm aware that it's been a long time since I didn't perform any analyses on these processors. Now is the right time to do that! Therefore, I'll upload them here once they're ready in the best possible period.
 
 ## Features
 
@@ -44,17 +44,20 @@ The latest version **(1.8)** of current datasets contain these features below:
 There are some assumptions for the preparation of these datasets. Please keep them in mind while inspecting them:
 
 - For assessing `TDP` of the processors, normally **the base value** is taken. If base value is not avaiable in the original spec sheet, but configurable TDP-up and TDP-down frequency values are given instead, the **TDP-up** value is taken.
+- In the latest generation of processors, the value of Maximum Turbo Power is taken for `TDP` value, instead of Base Power.
 - For some processors having both performance and efficiency cores/threads together, their performance-core base frequency is considered in the `Base Freq.`, if the individual base frequency is not found in the spec sheet.
 - In `Integrated Graphics` column, the name for a few processors migh appear as `Name Unknown`. This means the processor has integrated graphics, but its name was not indicated in the spec sheet of the original source.
-- If there is only one type of supported memory type and only one speed value, then this value is filled for `Max Memory Speed (MHz)`.
+- If there is only one type of supported memory type and only one speed value, then this speed value is filled for `Max Memory Speed (MHz)`.
 
 ## Contributions
 
-In the meantime, below I'll list the processors which didn't exist in Intel's website and have been contributed by other people for inclusion. Many thanks!
+In the meantime, below I'll list the processors which didn't exist in Intel's website and have been contributed by other people for inclusion. Many thanks in advance!
 
-- Xeon Platinum 8370C (mvarian)
-- Xeon Platinum 8272CL (mvarian)
-- Xeon Platinum 8171M (mvarian)
+| Category | Processor | Contributed By |
+|----------|-----------|----------------|
+| Intel Xeon Processors | Xeon Platinum 8370C | mvarian |
+| Intel Xeon Processors | Xeon Platinum 8272CL | mvarian |
+| Intel Xeon Processors | Xeon Platinum 8171M | mvarian |
 
 ## Analyses
 
