@@ -193,7 +193,7 @@ Core i3-12100F,Launched,Q1'22,Alder Lake,4,8,7,4.30,N/A,89,12,Intel Smart Cache,
 Core i3-12100T,Launched,Q1'22,Alder Lake,4,8,7,4.10,2.20,69,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
 Core i3-12100TE,Launched,Q1'22,Alder Lake,4,8,7,4.00,2.10,35,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
 Core i3-12300,Launched,Q1'22,Alder Lake,4,8,7,4.40,3.50,89,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
-Core i3-12300HE,Launched,Q1'22,Alder Lake,8,12,7,4.30,1.90,115,12,Intel Smart Cache,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics
+Core i3-12300HE,Launched,Q1'22,Alder Lake,8,8,12,7,4.30,1.90,115,12,Intel Smart Cache,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics
 Core i3-12300T,Launched,Q1'22,Alder Lake,4,8,7,4.20,2.30,69,12,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,Intel UHD Graphics 730
 Core i3-1210U,Launched,Q1'22,Alder Lake,6,8,7,4.40,N/A,29,10,Intel Smart Cache,64,"Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
 Core i3-1215U,Launched,Q1'22,Alder Lake,6,8,7,4.40,N/A,55,10,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,Intel UHD Graphics for 12th Gen Intel Processors
