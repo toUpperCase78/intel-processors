@@ -1,0 +1,141 @@
+Product,Status,Release Date,Code Name,Vertical Segment,Cores,Threads,Lithography(nm),Max. Turbo Freq.(GHz),Base Freq.(GHz),TDP(W),Cache(MB),Cache Info,Max Memory Size(GB),Memory Types,Max Memory Speed(MHz),Max Memory Channels,Integrated Graphics,Sockets Supported,Max Operating Temp.(°C)
+Atom C5115,Launched,Q2'22,Parker Ridge,Server,4,4,10,N/A,2.80,43,9,N/A,256,DDR4,2933,2,N/A,FCBGA2106,N/A
+Atom C5125,Launched,Q2'22,Parker Ridge,Server,8,8,10,N/A,2.80,50,9,N/A,256,DDR4,2933,2,N/A,FCBGA2106,N/A
+Atom C5310,Launched,Q2'22,Parker Ridge,Server,4,4,10,N/A,1.60,32,9,N/A,256,DDR4,2400,2,N/A,FCBGA2106,N/A
+Atom C5315,Launched,Q2'22,Parker Ridge,Server,4,4,10,N/A,2.40,38,9,N/A,256,DDR4,2400,2,N/A,FCBGA2106,N/A
+Atom C5320,Launched,Q2'22,Parker Ridge,Server,8,8,10,N/A,2.40,41,9,N/A,256,DDR4,2933,2,N/A,FCBGA2106,N/A
+Atom C5325,Launched,Q2'22,Parker Ridge,Server,8,8,10,N/A,2.40,41,9,N/A,256,DDR4,2933,2,N/A,FCBGA2106,N/A
+Atom C5335C1,Launched,Q2'22,Parker Ridge,Server,12,12,10,N/A,2.40,50,13.5,N/A,N/A,DDR4,2933,2,FCBGA2106,N/A
+Atom C3338R,Launched,Q2'20,Denverton,Server,2,2,14,2.20,1.80,10.5,4,N/A,128,DDR4,1866,1,N/A,FCBGA1310,88
+Atom C3436L,Launched,Q2'20,Denverton,Server,4,4,14,N/A,1.30,10.75,8,N/A,256,DDR4,1866,1,N/A,FCBGFA1310,86
+Atom C3558R,Launched,Q2'20,Denverton,Server,4,4,14,N/A,2.40,17,8,N/A,256,DDR4,2400,2,N/A,FCBGA1310,82
+Atom C3758R,Launched,Q2'20,Denverton,Server,8,8,14,N/A,2.40,26,16,N/A,256,DDR4,2400,2,N/A,FCBGA1310,82
+Atom C3336,Launched,Q3'18,Denverton,Server,2,2,14,N/A,1.50,11,4,N/A,128,DDR4,1866,1,N/A,FCBGA1310,89
+Atom C3308,Launched,Q3'17,Denverton,Server,2,2,14,2.10,1.60,9.5,4,N/A,128,DDR4,1866,1,N/A,FCBGA1310,89
+Atom C3508,Launched,Q3'17,Denverton,Server,4,4,14,1.60,1.60,11.5,8,N/A,256,DDR4,1866,2,N/A,FCBGA1310,90
+Atom C3538,Launched,Q3'17,Denverton,Server,4,4,14,2.10,2.10,15,8,N/A,256,DDR4,2133,2,N/A,FCBGA1310,87
+Atom C3558,Launched,Q3'17,Denverton,Server,4,4,14,2.20,2.20,16,8,N/A,256,DDR4,2133,2,N/A,FCBGA1310,83
+Atom C3708,Launched,Q3'17,Denverton,Server,8,8,14,1.70,1.70,17,16,N/A,256,DDR4,2133,2,N/A,FCBGA1310,85
+Atom C3750,Launched,Q3'17,Denverton,Server,8,8,14,2.40,2.40,21,16,N/A,256,DDR4,2400,2,N/A,FCBGA1310,84
+Atom C3758,Launched,Q3'17,Denverton,Server,8,8,14,2.20,2.20,25,16,N/A,256,DDR4,2400,2,N/A,FCBGA1310,82
+Atom C3808,Launched,Q3'17,Denverton,Server,12,12,14,2.00,2.00,25,12,N/A,256,DDR4,2133,2,N/A,FCBGA1310,86
+Atom C3830,Launched,Q3'17,Denverton,Server,12,12,14,2.30,1.90,21.5,12,N/A,256,DDR4,2133,2,N/A,FCBGA1310,85
+Atom C3850,Launched,Q3'17,Denverton,Server,12,12,14,2.40,2.10,25,12,N/A,256,DDR4,2400,2,N/A,FCBGA1310,78
+Atom C3858,Launched,Q3'17,Denverton,Server,12,12,14,2.00,2.00,25,12,N/A,256,DDR4,2400,2,N/A,FCBGA1310,83
+Atom C3950,Launched,Q3'17,Denverton,Server,16,16,14,2.20,1.70,24,16,N/A,256,DDR4,2400,2,N/A,FCBGA1310,78
+Atom C3955,Launched,Q3'17,Denverton,Server,16,16,14,2.40,2.10,32,16,N/A,256,DDR4,2400,2,N/A,FCBGA1310,78
+Atom C3958,Launched,Q3'17,Denverton,Server,16,16,14,2.00,2.00,31,16,N/A,256,DDR4,2400,2,N/A,FCBGA1310,83
+Atom C2316,Launched,Q3'17,Rangeley,Embedded,2,2,22,N/A,1.50,7,1,N/A,16,DDR,1333,1,N/A,FCBGA1283,100
+Atom C2516,Launched,Q3'17,Rangeley,Embedded,4,4,22,N/A,1.40,10,2,N/A,32,DDR,1333,2,N/A,FCBGA1283,100
+Atom C3338,Launched,Q1'17,Rangeley,Server,2,2,14,2.20,1.50,8.5,4,N/A,128,DDR4,1866,1,N/A,FCBGA1310,89
+Atom C2308,Launched,Q2'14,Rangeley,Embedded,2,2,22,N/A,1.25,6,1,N/A,16,DDR,1333,1,N/A,FCBGA1283,85
+Atom C2508,Launched,Q2'14,Rangeley,Embedded,4,4,22,N/A,1.25,9.5,2,N/A,32,DDR3,1333,2,N/A,FCBGA1283,85
+Atom C2338,Launched,Q3'13,Rangeley,Embedded,2,2,22,2.00,1.70,7,1,N/A,16,DDR3/DDR3L,1333,1,N/A,FCBGA1283,N/A
+Atom C2350,Discontinued,Q3'13,Avoton,Server,2,2,22,2.00,1.70,6,1,N/A,16,DDR3/DDR3L,1333,1,N/A,FCBGA1283,98
+Atom C2358,Launched,Q3'13,Rangeley,Embedded,2,2,22,2.00,1.70,7,1,N/A,16,DDR3/DDR3L,1333,1,N/A,FCBGA1283,N/A
+Atom C2518,Launched,Q3'13,Rangeley,Embedded,4,4,22,N/A,1.70,13,2,N/A,32,DDR3/DDR3L,1333,2,N/A,FCBGA1283,N/A
+Atom C2530,Discontinued,Q3'13,Avoton,Server,4,4,22,2.40,1.70,9,2,N/A,32,DDR3/DDR3L,1333,2,N/A,FCBGA1283,97
+Atom C2538,Launched,Q3'13,Rangeley,Embedded,4,4,22,N/A,2.40,15,2,N/A,64,DDR3/DDR3L,1600,2,N/A,FCBGA1283,N/A
+Atom C2550,Discontinued,Q3'13,Avoton,Server,4,4,22,2.60,2.40,14,2,N/A,64,DDR3/DDR3L,1600,2,N/A,FCBGA1283,96
+Atom C2558,Launched,Q3'13,Rangeley,Embedded,4,4,22,N/A,2.40,15,2,N/A,64,DDR3/DDR3L,1600,2,N/A,FCBGA1283,N/A
+Atom C2718,Launched,Q3'13,Rangeley,Embedded,8,8,22,N/A,2.00,18,4,N/A,32,DDR3/DDR3L,1333,2,N/A,FCBGA1283,N/A
+Atom C2730,Discontinued,Q3'13,Avoton,Server,8,8,22,2.40,1.70,12,4,N/A,32,DDR3/DDR3L,1600,2,N/A,FCBGA1283,97
+Atom C2738,Launched,Q3'13,Rangeley,Embedded,8,8,22,N/A,2.40,20,4,N/A,64,DDR3/DDR3L,1600,2,N/A,FCBGA1283,N/A
+Atom C2750,Discontinued,Q3'13,Avoton,Server,8,8,22,2.60,2.40,20,4,N/A,64,DDR3/DDR3L,1600,2,N/A,FCBGA1283,97
+Atom C2758,Launched,Q3'13,Rangeley,Embedded,8,8,22,N/A,2.40,20,4,N/A,64,DDR3/DDR3L,1600,2,N/A,FCBGA1283,N/A
+Atom D2550,Discontinued,Q1'12,Cedarview,Desktop,2,4,32,N/A,1.86,10,1,L2 Cache,4,DDR3,800/1066,1,Name Unknown,FCBGA559,100
+Atom D2500,Discontinued,Q3'11,Cedarview,Desktop,2,2,32,N/A,1.86,10,1,L2 Cache,4,DDR3,800/1066,1,Name Unknown,FCBGA559,100
+Atom D2700,Discontinued,Q3'11,Cedarview,Desktop,2,4,32,N/A,2.13,10,1,L2 Cache,4,DDR3,800/1066,1,Name Unknown,FCBGA559,100
+Atom E3805,Launched,Q4'14,Bay Trail,Embedded,2,2,22,N/A,1.33,3,1,L2 Cache,8,DDR3L,1067,1,N/A,FCBGA1170,110
+Atom E3815,Launched,Q4'13,Bay Trail,Embedded,1,1,22,N/A,1.46,5,0.5,L2 Cache,8,DDR3L,1067,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,110
+Atom E3825,Launched,Q4'13,Bay Trail,Embedded,2,2,22,N/A,1.33,6,1,L2 Cache,8,DDR3L,1067,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,110
+Atom E3826,Launched,Q4'13,Bay Trail,Embedded,2,2,22,N/A,1.46,7,1,L2 Cache,8,DDR3L,1067,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,110
+Atom E3827,Launched,Q4'13,Bay Trail,Embedded,2,2,22,N/A,1.75,8,1,L2 Cache,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,110
+Atom E3845,Launched,Q4'13,Bay Trail,Embedded,4,4,22,N/A,1.91,10,2,L2 Cache,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,110
+Atom N2600,Discontinued,Q4'11,Cedarview,Mobile,2,4,32,N/A,1.60,3.5,1,L2 Cache,2.44,DDR3,N/A,1,Name Unknown,FCBGA559,N/A
+Atom N2800,Discontinued,Q4'11,Cedarview,Mobile,2,4,32,N/A,1.86,6.5,1,L2 Cache,4.88,DDR3,N/A,1,Name Unknown,FCBGA559,N/A
+Atom P5322,Launched,Q2'22,Snow Ridge,Server,8,8,10,N/A,2.20,55,9,N/A,256,DDR4,2400,2,N/A,FCBGA2106,N/A
+Atom P5332,Launched,Q2'22,Snow Ridge,Server,12,12,10,N/A,2.20,61,13.5,N/A,256,DDR4,2400,2,N/A,FCBGA2106,N/A
+Atom P5342,Launched,Q2'22,Snow Ridge,Server,16,16,10,N/A,2.20,71,18,N/A,256,DDR4,2667,2,N/A,FCBGA2106,N/A
+Atom P5352,Launched,Q2'22,Snow Ridge,Server,20,20,10,N/A,2.20,78,22.5,N/A,256,DDR4,2933,2,N/A,FCBGA2106,N/A
+Atom P5362,Launched,Q2'22,Snow Ridge,Server,24,24,10,N/A,2.20,83,27,N/A,256,DDR4,2933,2,N/A,FCBGA2106,N/A
+Atom P5721,Launched,Q2'22,Snow Ridge,Server,8,8,10,N/A,2.20,48,9,N/A,256,DDR4,2933,2,N/A,FCBGA2106,N/A
+Atom P5731,Launched,Q2'22,Snow Ridge,Server,12,12,10,N/A,2.20,54.5,13.5,N/A,256,DDR4,2933,2,N/A,FCBGA2106,N/A
+Atom P5742,Launched,Q2'22,Snow Ridge,Server,16,16,10,N/A,2.20,67,18,N/A,256,DDR4,2933,2,N/A,FCBGA2106,N/A
+Atom P5752,Launched,Q2'22,Snow Ridge,Server,20,20,10,N/A,2.20,74.5,22.5,N/A,256,DDR4,2933,2,N/A,FCBGA2106,N/A
+Atom P5921B,Discontinued,Q1'20,Snow Ridge,Server,8,8,10,N/A,2.20,N/A,9,L2 Cache,64,DDR4,2933,1,N/A,N/A,85
+Atom P5931B,Discontinued,Q1'20,Snow Ridge,Server,12,12,10,N/A,2.20,N/A,13.5,L2 Cache,128,DDR4,2933,2,N/A,N/A,85
+Atom P5942B,Discontinued,Q1'20,Snow Ridge,Server,16,16,10,N/A,2.20,N/A,18,L2 Cache,128,DDR4,2933,2,N/A,N/A,85
+Atom P5962B,Discontinued,Q1'20,Snow Ridge,Server,24,24,10,N/A,2.20,N/A,27,L2 Cache,128,DDR4,2933,2,N/A,N/A,85
+Atom S1220,Discontinued,Q4'12,Centerton,Server,2,4,32,N/A,1.60,8.1,1,N/A,8,DDR3,1333,1,N/A,FCBGA1283,N/A
+Atom S1240,Discontinued,Q4'12,Centerton,Server,2,4,32,N/A,1.60,6.1,1,N/A,8,DDR3,1333,1,N/A,FCBGA1283,N/A
+Atom S1260,Discontinued,Q4'12,Centerton,Server,2,4,32,N/A,2.00,8.5,1,N/A,8,DDR3,1333,1,N/A,FCBGA1283,N/A
+Atom x7203C,Launched,Q2'24,Amston Lake,Embedded,2,N/A,7,3.20,N/A,9,6,N/A,32,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,N/A,FCBGA1264,105
+Atom x7211RE,Launched,Q2'24,Amston Lake,Embedded,2,N/A,7,3.20,N/A,6,6,N/A,32,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel UHD Graphics,FCBGA1264,105
+Atom x7213RE,Launched,Q2'24,Amston Lake,Embedded,2,N/A,7,3.40,N/A,9,6,N/A,32,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel UHD Graphics,FCBGA1264,105
+Atom x7405C,Launched,Q2'24,Amston Lake,Embedded,4,N/A,7,3.40,N/A,12,6,N/A,32,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,N/A,FCBGA1264,105
+Atom x7433RE,Launched,Q2'24,Amston Lake,Embedded,4,N/A,7,3.40,N/A,9,6,N/A,32,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel UHD Graphics,FCBGA1264,105
+Atom x7809C,Launched,Q2'24,Amston Lake,Embedded,8,N/A,7,3.60,N/A,25,6,N/A,32,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,N/A,FCBGA1264,105
+Atom x7835RE,Launched,Q2'24,Amston Lake,Embedded,8,N/A,7,3.60,N/A,12,6,N/A,32,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel UHD Graphics,FCBGA1264,105
+Atom x6214RE,Launched,Q1'23,Elkhart Lake,Embedded,2,2,10,N/A,1.40,6,1.5,L2 Cache,32,"4x32 LPDDR4/x 3200MT/s Max 16GB / 2x64 DDR4 3200MT/s Max 32GB LPDDR4/x & DDR4 with In-Band ECC",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,85
+Atom x6416RE,Launched,Q1'23,Elkhart Lake,Embedded,4,4,10,N/A,1.70,9,1.5,L2 Cache,32,"4x32 LPDDR4/x 3200MT/s Max 16GB / 2x64 DDR4 3200MT/s Max 32GB LPDDR4/x & DDR4 with In-Band ECC",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,85
+Atom x7211E,Launched,Q1'23,Alder Lake-N,Embedded,2,N/A,7,3.20,N/A,6,6,N/A,16,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel UHD Graphics,FCBGA1264,105
+Atom x7213E,Launched,Q1'23,Alder Lake-N,Embedded,2,N/A,7,3.20,N/A,10,6,N/A,16,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel UHD Graphics,FCBGA1264,105
+Atom x7425E,Launched,Q1'23,Alder Lake-N,Embedded,4,N/A,7,3.40,N/A,12,6,N/A,16,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel UHD Graphics,FCBGA1264,105
+Atom x6200FE,Launched,Q1'21,Elkhart Lake,Embedded,2,2,10,N/A,1.00,4.5,1.5,N/A,32,"4x32 LPDDR4/x 2400MT/s Max 16GB / 2x64 DDR4 2400MT/s Max 32GB LPDDR4/x & DDR4 with In-Band ECC",N/A,4,N/A,FCBGA1493,85
+Atom x6211E,Launched,Q1'21,Elkhart Lake,Embedded,2,2,10,N/A,1.30,6,1.5,L2 Cache,32,"4x32 LPDDR4/x 3200MT/s Max 16GB / 2x64 DDR4 3200MT/s Max 32GB LPDDR4/x & DDR4 with In-Band ECC",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,85
+Atom x6212RE,Launched,Q1'21,Elkhart Lake,Embedded,2,2,10,N/A,1.20,6,1.5,L2 Cache,32,"4x32 LPDDR4/x 3200MT/s Max 16GB / 2x64 DDR4 3200MT/s Max 32GB LPDDR4/x & DDR4 with In-Band ECC",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,85
+Atom x6413E,Launched,Q1'21,Elkhart Lake,Embedded,4,4,10,N/A,1.50,9,1.5,L2 Cache,32,"4x32 LPDDR4/x 3200MT/s Max 16GB / 2x64 DDR4 3200MT/s Max 32GB LPDDR4/x & DDR4 with In-Band ECC",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,85
+Atom x6414RE,Launched,Q1'21,Elkhart Lake,Embedded,4,4,10,N/A,1.50,9,1.5,L2 Cache,32,"4x32 LPDDR4/x 3200MT/s Max 16GB / 2x64 DDR4 3200MT/s Max 32GB LPDDR4/x & DDR4 with In-Band ECC",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,85
+Atom x6425E,Launched,Q1'21,Elkhart Lake,Embedded,4,4,10,N/A,2.00,12,1.5,L2 Cache,32,"4x32 LPDDR4/x 3733MT/s (8GB, 16GB @3200MT/s) / 2x64 DDR4 3200MT/s Max 32GB, LPDDR4/x & DDR4 with In-Band ECC",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,85
+Atom x6425RE,Launched,Q1'21,Elkhart Lake,Embedded,4,4,10,N/A,1.90,12,1.5,L2 Cache,32,"4x32 LPDDR4/x 4267MT/s Max (8GB, 16GB @3200MT/s) / 2x64 DDR4 3200MT/s Max 32GB, Max 32GB with In-Band ECC",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,85
+Atom x6427FE,Launched,Q1'21,Elkhart Lake,Embedded,4,4,10,N/A,1.90,12,1.5,L2 Cache,32,"4x32 LPDDR4/x 4267MT/s Max (8GB, 16GB @3200MT/s) / 2x64 DDR4 3200MT/s Max 32GB, Max 32GB with In-Band ECC",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,85
+Atom x3-C3205RK,Discontinued,Q4'16,SoFIA 3G R,Mobile,4,N/A,28,N/A,N/A,N/A,1,N/A,2,"1x32 LPDDR2/3 1066 2x16 DDR3L 1333",N/A,1,Name Unknown,VF2BGA361,N/A
+Atom x3-C3235RK,Discontinued,Q4'15,SoFIA 3G R,Mobile,4,N/A,28,N/A,N/A,N/A,1,N/A,2,"1x32 LPDDR2/3 1066 2x16 DDR3L 1333",N/A,1,Name Unknown,VF2BGA361,N/A
+Atom x3-C3265RK,Discontinued,Q4'16,SoFIA 3G R,Mobile,4,N/A,28,N/A,N/A,N/A,1,L2 Cache,2,"1x32 LPDDR2/3 1066 2x16 DDR3L 1333",N/A,1,Name Unknown,VF2BGA361,N/A
+Atom x3-C3295RK,Discontinued,Q4'16,SoFIA 3G R,Mobile,4,N/A,28,N/A,N/A,N/A,1,L2 Cache,2,"1x32 LPDDR2/3 1066 2x16 DDR3L 1333",N/A,1,Name Unknown,VF2BGA361,N/A
+Atom x5-E3930,Launched,Q4'16,Apollo Lake,Embedded,2,2,14,N/A,1.30,6.5,2,L2 Cache,8,"DDR3L (ECC and Non-ECC) up to 1866 MT/s; LPDDR4 up to 2133 MT/s",N/A,4,Intel HD 500 Graphics,FCBGA1296,85
+Atom x5-E3940,Launched,Q4'16,Apollo Lake,Embedded,4,4,14,N/A,1.60,9.5,2,L2 Cache,8,"DDR3L (ECC and Non-ECC) up to 1866 MT/s; LPDDR4 up to 2133 MT/s",N/A,4,Intel HD 500 Graphics,FCBGA1296,85
+Atom x7-E3950,Launched,Q4'16,Apollo Lake,Embedded,4,4,14,N/A,1.60,12,2,L2 Cache,8,"DDR3L (ECC and Non-ECC) up to 1866 MT/s; LPDDR4 up to 2400 MT/s",N/A,4,Intel HD 505 Graphics,FCBGA1296,85
+Atom x5-Z8550,Discontinued,Q1'16,Cherry Trail,Mobile,4,N/A,14,N/A,1.44,N/A,2,N/A,8,LPDDR3,1600,2,Name Unknown,UTFCBGA1380,90
+Atom x7-Z8750,Discontinued,Q1'16,Cherry Trail,Mobile,4,N/A,14,N/A,1.60,N/A,2,N/A,8,LPDDR3,1600,2,Name Unknown,UTFCBGA1380,90
+Atom x5-Z8330,Discontinued,Q1'16,Cherry Trail,Mobile,4,N/A,14,N/A,1.44,N/A,2,L2 Cache,2,DDR3L-RS,1600,1,Name Unknown,N/A,90
+Atom x5-Z8350,Discontinued,Q1'16,Cherry Trail,Mobile,4,N/A,14,N/A,1.44,N/A,2,N/A,2,DDR3L/RS,1600,1,Name Unknown,UTFCBGA592,90
+Atom x5-E8000,Launched,Q1'16,Braswell,Embedded,4,4,14,N/A,1.04,5,2,N/A,8,DDR3L,1600,2,Intel HD Graphics for Intel Celeron N3000 Processor Series,FCBGA1170,90
+Atom x3-C3200RK,Discontinued,Q1'15,SoFIA 3G R,Mobile,4,N/A,28,N/A,N/A,N/A,1,N/A,2,"1x32 LPDDR2/3 1066 2x16 DDR3L 1333",N/A,1,Name Unknown,N/A,85
+Atom x3-C3405,Announced,Q1'15,SoFIA LTE,Mobile,4,N/A,28,N/A,1.20,N/A,1,N/A,2,"1x32 LPDDR2/3 1066",N/A,1,Name Unknown,N/A,85
+Atom x3-C3230RK,Discontinued,Q1'15,SoFIA 3G R,Mobile,4,N/A,28,N/A,N/A,N/A,1,N/A,2,"1x32 LPDDR2/3 1066 2x16 DDR3L 1333",N/A,1,Name Unknown,N/A,85
+Atom x3-C3445,Discontinued,Q1'15,SoFIA LTE,Mobile,4,N/A,28,N/A,1.20,N/A,1,N/A,2,"1x32 LPDDR2/3 1066",N/A,1,Name Unknown,N/A,85
+Atom x5-Z8300,Discontinued,Q2'15,Cherry Trail,Mobile,4,N/A,14,N/A,1.44,N/A,2,N/A,2,DDR3L-RS,1600,1,Name Unknown,UTFCBGA592,90
+Atom x5-Z8500,Discontinued,Q1'15,Cherry Trail,Mobile,4,N/A,14,N/A,1.44,N/A,2,N/A,8,LPDDR3,1600,2,Name Unknown,UTFCBGA1380,90
+Atom x7-Z8700,Discontinued,Q1'15,Cherry Trail,Mobile,4,N/A,14,N/A,1.60,N/A,2,N/A,8,LPDDR3,1600,2,Name Unknown,UTFCBGA1380,90
+Atom Z3590,Discontinued,Q3'15,Moorefield,Mobile,4,N/A,22,N/A,N/A,N/A,2,N/A,4,LPDDR3,1600,2,Name Unknown,N/A,90
+Atom Z3570,Discontinued,Q3'14,Moorefield,Mobile,4,N/A,22,N/A,N/A,N/A,2,N/A,4,LPDDR3,1600,2,Name Unknown,N/A,90
+Atom Z3736F,Discontinued,Q2'14,Bay Trail,Mobile,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,2,DDR3L-RS,1333,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA592,N/A
+Atom Z3736G,Discontinued,Q2'14,Bay Trail,Mobile,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,1,DDR3L-RS,1333,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA592,N/A
+Atom Z3530,Discontinued,Q2'14,Moorefield,Mobile,4,N/A,22,N/A,N/A,N/A,2,N/A,4,LPDDR3,1600,2,Name Unknown,FC-MB5T1064,90
+Atom Z3785,Discontinued,Q2'14,Bay Trail,Mobile,4,N/A,22,N/A,1.49,N/A,2,L2 Cache,4,LPDDR3,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA1380,N/A
+Atom Z3560,Discontinued,Q2'14,Moorefield,Mobile,4,N/A,22,N/A,N/A,N/A,2,N/A,4,LPDDR3,1600,2,Name Unknown,N/A,90
+Atom Z3580,Discontinued,Q2'14,Moorefield,Mobile,4,N/A,22,N/A,N/A,N/A,2,N/A,4,LPDDR3,1600,2,Name Unknown,N/A,90
+Atom Z3735F,Discontinued,Q1'14,Bay Trail,Mobile,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,2,DDR3L-RS,1333,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA592,N/A
+Atom Z3735G,Discontinued,Q1'14,Bay Trail,Mobile,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,1,DDR3L-RS,1333,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA592,N/A
+Atom Z3460,Discontinued,Q1'14,Merrifield,Mobile,2,N/A,22,N/A,N/A,N/A,1,Intel Smart Cache,4,LPDDR3,1066,2,Name Unknown,FC-MB5796,90
+Atom Z3480,Discontinued,Q1'14,Merrifield,Mobile,2,N/A,22,N/A,N/A,N/A,1,Intel Smart Cache,4,LPDDR3,1066,2,Name Unknown,FC-MB5796,90
+Atom Z3735D,Discontinued,Q1'14,Bay Trail,Mobile,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,2,DDR3L-RS,1333,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA1380,N/A
+Atom Z3735E,Discontinued,Q1'14,Bay Trail,Mobile,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,1,DDR3L-RS,1333,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA1380,N/A
+Atom Z3775D,Discontinued,Q1'14,Bay Trail,Mobile,4,N/A,22,N/A,1.49,N/A,2,L2 Cache,2,DDR3L-RS,1333,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA1380,N/A
+Atom Z3795,Discontinued,Q1'14,Bay Trail,Mobile,4,N/A,22,N/A,1.59,N/A,2,L2 Cache,4,LPDDR3,1066,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA1380,N/A
+Atom Z3745,Discontinued,Q1'14,Bay Trail,Mobile,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,4,LPDDR3,1066,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA1380,90
+Atom Z3745D,Discontinued,Q1'14,Bay Trail,Mobile,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,2,DDR3L-RS,1333,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA1380,N/A
+Atom Z3775,Discontinued,Q1'14,Bay Trail,Mobile,4,N/A,22,N/A,1.46,N/A,2,L2 Cache,4,LPDDR3,1066,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA1380,N/A
+Atom Z3740,Discontinued,Q3'13,Bay Trail,Mobile,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,4,LPDDR3,1066,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA1380,90
+Atom Z3740D,Discontinued,Q3'13,Bay Trail,Mobile,4,N/A,22,N/A,1.33,N/A,2,L2 Cache,2,DDR3L-RS,1333,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA1380,90
+Atom Z3770,Discontinued,Q3'13,Bay Trail,Mobile,4,N/A,22,N/A,1.46,N/A,2,L2 Cache,4,LPDDR3,1066,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA1380,90
+Atom Z3770D,Discontinued,Q3'13,Bay Trail,Mobile,4,N/A,22,N/A,1.50,N/A,2,L2 Cache,2,DDR3L-RS,1333,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,UTFCBGA1380,90
+Atom Z2520,Discontinued,Q2'13,Cloverview,Mobile,2,4,32,N/A,1.20,N/A,1,Intel Smart Cache,2,LPDDR2,1066,2,Name Unknown,FC-MB4760,90
+Atom Z2560,Discontinued,Q2'13,Cloverview,Mobile,2,4,32,N/A,N/A,N/A,1,Intel Smart Cache,2,LPDDR2,1066,2,Name Unknown,FC-MB4760,90
+Atom Z2580,Discontinued,Q2'13,Cloverview,Mobile,2,4,32,N/A,N/A,N/A,1,Intel Smart Cache,2,LPDDR2,1066,2,Name Unknown,FC-MB4760,90
+Atom Z2420,Discontinued,Q1'13,Penwell,Mobile,1,2,32,N/A,N/A,N/A,0.5,Intel Smart Cache,1,LPDDR2,800,2,Name Unknown,FC-MB4617,90
+Atom Z2480,Discontinued,Q3'12,Penwell,Mobile,1,2,32,N/A,N/A,N/A,0.5,Intel Smart Cache,2,LPDDR2,800,2,Name Unknown,FC-MB4617,90
+Atom Z2760,Discontinued,Q3'12,Penwell,Mobile,2,4,32,N/A,1.80,N/A,1,L2 Cache,2.4,LPDDR2,800,2,Name Unknown,FC-MB4760,N/A
+Atom Z2460,Discontinued,Q2'12,Penwell,Mobile,1,2,32,N/A,N/A,N/A,0.5,Intel Smart Cache,2,LPDDR2,800,2,Name Unknown,FC-MB4617,90
