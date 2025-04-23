@@ -5,7 +5,7 @@ Atom C5310,Launched,Q2'22,Parker Ridge,Server,4,4,10,N/A,1.60,32,9,N/A,256,DDR4,
 Atom C5315,Launched,Q2'22,Parker Ridge,Server,4,4,10,N/A,2.40,38,9,N/A,256,DDR4,2400,2,N/A,FCBGA2106,N/A
 Atom C5320,Launched,Q2'22,Parker Ridge,Server,8,8,10,N/A,2.40,41,9,N/A,256,DDR4,2933,2,N/A,FCBGA2106,N/A
 Atom C5325,Launched,Q2'22,Parker Ridge,Server,8,8,10,N/A,2.40,41,9,N/A,256,DDR4,2933,2,N/A,FCBGA2106,N/A
-Atom C5335C1,Launched,Q2'22,Parker Ridge,Server,12,12,10,N/A,2.40,50,13.5,N/A,N/A,DDR4,2933,2,FCBGA2106,N/A
+Atom C5335C1,Launched,Q2'22,Parker Ridge,Server,12,12,10,N/A,2.40,50,13.5,N/A,N/A,DDR4,2933,2,N/A,FCBGA2106,N/A
 Atom C3338R,Launched,Q2'20,Denverton,Server,2,2,14,2.20,1.80,10.5,4,N/A,128,DDR4,1866,1,N/A,FCBGA1310,88
 Atom C3436L,Launched,Q2'20,Denverton,Server,4,4,14,N/A,1.30,10.75,8,N/A,256,DDR4,1866,1,N/A,FCBGFA1310,86
 Atom C3558R,Launched,Q2'20,Denverton,Server,4,4,14,N/A,2.40,17,8,N/A,256,DDR4,2400,2,N/A,FCBGA1310,82
