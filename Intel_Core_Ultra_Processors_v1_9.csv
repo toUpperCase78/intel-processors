@@ -1,0 +1,62 @@
+Product,Status,Release Date,Code Name,Vertical Segment,Cores,Threads,Lithography(nm),Max. Turbo Freq.(GHz),Base Freq.(GHz),TDP(W),Cache(MB),Cache Info,Max Memory Size(GB),Memory Types,Max Memory Speed(MHz),Max Memory Channels,Integrated Graphics,Sockets Supported,Max Operating Temp.(°C)
+Core Ultra 5 225,Launched,Q1'25,Arrow Lake,Desktop,10,10,3,4.90,3.30,121,20,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 5 225F,Launched,Q1'25,Arrow Lake,Desktop,10,10,3,4.90,3.30,121,20,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,N/A,FCLGA1851,105
+Core Ultra 5 225H,Launched,Q1'25,Arrow Lake,Mobile,14,14,3,4.90,1.70,115,18,N/A,128,"Up to LPDDR5/x 8400 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Arc 130T,FCBGA2049,110
+Core Ultra 5 225T,Launched,Q1'25,Arrow Lake,Desktop,10,10,3,4.90,2.50,114,20,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,N/A,105
+Core Ultra 5 225U,Launched,Q1'25,Arrow Lake,Mobile,12,14,3,4.80,1.50,57,12,N/A,128,"Up to LPDDR5/x 8400 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Graphics,FCBGA2049,110
+Core Ultra 5 235,Launched,Q1'25,Arrow Lake,Desktop,14,14,3,5.00,3.40,121,24,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 5 235H,Launched,Q1'25,Arrow Lake,Mobile,14,14,3,5.00,2.40,115,18,N/A,128,"Up to LPDDR5/x 8400 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Arc 140T,FCBGA2049,110
+Core Ultra 5 235HX,Launched,Q1'25,Arrow Lake,Mobile,14,14,3,5.10,2.90,160,24,N/A,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCBGA2114,105
+Core Ultra 5 235T,Launched,Q1'25,Arrow Lake,Desktop,14,14,3,5.00,2.20,114,24,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 5 235U,Launched,Q1'25,Arrow Lake,Mobile,12,14,3,4.90,2.00,57,12,N/A,128,"Up to LPDDR5/x 8400 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Graphics,FCBGA2049,110
+Core Ultra 5 245,Launched,Q1'25,Arrow Lake,Desktop,14,14,3,5.10,3.50,121,24,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 5 245HX,Launched,Q1'25,Arrow Lake,Mobile,14,14,3,5.10,3.10,160,24,N/A,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCBGA2114,105
+Core Ultra 5 245T,Launched,Q1'25,Arrow Lake,Desktop,14,14,3,5.10,2.20,114,24,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 7 255H,Launched,Q1'25,Arrow Lake,Mobile,16,16,3,5.10,2.00,115,24,N/A,128,"Up to LPDDR5/x 8400 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Arc 140T,FCBGA2049,110
+Core Ultra 7 255HX,Launched,Q1'25,Arrow Lake,Mobile,20,20,3,5.20,2.40,160,30,N/A,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCBGA2114,105
+Core Ultra 7 255U,Launched,Q1'25,Arrow Lake,Mobile,12,14,3,5.20,2.00,57,12,N/A,128,"Up to LPDDR5/x 8400 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Graphics,FCBGA2049,110
+Core Ultra 7 265,Launched,Q1'25,Arrow Lake,Desktop,20,20,3,5.30,2.40,182,30,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 7 265F,Launched,Q1'25,Arrow Lake,Desktop,20,20,3,5.30,2.40,182,30,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,N/A,FCLGA1851,105
+Core Ultra 7 265H,Launched,Q1'25,Arrow Lake,Mobile,16,16,3,5.30,2.20,115,24,N/A,128,"Up to LPDDR5/x 8400 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Arc 140T,FCBGA2049,110
+Core Ultra 7 265HX,Launched,Q1'25,Arrow Lake,Mobile,20,20,3,5.30,2.60,160,30,N/A,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCBGA2114,105
+Core Ultra 7 265T,Launched,Q1'25,Arrow Lake,Desktop,20,20,3,5.30,1.50,112,30,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 7 265U,Launched,Q1'25,Arrow Lake,Mobile,12,14,3,5.30,2.10,57,12,N/A,128,"Up to LPDDR5/x 8400 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Graphics,FCBGA2049,110
+Core Ultra 9 275HX,Launched,Q1'25,Arrow Lake,Mobile,24,24,3,5.40,2.70,160,36,N/A,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCBGA2114,105
+Core Ultra 9 285,Launched,Q1'25,Arrow Lake,Desktop,24,24,3,5.60,2.50,182,36,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 9 285H,Launched,Q1'25,Arrow Lake,Mobile,16,16,3,5.40,2.90,115,24,N/A,128,"Up to LPDDR5/x 8400 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Arc 140T,FCBGA2049,110
+Core Ultra 9 285HX,Launched,Q1'25,Arrow Lake,Mobile,24,24,3,5.50,2,80,160,36,N/A,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCBGA2114,105
+Core Ultra 9 285T,Launched,Q1'25,Arrow Lake,Desktop,24,24,3,5.40,1.40,112,36,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 5 245K,Launched,Q4'24,Arrow Lake,Desktop,14,14,3,5.20,4.20,159,24,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 5 245KF,Launched,Q4'24,Arrow Lake,Desktop,14,14,3,5.20,4.20,159,24,Intel Smart Cache,192,Up to DDR5 6400 MT/s,6400,2,N/A,FCLGA1851,105
+Core Ultra 7 265K,Launched,Q4'24,Arrow Lake,Desktop,20,20,3,5.50,3.90,250,30,Intel Smart Cache,192,Up to DDR5 6400 MT/s,6400,2,Intel Graphics,FCLGA1851,105
+Core Ultra 7 265KF,Launched,Q4'24,Arrow Lake,Desktop,20,20,3,5.50,3.90,250,30,Intel Smart Cache,192,Up to DDR5 6400 MT/s,6400,2,N/A,FCLGA1851,105
+Core Ultra 9 285K,Launched,Q4'24,Arrow Lake,Desktop,24,24,3,5.70,3.70,250,36,Intel Smart Cache,192,Up to DDR5 6400 MT/s,6400,2,Intel Graphics,FCLGA1851,105
+Core Ultra 5 226V,Launched,Q3'24,Lunar Lake,Mobile,8,8,3,4.50,2.10,37,8,Intel Smart Cache,16,LPDDR5X up to 8533 MT/s,N/A,2,Intel Arc Graphics 130V,FCBGA2833,100
+Core Ultra 5 228V,Launched,Q3'24,Lunar Lake,Mobile,8,8,3,4.50,2.10,37,8,Intel Smart Cache,32,LPDDR5X up to 8533 MT/s,N/A,2,Intel Arc Graphics 130V,FCBGA2833,100
+Core Ultra 5 236V,Launched,Q3'24,Lunar Lake,Mobile,8,8,3,4.70,2.10,37,8,Intel Smart Cache,16,LPDDR5X up to 8533 MT/s,N/A,2,Intel Arc Graphics 130V,FCBGA2833,100
+Core Ultra 5 238V,Launched,Q3'24,Lunar Lake,Mobile,8,8,3,4.70,2.10,37,8,Intel Smart Cache,32,LPDDR5X up to 8533 MT/s,N/A,2,Intel Arc Graphics 130V,FCBGA2833,100
+Core Ultra 7 256V,Launched,Q3'24,Lunar Lake,Mobile,8,8,3,4.80,2.20,37,12,Intel Smart Cache,16,LPDDR5X up to 8533 MT/s,N/A,2,Intel Arc Graphics 140V,FCBGA2833,100
+Core Ultra 7 258V,Launched,Q3'24,Lunar Lake,Mobile,8,8,3,4.80,2.20,37,12,Intel Smart Cache,32,LPDDR5X up to 8533 MT/s,N/A,2,Intel Arc Graphics 140V,FCBGA2833,100
+Core Ultra 7 266V,Launched,Q3'24,Lunar Lake,Mobile,8,8,3,5.00,2.20,37,12,Intel Smart Cache,16,LPDDR5X up to 8533 MT/s,N/A,2,Intel Arc Graphics 140V,FCBGA2833,100
+Core Ultra 7 268V,Launched,Q3'24,Lunar Lake,Mobile,8,8,3,5.00,2.20,37,12,Intel Smart Cache,32,LPDDR5X up to 8533 MT/s,N/A,2,Intel Arc Graphics 140V,FCBGA2833,100
+Core Ultra 9 288V,Launched,Q3'24,Lunar Lake,Mobile,8,8,3,5.10,3.30,37,12,Intel Smart Cache,32,LPDDR5X up to 8533 MT/s,N/A,2,Intel Arc Graphics 140V,FCBGA2833,100
+Core Ultra 3 105UL,Launched,Q2'24,Meteor Lake,Embedded,8,10,4,4.20,1.50,57,10,N/A,96,Up to DDR5 5600 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 5 125HL,Launched,Q2'24,Meteor Lake,Embedded,14,18,4,4.50,1.20,115,18,N/A,96,Up to DDR5 5600 MT/s,N/A,2,Intel Arc Graphics,FCLGA1851,105
+Core Ultra 5 125UL,Launched,Q2'24,Meteor Lake,Embedded,12,14,4,4.30,1.30,57,12,N/A,96,Up to DDR5 5600 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 5 135HL,Launched,Q2'24,Meteor Lake,Embedded,14,18,4,4.60,1.70,115,18,N/A,96,Up to DDR5 5600 MT/s,N/A,2,Intel Arc Graphics,FCLGA1851,105
+Core Ultra 5 135UL,Launched,Q2'24,Meteor Lake,Embedded,12,14,4,4.40,1.60,57,12,N/A,96,Up to DDR5 5600 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 7 155HL,Launched,Q2'24,Meteor Lake,Embedded,16,22,4,4.80,1.40,115,24,N/A,96,Up to DDR5 5600 MT/s,N/A,2,Intel Arc Graphics,FCLGA1851,105
+Core Ultra 7 155UL,Launched,Q2'24,Meteor Lake,Embedded,12,14,4,4.80,1.70,57,12,N/A,96,Up to DDR5 5600 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 7 165HL,Launched,Q2'24,Meteor Lake,Embedded,16,22,4,5.00,1.40,115,24,N/A,96,Up to DDR5 5600 MT/s,N/A,2,Intel Arc Graphics,FCLGA1851,105
+Core Ultra 7 165UL,Launched,Q2'24,Meteor Lake,Embedded,12,14,4,4.90,1.70,57,12,N/A,96,Up to DDR5 5600 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
+Core Ultra 5 125H,Launched,Q4'23,Meteor Lake,Mobile,14,18,4,4.50,1.20,115,18,Intel Smart Cache,96,"Up to LPDDR5/x 7647 MT/s, Up to DDR5 5600 MT/s",N/A,2,Intel Arc Graphics,FCBGA2049,110
+Core Ultra 5 125U,Launched,Q4'23,Meteor Lake,Mobile,12,14,4,4.30,1.30,57,12,Intel Smart Cache,96,"Up to LPDDR5/x 7467 MT/s, Up to DDR5 5600 MT/s",N/A,2,Intel Graphics,FCBGA2049,110
+Core Ultra 5 134U,Launched,Q4'23,Meteor Lake,Mobile,12,14,4,4.40,0.70,30,12,Intel Smart Cache,64,Up to LPDDR5/x 6400 MT/s,N/A,2,Intel Graphics,FCBGA2551,110
+Core Ultra 5 135H,Launched,Q4'23,Meteor Lake,Mobile,14,18,4,4.60,1.70,115,18,Intel Smart Cache,96,"Up to LPDDR5/x 7467 MT/s, Up to DDR5 5600 MT/s",N/A,2,Intel Arc Graphics,FBCGA2049,110
+Core Ultra 5 135U,Launched,Q4'23,Meteor Lake,Mobile,12,14,4,4.40,1.60,57,12,Intel Smart Cache,96,"Up to LPDDR5/x 7467 MT/s, Up to DDR5 5600 MT/s",N/A,2,Intel Graphics,FCBGA2049,110
+Core Ultra 7 155H,Launched,Q4'23,Meteor Lake,Mobile,16,22,4,4.80,1.40,115,24,Intel Smart Cache,96,"Up to LPDDR5/x 7467 MT/s, Up to DDR5 5600 MT/s",N/A,2,Intel Arc Graphics,FCBGA2049,110
+Core Ultra 7 155U,Launched,Q4'23,Meteor Lake,Mobile,12,14,4,4.80,1.70,57,12,Intel Smart Cache,96,"Up to LPDDR5/x 7467 MT/s,Up to DDR5 5600 MT/s",N/A,2,Intel Graphics,FCBGA2049,110
+Core Ultra 7 164U,Launched,Q4'23,Meteor Lake,Mobile,12,14,4,4.80,1.10,30,12,Intel Smart Cache,64,Up to LPDDR5/x 6400 MT/s,N/A,2,Intel Graphics,FCBGA2551,110
+Core Ultra 7 165H,Launched,Q4'23,Meteor Lake,Mobile,16,22,4,5.00,1.40,115,24,Intel Smart Cache,96,"Up to LPDDR5/x 7467 MT/s, Up to DDR5 5600 MT/s",N/A,2,Intel Arc Graphics,FCBGA2049,110
+Core Ultra 7 165U,Launched,Q4'23,Meteor Lake,Mobile,12,14,4,4.90,1.70,57,12,Intel Smart Cache,96,"Up to LPDDR5/x 7467 MT/s, Up to DDR5 5600 MT/s",N/A,2,Intel Graphics,FCBGA2049,110
+Core Ultra 9 185H,Launched,Q4'23,Meteor Lake,Mobile,16,22,4,5.10,2.30,115,24,Intel Smart Cache,96,"Up to LPDDR5/x 7467 MT/s, Up to DDR5 5600 MT/s",N/A,2,Intel Arc Graphics,FCBGA2049,110
