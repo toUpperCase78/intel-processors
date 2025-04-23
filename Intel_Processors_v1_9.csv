@@ -1,0 +1,15 @@
+Product,Status,Release Date,Code Name,Vertical Segment,Cores,Threads,Lithography(nm),Max. Turbo Freq.(GHz),Base Freq.(GHz),TDP(W),Cache(MB),Cache Info,Max Memory Size(GB),Memory Types,Max Memory Speed(MHz),Max Memory Channels,Integrated Graphics,Sockets Supported,Max Operating Temp.(°C)
+Intel Processor 300,Launched,Q1'24,Raptor Lake,Desktop,2,4,7,3.90,N/A,46,6,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel UHD Graphics 710,FCLGA1700,100
+Intel Processor 300T,Launched,Q1'24,Raptor Lake,Desktop,2,4,7,3.40,N/A,35,6,Intel Smart Cache,192,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel UHD Graphics 710,FCLGA1700,100
+Intel Processor N150,Launched,Q1'25,Twin Lake,Mobile,4,4,7,3.60,N/A,6,6,Intel Smart Cache,16,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel Graphics,FCBGA1264,105
+Intel Processor N250,Launched,Q1'25,Twin Lake,Mobile,4,4,7,3.80,N/A,6,6,Intel Smart Cache,16,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel Graphics,FCBGA1264,105
+Intel Processor N100,Launched,Q1'23,Alder Lake-N,Mobile,4,4,7,3.40,N/A,6,6,Intel Smart Cache,16,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel UHD Graphics,FCBGA1264,105
+Intel Processor N200,Launched,Q1'23,Alder Lake-N,Mobile,4,4,7,3.70,N/A,6,6,Intel Smart Cache,16,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel UHD Graphics,FCBGA1264,105
+Intel Processor N50,Launched,Q1'23,Alder Lake-N,Embedded,2,N/A,7,3.40,N/A,6,6,N/A,16,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel UHD Graphics,FCBGA1264,105
+Intel Processor N97,Launched,Q1'23,Alder Lake-N,Embedded,4,N/A,7,3.60,N/A,12,6,Intel Smart Cache,16,"DDR4 3200 MT/s, DDR5 4800 MT/s, LPDDR5 4800 MT/s",4800,1,Intel UHD Graphics,FCBGA1264,105
+Intel Processor U300L,Launched,Q2'24,Raptor Lake,Embedded,5,6,N/A,4.40,N/A,55,8,N/A,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel Graphics,FCLGA1700,100
+Intel Processor U301L,Launched,Q2'24,Raptor Lake,Embedded,5,6,N/A,2.20,N/A,55,8,N/A,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel Graphics,FCLGA1700,100
+Intel Processor U302L,Launched,Q2'24,Raptor Lake,Embedded,5,6,N/A,2.40,N/A,55,10,N/A,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel Graphics,FCLGA1700,100
+Intel Processor U303L,Launched,Q2'24,Raptor Lake,Embedded,5,6,N/A,2.60,N/A,55,12,N/A,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel Graphics,FCLGA1700,100
+Intel Processor U300,Launched,Q1'23,Raptor Lake,Mobile,5,6,7,4.40,N/A,55,8,Intel Smart Cache,96,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,2,Intel UHD Graphics for 13th Gen Intel Processors,FCBGA1744,100
+Intel Processor U300E,Launched,Q1'23,Raptor Lake,Embedded,5,6,7,4.30,1.10,55,8,Intel Smart Cache,64,"Up to DDR5 5200 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5/x 6400 MT/s, Up to LPDDR4x 4267 MT/s",N/A,2,Intel UHD Graphics for 13th Gen Intel Processors,FCBGA1744,100
