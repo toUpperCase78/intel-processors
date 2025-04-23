@@ -24,7 +24,7 @@ Core Ultra 7 265U,Launched,Q1'25,Arrow Lake,Mobile,12,14,3,5.30,2.10,57,12,N/A,1
 Core Ultra 9 275HX,Launched,Q1'25,Arrow Lake,Mobile,24,24,3,5.40,2.70,160,36,N/A,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCBGA2114,105
 Core Ultra 9 285,Launched,Q1'25,Arrow Lake,Desktop,24,24,3,5.60,2.50,182,36,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
 Core Ultra 9 285H,Launched,Q1'25,Arrow Lake,Mobile,16,16,3,5.40,2.90,115,24,N/A,128,"Up to LPDDR5/x 8400 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Arc 140T,FCBGA2049,110
-Core Ultra 9 285HX,Launched,Q1'25,Arrow Lake,Mobile,24,24,3,5.50,2,80,160,36,N/A,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCBGA2114,105
+Core Ultra 9 285HX,Launched,Q1'25,Arrow Lake,Mobile,24,24,3,5.50,2.80,160,36,N/A,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCBGA2114,105
 Core Ultra 9 285T,Launched,Q1'25,Arrow Lake,Desktop,24,24,3,5.40,1.40,112,36,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
 Core Ultra 5 245K,Launched,Q4'24,Arrow Lake,Desktop,14,14,3,5.20,4.20,159,24,Intel Smart Cache,192,Up to DDR5 6400 MT/s,N/A,2,Intel Graphics,FCLGA1851,105
 Core Ultra 5 245KF,Launched,Q4'24,Arrow Lake,Desktop,14,14,3,5.20,4.20,159,24,Intel Smart Cache,192,Up to DDR5 6400 MT/s,6400,2,N/A,FCLGA1851,105
