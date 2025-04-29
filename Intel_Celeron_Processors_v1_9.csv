@@ -1,0 +1,131 @@
+Product,Status,Release Date,Code Name,Vertical Segment,Cores,Threads,Lithography(nm),Max. Turbo Freq.(GHz),Base Freq.(GHz),TDP(W),Cache(MB),Cache Info,Max Memory Size(GB),Memory Types,Max Memory Speed(MHz),Max Memory Channels,Integrated Graphics,Sockets Supported,Max Operating Temp.(°C)
+Celeron G6900,Launched,Q1'22,Alder Lake,Desktop,2,2,7,N/A,3.40,46,4,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel UHD Graphics 710,FCLGA1700,100
+Celeron G6900E,Launched,Q1'22,Alder Lake,Embedded,2,2,7,N/A,3.00,46,4,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel UHD Graphics 710,FCLGA1700,100
+Celeron G6900T,Launched,Q1'22,Alder Lake,Desktop,2,2,7,N/A,2.80,35,4,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel UHD Graphics 710,FCLGA1700,100
+Celeron G6900TE,Launched,Q1'22,Alder Lake,Embedded,2,2,7,N/A,2.40,35,4,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel UHD Graphics 710,FCLGA1700,100
+Celeron G5905,Launched,Q3'20,Comet Lake,Desktop,2,2,14,N/A,3.50,58,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 610 Graphics,FCLGA1200,100
+Celeron G5905T,Launched,Q3'20,Comet Lake,Desktop,2,2,14,N/A,3.30,35,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 610 Graphics,FCLGA1200,100
+Celeron G5925,Launched,Q3'20,Comet Lake,Desktop,2,2,14,N/A,3.60,58,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 610 Graphics,FCLGA1200,100
+Celeron G5900,Launched,Q2'20,Comet Lake,Desktop,2,2,14,N/A,3.40,58,2,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 610 Graphics,FCLGA1200,100
+Celeron G5900E,Launched,Q2'20,Comet Lake,Embedded,2,2,14,N/A,3.20,58,2,Intel Smart Cache,128,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1200,100
+Celeron G5900T,Launched,Q2'20,Comet Lake,Desktop,2,2,14,N/A,3.20,35,2,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 610 Graphics,FCLGA1200,100
+Celeron G5900TE,Launched,Q2'20,Comet Lake,Embedded,2,2,14,N/A,3.00,35,2,Intel Smart Cache,128,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1200,100
+Celeron G5920,Launched,Q2'20,Comet Lake,Desktop,2,2,14,N/A,3.50,58,2,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 610 Graphics,FCLGA1200,100
+Celeron G4930E,Launched,Q2'19,Coffee Lake,Embedded,2,2,14,N/A,2.40,35,2,N/A,64,DDR4,2400,2,Intel UHD 610 Graphics,FCBGA1440,100
+Celeron G4932E,Launched,Q2'19,Coffee Lake,Embedded,2,2,14,N/A,1.90,25,2,N/A,64,DDR4,2400,2,Intel UHD 610 Graphics,FCBGA1440,100
+Celeron G4930,Discontinued,Q2'19,Coffee Lake,Desktop,2,2,14,N/A,3.20,54,2,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1151,100
+Celeron G4930T,Discontinued,Q2'19,Coffee Lake,Desktop,2,2,14,N/A,3.00,35,2,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1151,88
+Celeron G4950,Discontinued,Q2'19,Coffee Lake,Desktop,2,2,14,N/A,3.30,54,2,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1151,100
+Celeron G4900,Launched,Q2'18,Coffee Lake,Desktop,2,2,14,N/A,3.10,54,2,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1151,100
+Celeron G4900T,Launched,Q2'18,Coffee Lake,Desktop,2,2,14,N/A,2.90,35,2,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1151,88
+Celeron G4920,Discontinued,Q2'18,Coffee Lake,Desktop,2,2,14,N/A,3.20,54,2,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1151,100
+Celeron G3930E,Launched,Q2'17,Kaby Lake,Desktop,2,2,N/A,N/A,2.90,54,2,N/A,64,"DDR4-2133, DDR3L-1600",N/A,2,Intel HD 610 Graphics,FCLGA1151,100
+Celeron G3930TE,Launched,Q2'17,Kaby Lake,Desktop,2,2,N/A,N/A,2.70,35,2,N/A,64,"DDR4-2133, DDR3L-1600",N/A,2,Intel HD 610 Graphics,FCLGA1151,88
+Celeron G3930,Discontinued,Q1'17,Kaby Lake,Desktop,2,2,14,N/A,2.90,51,2,N/A,64,"DDR4 2133, DDR3L 1333/1600 @ 1.35V",N/A,2,Intel HD 610 Graphics,FCLGA1151,100
+Celeron G3930T,Discontinued,Q1'17,Kaby Lake,Desktop,2,2,14,N/A,2.70,35,2,N/A,64,"DDR4 2133, DDR3L 1333/1600 @ 1.35V",N/A,2,Intel HD 610 Graphics,FCLGA1151,92
+Celeron G3950,Discontinued,Q1'17,Kaby Lake,Desktop,2,2,14,N/A,3.00,51,2,N/A,64,"DDR4 2133, DDR3L 1333/1600 @ 1.35V",N/A,2,Intel HD 610 Graphics,FCLGA1151,100
+Celeron G3900E,Launched,Q1'16,Skylake,Embedded,2,2,14,N/A,2.40,35,2,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 510 Graphics,FCBGA1440,100
+Celeron G3902E,Launched,Q1'16,Skylake,Embedded,2,2,14,N/A,1.60,25,2,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 510 Graphics,FCBGA1440,100
+Celeron G3900,Launched,Q4'15,Skylake,Desktop,2,2,14,N/A,2.80,51,2,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 510 Graphics,FCLGA1151,N/A
+Celeron G3900T,Discontinued,Q4'15,Skylake,Desktop,2,2,14,N/A,2.60,35,2,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 510 Graphics,FCLGA1151,N/A
+Celeron G3900TE,Launched,Q4'15,Skylake,Embedded,2,2,14,N/A,2.30,35,2,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 510 Graphics,FCLGA1151,N/A
+Celeron G3920,Discontinued,Q4'15,Skylake,Desktop,2,2,14,N/A,2.90,51,2,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 510 Graphics,FCLGA1151,N/A
+Celeron G1840,Discontinued,Q2'14,Haswell,Desktop,2,2,22,N/A,2.80,53,2,N/A,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Celeron G1840T,Discontinued,Q2'14,Haswell,Desktop,2,2,22,N/A,2.50,35,2,N/A,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,66.4
+Celeron G1850,Discontinued,Q2'14,Haswell,Desktop,2,2,22,N/A,2.90,53,2,N/A,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Celeron G1820TE,Discontinued,Q1'14,Haswell,Embedded,2,2,22,N/A,2.20,35,2,Intel Smart Cache,32,DDR3,1333,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,N/A
+Celeron G1820,Discontinued,Q1'14,Haswell,Desktop,2,2,22,N/A,2.70,53,2,Intel Smart Cache,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Celeron G1820T,Discontinued,Q1'14,Haswell,Desktop,2,2,22,N/A,2.40,35,2,Intel Smart Cache,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,66.4
+Celeron G1830,Discontinued,Q1'14,Haswell,Desktop,2,2,22,N/A,2.80,53,2,Intel Smart Cache,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Celeron G1620T,Discontinued,Q3'13,Ivy Bridge,Desktop,2,2,22,N/A,2.40,35,2,Intel Smart Cache,32,DDR3,1333,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Celeron G1630,Discontinued,Q3'13,Ivy Bridge,Desktop,2,2,22,N/A,2.80,55,2,Intel Smart Cache,32,DDR3,1333,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Celeron G1610,Discontinued,Q1'13,Ivy Bridge,Desktop,2,2,22,N/A,2.60,55,2,Intel Smart Cache,32,DDR3,1333,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Celeron G1610T,Discontinued,Q1'13,Ivy Bridge,Desktop,2,2,22,N/A,2.30,35,2,Intel Smart Cache,32,DDR3,1333,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Celeron G1620,Discontinued,Q1'13,Ivy Bridge,Desktop,2,2,22,N/A,2.70,55,2,Intel Smart Cache,32,DDR3,1333,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Celeron J6412,Launched,Q1'21,Elkhart Lake,Embedded,4,4,10,N/A,2.00,10,1.5,L2 Cache,32,"4x32 LPDDR4/x 3733MT/s Max (8GB, 16GB @3200MT/s) / 2x64 DDR4 3200MT/s Max 32GB",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,70
+Celeron J6413,Launched,Q1'21,Elkhart Lake,Embedded,4,4,10,N/A,1.80,10,1.5,L2 Cache,32,"4x32 LPDDR4/x 3733MT/s Max (8GB, 16GB @3200MT/s) / 2x64 DDR4 3200MT/s Max 32GB",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,70
+Celeron J4025,Discontinued,Q4'19,Gemini Lake Refresh,Mobile,2,2,14,N/A,2.00,10,4,N/A,8,"DDR4/LPDDR4 up to 2400 MT/s",N/A,2,Intel UHD 600 Graphics,FCBGA1090,105
+Celeron J4125,Discontinued,Q4'19,Gemini Lake Refresh,Mobile,4,4,14,N/A,2.00,10,4,N/A,8,"DDR4/LPDDR4 up to 2400 MT/s",N/A,2,Intel UHD 600 Graphics,FCBGA1090,105
+Celeron J3355E,Discontinued,Q3'19,Apollo Lake,Desktop,2,2,14,2.50,2.00,10,2,N/A,8,"DDR3L/LPDDR3 up to 1866 MT/s; LPDDR4 up to 2400 MT/s",N/A,2,Intel HD 500 Graphics,N/A,105
+Celeron J3455E,Discontinued,Q3'19,Apollo Lake,Desktop,4,4,14,2.30,1.50,10,2,N/A,8,"DDR3L/LPDDR3 up to 1866 MT/s; LPDDR4 up to 2400 MT/s",N/A,2,Intel HD 500 Graphics,N/A,105
+Celeron J4005,Discontinued,Q4'17,Gemini Lake,Mobile,2,2,14,N/A,2.00,10,4,N/A,8,"DDR4/LPDDR4 up to 2400 MT/s",N/A,2,Intel UHD 600 Graphics,FCBGA1090,105
+Celeron J4105,Discontinued,Q4'17,Gemini Lake,Mobile,4,4,14,N/A,1.50,10,4,N/A,8,"DDR4/LPDDR4 up to 2400 MT/s",N/A,2,Intel UHD 600 Graphics,FCBGA1090,105
+Celeron J3355,Launched,Q3'16,Apollo Lake,Desktop,2,2,14,N/A,2.00,10,2,N/A,8,"DDR3L/LPDDR3 up to 1866 MT/s; LPDDR4 up to 2400 MT/s",N/A,2,Intel HD 500 Graphics,FCBGA1296,105
+Celeron J3455,Launched,Q3'16,Apollo Lake,Desktop,4,4,14,N/A,1.50,10,2,N/A,8,"DDR3L/LPDDR3 up to 1866 MT/s; LPDDR4 up to 2400 MT/s",N/A,2,Intel HD 500 Graphics,FCBGA1296,105
+Celeron J3060,Discontinued,Q1'16,Braswell,Desktop,2,2,14,N/A,1.60,6,2,L2 Cache,8,DDR3L,1600,2,Name Unknown,FCBGA1170,90
+Celeron J3160,Discontinued,Q1'16,Braswell,Desktop,4,4,14,N/A,1.60,6,2,L2 Cache,8,DDR3L,1600,2,Name Unknown,FCBGA1170,90
+Celeron J1800,Discontinued,Q4'13,Bay Trail,Desktop,2,2,22,N/A,2.41,10,1,L2 Cache,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,105
+Celeron J1900,Launched,Q4'13,Bay Trail,Desktop,4,4,22,N/A,2.00,10,2,L2 Cache,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,105
+Celeron J1750,Discontinued,Q3'13,Bay Trail,Desktop,2,2,22,N/A,2.41,10,1,L2 Cache,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Celeron J1850,Discontinued,Q3'13,Bay Trail,Desktop,4,4,22,N/A,2.00,10,2,L2 Cache,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Celeron N6210,Launched,Q1'21,Elkhart Lake,Embedded,2,2,10,N/A,1.20,10,1.5,L2 Cache,32,"4x32 LPDDR4/x 3200MT/s Max 16GB / 2x64 DDR4 3200MT/s Max 32GB",N/A,4,Intel UHD Graphics for 10th Gen Intel Processors,FCBGA1493,70
+Celeron N4500,Launched,Q1'21,Jasper Lake,Mobile,2,2,10,N/A,1.10,6,4,Intel Smart Cache,16,"DDR4, LPDDR4x",2933,2,Intel UHD Graphics,FCBGA1338,105
+Celeron N4505,Launched,Q1'21,Jasper Lake,Mobile,2,2,10,N/A,2.00,10,4,Intel Smart Cache,16,"DDR4, LPDDR4x",2933,2,Intel UHD Graphics,FCBGA1338,105
+Celeron N5100,Launched,Q1'21,Jasper Lake,Mobile,4,4,10,N/A,1.10,6,4,Intel Smart Cache,16,"DDR4, LPDDR4x",2933,2,Intel UHD Graphics,FCBGA1338,105
+Celeron N5105,Launched,Q1'21,Jasper Lake,Mobile,4,4,10,N/A,2.00,10,4,Intel Smart Cache,16,"DDR4, LPDDR4x",2933,2,Intel UHD Graphics,FCBGA1338,105
+Celeron N6211,Launched,Q1'21,Elkhart Lake,Embedded,2,2,10,N/A,1.20,6.5,1.5,L2 Cache,32,"4x32 LPDDR4/x 3200MT/s Max 16GB / 2x64 DDR4 3200MT/s Max 32GB",N/A,4,Intel UHD Graphics for 10th Gen Intel Processors,FCBGA1493,70
+Celeron N4020,Discontinued,Q4'19,Gemini Lake Refresh,Mobile,2,2,14,N/A,1.10,6,4,N/A,8,"DDR4/LPDDR4 (SRET0) up to 2400 MT/s, DDR4 (SRKLL) up to 2400 MT/s",N/A,2,Intel UHD Graphics 600,FCBGA1090,105
+Celeron N4120,Discontinued,Q4'19,Gemini Lake Refresh,Mobile,4,4,14,N/A,1.10,6,4,N/A,8,"DDR4/LPDDR4 up to 2400 MT/s",N/A,2,Intel UHD Graphics 600,FCBGA1090,105
+Celeron N3350E,Discontinued,Q3'19,Apollo Lake,Mobile,2,2,14,N/A,1.10,6,2,N/A,8,"DDR3L/LPDDR3 up to 1866 MT/s; LPDDR4 up to 2400 MT/s",N/A,2,Intel HD Graphics 500,N/A,105
+Celeron N4000,Discontinued,Q4'17,Gemini Lake,Mobile,2,2,14,N/A,1.10,6,4,N/A,8,"DDR4/LPDDR4 up to 2400 MT/s",N/A,2,Intel UHD Graphics 600,FCBGA1090,105
+Celeron N4100,Discontinued,Q4'17,Gemini Lake,Mobile,4,4,14,N/A,1.10,6,4,N/A,8,"DDR4/LPDDR4 up to 2400 MT/s",N/A,2,Intel UHD Graphics 600,FCBGA1090,105
+Celeron N3350,Launched,Q3'16,Apollo Lake,Mobile,2,2,14,N/A,1.10,6,2,L2 Cache,8,"DDR3L/LPDDR3 up to 1866 MT/s; LPDDR4 up to 2400 MT/s",N/A,2,Intel HD Graphics 500,FCBGA1296,105
+Celeron N3450,Launched,Q3'16,Apollo Lake,Mobile,4,4,14,N/A,1.10,6,2,L2 Cache,8,"DDR3L/LPDDR3 up to 1866 MT/s; LPDDR4 up to 2400 MT/s",N/A,2,Intel HD Graphics 500,FCBGA1296,105
+Celeron N3010,Launched,Q1'16,Braswell,Mobile,2,2,14,N/A,1.04,4,2,L2 Cache,8,DDR3L,1600,2,Name Unknown,FCBGA1170,90
+Celeron N3060,Launched,Q1'16,Braswell,Mobile,2,2,14,N/A,1.60,6,2,L2 Cache,8,DDR3L,1600,2,Name Unknown,FCBGA1170,90
+Celeron N3160,Launched,Q1'16,Braswell,Mobile,4,4,14,N/A,1.60,6,2,L2 Cache,8,DDR3L,1600,2,Name Unknown,FCBGA1170,90
+Celeron N3000,Discontinued,Q1'15,Braswell,Mobile,2,2,14,N/A,1.04,4,2,L2 Cache,8,DDR3L,1600,2,Intel HD Graphics for Intel Celeron N3000 Processor Series,FCBGA1170,90
+Celeron N3050,Discontinued,Q1'15,Braswell,Mobile,2,2,14,N/A,1.60,6,2,L2 Cache,8,DDR3L,1600,2,Intel HD Graphics for Intel Celeron N3000 Processor Series,FCBGA1170,90
+Celeron N3150,Discontinued,Q1'15,Braswell,Mobile,4,4,14,N/A,1.60,6,2,L2 Cache,8,DDR3L,1600,2,Intel HD Graphics for Intel Celeron N3000 Processor Series,FCBGA1170,90
+Celeron N2808,Discontinued,Q3'14,Bay Trail,Mobile,2,2,22,N/A,1.58,4.5,1,L2 Cache,4,DDR3L,1333,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Celeron N2840,Discontinued,Q3'14,Bay Trail,Mobile,2,2,22,N/A,2.16,7.5,1,L2 Cache,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Celeron N2940,Discontinued,Q3'14,Bay Trail,Mobile,4,4,22,N/A,1.83,7.5,2,L2 Cache,8,DRR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Celeron N2807,Launched,Q1'14,Bay Trail,Mobile,2,2,22,N/A,1.58,4.3,1,N/A,4,DDR3L,1333,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,105
+Celeron N2830,Discontinued,Q1'14,Bay Trail,Mobile,2,2,22,N/A,2.16,7.3,1,N/A,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Celeron N2930,Launched,Q1'14,Bay Trail,Mobile,4,4,22,N/A,1.83,7.5,2,N/A,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Celeron N2806,Discontinued,Q4'13,Bay Trail,Mobile,2,2,22,N/A,1.60,4.5,1,N/A,4,DDR3L,1066,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,105
+Celeron N2815,Discontinued,Q4'13,Bay Trail,Mobile,2,2,22,N/A,1.86,7.5,1,N/A,8,DDR3L,1066,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,105
+Celeron N2820,Discontinued,Q4'13,Bay Trail,Mobile,2,2,22,N/A,2.13,7.5,1,N/A,8,DDR3L,1066,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,105
+Celeron N2920,Discontinued,Q4'13,Bay Trail,Mobile,4,4,22,N/A,1.86,7.5,2,N/A,8,DDR3L,1066,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,105
+Celeron N2805,Discontinued,Q3'13,Bay Trail,Mobile,2,2,22,N/A,1.46,4.3,1,N/A,4,DDR3L,1066,1,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,80
+Celeron N2810,Discontinued,Q3'13,Bay Trail,Mobile,2,2,22,N/A,2.00,7.5,1,N/A,8,DDR3L,1066,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Celeron N2910,Discontinued,Q3'13,Bay Trail,Mobile,4,4,22,N/A,1.60,7.5,2,N/A,8.79,DDR3L,1066,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Celeron 7305L,Launched,Q3'22,Alder Lake,Embedded,5,5,7,1.10,1.10,15,8,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel UHD Graphics for 12th Gen Intel Processors,FCLGA1700,100
+Celeron 7305E,Launched,Q1'22,Alder Lake,Embedded,5,5,7,N/A,1.00,15,8,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,2,Intel UHD Graphics for 12th Gen Intel Processors,FCBGA1744,100
+Celeron 7305,Launched,Q1'22,Alder Lake,Mobile,5,5,7,N/A,N/A,15,8,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,2,Intel UHD Graphics for 12th Gen Intel Processors,FCBGA1744,100
+Celeron 6600HE,Launched,Q3'21,Tiger Lake,Embedded,2,2,10,N/A,2.60,35,8,Intel Smart Cache,128,DDR4,3200,2,Intel UHD Graphics for 11th Gen Intel Core Processors,FCBGA1787,100
+Celeron 6305,Discontinued,Q4'20,Tiger Lake,Mobile,2,2,10,N/A,1.80,15,4,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-3733",N/A,2,Intel UHD Graphics for 11th Gen Intel Core Processors,FCBGA1449,100
+Celeron 6305E,Launched,Q4'20,Tiger Lake,Embedded,2,2,10,N/A,1.80,15,4,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-3733",N/A,2,Intel UHD Graphics,FCBGA1449,100
+Celeron 5305U,Discontinued,Q2'20,Comet Lake,Mobile,2,2,14,N/A,2.30,15,2,N/A,64,"DDR4-2400, LPDDR3-2133",N/A,2,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1528,100
+Celeron 5205U,Discontinued,Q4'19,Comet Lake,Mobile,2,2,14,N/A,1.90,15,2,N/A,64,"DDR4-2400, LPDDR3-2133",N/A,2,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1528,100
+Celeron 4305U,Discontinued,Q2'19,Whiskey Lake,Mobile,2,2,14,N/A,2.20,15,2,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866",N/A,2,Intel UHD Graphics for 8th Gen Intel Processors,FCBGA1528,100
+Celeron 4205U,Discontinued,Q1'19,Whiskey Lake,Mobile,2,2,14,N/A,1.80,15,2,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866",N/A,2,Intel UHD Graphics for 8th Gen Intel Processors,FCBGA1528,100
+Celeron 4305UE,Launched,Q3'18,Whiskey Lake,Embedded,2,2,14,N/A,2.00,15,2,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866",N/A,2,Intel UHD Graphics 610,FCBGA1528,100
+Celeron 3867U,Discontinued,Q1'19,Kaby Lake R,Mobile,2,2,14,N/A,1.80,15,2,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,2,Intel HD 610 Graphics,"FCBGA1356,FC-BGA1356",100
+Celeron 3965Y,Discontinued,Q2'17,Kaby Lake,Mobile,2,2,14,N/A,1.50,6,2,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,2,Intel HD 615 Graphics,FCBGA1515,100
+Celeron 3865U,Discontinued,Q1'17,Kaby Lake,Mobile,2,2,14,N/A,1.80,15,2,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,2,Intel HD 610 Graphics,"FCBGA1356,FPBGA1356",100
+Celeron 3965U,Launched,Q1'17,Kaby Lake,Mobile,2,2,14,N/A,2.20,15,2,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,2,Intel HD 610 Graphics,"FCBGA1356,FPBGA1356",100
+Celeron 3855U,Discontinued,Q4'15,Skylake,Mobile,2,2,14,N/A,1.60,15,2,Intel Smart Cache,32,"DDR4-1866/2133, LPDDR3-1600/1866, DDR3L-1333/1600",N/A,2,Intel HD 510 Graphics,FCBGA1356,100
+Celeron 3955U,Launched,Q4'15,Skylake,Mobile,14,2,2,N/A,2.00,15,2,Intel Smart Cache,32,"DDR4-1866/2133, LPDDR3-1600/1866, DDR3L-1333/1600",N/A,2,Intel HD 510 Graphics,FCBGA1356,100
+Celeron 3215U,Discontinued,Q2'15,Broadwell,Mobile,2,2,14,N/A,1.70,15,2,N/A,16,"DDR3L 1333/1600 LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 5th Gen Intel Processors,FCBGA1168,105
+Celeron 3765U,Discontinued,Q2'15,Broadwell,Mobile,2,2,14,N/A,1.90,15,2,N/A,16,"DDR3L 1333/1600 LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 5th Gen Intel Processors,FCBGA1168,105
+Celeron 3205U,Discontinued,Q1'15,Broadwell,Mobile,2,2,14,N/A,1.50,15,2,N/A,16,"DDR3L 1333/1600 LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 5th Gen Intel Processors,FCBGA1168,105
+Celeron 3775U,Discontinued,Q1'15,Broadwell,Mobile,2,2,14,N/A,1.70,15,2,N/A,16,"DDR3L 1333/1600 LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 5th Gen Intel Processors,FCBGA1168,105
+Celeron 2970M,Discontinued,Q2'14,Haswell,Mobile,2,2,22,N/A,2.20,37,2,Intel Smart Cache,32,DDR3L 1333/1600,N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCPGA946,100
+Celeron 2000E,Discontinued,Q1'14,Haswell,Embedded,2,2,22,N/A,2.20,37,2,Intel Smart Cache,32,DDR3L 1333/1600,N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCBGA1364,100
+Celeron 2002E,Discontinued,Q1'14,Haswell,Embedded,2,2,22,N/A,1.50,25,2,Intel Smart Cache,32,DDR3L 1333/1600,N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCBGA1364,100
+Celeron 2957U,Discontinued,Q4'13,Haswell,Mobile,2,2,22,N/A,1.40,15,2,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCBGA1168,100
+Celeron 2961Y,Discontinued,Q4'13,Haswell,Mobile,2,2,22,N/A,1.10,11.5,2,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCBGA1168,100
+Celeron 2981U,Discontinued,Q4'13,Haswell,Mobile,2,2,22,N/A,1.60,15,2,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCBGA1168,100
+Celeron 2950M,Discontinued,Q4'13,Haswell,Mobile,2,2,22,N/A,2.00,37,2,Intel Smart Cache,32,DDR3L 1333/1600,N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCPGA946,100
+Celeron 2955U,Discontinued,Q3'13,Haswell,Mobile,2,2,22,N/A,1.40,15,2,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCBGA1168,100
+Celeron 2980U,Discontinued,Q3'13,Haswell,Mobile,2,2,22,N/A,1.60,15,2,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCBGA1168,100
+Celeron 1005M,Discontinued,Q3'13,Ivy Bridge,Mobile,2,2,22,N/A,1.90,35,2,N/A,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCPGA988,105
+Celeron 1017U,Discontinued,Q3'13,Ivy Bridge,Mobile,2,2,22,N/A,1.60,17,2,N/A,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCBGA1023,105
+Celeron 1019Y,Discontinued,Q2'13,Ivy Bridge,Mobile,2,2,22,N/A,1.00,10,2,N/A,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCBGA1023,105
+Celeron 1000M,Discontinued,Q1'13,Ivy Bridge,Mobile,2,2,22,N/A,1.80,35,2,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCPGA988,105
+Celeron 1007U,Discontinued,Q1'13,Ivy Bridge,Mobile,2,2,22,N/A,1.50,17,2,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCBGA1023,105
+Celeron 1020E,Discontinued,Q1'13,Ivy Bridge,Embedded,2,2,22,N/A,2.20,35,2,Intel Smart Cache,16,"DDR3/DDR3L 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,"FCBGA1023,FCPGA988",105
+Celeron 1020M,Discontinued,Q1'13,Ivy Bridge,Mobile,2,2,22,N/A,2.10,35,2,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCPGA988,105
+Celeron 1037U,Discontinued,Q1'13,Ivy Bridge,Mobile,2,2,22,N/A,1.80,17,2,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCBGA1023,105
+Celeron 1047UE,Discontinued,Q1'13,Ivy Bridge,Embedded,2,2,22,N/A,1.40,17,2,Intel Smart Cache,16,"DDR3/DDR3L 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCBGA1023,105
