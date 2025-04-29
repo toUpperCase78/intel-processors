@@ -21,16 +21,16 @@ After a long break, all the datasets are being updated to **Version 1.9**; conta
 
 Of course, the new version includes new processors which are launched until **1st Quarter of 2025**, typically including the latest series of **Intel Core** and **Intel Core Ultra** processors!
 
-Older datasets (v1.1, v1.2, v1.6, v1.8) will still exist and can be found under their specific folders for archiving purposes.
+Older datasets (v1.1, v1.2, v1.6, v1.8) will still exist and can be found under their specific folders for archiving purposes. Also, this is because Intel may no longer list the specifications of legacy processore that were released more than 10 years ago.
 
-In the meantime, there was still no comprehensive analysis on these processors yet, and the existing one was published 5 years ago! I'll perform the analyses once the editing of these datasets from the latest version was completed!
+In the meantime, there still hasn't been no comprehensive analysis on these processors yet for 5 years! I'll perform the analyses once the editing of these datasets from the latest version was completed!
 
 ## Features
 
 The latest version **(1.9)** contain these features below:
 
 - `Product`: Name of the manufactured processor
-- `Status`: Indicates the current status of the processor
+- `Status`: Indicates the current marketing status of the processor
 - `Release Date`: Shows when the processor has been released to PC manufacturers or individual users
 - `Code Name`: Indicates the architecture name for which the processor was designed under
 - `Vertical Segment`: Indicates which computer segment the processor is convenient for usage
