@@ -1,0 +1,124 @@
+Product,Status,Release Date,Code Name,Vertical Segment,Cores,Threads,Lithography(nm),Max. Turbo Freq.(GHz),Base Freq.(GHz),TDP(W),Cache(MB),Cache Info,Max Memory Size(GB),Memory Types,Max Memory Speed(MHz),Max Memory Channels,Integrated Graphics,Sockets Supported,Max Operating Temp.(°C)
+Pentium Gold 8500,Launched,Q1'22,Alder Lake,Mobile,5,6,7,4.40,N/A,29,8,Intel Smart Cache,64,"Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,2,Intel UHD Graphics for 12th Gen Intel Processors,FCBGA1781,100
+Pentium Gold 8505,Launched,Q1'22,Alder Lake,Mobile,5,6,7,4.40,N/A,55,8,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,2,Intel UHD Graphics for 12th Gen Intel Processors,FCBGA1744,100
+Pentium Gold 8505 (with IPU),Launched,Q1'22,Alder Lake,Mobile,5,6,7,4.40,N/A,55,8,Intel Smart Cache,64,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to LPDDR5x 5200 MT/s, Up to LPDDR4x 4267 MT/s",N/A,2,Intel UHD Graphics for 12th Gen Intel Processors,FCBGA1744,100
+Pentium Gold G7400,Launched,Q1'22,Alder Lake,Desktop,2,4,7,N/A,3.70,46,6,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel UHD Graphics 710,FCLGA1700,100
+Pentium Gold G7400E,Launched,Q1'22,Alder Lake,Embedded,2,4,7,N/A,3.60,46,6,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel UHD Graphics 710,FCLGA1700,100
+Pentium Gold G7400T,Launched,Q1'22,Alder Lake,Desktop,2,4,7,N/A,3.10,35,6,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel UHD Graphics 710,FCLGA1700,100
+Pentium Gold G7400TE,Launched,Q1'22,Alder Lake,Embedded,2,4,7,N/A,3.00,35,6,Intel Smart Cache,128,"Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s",N/A,2,Intel UHD Graphics 710,FCLGA1700,100
+Pentium Gold G6405,Launched,Q1'21,Comet Lake,Desktop,2,4,14,N/A,4.10,58,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 610 Graphics,FCLGA1200,100
+Pentium Gold G6405T,Launched,Q1'21,Comet Lake,Desktop,2,4,14,N/A,3.50,35,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 610 Graphics,FCLGA1200,100
+Pentium Gold G6505,Launched,Q1'21,Comet Lake,Desktop,2,4,14,N/A,4.20,58,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 630 Graphics,FCLGA1200,100
+Pentium Gold G6505T,Launched,Q1'21,Comet Lake,Desktop,2,4,14,N/A,3.60,35,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 630 Graphics,FCLGA1200,100
+Pentium Gold G6605,Launched,Q1'21,Comet Lake,Desktop,2,4,14,N/A,4.30,58,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 630 Graphics,FCLGA1200,100
+Pentium Gold 6500Y,Discontinued,Q1'21,Amber Lake Y,Mobile,2,4,14,3.40,1.10,5,4,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,2,Intel UHD 615 Graphics,FCBGA1515,100
+Pentium Gold 7505,Discontinued,Q4'20,Tiger Lake,Mobile,2,4,10,N/A,3.50,15,4,Intel Smart Cache,64,"DDR4-3200, LPDDR4x-3733",N/A,2,Intel UHD Graphics for 11th Gen Intel Core Processors,FCBGA1449,100
+Pentium Gold G6400,Launched,Q2'20,Comet Lake,Desktop,2,4,14,N/A,4.00,58,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 610 Graphics,FCLGA1200,100
+Pentium Gold G6400E,Launched,Q2'20,Comet Lake,Embedded,2,4,14,N/A,3.80,58,4,Intel Smart Cache,128,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1200,100
+Pentium Gold G6400T,Launched,Q2'20,Comet Lake,Desktop,2,4,14,N/A,3.40,35,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 610 Graphics,FCLGA1200,100
+Pentium Gold G6400TE,Launched,Q2'20,Comet Lake,Embedded,2,4,14,N/A,3.20,35,4,Intel Smart Cache,128,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1200,100
+Pentium Gold G6500,Launched,Q2'20,Comet Lake,Desktop,2,4,14,N/A,4.10,58,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 630 Graphics,FCLGA1200,100
+Pentium Gold G6500T,Launched,Q2'20,Comet Lake,Desktop,2,4,14,N/A,3.50,35,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 630 Graphics,FCLGA1200,100
+Pentium Gold G6600,Launched,Q2'20,Comet Lake,Desktop,2,4,14,N/A,4.20,58,4,Intel Smart Cache,128,DDR4,2666,2,Intel UHD 630 Graphics,FCLGA1200,100
+Pentium Gold 6405U,Discontinued,Q4'19,Comet Lake,Mobile,2,4,14,N/A,2.40,15,2,N/A,64,"DDR4-2400, LPDDR3-2133",N/A,2,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1528,100
+Pentium Gold G5420,Discontinued,Q2'19,Coffee Lake,Desktop,2,4,14,N/A,3.80,54,4,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1151,100
+Pentium Gold G5420T,Discontinued,Q2'19,Coffee Lake,Desktop,2,4,14,N/A,3.20,35,4,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1151,88
+Pentium Gold G5600T,Discontinued,Q2'19,Coffee Lake,Desktop,2,4,14,N/A,3.30,35,4,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 630 Graphics,FCLGA1151,88
+Pentium Gold G5620,Discontinued,Q2'19,Coffee Lake,Desktop,2,4,14,N/A,4.00,54,4,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 630 Graphics,FCLGA1151,100
+Pentium Gold 5405U,Discontinued,Q1'19,Whiskey Lake,Mobile,2,4,14,N/A,2.30,15,2,Intel Smart Cache,64,"DDR4-2133, LPDDR3-1866",N/A,2,Intel UHD Graphics for 8th Gen Intel Processors,FCBGA1528,100
+Pentium Gold 4417U,Discontinued,Q1'19,Kaby Lake R,Mobile,2,4,14,N/A,2.30,15,2,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,2,Intel HD 610 Graphics,FCBGA1356,100
+Pentium Gold 4425Y,Discontinued,Q1'19,Amber Lake,Mobile,2,4,14,N/A,1.70,6,2,N/A,16,"LPDDR3-1866, DDR3L-1600",N/A,2,Intel UHD 615 Graphics,FCBGA1515,100
+Pentium Gold G5400,Launched,Q2'18,Coffee Lake,Desktop,2,4,14,N/A,3.70,58,4,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1151,100
+Pentium Gold G5400T,Launched,Q2'18,Coffee Lake,Desktop,2,4,14,N/A,3.10,35,4,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 610 Graphics,FCLGA1151,100
+Pentium Gold G5500,Discontinued,Q2'18,Coffee Lake,Desktop,2,4,14,N/A,3.80,54,4,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 630 Graphics,FCLGA1151,100
+Pentium Gold G5500T,Discontinued,Q2'18,Coffee Lake,Desktop,2,4,14,N/A,3.20,35,4,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 630 Graphics,FCLGA1151,88
+Pentium Gold G5600,Discontinued,Q2'18,Coffee Lake,Desktop,2,4,14,N/A,3.90,54,4,Intel Smart Cache,64,DDR4,2400,2,Intel UHD 630 Graphics,FCLGA1151,100
+Pentium Gold 4415Y,Discontinued,Q2'17,Kaby Lake,Mobile,2,4,14,N/A,1.60,6,2,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,2,Intel HD 615 Graphics,FCBGA1515,100
+Pentium Gold 4410Y,Discontinued,Q1'17,Kaby Lake,Mobile,2,4,14,N/A,1.50,6,2,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,2,Intel HD 615 Graphics,FCBGA1515,100
+Pentium Gold 4415U,Discontinued,Q1'17,Kaby Lake,Mobile,2,4,14,N/A,2.30,15,2,Intel Smart Cache,32,"DDR4-2133, LPDDR3-1866, DDR3L-1600",N/A,2,Intel HD 610 Graphics,"FCBGA1356,FPBGA1356",100
+Pentium Silver N6000,Launched,Q1'21,Jasper Lake,Mobile,4,4,10,N/A,1.10,6,4,Intel Smart Cache,16,"DDR4, LPDDR4x",2933,2,Intel UHD Graphics,FCBGA1338,105
+Pentium Silver N6005,Launched,Q1'21,Jasper Lake,Mobile,4,4,10,N/A,2.00,10,4,Intel Smart Cache,16,"DDR4, LPDDR4x,",2933,2,Intel UHD Graphics,FCBGA1338,105
+Pentium Silver J5040,Discontinued,Q4'19,Gemini Lake Refresh,Mobile,4,4,14,N/A,2.00,10,4,N/A,8,"DDR4/LPDDR4 up to 2400 MT/s",N/A,2,Intel UHD 605 Graphics,FCBGA1090,105
+Pentium Silver N5030,Discontinued,Q4'19,Gemini Lake Refresh,Mobile,4,4,14,N/A,1.10,6,4,N/A,8,"DDR4/LPDDR4 up to 2400 MT/s",N/A,2,Intel UHD 605 Graphics,FCBGA1090,105
+Pentium Silver J5005,Discontinued,Q4'17,Gemini Lake,Mobile,4,4,14,N/A,1.50,10,4,N/A,8,"DDR4/LPDDR4 up to 2400 MT/s",N/A,2,Intel UHD 605 Graphics,FCBGA1090,105
+Pentium Silver N5000,Discontinued,Q4'17,Gemini Lake,Mobile,4,4,14,N/A,1.10,6,4,N/A,8,"DDR4/LPDDR4 up to 2400 MT/s",N/A,2,Intel UHD 605 Graphics,FCBGA1090,105
+Pentium D1519,Discontinued,Q2'16,Broadwell,Server,4,8,7,2.10,1.50,25,6,N/A,128,"DDR4, DDR3",2133,2,N/A,FCBGA1667,85
+Pentium D1507,Discontinued,Q4'15,Broadwell,Server,2,2,14,N/A,1.20,20,3,N/A,128,"DDR4, DDR3",1600,2,N/A,FCBGA1667,N/A
+Pentium D1508,Discontinued,Q4'15,Broadwell,Server,2,4,14,2.60,2.20,25,3,N/A,128,"DDR4, DDR3",1866,2,N/A,FCBGA1667,N/A
+Pentium D1509,Discontinued,Q4'15,Broadwell,Server,2,2,14,N/A,1.50,19,3,N/A,128,"DDR4, DDR3",1600,2,N/A,FCBGA1667,N/A
+Pentium D1517,Discontinued,Q4'15,Broadwell,Server,4,8,7,2.20,1.60,25,6,N/A,128,"DDR4, DDR3",2133,2,N/A,FCBGA1667,N/A
+Pentium G4560,Discontinued,Q1'17,Kaby Lake,Desktop,2,4,14,N/A,3.50,54,3,N/A,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 610 Graphics,FCLGA1151,100
+Pentium G4560T,Discontinued,Q1'17,Kaby Lake,Desktop,2,4,14,N/A,2.90,35,3,N/A,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 610 Graphics,FCLGA1151,92
+Pentium G4600,Discontinued,Q1'17,Kaby Lake,Desktop,2,4,14,N/A,3.60,51,3,N/A,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 630 Graphics,FCLGA1151,100
+Pentium G4600T,Discontinued,Q1'17,Kaby Lake,Desktop,2,4,14,N/A,3.00,35,3,N/A,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 630 Graphics,FCLGA1151,92
+Pentium G4620,Discontinued,Q1'17,Kaby Lake,Desktop,2,4,14,N/A,3.70,51,3,N/A,64,"DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 630 Graphics,FCLGA1151,100
+Pentium G4400TE,Launched,Q4'15,Skylake,Embedded,2,2,14,N/A,2.40,35,3,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 510 Graphics,FCLGA1151,N/A
+Pentium G4400,Launched,Q3'15,Skylake,Desktop,2,2,14,N/A,3.30,54,3,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 510 Graphics,FCLGA1151,N/A
+Pentium G4400T,Discontinued,Q3'15,Skylake,Desktop,2,2,14,N/A,2.90,35,3,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 510 Graphics,FCLGA1151,N/A
+Pentium G4500,Discontinued,Q3'15,Skylake,Desktop,2,2,14,N/A,3.50,51,3,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 530 Graphics,FCLGA1151,N/A
+Pentium G4500T,Discontinued,Q3'15,Skylake,Desktop,2,2,14,N/A,3.00,35,3,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 530 Graphics,FCLGA1151,N/A
+Pentium G4520,Discontinued,Q3'15,Skylake,Desktop,2,2,14,N/A,3.60,51,3,Intel Smart Cache,64,"DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V",N/A,2,Intel HD 530 Graphics,FCLGA1151,N/A
+Pentium G3260,Discontinued,Q1'15,Haswell,Desktop,2,2,22,N/A,3.30,53,3,N/A,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,N/A
+Pentium G3260T,Discontinued,Q1'15,Haswell,Desktop,2,2,22,N/A,2.90,35,3,N/A,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,66.4
+Pentium G3460T,Discontinued,Q1'15,Haswell,Desktop,2,2,22,N/A,3.00,35,3,N/A,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,66.4
+Pentium G3470,Discontinued,Q1'15,Haswell,Desktop,2,2,22,N/A,3.60,53,3,N/A,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Pentium G3250,Discontinued,Q3'14,Haswell,Desktop,2,2,22,N/A,3.20,53,3,Intel Smart Cache,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Pentium G3250T,Discontinued,Q3'14,Haswell,Desktop,2,2,22,N/A,2.80,35,3,Intel Smart Cache,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,66.4
+Pentium G3450T,Discontinued,Q3'14,Haswell,Desktop,2,2,22,N/A,2.90,35,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,66.4
+Pentium G3460,Discontinued,Q3'14,Haswell,Desktop,2,2,22,N/A,3.50,53,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Pentium G3258,Discontinued,Q2'14,Haswell,Desktop,2,2,22,N/A,3.20,53,3,N/A,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Pentium G3240,Discontinued,Q2'14,Haswell,Desktop,2,2,22,N/A,3.10,53,3,Intel Smart Cache,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Pentium G3240T,Discontinued,Q2'14,Haswell,Desktop,2,2,22,N/A,2.70,35,3,Intel Smart Cache,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,66.4
+Pentium G3440,Discontinued,Q2'14,Haswell,Desktop,2,2,22,N/A,3.30,53,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Pentium G3440T,Discontinued,Q2'14,Haswell,Desktop,2,2,22,N/A,2.80,35,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,66.4
+Pentium G3450,Discontinued,Q2'14,Haswell,Desktop,2,2,22,N/A,3.40,53,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Pentium G3220,Discontinued,Q3'13,Haswell,Desktop,2,2,22,N/A,3.00,53,3,Intel Smart Cache,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Pentium G3220T,Discontinued,Q3'13,Haswell,Desktop,2,2,22,N/A,2.60,35,3,Intel Smart Cache,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,66.4
+Pentium G3320TE,Discontinued,Q3'13,Haswell,Embedded,2,2,22,N/A,2.30,35,3,Intel Smart Cache,32,"DDR3-1333, DDR3L-1333 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Pentium G3420,Discontinued,Q3'13,Haswell,Desktop,2,2,22,N/A,3.20,53,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Pentium G3420T,Discontinued,Q3'13,Haswell,Desktop,2,2,22,N/A,2.70,35,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,66.4
+Pentium G3430,Discontinued,Q3'13,Haswell,Desktop,2,2,22,N/A,3.30,53,3,Intel Smart Cache,32,"DDR3-1333/1600, DDR3L-1333/1600 @ 1.5V",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCLGA1150,72
+Pentium G2030,Discontinued,Q2'13,Ivy Bridge,Desktop,2,2,22,N/A,3.00,55,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Pentium G2030T,Discontinued,Q2'13,Ivy Bridge,Desktop,2,2,22,N/A,2.60,35,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Pentium G2120T,Discontinued,Q2'13,Ivy Bridge,Desktop,2,2,22,N/A,2.70,35,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Pentium G2140,Discontinued,Q2'13,Ivy Bridge,Desktop,2,2,22,N/A,3.30,55,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Pentium G2010,Discontinued,Q1'13,Ivy Bridge,Desktop,2,2,22,N/A,2.80,55,3,Intel Smart Cache,32,DDR3,1333,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Pentium G2020,Discontinued,Q1'13,Ivy Bridge,Desktop,2,2,22,N/A,2.90,55,3,Intel Smart Cache,32,DDR3,1333,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Pentium G2020T,Discontinued,Q1'13,Ivy Bridge,Desktop,2,2,22,N/A,2.50,35,3,Intel Smart Cache,32,DDR3,1333,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Pentium G2130,Discontinued,Q1'13,Ivy Bridge,Desktop,2,2,22,N/A,3.20,55,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Pentium G2100T,Discontinued,Q3'12,Ivy Bridge,Desktop,2,2,22,N/A,2.60,35,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Pentium G2120,Discontinued,Q3'12,Ivy Bridge,Desktop,2,2,22,N/A,3.10,55,3,Intel Smart Cache,32,"DDR3 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCLGA1155,N/A
+Pentium J6426,Launched,Q1'21,Elkhart Lake,Embedded,4,4,10,N/A,2.00,10,1.5,L2 Cache,32,"4x32 LPDDR4/x 3200MT/s Max 16GB / 2x64 DDR4 3200MT/s Max 32GB",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,70
+Pentium J4205,Discontinued,Q3'16,Apollo Lake,Desktop,4,4,14,N/A,1.50,10,2,N/A,8,"DDR3L/LPDDR3 up to 1866 MT/s; LPDDR4 up to 2400 MT/s",N/A,2,Intel HD 505 Graphics,FCBGA1296,105
+Pentium J3710,Discontinued,Q1'16,Braswell,Desktop,4,4,14,N/A,1.60,6.5,2,L2 Cache,8,DDR3L,1600,2,Name Unknown,FCBGA1170,90
+Pentium J2900,Discontinued,Q4'13,Bay Trail,Desktop,4,4,22,N/A,2.41,10,2,L2 Cache,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,105
+Pentium J2850,Discontinued,Q3'13,Bay Trail,Desktop,4,4,22,N/A,2.41,10,2,L2 Cache,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Pentium N6415,Launched,Q1'21,Elkhart Lake,Embedded,4,4,10,N/A,1.20,6.5,1.5,L2 Cache,32,"4x32 LPDDR4/x 3200MT/s Max 16GB / 2x64 DDR4 3200MT/s Max 32GB",N/A,4,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1493,70
+Pentium N4200E,Discontinued,Q3'19,Apollo Lake,Mobile,4,4,14,2.50,2.50,6,2,N/A,8,"DDR3L/LPDDR3 up to 1866 MT/s; LPDDR4 up to 2400 MT/s",N/A,2,Intel HD 505 Graphics,FCBGA1296,105
+Pentium N4200,Launched,Q3'16,Apollo Lake,Mobile,4,4,14,N/A,1.10,6,2,L2 Cache,8,"DDR3L/LPDDR3 up to 1866 MT/s; LPDDR4 up to 2400 MT/s",N/A,2,Intel HD 505 Graphics,FCBGA1296,105
+Pentium N3710,Launched,Q1'16,Braswell,Mobile,4,4,14,N/A,1.60,6,2,L2 Cache,8,DDR3L,1600,2,Name Unknown,FCBGA1170,90
+Pentium N3700,Discontinued,Q1'15,Braswell,Mobile,4,4,14,N/A,1.60,6,2,L2 Cache,8,DDR3L,1600,2,Intel HD Graphics for Intel Celeron N3000 Processor Series,FCBGA1170,90
+Pentium N3540,Discontinued,Q3'14,Bay Trail,Mobile,4,4,22,N/A,2.16,7.5,2,L2 Cache,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Pentium N3530,Discontinued,Q1'14,Bay Trail,Mobile,4,4,22,N/A,2.16,7.5,2,N/A,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Pentium N3520,Discontinued,Q4'13,Bay Trail,Mobile,4,4,22,N/A,2.17,7.5,2,N/A,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,105
+Pentium N3510,Discontinued,Q3'13,Bay Trail,Mobile,4,4,22,N/A,2.00,7.5,2,N/A,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,100
+Pentium 6805,Discontinued,Q4'20,Ice Lake,Mobile,2,4,10,3.00,1.10,15,4,N/A,64,"DDR4-3200, LPDDR4-3733",N/A,2,Intel UHD Graphics for 10th Gen Intel Core Processors,FCBGA1526,100
+Pentium 4405U,Discontinued,Q3'15,Skylake,Mobile,2,4,14,N/A,2.10,15,2,Intel Smart Cache,32,"DDR4-1866/2133, LPDDR3-1600/1866",N/A,2,Intel HD 510 Graphics,FCBGA1356,100
+Pentium 4405Y,Discontinued,Q3'15,Skylake,Mobile,2,4,14,N/A,1.50,6,2,Intel Smart Cache,16,"LPDDR3-1866, DDR3L-1600",N/A,2,Intel HD 515 Graphics,FCBGA1515,100
+Pentium 3825U,Discontinued,Q1'15,Broadwell,Mobile,2,4,14,N/A,1.90,15,2,N/A,16,"DDR3L 1333/1600 LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 5th Gen Intel Processors,FCBGA1168,105
+Pentium 3805U,Discontinued,Q1'15,Broadwell,Mobile,2,2,14,N/A,1.90,15,2,N/A,16,"DDR3L 1333/1600 LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 5th Gen Intel Processors,FCBGA1168,105
+Pentium 3560M,Discontinued,Q2'14,Haswell,Mobile,2,2,22,N/A,2.40,37,2,N/A,32,"DDR3L 1333/1600",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCPGA946,100
+Pentium 3558U,Discontinued,Q4'13,Haswell,Mobile,2,2,22,N/A,1.70,15,2,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCBGA1168,100
+Pentium 3561Y,Discontinued,Q4'13,Haswell,Mobile,2,2,22,N/A,1.20,11.5,2,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCBGA1168,100
+Pentium 3550M,Discontinued,Q4'13,Haswell,Mobile,2,2,22,N/A,2.30,37,2,Intel Smart Cache,32,"DDR3L 1333/1600",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCPGA946,100
+Pentium 3556U,Discontinued,Q3'13,Haswell,Mobile,2,2,22,N/A,1.70,15,2,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCBGA1168,100
+Pentium 3560Y,Discontinued,Q3'13,Haswell,Mobile,2,2,22,N/A,1.20,11.5,2,Intel Smart Cache,16,"DDR3L 1333/1600, LPDDR3 1333/1600",N/A,2,Intel HD Graphics for 4th Gen Intel Processors,FCBGA1168,100
+Pentium 2127U,Discontinued,Q3'13,Ivy Bridge,Mobile,2,2,22,N/A,1.90,17,2,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCBGA1023,105
+Pentium 2030M,Discontinued,Q1'13,Ivy Bridge,Mobile,2,2,22,N/A,2.50,35,2,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCPGA988,90
+Pentium 2129Y,Discontinued,Q1'13,Ivy Bridge,Mobile,2,2,22,N/A,1.10,10,2,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCBGA1023,105
+Pentium 2020M,Discontinued,Q3'12,Ivy Bridge,Mobile,2,2,22,N/A,2.40,35,2,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCPGA988,90
+Pentium 2117U,Discontinued,Q3'12,Ivy Bridge,Mobile,2,2,22,N/A,1.80,17,2,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCBGA1023,105
+Pentium A1020,Discontinued,Q1'16,Bay Trail,Mobile,4,4,22,N/A,2.41,10,2,L2 Cache,8,DDR3L,1333,2,Intel HD Graphics for Intel Atom Z3700 Processor Series,FCBGA1170,105
+Pentium 1405 v2,Discontinued,Q1'14,Ivy Bridge,Embedded,2,N/A,22,N/A,1.40,40,6,Intel Smart Cache,384,"DDR3 800/1066/1333",N/A,2,N/A,FCLGA1356,80
+Pentium A1018,Discontinued,Q3'13,Ivy Bridge,Mobile,2,2,22,N/A,2.10,35,1,Intel Smart Cache,32,"DDR3/L/-RS 1333/1600",N/A,2,Intel HD Graphics for 3rd Gen Intel Processors,FCPGA988,105
+Pentium 1405,Discontinued,Q2'12,Sandy Bridge EN,Server,2,2,32,1.80,1.20,40,5,Intel Smart Cache,375,"DDR3 800/1066",N/A,2,N/A,FCLGA1356,N/A
