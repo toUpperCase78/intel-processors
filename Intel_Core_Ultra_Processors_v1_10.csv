@@ -2,7 +2,7 @@ Product,Status,Release Date,Code Name,Vertical Segment,Cores,Threads,Lithography
 Core Ultra 5 322,Launched,Q1'26,Panther Lake,Mobile,6,6,2,4.40,2.50,55,12,Intel Smart Cache,128,"Up to LPDDR5X 7467 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Graphics,FCBGA2540,100
 Core Ultra 5 325,Launched,Q1'26,Panther Lake,Mobile,8,8,2,4.50,2.10,55,12,Intel Smart Cache,128,"Up to LPDDR5X 7467 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Graphics,FCBGA2540,100
 Core Ultra 5 332,Launched,Q1'26,Panther Lake,Mobile,6,6,2,4.40,2.50,55,12,Intel Smart Cache,128,"Up to LPDDR5X 7467 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Graphics,FCBGA2540,100
-Core Ultra 5 335,Launched,Q1'26,Panther Lake,Mobile,8,8,2,4.60,2,20,55,12,Intel Smart Cache,128,"Up to LPDDR5X 7467 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Graphics,FCBGA2540,100
+Core Ultra 5 335,Launched,Q1'26,Panther Lake,Mobile,8,8,2,4.60,2.20,55,12,Intel Smart Cache,128,"Up to LPDDR5X 7467 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Graphics,FCBGA2540,100
 Core Ultra 5 336H,Launched,Q1'26,Panther Lake,Mobile,12,12,2,4.60,1.90,65,18,Intel Smart Cache,128,"Up to LPDDR5X 8533 MT/s, Up to DDR5 7200 MT/s",N/A,2,Intel Graphics,FCBGA2540,100
 Core Ultra 5 338H,Launched,Q1'26,Panther Lake,Mobile,12,12,2,4.70,1.90,65,18,Intel Smart Cache,96,Up to LPDDR5X 8533 MT/s,N/A,2,Intel Arc B370,FCBGA2540,100
 Core Ultra 7 355,Launched,Q1'26,Panther Lake,Mobile,8,8,2,4.70,2.30,55,12,Intel Smart Cache,128,"Up to LPDDR5X 7467 MT/s, Up to DDR5 6400 MT/s",N/A,2,Intel Graphics,FCBGA2540,100
