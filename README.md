@@ -4,7 +4,7 @@
 
 ![Intel Logo](https://i.ibb.co/SVqLYBK/intel-new-logo.png)
 
-Hello there! As a data science enthusiast, here is my dataset project about **Intel Processors**. Thanks to these datasets altogether, one can realize how computers' central processing units (CPUs) have evolved within last two or three decades, with regards to many attributes along the way!
+Hello everyone! As a data scienctist, here is my dataset project about **Intel Processors**. Thanks to these datasets altogether, one can realize how computers' central processing units (CPUs) have evolved within last three decades, with regards to many attributes along the way!
 
 This repo contains the datasets that involve all processors from **Core**, **Core Ultra**, **Pentium**, **Celeron**, **Xeon**, **Xeon Phi**, **Itanium**, **Atom**, **Quark SoC** and other uncategorized series Intel has ever manufactured. 
 
@@ -12,22 +12,22 @@ All these info in the datasets are obtained from Intel ARK [website](https://ark
 
 ## Current Status
 
-After a long break, all the datasets are being updated to **Version 1.9**; containing these new features: 
+After a long break, all the datasets are being updated to **Version 1.10**; containing these new features similar to v1.9: 
 
 - Vertical Segment
 - Max Memory Channels
 - Sockets Supported
 - Max Operating Temperature
 
-Of course, the new version includes new processors which are launched until **1st Quarter of 2025**, typically including the latest series of **Intel Core** and **Intel Core Ultra** processors!
+Of course, the new version includes new processors which are launched until **1st Quarter of 2026**, typically including the latest series of **Intel Core** and **Intel Core Ultra** processors!
 
-Older datasets (v1.1, v1.2, v1.6, v1.8) will still exist and can be found under their specific folders for archiving purposes. Also, this is because Intel may no longer list the specifications of legacy processore that were released more than 10 years ago.
+Older datasets will still exist and can be found under their specific folders for archiving purposes. Also, this is because Intel may no longer list the specifications of legacy processore that were released more than 10 years ago.
 
-In the meantime, there still hasn't been no comprehensive analysis on these processors yet for 5 years! I'll perform the analyses once the editing of these datasets from the latest version was completed!
+In the meantime, there still hasn't been no comprehensive analysis on these processors yet for 6 years! I'll perform the analyses once the editing of these datasets from the latest version was completed!
 
 ## Features
 
-The latest version **(1.9)** contain these features below:
+The latest version **(1.10)** contain these features below:
 
 - `Product`: Name of the manufactured processor
 - `Status`: Indicates the current marketing status of the processor
@@ -73,7 +73,7 @@ Here, below I'll list the processors which didn't exist in Intel's website and h
 
 ## Analyses
 
-There is only one data analysis available so far (published 5 years ago), about **Intel Core Processors** (for v1.1). Nevertheless, you can click on the related notebook file (.ipynb) to see the details for what I'd done.
+There is only one data analysis available so far (published 6 years ago), about **Intel Core Processors** (for v1.1). Nevertheless, you can click on the related notebook file (.ipynb) to see the details for what I'd done.
 
 _I'm totally aware that still no other analyses have been carried out yet! Hopefully, these analyses with relation to the recent datasets will be included here in the best period possible!_
 
@@ -103,7 +103,7 @@ In the last few generations, many Intel processors have letters (suffixes) that 
 
 ## Future Plans
 
-**This repo has been in silence for a long time!** In order to make it alive, all datasets are being updated to version **1.9** specifications described above. Then, I'll move on to analyses for presenting insights!
+**This repo has been in silence for a long time!** In order to make it alive, all datasets are being updated to version **1.10** specifications described above. Then, I'll move on to analyses for presenting insights!
 
 Depending on the interest of this repo, more features might be included for detailed specs for any processors. Naturally, you may try to find your processor here with necessary details!
 
